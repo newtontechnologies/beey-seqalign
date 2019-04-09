@@ -1,69 +1,92 @@
-enum Op { Begin, Insert, Substitue, Match, Delete }
+enum Op {
+          Begin = 0,
+          Insert,
+          Substitute,
+          Match,
+          Delete
+        }
 
-export class Alignment {
-  constructor(name: string) {
-      this.name = name;
+export class Alignment<T> {
+  a: T[];
+  b: T[];
+  matrix: number[][];
+  prev: number[][];
+  insertionPenalty: number;
+  deletionPenalty: number;
+  distance: (x: T, y: T) => number;
+  constructor(baseSequence: T[], distance: (x: T, y: T) => number, insertionPenalty: number, deletionPenalty: number) {
+    this.a = baseSequence;
+    this.distance = distance;
+    this.insertionPenalty = insertionPenalty;
+    this.deletionPenalty = deletionPenalty;
   }
-  name: string;
-  greet(): void {
-      console.log(`Hi, ${this.name}!`);
+
+  countOperations(operations: Op[]) {
+    const counts = [0, 0, 0, 0, 0];
+    for (let i = 0; i < operations.length; i++) {
+      counts[operations[i]]++;
+    }
+    return counts;
   }
 
-  distance(word1: any, word2: any) {
-    if (word1 === word2) return 0;
-    else return 1;
-  }
+  match(b: T[]) {
+    this.b = b;
+    if (this.a.length === 0) return this.b.length;
+    if (this.b.length === 0) return this.a.length;
 
-  getEditDistance(a: string, b: string) {
-
-    if (a.length === 0) return b.length;
-    if (b.length === 0) return a.length;
-
-    var matrix = [];
-    var prev = [];
-    var i: number;
-    for (i = 0; i <= b.length; i++) {
-      matrix[i] = [i];
-      prev[i] = [i];
+    this.matrix = [];
+    this.prev = [];
+    for (let i = 0; i <= b.length; i++) {
+      this.matrix[i] = [i];
+      this.prev[i] = [i];
     }
 
     // increment each column in the first row
     var j: number;
-    for (j = 0; j <= a.length; j++) {
-      matrix[0][j] = j;
-      prev[0][j] = Op.Begin; // beginnning
+    for (j = 0; j <= this.a.length; j++) {
+      this.matrix[0][j] = j;
+      this.prev[0][j] = Op.Begin; // beginnning
     }
 
     // Fill in the rest of the matrix
     for (let i = 1; i <= b.length; i++) {
-      for (j = 1; j <= a.length; j++) {
-        var substitution = matrix[i - 1][j - 1] + this.distance(b[i - 1], a[j - 1]);
-        var insertion = matrix[i][j - 1] + 1;
-        var deletion = matrix[i - 1][j] + 1;
+      for (j = 1; j <= this.a.length; j++) {
+        const wordDistance = this.distance(b[i - 1], this.a[j - 1]);
+        var substitution = this.matrix[i - 1][j - 1] + wordDistance;
+        var insertion = this.matrix[i][j - 1] + this.insertionPenalty;
+        var deletion = this.matrix[i - 1][j] + this.deletionPenalty;
         if (substitution < insertion && substitution < deletion) {
-            matrix[i][j] = substitution;
-            prev[i][j] = Op.Substitue;
+          this.matrix[i][j] = substitution;
+          if (wordDistance === 0) {
+            this.prev[i][j] = Op.Match;
+          } else {
+            this.prev[i][j] = Op.Substitute;
+          }
         }
         else if (insertion < deletion) {
-            matrix[i][j] = insertion;
-            prev[i][j] = Op.Insert;
+          this.matrix[i][j] = insertion;
+          this.prev[i][j] = Op.Insert;
         }
         else {
-            matrix[i][j] = deletion;
-            prev[i][j] = Op.Delete;
+          this.matrix[i][j] = deletion;
+          this.prev[i][j] = Op.Delete;
         }
       }
     }
-    var result = matrix[b.length][a.length];
+    this.evaluate();
+  }
 
-    var i = b.length;
-    var j = a.length;
-    var op = prev[i][j];
-    for (var c = 0; true; c++) { // replace with while
+  evaluate() {
+    let i = this.b.length;
+    let j = this.a.length;
+    let op = this.prev[i][j];
+    const matchIndices = [];
+    let opSequence = [];
+    for (var c = 0; true; c++) {
         if (op === Op.Begin) {
             break;
         }
-        else if (op === Op.Substitue) {
+        else if (op === Op.Substitute) {
             i = i - 1;
             j = j - 1;
         }
@@ -82,9 +105,14 @@ export class Alignment {
         else {
             return 1; // invalid content
         }
-        op = prev[i][j];
-        console.log(i + ' ' + j + ' ' + a.charAt(j) + ', ' + b.charAt(i) + ' ' + op);
+        op = this.prev[i][j];
+        opSequence.push(op);
+        // console.log(i + ' ' + j + ' ' + this.a[j] + ', ' + b[i] + ' ' + op);
+        matchIndices[i] = j;
     }
-    return matrix[b.length][a.length];
+    const opcounts = this.countOperations(opSequence);
+    console.log(opcounts);
+
+    return this.matrix[this.b.length][this.a.length];
   }
 }

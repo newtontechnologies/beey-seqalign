@@ -1,5 +1,6 @@
 const path = require('path');
 const webpack = require('webpack');
+const CopyPlugin = require('copy-webpack-plugin');
 
 const ROOT = path.resolve( __dirname, 'src' );
 const DESTINATION = path.resolve( __dirname, 'dist' );
@@ -17,7 +18,7 @@ module.exports = {
     },
 
     resolve: {
-        extensions: ['.ts', '.js'],
+        extensions: ['.ts', '.js', '.txt'],
         modules: [
             ROOT,
             'node_modules'
@@ -48,10 +49,15 @@ module.exports = {
                 test: /\.ts$/,
                 exclude: [ /node_modules/ ],
                 use: 'awesome-typescript-loader'
-            }
-        ]
+            },
+        ],
     },
-
+    plugins: [
+        new CopyPlugin([
+            { from: 'res', to: 'res' },
+        ]),
+    ],
+    
     devtool: 'cheap-module-source-map',
     devServer: {}
 };
