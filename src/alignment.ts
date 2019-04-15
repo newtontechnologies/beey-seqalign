@@ -31,8 +31,8 @@ export class Alignment<T> {
 
   match(b: T[]) {
     this.b = b;
-    if (this.a.length === 0) return this.b.length;
-    if (this.b.length === 0) return this.a.length;
+    // if (this.a.length === 0) return this.b.length;
+    // if (this.b.length === 0) return this.a.length;
 
     this.matrix = [];
     this.prev = [];
@@ -73,7 +73,6 @@ export class Alignment<T> {
         }
       }
     }
-    this.evaluate();
   }
 
   evaluate() {
@@ -102,17 +101,17 @@ export class Alignment<T> {
             i = i - 1;
             j = j - 1;
         }
-        else {
-            return 1; // invalid content
-        }
         op = this.prev[i][j];
         opSequence.push(op);
         // console.log(i + ' ' + j + ' ' + this.a[j] + ', ' + b[i] + ' ' + op);
-        matchIndices[i] = j;
+        matchIndices[j] = i;
     }
     const opcounts = this.countOperations(opSequence);
     console.log(opcounts);
 
-    return this.matrix[this.b.length][this.a.length];
+    return {
+      distance: this.matrix[this.b.length][this.a.length],
+      matchIndices,
+    };
   }
 }

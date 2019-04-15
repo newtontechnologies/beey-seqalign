@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<transcription created="2019-03-14T08:08:45.466534" documentid="" mediauri="D:\live\2019-03-14\IM08\IM08.mp4" version="3.0">
+  <meta>
+    <NanoTV AudioVideoStartDateTime="14.03.2019 7:58:00" AudioVideoTickSize="4200000000" Channel="Impuls" IsVideo="False" RecordLength="4200000000" RecordStart="14.03.2019 7:58:00" ScheduledDateTime="14.03.2019 8:00:00" ScheduledLength="3000000000" UrlNanoTVAPI="http://czprgntvr.newtonmedia.eu/api2/" landeck_id="czcoollandeck03" tuner_id="5b84ef31dd65a143a7d5b725"/>
+    <NewtonMedia CreatorUserName="micha2004@seznam.cz" EndOfProgramme="14.03.2019 8:05:00" IsVideoFile="False" Kind="zpravodajství" ProgrammeCode="IM08" Title="Zprávy 8:00" program_id="0" service_name="Impuls"/>
+  </meta>
+  <ch name="">
+    <se name="">
+      <pa a="" b="PT0.00S" e="PT9.50S" l="" s="333">
+        <p b="PT0.00S" e="PT1.00S" f="-"></p>
+        <p b="PT1.00S" e="PT1.50S" f="-"></p>
+        <p b="PT1.50S" e="PT2.00S" f="-"></p>
+        <p b="PT2.00S" e="PT2.50S" f="-"></p>
+        <p b="PT2.50S" e="PT3.00S" f="-"></p>
+        <p b="PT3.00S" e="PT3.50S" f="-"></p>
+        <p b="PT3.50S" e="PT4.00S" f="-"></p>
+        <p b="PT4.00S" e="PT4.50S" f="-"></p>
+        <p b="PT4.50S" e="PT5.00S" f="-"></p>
+        <p b="PT5.00S" e="PT5.50S" f="-"></p>
+        <p b="PT5.50S" e="PT6.00S" f="-"></p>
+        <p b="PT6.00S" e="PT6.50S" f="-"></p>
+        <p b="PT6.50S" e="PT7.00S" f="-"></p>
+        <p b="PT7.00S" e="PT7.50S" f="-"></p>
+        <p b="PT7.50S" e="PT8.00S" f="-"></p>
+        <p b="PT8.00S" e="PT8.50S" f="-"></p>
+        <p b="PT8.50S" e="PT9.00S" f="-"></p>
+        <p b="PT9.00S" e="PT9.50S" f="-"></p>
+      </pa>
+      <pa a="" b="PT9.50S" e="PT20.10S" l="" s="334">
+        <p b="PT9.50S" e="PT9.85S" f="-"></p>
+        <p b="PT9.85S" e="PT9.97S" f="***">Ano </p>
+        <p b="PT9.97S" e="PT10.62S" f="***">impulsovi </p>
+        <p b="PT10.62S" e="PT10.96S" f="***">Facebook </p>
+        <p b="PT10.96S" e="PT11.13S" f="***">má </p>
+        <p b="PT11.13S" e="PT11.69S" f="***">za sebou </p>
+        <p b="PT11.69S" e="PT12.21S" f="***">černou </p>
+        <p b="PT12.21S" e="PT12.70S" f="***">středu </p>
+        <p b="PT12.70S" e="PT12.99S" f="***">plnou </p>
+        <p b="PT12.99S" e="PT13.32S" f="***">výpad </p>
+        <p b="PT13.32S" e="PT13.77S" f="2"></p>
+        <p b="PT13.77S" e="PT14.22S" f="***">sněmovna </p>
+        <p b="PT14.22S" e="PT14.52S" f="***">probere </p>
+        <p b="PT14.52S" e="PT14.84S" f="***">kauzu </p>
+        <p b="PT14.84S" e="PT15.52S" f="***">podezřelého </p>
+        <p b="PT15.52S" e="PT15.99S" f="***">vítám </p>
+        <p b="PT15.99S" e="PT16.34S" f="***">ministra </p>
+        <p b="PT16.34S" e="PT16.93S" f="***">Vondroušová </p>
+        <p b="PT16.93S" e="PT17.05S" f="***">se </p>
+        <p b="PT17.05S" e="PT17.09S" f="*">v </p>
+        <p b="PT17.09S" e="PT17.50S" f="***">Indian </p>
+        <p b="PT17.50S" e="PT17.75S" f="***">Wells </p>
+        <p b="PT17.75S" e="PT18.04S" f="***">hnutí </p>
+        <p b="PT18.04S" e="PT18.12S" f="***">ve </p>
+        <p b="PT18.12S" e="PT18.92S" f="***">čtvrtfinále </p>
+        <p b="PT18.92S" e="PT19.35S" f="***">zprávy </p>
+        <p b="PT19.35S" e="PT19.58S" f="***">jsou </p>
+        <p b="PT19.58S" e="PT19.77S" f="***">za </p>
+        <p b="PT19.77S" e="PT20.10S" f="***">chvíli.</p>
+      </pa>
+      <pa a="" b="PT20.10S" e="PT32.06S" l="" s="333">
+        <p b="PT20.10S" e="PT21.37S" f="4"></p>
+        <p b="PT21.37S" e="PT21.94S" f="4"></p>
+        <p b="PT21.94S" e="PT23.54S" f="4"></p>
+        <p b="PT23.54S" e="PT24.79S" f="***">Česká republika </p>
+        <p b="PT24.79S" e="PT25.32S" f="***">na to </p>
+        <p b="PT25.32S" e="PT25.69S" f="***">už </p>
+        <p b="PT25.69S" e="PT26.44S" f="***">20 let </p>
+        <p b="PT26.44S" e="PT26.79S" f="***">Armáda </p>
+        <p b="PT26.79S" e="PT27.61S" f="***">České republiky </p>
+        <p b="PT27.61S" e="PT28.21S" f="***">získala </p>
+        <p b="PT28.21S" e="PT28.34S" f="4"></p>
+        <p b="PT28.34S" e="PT28.75S" f="***">ohromný </p>
+        <p b="PT28.75S" e="PT29.27S" f="***">kredit </p>
+        <p b="PT29.27S" e="PT29.98S" f="***">zpravodajský </p>
+        <p b="PT29.98S" e="PT30.60S" f="***">speciál </p>
+        <p b="PT30.60S" e="PT31.14S" f="***">Rádia </p>
+        <p b="PT31.14S" e="PT31.82S" f="***">Impuls.</p>
+        <p b="PT31.82S" e="PT32.06S" f="4"></p>
+      </pa>
+      <pa a="" b="PT32.06S" e="PT35.09S" l="" s="335">
+        <p b="PT32.06S" e="PT32.48S" f="***">Přispělo </p>
+        <p b="PT32.48S" e="PT32.58S" f="***">to </p>
+        <p b="PT32.58S" e="PT32.93S" f="***">vůbec </p>
+        <p b="PT32.93S" e="PT34.11S" f="***">profesionalizaci </p>
+        <p b="PT34.11S" e="PT34.30S" f="5"></p>
+        <p b="PT34.30S" e="PT34.58S" f="***">naší </p>
+        <p b="PT34.58S" e="PT35.09S" f="***">armády.</p>
+      </pa>
+      <pa a="" b="PT35.09S" e="PT01M2.55S" l="" s="333">
+        <p b="PT35.09S" e="PT35.95S" f="***">20 let </p>
+        <p b="PT35.95S" e="PT36.05S" f="*">v </p>
+        <p b="PT36.05S" e="PT37.16S" f="***">Severoatlantické </p>
+        <p b="PT37.16S" e="PT37.81S" f="***">alianci </p>
+        <p b="PT37.81S" e="PT38.06S" f="4"></p>
+        <p b="PT38.06S" e="PT38.58S" f="***">jejich </p>
+        <p b="PT38.58S" e="PT39.22S" f="***">činnosti </p>
+        <p b="PT39.22S" e="PT39.49S" f="5"></p>
+        <p b="PT39.49S" e="PT40.05S" f="***">velice </p>
+        <p b="PT40.05S" e="PT40.60S" f="***">vyzdvihoval. </p>
+        <p b="PT40.60S" e="PT41.10S" f="-"></p>
+        <p b="PT41.10S" e="PT41.60S" f="-"></p>
+        <p b="PT41.60S" e="PT42.10S" f="-"></p>
+        <p b="PT42.10S" e="PT42.60S" f="-"></p>
+        <p b="PT42.60S" e="PT43.10S" f="-"></p>
+        <p b="PT43.10S" e="PT43.60S" f="-"></p>
+        <p b="PT43.60S" e="PT44.10S" f="-"></p>
+        <p b="PT44.10S" e="PT44.60S" f="-"></p>
+        <p b="PT44.60S" e="PT45.10S" f="-"></p>
+        <p b="PT45.10S" e="PT45.60S" f="-"></p>
+        <p b="PT45.60S" e="PT45.84S" f="-"></p>
+        <p b="PT45.84S" e="PT45.89S" f="4"></p>
+        <p b="PT45.89S" e="PT47.20S" f="4"></p>
+        <p b="PT47.20S" e="PT47.69S" f="***">Zítra </p>
+        <p b="PT47.69S" e="PT48.33S" f="***">vychází </p>
+        <p b="PT48.33S" e="PT48.99S" f="***">týdeník </p>
+        <p b="PT48.99S" e="PT49.54S" f="***">téma, </p>
+        <p b="PT49.54S" e="PT50.00S" f="***">jak se </p>
+        <p b="PT50.00S" e="PT50.38S" f="***">mění </p>
+        <p b="PT50.38S" e="PT50.86S" f="***">čeština </p>
+        <p b="PT50.86S" e="PT51.05S" f="4"></p>
+        <p b="PT51.05S" e="PT51.37S" f="***">budeme </p>
+        <p b="PT51.37S" e="PT51.69S" f="***">všude </p>
+        <p b="PT51.69S" e="PT52.00S" f="***">psát </p>
+        <p b="PT52.00S" e="PT52.59S" f="***">některý </p>
+        <p b="PT52.59S" e="PT52.75S" f="4"></p>
+        <p b="PT52.75S" e="PT53.41S" f="***">a navíc </p>
+        <p b="PT53.41S" e="PT53.77S" f="***">všední </p>
+        <p b="PT53.77S" e="PT54.27S" f="***">život </p>
+        <p b="PT54.27S" e="PT55.13S" f="***">protektorátu </p>
+        <p b="PT55.13S" e="PT55.31S" f="***">na </p>
+        <p b="PT55.31S" e="PT55.89S" f="***">věhlasný </p>
+        <p b="PT55.89S" e="PT56.46S" f="***">kardiolog </p>
+        <p b="PT56.46S" e="PT57.08S" f="***">Janoušek </p>
+        <p b="PT57.08S" e="PT57.16S" f="*">o </p>
+        <p b="PT57.16S" e="PT57.65S" f="***">srdci </p>
+        <p b="PT57.65S" e="PT57.82S" f="*">i </p>
+        <p b="PT57.82S" e="PT58.27S" f="***">Energy </p>
+        <p b="PT58.27S" e="PT58.78S" f="***">drincích </p>
+        <p b="PT58.78S" e="PT58.95S" f="4"></p>
+        <p b="PT58.95S" e="PT59.35S" f="***">čtěte </p>
+        <p b="PT59.35S" e="PT59.56S" f="***">už </p>
+        <p b="PT59.56S" e="PT01M0.02S" f="***">zítra </p>
+        <p b="PT01M0.02S" e="PT01M0.17S" f="4"></p>
+        <p b="PT01M0.17S" e="PT01M0.20S" f="*">v </p>
+        <p b="PT01M0.20S" e="PT01M0.91S" f="***">týdeníku </p>
+        <p b="PT01M0.91S" e="PT01M1.51S" f="***">téma.</p>
+        <p b="PT01M1.51S" e="PT01M2.55S" f="4"></p>
+      </pa>
+      <pa a="" b="PT01M2.55S" e="PT01M19.76S" l="" s="336">
+        <p b="PT01M2.55S" e="PT01M3.08S" f="***">Pozor </p>
+        <p b="PT01M3.08S" e="PT01M3.26S" f="***">ty.</p>
+        <p b="PT01M3.26S" e="PT01M3.76S" f="-"></p>
+        <p b="PT01M3.76S" e="PT01M4.26S" f="-"></p>
+        <p b="PT01M4.26S" e="PT01M4.76S" f="-"></p>
+        <p b="PT01M4.76S" e="PT01M5.26S" f="-"></p>
+        <p b="PT01M5.26S" e="PT01M5.76S" f="-"></p>
+        <p b="PT01M5.76S" e="PT01M6.26S" f="-"></p>
+        <p b="PT01M6.26S" e="PT01M6.76S" f="-"></p>
+        <p b="PT01M6.76S" e="PT01M7.26S" f="-"></p>
+        <p b="PT01M7.26S" e="PT01M7.76S" f="-"></p>
+        <p b="PT01M7.76S" e="PT01M8.26S" f="-"></p>
+        <p b="PT01M8.26S" e="PT01M8.76S" f="-"></p>
+        <p b="PT01M8.76S" e="PT01M9.26S" f="-"></p>
+        <p b="PT01M9.26S" e="PT01M9.76S" f="-"></p>
+        <p b="PT01M9.76S" e="PT01M10.26S" f="-"></p>
+        <p b="PT01M10.26S" e="PT01M10.76S" f="-"></p>
+        <p b="PT01M10.76S" e="PT01M11.26S" f="-"></p>
+        <p b="PT01M11.26S" e="PT01M11.76S" f="-"></p>
+        <p b="PT01M11.76S" e="PT01M12.26S" f="-"></p>
+        <p b="PT01M12.26S" e="PT01M12.76S" f="-"></p>
+        <p b="PT01M12.76S" e="PT01M13.26S" f="-"></p>
+        <p b="PT01M13.26S" e="PT01M13.76S" f="-"></p>
+        <p b="PT01M13.76S" e="PT01M14.26S" f="-"></p>
+        <p b="PT01M14.26S" e="PT01M14.76S" f="-"></p>
+        <p b="PT01M14.76S" e="PT01M15.26S" f="-"></p>
+        <p b="PT01M15.26S" e="PT01M15.76S" f="-"></p>
+        <p b="PT01M15.76S" e="PT01M16.26S" f="-"></p>
+        <p b="PT01M16.26S" e="PT01M16.76S" f="-"></p>
+        <p b="PT01M16.76S" e="PT01M17.26S" f="-"></p>
+        <p b="PT01M17.26S" e="PT01M17.76S" f="-"></p>
+        <p b="PT01M17.76S" e="PT01M18.26S" f="-"></p>
+        <p b="PT01M18.26S" e="PT01M18.76S" f="-"></p>
+        <p b="PT01M18.76S" e="PT01M19.26S" f="-"></p>
+        <p b="PT01M19.26S" e="PT01M19.76S" f="-"></p>
+      </pa>
+      <pa a="" b="PT01M19.76S" e="PT01M22.76S" l="" s="337">
+        <p b="PT01M19.76S" e="PT01M20.26S" f="-"></p>
+        <p b="PT01M20.26S" e="PT01M20.76S" f="-"></p>
+        <p b="PT01M20.76S" e="PT01M21.26S" f="-"></p>
+        <p b="PT01M21.26S" e="PT01M21.76S" f="-"></p>
+        <p b="PT01M21.76S" e="PT01M22.26S" f="-"></p>
+        <p b="PT01M22.26S" e="PT01M22.76S" f="-"></p>
+      </pa>
+      <pa a="" b="PT01M22.76S" e="PT01M52.37S" l="" s="338">
+        <p b="PT01M22.76S" e="PT01M22.93S" f="-"></p>
+        <p b="PT01M22.93S" e="PT01M23.29S" f="***">Stavte </p>
+        <p b="PT01M23.29S" e="PT01M23.36S" f="***">se </p>
+        <p b="PT01M23.36S" e="PT01M23.75S" f="***">svět, </p>
+        <p b="PT01M23.75S" e="PT01M24.28S" f="4"></p>
+        <p b="PT01M24.28S" e="PT01M24.55S" f="***">kde se </p>
+        <p b="PT01M24.55S" e="PT01M25.10S" f="***">každých </p>
+        <p b="PT01M25.10S" e="PT01M25.59S" f="***">30 </p>
+        <p b="PT01M25.59S" e="PT01M25.95S" f="***">minut </p>
+        <p b="PT01M25.95S" e="PT01M26.29S" f="***">stane </p>
+        <p b="PT01M26.29S" e="PT01M26.55S" f="***">něco </p>
+        <p b="PT01M26.55S" e="PT01M27.07S" f="***">dobrého </p>
+        <p b="PT01M27.07S" e="PT01M27.61S" f="4"></p>
+        <p b="PT01M27.61S" e="PT01M27.98S" f="***">v našem </p>
+        <p b="PT01M27.98S" e="PT01M28.50S" f="***">světě </p>
+        <p b="PT01M28.50S" e="PT01M28.63S" f="***">to </p>
+        <p b="PT01M28.63S" e="PT01M28.96S" f="***">takhle </p>
+        <p b="PT01M28.96S" e="PT01M29.51S" f="***">funguje </p>
+        <p b="PT01M29.51S" e="PT01M30.05S" f="4"></p>
+        <p b="PT01M30.05S" e="PT01M30.21S" f="***">od </p>
+        <p b="PT01M30.21S" e="PT01M30.48S" f="***">rána </p>
+        <p b="PT01M30.48S" e="PT01M30.61S" f="***">do </p>
+        <p b="PT01M30.61S" e="PT01M31.07S" f="***">večera </p>
+        <p b="PT01M31.07S" e="PT01M31.49S" f="***">každou </p>
+        <p b="PT01M31.49S" e="PT01M32.14S" f="***">půlhodinku </p>
+        <p b="PT01M32.14S" e="PT01M32.65S" f="***">vytahujeme </p>
+        <p b="PT01M32.65S" e="PT01M32.76S" f="*">z </p>
+        <p b="PT01M32.76S" e="PT01M33.01S" f="***">pece </p>
+        <p b="PT01M33.01S" e="PT01M33.62S" f="***">voňavé </p>
+        <p b="PT01M33.62S" e="PT01M33.88S" f="4"></p>
+        <p b="PT01M33.88S" e="PT01M34.54S" f="***">křupavé </p>
+        <p b="PT01M34.54S" e="PT01M34.70S" f="*">a </p>
+        <p b="PT01M34.70S" e="PT01M35.10S" f="***">moc </p>
+        <p b="PT01M35.10S" e="PT01M35.43S" f="***">dobré </p>
+        <p b="PT01M35.43S" e="PT01M35.90S" f="***">pečivo </p>
+        <p b="PT01M35.90S" e="PT01M36.30S" f="4"></p>
+        <p b="PT01M36.30S" e="PT01M36.84S" f="***">nadýchané </p>
+        <p b="PT01M36.84S" e="PT01M37.53S" f="***">croissanty </p>
+        <p b="PT01M37.53S" e="PT01M38.01S" f="4"></p>
+        <p b="PT01M38.01S" e="PT01M38.46S" f="***">křupavé </p>
+        <p b="PT01M38.46S" e="PT01M39.01S" f="***">Kaiser </p>
+        <p b="PT01M39.01S" e="PT01M39.46S" f="4"></p>
+        <p b="PT01M39.46S" e="PT01M39.69S" f="***">nebo </p>
+        <p b="PT01M39.69S" e="PT01M40.29S" f="***">křehké </p>
+        <p b="PT01M40.29S" e="PT01M40.94S" f="***">meruňkové </p>
+        <p b="PT01M40.94S" e="PT01M41.30S" f="***">kapsy </p>
+        <p b="PT01M41.30S" e="PT01M41.75S" f="4"></p>
+        <p b="PT01M41.75S" e="PT01M42.09S" f="***">přijďte </p>
+        <p b="PT01M42.09S" e="PT01M42.54S" f="***">ochutnat </p>
+        <p b="PT01M42.54S" e="PT01M43.08S" f="4"></p>
+        <p b="PT01M43.08S" e="PT01M43.42S" f="***">hned </p>
+        <p b="PT01M43.42S" e="PT01M43.63S" f="***">vám </p>
+        <p b="PT01M43.63S" e="PT01M43.81S" f="***">bude </p>
+        <p b="PT01M43.81S" e="PT01M44.37S" f="***">jasné, </p>
+        <p b="PT01M44.37S" e="PT01M44.81S" f="***">proč se </p>
+        <p b="PT01M44.81S" e="PT01M45.09S" f="***">už </p>
+        <p b="PT01M45.09S" e="PT01M45.87S" f="***">27 </p>
+        <p b="PT01M45.87S" e="PT01M46.17S" f="***">let </p>
+        <p b="PT01M46.17S" e="PT01M46.40S" f="4"></p>
+        <p b="PT01M46.40S" e="PT01M46.80S" f="***">vašimi </p>
+        <p b="PT01M46.80S" e="PT01M47.38S" f="***">experty </p>
+        <p b="PT01M47.38S" e="PT01M47.49S" f="***">na </p>
+        <p b="PT01M47.49S" e="PT01M48.37S" f="***">čerstvost.</p>
+        <p b="PT01M48.37S" e="PT01M48.87S" f="-"></p>
+        <p b="PT01M48.87S" e="PT01M49.37S" f="-"></p>
+        <p b="PT01M49.37S" e="PT01M49.87S" f="-"></p>
+        <p b="PT01M49.87S" e="PT01M50.37S" f="-"></p>
+        <p b="PT01M50.37S" e="PT01M50.87S" f="-"></p>
+        <p b="PT01M50.87S" e="PT01M51.37S" f="-"></p>
+        <p b="PT01M51.37S" e="PT01M51.87S" f="-"></p>
+        <p b="PT01M51.87S" e="PT01M52.37S" f="-"></p>
+      </pa>
+      <pa a="" b="PT01M52.37S" e="PT02M24.89S" l="" s="333">
+        <p b="PT01M52.37S" e="PT01M52.87S" f="-"></p>
+        <p b="PT01M52.87S" e="PT01M53.37S" f="-"></p>
+        <p b="PT01M53.37S" e="PT01M53.87S" f="-"></p>
+        <p b="PT01M53.87S" e="PT01M54.37S" f="-"></p>
+        <p b="PT01M54.37S" e="PT01M54.87S" f="-"></p>
+        <p b="PT01M54.87S" e="PT01M55.37S" f="-"></p>
+        <p b="PT01M55.37S" e="PT01M55.87S" f="-"></p>
+        <p b="PT01M55.87S" e="PT01M56.37S" f="-"></p>
+        <p b="PT01M56.37S" e="PT01M56.87S" f="-"></p>
+        <p b="PT01M56.87S" e="PT01M57.37S" f="-"></p>
+        <p b="PT01M57.37S" e="PT01M57.87S" f="-"></p>
+        <p b="PT01M57.87S" e="PT01M58.37S" f="-"></p>
+        <p b="PT01M58.37S" e="PT01M58.87S" f="-"></p>
+        <p b="PT01M58.87S" e="PT01M59.37S" f="-"></p>
+        <p b="PT01M59.37S" e="PT01M59.87S" f="-"></p>
+        <p b="PT01M59.87S" e="PT02M0.37S" f="-"></p>
+        <p b="PT02M0.37S" e="PT02M0.63S" f="-"></p>
+        <p b="PT02M0.63S" e="PT02M0.81S" f="***">Si </p>
+        <p b="PT02M0.81S" e="PT02M1.43S" f="***">například </p>
+        <p b="PT02M1.43S" e="PT02M1.69S" f="***">bez </p>
+        <p b="PT02M1.69S" e="PT02M2.37S" f="***">námrazou </p>
+        <p b="PT02M2.37S" e="PT02M2.90S" f="***">chladničku </p>
+        <p b="PT02M2.90S" e="PT02M3.48S" f="***">LG </p>
+        <p b="PT02M3.48S" e="PT02M3.57S" f="*">s </p>
+        <p b="PT02M3.57S" e="PT02M4.27S" f="***">technologií </p>
+        <p b="PT02M4.27S" e="PT02M4.76S" f="***">smart </p>
+        <p b="PT02M4.76S" e="PT02M5.56S" f="***">diagnózy </p>
+        <p b="PT02M5.56S" e="PT02M5.78S" f="*">z, </p>
+        <p b="PT02M5.78S" e="PT02M6.03S" f="4"></p>
+        <p b="PT02M6.03S" e="PT02M6.42S" f="***">která </p>
+        <p b="PT02M6.42S" e="PT02M6.73S" f="***">sama </p>
+        <p b="PT02M6.73S" e="PT02M7.31S" f="***">rozpozná </p>
+        <p b="PT02M7.31S" e="PT02M7.87S" f="***">případnou </p>
+        <p b="PT02M7.87S" e="PT02M8.45S" f="***">závadu </p>
+        <p b="PT02M8.45S" e="PT02M8.80S" f="4"></p>
+        <p b="PT02M8.80S" e="PT02M9.47S" f="***">Datart </p>
+        <p b="PT02M9.47S" e="PT02M9.68S" f="4"></p>
+        <p b="PT02M9.68S" e="PT02M10.25S" f="***">opravdový </p>
+        <p b="PT02M10.25S" e="PT02M10.63S" f="***">elektro </p>
+        <p b="PT02M10.63S" e="PT02M11.43S" f="***">specialista.</p>
+        <p b="PT02M11.43S" e="PT02M11.89S" f="2"></p>
+        <p b="PT02M11.89S" e="PT02M12.39S" f="-"></p>
+        <p b="PT02M12.39S" e="PT02M12.89S" f="-"></p>
+        <p b="PT02M12.89S" e="PT02M13.39S" f="-"></p>
+        <p b="PT02M13.39S" e="PT02M13.89S" f="-"></p>
+        <p b="PT02M13.89S" e="PT02M14.39S" f="-"></p>
+        <p b="PT02M14.39S" e="PT02M14.89S" f="-"></p>
+        <p b="PT02M14.89S" e="PT02M15.39S" f="-"></p>
+        <p b="PT02M15.39S" e="PT02M15.89S" f="-"></p>
+        <p b="PT02M15.89S" e="PT02M16.39S" f="-"></p>
+        <p b="PT02M16.39S" e="PT02M16.89S" f="-"></p>
+        <p b="PT02M16.89S" e="PT02M17.39S" f="-"></p>
+        <p b="PT02M17.39S" e="PT02M17.89S" f="-"></p>
+        <p b="PT02M17.89S" e="PT02M18.39S" f="-"></p>
+        <p b="PT02M18.39S" e="PT02M18.89S" f="-"></p>
+        <p b="PT02M18.89S" e="PT02M19.39S" f="-"></p>
+        <p b="PT02M19.39S" e="PT02M19.89S" f="-"></p>
+        <p b="PT02M19.89S" e="PT02M20.39S" f="-"></p>
+        <p b="PT02M20.39S" e="PT02M20.89S" f="-"></p>
+        <p b="PT02M20.89S" e="PT02M21.39S" f="-"></p>
+        <p b="PT02M21.39S" e="PT02M21.89S" f="-"></p>
+        <p b="PT02M21.89S" e="PT02M22.39S" f="-"></p>
+        <p b="PT02M22.39S" e="PT02M22.89S" f="-"></p>
+        <p b="PT02M22.89S" e="PT02M23.39S" f="-"></p>
+        <p b="PT02M23.39S" e="PT02M23.89S" f="-"></p>
+        <p b="PT02M23.89S" e="PT02M24.39S" f="-"></p>
+        <p b="PT02M24.39S" e="PT02M24.89S" f="-"></p>
+      </pa>
+      <pa a="" b="PT02M24.89S" e="PT02M31.72S" l="" s="335">
+        <p b="PT02M24.89S" e="PT02M25.39S" f="-"></p>
+        <p b="PT02M25.39S" e="PT02M25.89S" f="-"></p>
+        <p b="PT02M25.89S" e="PT02M26.39S" f="-"></p>
+        <p b="PT02M26.39S" e="PT02M26.89S" f="-"></p>
+        <p b="PT02M26.89S" e="PT02M27.39S" f="-"></p>
+        <p b="PT02M27.39S" e="PT02M27.89S" f="-"></p>
+        <p b="PT02M27.89S" e="PT02M28.39S" f="-"></p>
+        <p b="PT02M28.39S" e="PT02M28.89S" f="-"></p>
+        <p b="PT02M28.89S" e="PT02M29.39S" f="-"></p>
+        <p b="PT02M29.39S" e="PT02M29.89S" f="-"></p>
+        <p b="PT02M29.89S" e="PT02M30.39S" f="-"></p>
+        <p b="PT02M30.39S" e="PT02M30.89S" f="-"></p>
+        <p b="PT02M30.89S" e="PT02M31.39S" f="-"></p>
+        <p b="PT02M31.39S" e="PT02M31.65S" f="-"></p>
+        <p b="PT02M31.65S" e="PT02M31.68S" f="4"></p>
+        <p b="PT02M31.68S" e="PT02M31.72S" f="4"></p>
+      </pa>
+      <pa a="" b="PT02M31.72S" e="PT02M48.86S" l="" s="333">
+        <p b="PT02M31.72S" e="PT02M32.11S" f="***">Ať už </p>
+        <p b="PT02M32.11S" e="PT02M32.38S" f="***">máte </p>
+        <p b="PT02M32.38S" e="PT02M32.91S" f="***">jakoukoliv </p>
+        <p b="PT02M32.91S" e="PT02M33.34S" f="***">profesi </p>
+        <p b="PT02M33.34S" e="PT02M33.54S" f="4"></p>
+        <p b="PT02M33.54S" e="PT02M34.04S" f="***">Renault </p>
+        <p b="PT02M34.04S" e="PT02M34.26S" f="***">má </p>
+        <p b="PT02M34.26S" e="PT02M34.55S" f="***">vždy </p>
+        <p b="PT02M34.55S" e="PT02M35.12S" f="***">řešení </p>
+        <p b="PT02M35.12S" e="PT02M35.29S" f="4"></p>
+        <p b="PT02M35.29S" e="PT02M35.46S" f="*">s </p>
+        <p b="PT02M35.46S" e="PT02M35.85S" f="***">modely </p>
+        <p b="PT02M35.85S" e="PT02M36.31S" f="***">Kangoo </p>
+        <p b="PT02M36.31S" e="PT02M36.75S" f="***">trafik </p>
+        <p b="PT02M36.75S" e="PT02M37.11S" f="***">Master </p>
+        <p b="PT02M37.11S" e="PT02M37.36S" f="***">nebo </p>
+        <p b="PT02M37.36S" e="PT02M37.75S" f="***">Alaska </p>
+        <p b="PT02M37.75S" e="PT02M37.94S" f="***">and </p>
+        <p b="PT02M37.94S" e="PT02M38.04S" f="***">to </p>
+        <p b="PT02M38.04S" e="PT02M38.38S" f="***">půjde </p>
+        <p b="PT02M38.38S" e="PT02M38.80S" f="***">snadno </p>
+        <p b="PT02M38.80S" e="PT02M39.21S" f="4"></p>
+        <p b="PT02M39.21S" e="PT02M39.56S" f="***">nyní </p>
+        <p b="PT02M39.56S" e="PT02M40.09S" f="***">navíc </p>
+        <p b="PT02M40.09S" e="PT02M40.70S" f="***">značkovým </p>
+        <p b="PT02M40.70S" e="PT02M41.53S" f="***">financováním </p>
+        <p b="PT02M41.53S" e="PT02M41.74S" f="***">10</p>
+        <p b="PT02M41.74S" e="PT02M41.95S" f="*">3 </p>
+        <p b="PT02M41.95S" e="PT02M42.48S" f="*">% </p>
+        <p b="PT02M42.48S" e="PT02M42.60S" f="*">s </p>
+        <p b="PT02M42.60S" e="PT02M43.25S" f="***">přeplatkem </p>
+        <p b="PT02M43.25S" e="PT02M43.67S" f="***">pouhá </p>
+        <p b="PT02M43.67S" e="PT02M44.31S" f="***">3 % </p>
+        <p b="PT02M44.31S" e="PT02M44.64S" f="4"></p>
+        <p b="PT02M44.64S" e="PT02M44.99S" f="***">více </p>
+        <p b="PT02M44.99S" e="PT02M45.12S" f="*">u </p>
+        <p b="PT02M45.12S" e="PT02M45.69S" f="***">prodejců </p>
+        <p b="PT02M45.69S" e="PT02M45.85S" f="***">ano, </p>
+        <p b="PT02M45.85S" e="PT02M46.33S" f="4"></p>
+        <p b="PT02M46.33S" e="PT02M46.57S" f="***">no </p>
+        <p b="PT02M46.57S" e="PT02M47.22S" f="***">propust </p>
+        <p b="PT02M47.22S" e="PT02M47.83S" f="***">řešení </p>
+        <p b="PT02M47.83S" e="PT02M48.25S" f="***">šitá </p>
+        <p b="PT02M48.25S" e="PT02M48.35S" f="***">na </p>
+        <p b="PT02M48.35S" e="PT02M48.86S" f="***">míru.</p>
+      </pa>
+      <pa a="" b="PT02M48.86S" e="PT03M2.86S" l="" s="337">
+        <p b="PT02M48.86S" e="PT02M49.36S" f="-"></p>
+        <p b="PT02M49.36S" e="PT02M49.86S" f="-"></p>
+        <p b="PT02M49.86S" e="PT02M50.36S" f="-"></p>
+        <p b="PT02M50.36S" e="PT02M50.86S" f="-"></p>
+        <p b="PT02M50.86S" e="PT02M51.36S" f="-"></p>
+        <p b="PT02M51.36S" e="PT02M51.86S" f="-"></p>
+        <p b="PT02M51.86S" e="PT02M52.36S" f="-"></p>
+        <p b="PT02M52.36S" e="PT02M52.86S" f="-"></p>
+        <p b="PT02M52.86S" e="PT02M53.36S" f="-"></p>
+        <p b="PT02M53.36S" e="PT02M53.86S" f="-"></p>
+        <p b="PT02M53.86S" e="PT02M54.36S" f="-"></p>
+        <p b="PT02M54.36S" e="PT02M54.86S" f="-"></p>
+        <p b="PT02M54.86S" e="PT02M55.36S" f="-"></p>
+        <p b="PT02M55.36S" e="PT02M55.86S" f="-"></p>
+        <p b="PT02M55.86S" e="PT02M56.36S" f="-"></p>
+        <p b="PT02M56.36S" e="PT02M56.86S" f="-"></p>
+        <p b="PT02M56.86S" e="PT02M57.36S" f="-"></p>
+        <p b="PT02M57.36S" e="PT02M57.86S" f="-"></p>
+        <p b="PT02M57.86S" e="PT02M58.36S" f="-"></p>
+        <p b="PT02M58.36S" e="PT02M58.86S" f="-"></p>
+        <p b="PT02M58.86S" e="PT02M59.36S" f="-"></p>
+        <p b="PT02M59.36S" e="PT02M59.86S" f="-"></p>
+        <p b="PT02M59.86S" e="PT03M0.36S" f="-"></p>
+        <p b="PT03M0.36S" e="PT03M0.86S" f="-"></p>
+        <p b="PT03M0.86S" e="PT03M1.36S" f="-"></p>
+        <p b="PT03M1.36S" e="PT03M1.86S" f="-"></p>
+        <p b="PT03M1.86S" e="PT03M2.36S" f="-"></p>
+        <p b="PT03M2.36S" e="PT03M2.86S" f="-"></p>
+      </pa>
+      <pa a="" b="PT03M2.86S" e="PT03M10.93S" l="" s="334">
+        <p b="PT03M2.86S" e="PT03M3.00S" f="-"></p>
+        <p b="PT03M3.00S" e="PT03M3.44S" f="***">V budově </p>
+        <p b="PT03M3.44S" e="PT03M4.01S" f="***">proměnlivá </p>
+        <p b="PT03M4.01S" e="PT03M4.54S" f="***">oblačnost, </p>
+        <p b="PT03M4.54S" e="PT03M4.81S" f="***">místy </p>
+        <p b="PT03M4.81S" e="PT03M4.90S" f="*">s </p>
+        <p b="PT03M4.90S" e="PT03M5.43S" f="***">přeháňkou </p>
+        <p b="PT03M5.43S" e="PT03M5.81S" f="***">teploty </p>
+        <p b="PT03M5.81S" e="PT03M6.28S" f="***">vystoupí </p>
+        <p b="PT03M6.28S" e="PT03M6.41S" f="***">na </p>
+        <p b="PT03M6.41S" e="PT03M6.75S" f="*">7 </p>
+        <p b="PT03M6.75S" e="PT03M7.41S" f="***">16 </p>
+        <p b="PT03M7.41S" e="PT03M7.87S" f="***">stupňů </p>
+        <p b="PT03M7.87S" e="PT03M8.27S" f="***">krásné </p>
+        <p b="PT03M8.27S" e="PT03M8.50S" f="***">ráno </p>
+        <p b="PT03M8.50S" e="PT03M8.66S" f="***">vám </p>
+        <p b="PT03M8.66S" e="PT03M8.84S" f="***">přeje </p>
+        <p b="PT03M8.84S" e="PT03M9.23S" f="***">Veronika </p>
+        <p b="PT03M9.23S" e="PT03M9.68S" f="***">Součková.</p>
+        <p b="PT03M9.68S" e="PT03M10.93S" f="4"></p>
+      </pa>
+      <pa a="" b="PT03M10.93S" e="PT03M24.45S" l="" s="339">
+        <p b="PT03M10.93S" e="PT03M11.36S" f="***">Vydány </p>
+        <p b="PT03M11.36S" e="PT03M11.90S" f="***">uživatelům </p>
+        <p b="PT03M11.90S" e="PT03M12.53S" f="***">sociálních </p>
+        <p b="PT03M12.53S" e="PT03M12.93S" f="***">sítí </p>
+        <p b="PT03M12.93S" e="PT03M13.06S" f="***">se </p>
+        <p b="PT03M13.06S" e="PT03M13.55S" f="***">zhroutil </p>
+        <p b="PT03M13.55S" e="PT03M13.93S" f="***">svět </p>
+        <p b="PT03M13.93S" e="PT03M14.35S" f="***">včera </p>
+        <p b="PT03M14.35S" e="PT03M14.71S" f="***">večer </p>
+        <p b="PT03M14.71S" e="PT03M15.26S" f="***">kolaboval </p>
+        <p b="PT03M15.26S" e="PT03M15.87S" f="***">Facebook, </p>
+        <p b="PT03M15.87S" e="PT03M16.10S" f="***">ale i </p>
+        <p b="PT03M16.10S" e="PT03M16.69S" f="***">příbuzné </p>
+        <p b="PT03M16.69S" e="PT03M17.18S" f="***">platformy </p>
+        <p b="PT03M17.18S" e="PT03M17.37S" f="***">jako </p>
+        <p b="PT03M17.37S" e="PT03M17.94S" f="***">Messenger </p>
+        <p b="PT03M17.94S" e="PT03M18.66S" f="***">Instagram </p>
+        <p b="PT03M18.66S" e="PT03M19.06S" f="***">whatsapp, </p>
+        <p b="PT03M19.06S" e="PT03M19.31S" f="3"></p>
+        <p b="PT03M19.31S" e="PT03M19.72S" f="***">který si </p>
+        <p b="PT03M19.72S" e="PT03M19.93S" f="***">bere </p>
+        <p b="PT03M19.93S" e="PT03M20.27S" f="***">slovo </p>
+        <p b="PT03M20.27S" e="PT03M20.67S" f="***">redaktor </p>
+        <p b="PT03M20.67S" e="PT03M20.86S" f="***">Vít </p>
+        <p b="PT03M20.86S" e="PT03M21.64S" f="***">Zábranský </p>
+        <p b="PT03M21.64S" e="PT03M22.21S" f="***">dobré ráno. </p>
+        <p b="PT03M22.21S" e="PT03M22.47S" f="***">Vítku </p>
+        <p b="PT03M22.47S" e="PT03M22.74S" f="***">už se </p>
+        <p b="PT03M22.74S" e="PT03M22.90S" f="***">ví </p>
+        <p b="PT03M22.90S" e="PT03M23.03S" f="***">co </p>
+        <p b="PT03M23.03S" e="PT03M23.41S" f="***">výpadek </p>
+        <p b="PT03M23.41S" e="PT03M24.02S" f="***">způsobilo.</p>
+        <p b="PT03M24.02S" e="PT03M24.45S" f="3"></p>
+      </pa>
+      <pa a="" b="PT03M24.45S" e="PT04M3.24S" l="" s="340">
+        <p b="PT03M24.45S" e="PT03M24.78S" f="***">Hezké </p>
+        <p b="PT03M24.78S" e="PT03M25.20S" f="***">ráno </p>
+        <p b="PT03M25.20S" e="PT03M25.34S" f="***">to </p>
+        <p b="PT03M25.34S" e="PT03M26.00S" f="***">zatím není </p>
+        <p b="PT03M26.00S" e="PT03M26.38S" f="***">jasné, </p>
+        <p b="PT03M26.38S" e="PT03M26.89S" f="***">nicméně </p>
+        <p b="PT03M26.89S" e="PT03M27.41S" f="***">Facebook </p>
+        <p b="PT03M27.41S" e="PT03M28.07S" f="***">prohlášení </p>
+        <p b="PT03M28.07S" e="PT03M28.70S" f="***">ubezpečil, </p>
+        <p b="PT03M28.70S" e="PT03M28.87S" f="***">že </p>
+        <p b="PT03M28.87S" e="PT03M29.03S" f="***">za </p>
+        <p b="PT03M29.03S" e="PT03M29.53S" f="***">kolapsem </p>
+        <p b="PT03M29.53S" e="PT03M29.93S" f="***">nestojí </p>
+        <p b="PT03M29.93S" e="PT03M30.77S" f="***">kybernetický </p>
+        <p b="PT03M30.77S" e="PT03M31.23S" f="***">útok. </p>
+        <p b="PT03M31.23S" e="PT03M31.50S" f="3"></p>
+        <p b="PT03M31.50S" e="PT03M31.93S" f="***">Výpadek </p>
+        <p b="PT03M31.93S" e="PT03M32.39S" f="***">hlásili </p>
+        <p b="PT03M32.39S" e="PT03M33.01S" f="***">uživatelé </p>
+        <p b="PT03M33.01S" e="PT03M33.10S" f="*">v </p>
+        <p b="PT03M33.10S" e="PT03M33.61S" f="***">Evropě </p>
+        <p b="PT03M33.61S" e="PT03M34.26S" f="***">severní </p>
+        <p b="PT03M34.26S" e="PT03M34.70S" f="***">Jižní </p>
+        <p b="PT03M34.70S" e="PT03M35.38S" f="***">Americe. </p>
+        <p b="PT03M35.38S" e="PT03M35.59S" f="3"></p>
+        <p b="PT03M35.59S" e="PT03M35.99S" f="***">Problém </p>
+        <p b="PT03M35.99S" e="PT03M36.10S" f="*">s </p>
+        <p b="PT03M36.10S" e="PT03M36.82S" f="***">přihlášením </p>
+        <p b="PT03M36.82S" e="PT03M37.73S" f="***">na sociální </p>
+        <p b="PT03M37.73S" e="PT03M38.06S" f="***">sítě </p>
+        <p b="PT03M38.06S" e="PT03M38.34S" f="***">mělo </p>
+        <p b="PT03M38.34S" e="PT03M38.62S" f="***">v jednu </p>
+        <p b="PT03M38.62S" e="PT03M38.96S" f="***">chvíli </p>
+        <p b="PT03M38.96S" e="PT03M39.20S" f="***">až </p>
+        <p b="PT03M39.20S" e="PT03M40.06S" f="***">11 000 </p>
+        <p b="PT03M40.06S" e="PT03M40.51S" f="***">lidí. </p>
+        <p b="PT03M40.51S" e="PT03M40.79S" f="3"></p>
+        <p b="PT03M40.79S" e="PT03M41.24S" f="***">Výpadek </p>
+        <p b="PT03M41.24S" e="PT03M41.63S" f="***">nenechal </p>
+        <p b="PT03M41.63S" e="PT03M42.09S" f="***">chladnými </p>
+        <p b="PT03M42.09S" e="PT03M42.60S" f="***">celou řadu </p>
+        <p b="PT03M42.60S" e="PT03M42.97S" f="***">lidí </p>
+        <p b="PT03M42.97S" e="PT03M43.03S" f="*">v </p>
+        <p b="PT03M43.03S" e="PT03M43.72S" f="***">internetových </p>
+        <p b="PT03M43.72S" e="PT03M44.41S" f="***">diskusích </p>
+        <p b="PT03M44.41S" e="PT03M44.87S" f="***">kolaps </p>
+        <p b="PT03M44.87S" e="PT03M45.54S" f="***">sociálních </p>
+        <p b="PT03M45.54S" e="PT03M45.90S" f="***">sítí </p>
+        <p b="PT03M45.90S" e="PT03M46.63S" f="***">přirovnávají </p>
+        <p b="PT03M46.63S" e="PT03M46.77S" f="***">ke </p>
+        <p b="PT03M46.77S" e="PT03M47.58S" f="***">katastrofě </p>
+        <p b="PT03M47.58S" e="PT03M47.95S" f="***">konci </p>
+        <p b="PT03M47.95S" e="PT03M48.32S" f="***">světa, </p>
+        <p b="PT03M48.32S" e="PT03M48.57S" f="***">anebo </p>
+        <p b="PT03M48.57S" e="PT03M49.24S" f="***">dokonce </p>
+        <p b="PT03M49.24S" e="PT03M50.09S" f="***">apokalypse </p>
+        <p b="PT03M50.09S" e="PT03M50.25S" f="2"></p>
+        <p b="PT03M50.25S" e="PT03M50.51S" f="3"></p>
+        <p b="PT03M50.51S" e="PT03M50.98S" f="***">nicméně </p>
+        <p b="PT03M50.98S" e="PT03M51.27S" f="***">já jsem </p>
+        <p b="PT03M51.27S" e="PT03M51.54S" f="***">se teď </p>
+        <p b="PT03M51.54S" e="PT03M52.06S" f="***">zkoušel </p>
+        <p b="PT03M52.06S" e="PT03M52.59S" f="***">přihlásit </p>
+        <p b="PT03M52.59S" e="PT03M52.71S" f="***">na </p>
+        <p b="PT03M52.71S" e="PT03M53.17S" f="***">Facebook </p>
+        <p b="PT03M53.17S" e="PT03M53.61S" f="***">a podle </p>
+        <p b="PT03M53.61S" e="PT03M53.92S" f="***">všeho </p>
+        <p b="PT03M53.92S" e="PT03M54.12S" f="***">už </p>
+        <p b="PT03M54.12S" e="PT03M54.22S" f="***">jde </p>
+        <p b="PT03M54.22S" e="PT03M54.90S" f="***">normálně. </p>
+        <p b="PT03M54.90S" e="PT03M55.10S" f="3"></p>
+        <p b="PT03M55.10S" e="PT03M55.71S" f="***">Stejně tak </p>
+        <p b="PT03M55.71S" e="PT03M55.80S" f="***">je </p>
+        <p b="PT03M55.80S" e="PT03M56.24S" f="***">Facebook </p>
+        <p b="PT03M56.24S" e="PT03M56.57S" f="***">našeho </p>
+        <p b="PT03M56.57S" e="PT03M56.93S" f="***">rádia </p>
+        <p b="PT03M56.93S" e="PT03M57.06S" f="***">se </p>
+        <p b="PT03M57.06S" e="PT03M57.51S" f="***">čtyřmi </p>
+        <p b="PT03M57.51S" e="PT03M57.72S" f="*">a </p>
+        <p b="PT03M57.72S" e="PT03M57.89S" f="***">kde </p>
+        <p b="PT03M57.89S" e="PT03M58.31S" f="***">najdete </p>
+        <p b="PT03M58.31S" e="PT03M59.01S" f="***">zajímavosti </p>
+        <p b="PT03M59.01S" e="PT03M59.46S" f="***">novinky </p>
+        <p b="PT03M59.46S" e="PT03M59.91S" f="***">fotky </p>
+        <p b="PT03M59.91S" e="PT04M0.34S" f="***">videa </p>
+        <p b="PT04M0.34S" e="PT04M0.64S" f="***">nebo </p>
+        <p b="PT04M0.64S" e="PT04M1.27S" f="***">nápovědu </p>
+        <p b="PT04M1.27S" e="PT04M1.40S" f="***">ke </p>
+        <p b="PT04M1.40S" e="PT04M1.64S" f="***">hře </p>
+        <p b="PT04M1.64S" e="PT04M1.95S" f="***">Haló, </p>
+        <p b="PT04M1.95S" e="PT04M2.20S" f="***">tady </p>
+        <p b="PT04M2.20S" e="PT04M2.91S" f="***">impulsovi.</p>
+        <p b="PT04M2.91S" e="PT04M3.24S" f="2"></p>
+      </pa>
+      <pa a="" b="PT04M3.24S" e="PT04M39.36S" l="" s="339">
+        <p b="PT04M3.24S" e="PT04M3.50S" f="***">Tolik </p>
+        <p b="PT04M3.50S" e="PT04M3.66S" f="***">Vít </p>
+        <p b="PT04M3.66S" e="PT04M4.16S" f="***">Zábranský </p>
+        <p b="PT04M4.16S" e="PT04M4.36S" f="2"></p>
+        <p b="PT04M4.36S" e="PT04M4.68S" f="3"></p>
+        <p b="PT04M4.68S" e="PT04M4.95S" f="1"></p>
+        <p b="PT04M4.95S" e="PT04M5.52S" f="***">poslanci </p>
+        <p b="PT04M5.52S" e="PT04M5.74S" f="***">by se </p>
+        <p b="PT04M5.74S" e="PT04M5.95S" f="***">dnes </p>
+        <p b="PT04M5.95S" e="PT04M6.14S" f="***">měli </p>
+        <p b="PT04M6.14S" e="PT04M6.59S" f="***">zabývat </p>
+        <p b="PT04M6.59S" e="PT04M7.24S" f="***">podezřeními </p>
+        <p b="PT04M7.24S" e="PT04M7.34S" f="*">z </p>
+        <p b="PT04M7.34S" e="PT04M8.00S" f="***">ovlivňování </p>
+        <p b="PT04M8.00S" e="PT04M8.37S" f="***">tendru </p>
+        <p b="PT04M8.37S" e="PT04M8.47S" f="***">na </p>
+        <p b="PT04M8.47S" e="PT04M8.74S" f="***">výběr </p>
+        <p b="PT04M8.74S" e="PT04M9.41S" f="***">dálničního </p>
+        <p b="PT04M9.41S" e="PT04M9.72S" f="***">Mýta </p>
+        <p b="PT04M9.72S" e="PT04M9.82S" f="*">v </p>
+        <p b="PT04M9.82S" e="PT04M10.22S" f="***">případu </p>
+        <p b="PT04M10.22S" e="PT04M10.62S" f="***">figuruje </p>
+        <p b="PT04M10.62S" e="PT04M10.74S" f="*">i </p>
+        <p b="PT04M10.74S" e="PT04M11.11S" f="***">předseda </p>
+        <p b="PT04M11.11S" e="PT04M11.61S" f="***">poslanců </p>
+        <p b="PT04M11.61S" e="PT04M12.03S" f="***">vládního </p>
+        <p b="PT04M12.03S" e="PT04M12.38S" f="***">hnutí </p>
+        <p b="PT04M12.38S" e="PT04M12.60S" f="***">ANO </p>
+        <p b="PT04M12.60S" e="PT04M13.12S" f="***">Jaroslav </p>
+        <p b="PT04M13.12S" e="PT04M13.64S" f="***">Faltýnek </p>
+        <p b="PT04M13.64S" e="PT04M13.94S" f="3"></p>
+        <p b="PT04M13.94S" e="PT04M14.27S" f="***">ten </p>
+        <p b="PT04M14.27S" e="PT04M14.49S" f="***">chce </p>
+        <p b="PT04M14.49S" e="PT04M15.11S" f="***">ve sněmovně </p>
+        <p b="PT04M15.11S" e="PT04M15.36S" f="***">svou </p>
+        <p b="PT04M15.36S" e="PT04M15.58S" f="***">roli </p>
+        <p b="PT04M15.58S" e="PT04M16.16S" f="***">popsat </p>
+        <p b="PT04M16.16S" e="PT04M16.30S" f="***">na </p>
+        <p b="PT04M16.30S" e="PT04M16.66S" f="***">debatu </p>
+        <p b="PT04M16.66S" e="PT04M16.71S" f="*">o </p>
+        <p b="PT04M16.71S" e="PT04M17.13S" f="***">mýtném </p>
+        <p b="PT04M17.13S" e="PT04M17.52S" f="***">budou mít </p>
+        <p b="PT04M17.52S" e="PT04M17.94S" f="***">poslanci </p>
+        <p b="PT04M17.94S" e="PT04M18.49S" f="***">2 hodiny </p>
+        <p b="PT04M18.49S" e="PT04M18.77S" f="3"></p>
+        <p b="PT04M18.77S" e="PT04M19.16S" f="***">policie </p>
+        <p b="PT04M19.16S" e="PT04M19.37S" f="***">kvůli </p>
+        <p b="PT04M19.37S" e="PT04M20.05S" f="***">ovlivňování </p>
+        <p b="PT04M20.05S" e="PT04M20.62S" f="***">zakázek </p>
+        <p b="PT04M20.62S" e="PT04M21.15S" f="***">zasahovala </p>
+        <p b="PT04M21.15S" e="PT04M21.79S" f="***">před týdnem </p>
+        <p b="PT04M21.79S" e="PT04M22.38S" f="***">na několika </p>
+        <p b="PT04M22.38S" e="PT04M22.72S" f="***">místech </p>
+        <p b="PT04M22.72S" e="PT04M23.21S" f="***">mimo jiné </p>
+        <p b="PT04M23.21S" e="PT04M23.32S" f="***">na </p>
+        <p b="PT04M23.32S" e="PT04M24.16S" f="***">antimonopolním </p>
+        <p b="PT04M24.16S" e="PT04M24.69S" f="***">úřadu </p>
+        <p b="PT04M24.69S" e="PT04M24.75S" f="*">v </p>
+        <p b="PT04M24.75S" e="PT04M25.03S" f="***">sídle </p>
+        <p b="PT04M25.03S" e="PT04M25.32S" f="***">firmy </p>
+        <p b="PT04M25.32S" e="PT04M25.77S" f="***">Kapsch </p>
+        <p b="PT04M25.77S" e="PT04M25.96S" f="*">a </p>
+        <p b="PT04M25.96S" e="PT04M26.08S" f="*">u </p>
+        <p b="PT04M26.08S" e="PT04M26.64S" f="***">Faltýnka </p>
+        <p b="PT04M26.64S" e="PT04M27.12S" f="***">v bytě </p>
+        <p b="PT04M27.12S" e="PT04M27.59S" f="***">nikoho </p>
+        <p b="PT04M27.59S" e="PT04M28.24S" f="***">neobvinila. </p>
+        <p b="PT04M28.24S" e="PT04M28.60S" f="-"></p>
+        <p b="PT04M28.60S" e="PT04M29.15S" f="3"></p>
+        <p b="PT04M29.15S" e="PT04M29.56S" f="***">Dnes je </p>
+        <p b="PT04M29.56S" e="PT04M30.01S" f="***">Světový </p>
+        <p b="PT04M30.01S" e="PT04M30.16S" f="***">den </p>
+        <p b="PT04M30.16S" e="PT04M30.66S" f="***">ledvin </p>
+        <p b="PT04M30.66S" e="PT04M31.09S" f="***">některé </p>
+        <p b="PT04M31.09S" e="PT04M31.67S" f="***">nemocnice </p>
+        <p b="PT04M31.67S" e="PT04M32.30S" f="***">v Česku </p>
+        <p b="PT04M32.30S" e="PT04M32.69S" f="***">proto </p>
+        <p b="PT04M32.69S" e="PT04M33.26S" f="***">nabízejí </p>
+        <p b="PT04M33.26S" e="PT04M33.91S" f="***">bezplatná </p>
+        <p b="PT04M33.91S" e="PT04M34.60S" f="***">vyšetření </p>
+        <p b="PT04M34.60S" e="PT04M34.73S" f="***">na </p>
+        <p b="PT04M34.73S" e="PT04M35.32S" f="***">preventivní </p>
+        <p b="PT04M35.32S" e="PT04M35.82S" f="***">prohlídku </p>
+        <p b="PT04M35.82S" e="PT04M36.12S" f="***">zvou </p>
+        <p b="PT04M36.12S" e="PT04M36.25S" f="*">i </p>
+        <p b="PT04M36.25S" e="PT04M36.73S" f="***">vybraná </p>
+        <p b="PT04M36.73S" e="PT04M37.42S" f="***">zdravotnická </p>
+        <p b="PT04M37.42S" e="PT04M38.02S" f="***">pracoviště </p>
+        <p b="PT04M38.02S" e="PT04M38.10S" f="*">v </p>
+        <p b="PT04M38.10S" e="PT04M38.98S" f="***">Moravskoslezském </p>
+        <p b="PT04M38.98S" e="PT04M39.36S" f="***">kraji.</p>
+      </pa>
+      <pa a="" b="PT04M39.36S" e="PT05M7.47S" l="" s="341">
+        <p b="PT04M39.36S" e="PT04M40.00S" f="-"></p>
+        <p b="PT04M40.00S" e="PT04M40.15S" f="***">Do </p>
+        <p b="PT04M40.15S" e="PT04M40.78S" f="***">celosvětové </p>
+        <p b="PT04M40.78S" e="PT04M41.09S" f="***">akce </p>
+        <p b="PT04M41.09S" e="PT04M41.21S" f="***">se </p>
+        <p b="PT04M41.21S" e="PT04M41.66S" f="***">zapojila </p>
+        <p b="PT04M41.66S" e="PT04M41.93S" f="***">třeba </p>
+        <p b="PT04M41.93S" e="PT04M42.61S" f="***">novojičínská </p>
+        <p b="PT04M42.61S" e="PT04M43.24S" f="***">nemocnice </p>
+        <p b="PT04M43.24S" e="PT04M43.62S" f="***">v čase </p>
+        <p b="PT04M43.62S" e="PT04M43.75S" f="***">od </p>
+        <p b="PT04M43.75S" e="PT04M44.23S" f="***">11 </p>
+        <p b="PT04M44.23S" e="PT04M44.78S" f="***">do 12 </p>
+        <p b="PT04M44.78S" e="PT04M45.20S" f="***">30 </p>
+        <p b="PT04M45.20S" e="PT04M45.45S" f="***">lidem </p>
+        <p b="PT04M45.45S" e="PT04M45.82S" f="***">nabídne </p>
+        <p b="PT04M45.82S" e="PT04M46.31S" f="***">prohlídky </p>
+        <p b="PT04M46.31S" e="PT04M47.22S" f="***">hemodialyzačního </p>
+        <p b="PT04M47.22S" e="PT04M47.75S" f="***">oddělení </p>
+        <p b="PT04M47.75S" e="PT04M47.99S" f="***">od </p>
+        <p b="PT04M47.99S" e="PT04M48.18S" f="***">půl </p>
+        <p b="PT04M48.18S" e="PT04M48.48S" f="***">jedné </p>
+        <p b="PT04M48.48S" e="PT04M49.12S" f="***">do 17 </p>
+        <p b="PT04M49.12S" e="PT04M49.40S" f="***">hodin </p>
+        <p b="PT04M49.40S" e="PT04M49.60S" f="***">pak </p>
+        <p b="PT04M49.60S" e="PT04M50.18S" f="***">bezplatnou </p>
+        <p b="PT04M50.18S" e="PT04M50.78S" f="***">ekologickou </p>
+        <p b="PT04M50.78S" e="PT04M51.32S" f="***">poradnu </p>
+        <p b="PT04M51.32S" e="PT04M51.51S" f="3"></p>
+        <p b="PT04M51.51S" e="PT04M51.91S" f="***">v rámci </p>
+        <p b="PT04M51.91S" e="PT04M52.03S" f="***">ní </p>
+        <p b="PT04M52.03S" e="PT04M52.61S" f="***">zdravotníci </p>
+        <p b="PT04M52.61S" e="PT04M53.16S" f="***">zájemcům </p>
+        <p b="PT04M53.16S" e="PT04M53.51S" f="***">změří </p>
+        <p b="PT04M53.51S" e="PT04M53.86S" f="***">krevní </p>
+        <p b="PT04M53.86S" e="PT04M54.11S" f="***">tlak </p>
+        <p b="PT04M54.11S" e="PT04M54.47S" f="***">hladinu </p>
+        <p b="PT04M54.47S" e="PT04M54.75S" f="***">cukru </p>
+        <p b="PT04M54.75S" e="PT04M55.07S" f="***">v krvi </p>
+        <p b="PT04M55.07S" e="PT04M55.49S" f="***">stanoví </p>
+        <p b="PT04M55.49S" e="PT04M55.93S" f="***">takzvaný </p>
+        <p b="PT04M55.93S" e="PT04M56.10S" f="***">body </p>
+        <p b="PT04M56.10S" e="PT04M56.29S" f="***">mass </p>
+        <p b="PT04M56.29S" e="PT04M56.67S" f="***">index </p>
+        <p b="PT04M56.67S" e="PT04M57.12S" f="***">vyšetří </p>
+        <p b="PT04M57.12S" e="PT04M57.43S" f="***">moč </p>
+        <p b="PT04M57.43S" e="PT04M57.68S" f="3"></p>
+        <p b="PT04M57.68S" e="PT04M58.24S" f="***">na základě </p>
+        <p b="PT04M58.24S" e="PT04M58.77S" f="***">výsledků </p>
+        <p b="PT04M58.77S" e="PT04M58.93S" f="***">pak </p>
+        <p b="PT04M58.93S" e="PT04M59.16S" f="***">lidem </p>
+        <p b="PT04M59.16S" e="PT04M59.63S" f="***">doporučí </p>
+        <p b="PT04M59.63S" e="PT05M0.00S" f="***">další </p>
+        <p b="PT05M0.00S" e="PT05M0.41S" f="***">kroky </p>
+        <p b="PT05M0.41S" e="PT05M0.64S" f="3"></p>
+        <p b="PT05M0.64S" e="PT05M0.75S" f="***">na </p>
+        <p b="PT05M0.75S" e="PT05M1.32S" f="***">preventivní </p>
+        <p b="PT05M1.32S" e="PT05M1.85S" f="***">vyšetření </p>
+        <p b="PT05M1.85S" e="PT05M2.03S" f="***">zve </p>
+        <p b="PT05M2.03S" e="PT05M2.47S" f="***">od osmi </p>
+        <p b="PT05M2.47S" e="PT05M2.56S" f="***">do </p>
+        <p b="PT05M2.56S" e="PT05M3.11S" f="***">13 </p>
+        <p b="PT05M3.11S" e="PT05M3.41S" f="***">hodin </p>
+        <p b="PT05M3.41S" e="PT05M3.52S" f="*">i </p>
+        <p b="PT05M3.52S" e="PT05M4.09S" f="***">ostravská </p>
+        <p b="PT05M4.09S" e="PT05M4.55S" f="***">městská </p>
+        <p b="PT05M4.55S" e="PT05M5.13S" f="***">nemocnice </p>
+        <p b="PT05M5.13S" e="PT05M5.45S" f="***">Marek </p>
+        <p b="PT05M5.45S" e="PT05M5.76S" f="***">meta </p>
+        <p b="PT05M5.76S" e="PT05M6.56S" f="***">Moravskoslezský </p>
+        <p b="PT05M6.56S" e="PT05M6.99S" f="***">kraj.</p>
+        <p b="PT05M6.99S" e="PT05M7.47S" f="3"></p>
+      </pa>
+      <pa a="" b="PT05M7.47S" e="PT05M28.65S" l="" s="339">
+        <p b="PT05M7.47S" e="PT05M7.79S" f="***">Britská </p>
+        <p b="PT05M7.79S" e="PT05M8.20S" f="***">premiérka </p>
+        <p b="PT05M8.20S" e="PT05M8.64S" f="***">Theresa </p>
+        <p b="PT05M8.64S" e="PT05M9.03S" f="***">Mayová </p>
+        <p b="PT05M9.03S" e="PT05M9.65S" f="***">sčítá </p>
+        <p b="PT05M9.65S" e="PT05M10.12S" f="***">drtivé </p>
+        <p b="PT05M10.12S" e="PT05M10.75S" f="***">porážky </p>
+        <p b="PT05M10.75S" e="PT05M11.06S" f="***">dolní </p>
+        <p b="PT05M11.06S" e="PT05M11.51S" f="***">sněmovna </p>
+        <p b="PT05M11.51S" e="PT05M11.84S" f="***">včera </p>
+        <p b="PT05M11.84S" e="PT05M12.46S" f="***">odmítla </p>
+        <p b="PT05M12.46S" e="PT05M12.83S" f="***">odchod </p>
+        <p b="PT05M12.83S" e="PT05M13.42S" f="***">spojeného </p>
+        <p b="PT05M13.42S" e="PT05M13.98S" f="***">království </p>
+        <p b="PT05M13.98S" e="PT05M14.29S" f="***">bez </p>
+        <p b="PT05M14.29S" e="PT05M14.65S" f="***">dohody </p>
+        <p b="PT05M14.65S" e="PT05M14.80S" f="*">s </p>
+        <p b="PT05M14.80S" e="PT05M15.19S" f="***">EU. </p>
+        <p b="PT05M15.19S" e="PT05M15.36S" f="3"></p>
+        <p b="PT05M15.36S" e="PT05M15.91S" f="***">15 </p>
+        <p b="PT05M15.91S" e="PT05M16.21S" f="***">dní </p>
+        <p b="PT05M16.21S" e="PT05M16.31S" f="***">do </p>
+        <p b="PT05M16.31S" e="PT05M16.83S" f="***">brexitu </p>
+        <p b="PT05M16.83S" e="PT05M17.13S" f="***">je tak </p>
+        <p b="PT05M17.13S" e="PT05M17.52S" f="***">Mayová </p>
+        <p b="PT05M17.52S" e="PT05M17.73S" f="***">pod </p>
+        <p b="PT05M17.73S" e="PT05M18.15S" f="***">palbou </p>
+        <p b="PT05M18.15S" e="PT05M18.62S" f="***">kritiky </p>
+        <p b="PT05M18.62S" e="PT05M19.22S" f="***">médií </p>
+        <p b="PT05M19.22S" e="PT05M19.38S" f="*">i </p>
+        <p b="PT05M19.38S" e="PT05M20.06S" f="***">opozičních </p>
+        <p b="PT05M20.06S" e="PT05M20.69S" f="***">poslanců. </p>
+        <p b="PT05M20.69S" e="PT05M20.95S" f="3"></p>
+        <p b="PT05M20.95S" e="PT05M21.35S" f="***">Česká </p>
+        <p b="PT05M21.35S" e="PT05M21.93S" f="***">poslankyně </p>
+        <p b="PT05M21.93S" e="PT05M22.39S" f="***">Miroslava </p>
+        <p b="PT05M22.39S" e="PT05M22.95S" f="***">Němcová </p>
+        <p b="PT05M22.95S" e="PT05M23.26S" f="***">Rádiu </p>
+        <p b="PT05M23.26S" e="PT05M23.75S" f="***">Impuls </p>
+        <p b="PT05M23.75S" e="PT05M24.12S" f="***">řekla, </p>
+        <p b="PT05M24.12S" e="PT05M24.38S" f="***">že je to </p>
+        <p b="PT05M24.38S" e="PT05M24.74S" f="***">právě </p>
+        <p b="PT05M24.74S" e="PT05M25.31S" f="***">Mazeová, </p>
+        <p b="PT05M25.31S" e="PT05M25.66S" f="***">která </p>
+        <p b="PT05M25.66S" e="PT05M25.84S" f="***">šla </p>
+        <p b="PT05M25.84S" e="PT05M25.91S" f="***">do </p>
+        <p b="PT05M25.91S" e="PT05M26.30S" f="***">celého </p>
+        <p b="PT05M26.30S" e="PT05M27.01S" f="***">vyjednávacího </p>
+        <p b="PT05M27.01S" e="PT05M27.57S" f="***">procesu </p>
+        <p b="PT05M27.57S" e="PT05M27.67S" f="*">s </p>
+        <p b="PT05M27.67S" e="PT05M28.20S" f="***">nejlepším </p>
+        <p b="PT05M28.20S" e="PT05M28.65S" f="***">úmyslem.</p>
+      </pa>
+      <pa a="" b="PT05M28.65S" e="PT05M40.17S" l="" s="342">
+        <p b="PT05M28.65S" e="PT05M29.64S" f="2"></p>
+        <p b="PT05M29.64S" e="PT05M30.29S" f="***">Takováhle </p>
+        <p b="PT05M30.29S" e="PT05M30.72S" f="***">kaše, </p>
+        <p b="PT05M30.72S" e="PT05M31.16S" f="***">kterou si </p>
+        <p b="PT05M31.16S" e="PT05M31.48S" f="***">nikdo </p>
+        <p b="PT05M31.48S" e="PT05M31.74S" f="***">neví </p>
+        <p b="PT05M31.74S" e="PT05M32.07S" f="***">rady </p>
+        <p b="PT05M32.07S" e="PT05M32.51S" f="***">musela </p>
+        <p b="PT05M32.51S" e="PT05M32.79S" f="***">přijít </p>
+        <p b="PT05M32.79S" e="PT05M33.09S" f="***">dávno </p>
+        <p b="PT05M33.09S" e="PT05M33.49S" f="***">a která </p>
+        <p b="PT05M33.49S" e="PT05M33.74S" f="***">má </p>
+        <p b="PT05M33.74S" e="PT05M34.22S" f="***">řešit </p>
+        <p b="PT05M34.22S" e="PT05M34.56S" f="***">štve </p>
+        <p b="PT05M34.56S" e="PT05M34.77S" f="***">mě, </p>
+        <p b="PT05M34.77S" e="PT05M35.01S" f="***">že </p>
+        <p b="PT05M35.01S" e="PT05M35.41S" f="***">oni </p>
+        <p b="PT05M35.41S" e="PT05M35.68S" f="***">teď </p>
+        <p b="PT05M35.68S" e="PT05M36.41S" f="***">zpovzdáli, </p>
+        <p b="PT05M36.41S" e="PT05M36.87S" f="***">kteří </p>
+        <p b="PT05M36.87S" e="PT05M37.51S" f="***">způsobili </p>
+        <p b="PT05M37.51S" e="PT05M37.98S" f="***">stojí </p>
+        <p b="PT05M37.98S" e="PT05M38.34S" f="***">říkají </p>
+        <p b="PT05M38.34S" e="PT05M38.72S" f="***">no, ale </p>
+        <p b="PT05M38.72S" e="PT05M39.01S" f="***">ona </p>
+        <p b="PT05M39.01S" e="PT05M39.33S" f="***">dělá </p>
+        <p b="PT05M39.33S" e="PT05M39.74S" f="***">špatně.</p>
+        <p b="PT05M39.74S" e="PT05M40.17S" f="2"></p>
+      </pa>
+      <pa a="" b="PT05M40.17S" e="PT06M30.84S" l="" s="339">
+        <p b="PT05M40.17S" e="PT05M40.30S" f="3"></p>
+        <p b="PT05M40.30S" e="PT05M40.73S" f="***">Británie </p>
+        <p b="PT05M40.73S" e="PT05M40.91S" f="***">má </p>
+        <p b="PT05M40.91S" e="PT05M41.31S" f="***">opustit </p>
+        <p b="PT05M41.31S" e="PT05M41.79S" f="***">Evropskou </p>
+        <p b="PT05M41.79S" e="PT05M42.09S" f="***">unii </p>
+        <p b="PT05M42.09S" e="PT05M42.98S" f="***">29. </p>
+        <p b="PT05M42.98S" e="PT05M43.38S" f="***">března. </p>
+        <p b="PT05M43.38S" e="PT05M43.57S" f="3"></p>
+        <p b="PT05M43.57S" e="PT05M44.07S" f="***">Spekuluje </p>
+        <p b="PT05M44.07S" e="PT05M44.41S" f="***">se </p>
+        <p b="PT05M44.41S" e="PT05M44.49S" f="*">o </p>
+        <p b="PT05M44.49S" e="PT05M44.98S" f="***">krátkém </p>
+        <p b="PT05M44.98S" e="PT05M45.53S" f="***">odkladu </p>
+        <p b="PT05M45.53S" e="PT05M46.17S" f="***">brexitu, </p>
+        <p b="PT05M46.17S" e="PT05M46.55S" f="***">anebo </p>
+        <p b="PT05M46.55S" e="PT05M46.65S" f="*">o </p>
+        <p b="PT05M46.65S" e="PT05M46.97S" f="***">novém </p>
+        <p b="PT05M46.97S" e="PT05M47.51S" f="***">referendu </p>
+        <p b="PT05M47.51S" e="PT05M47.94S" f="***">to ale </p>
+        <p b="PT05M47.94S" e="PT05M48.29S" f="***">mailová </p>
+        <p b="PT05M48.29S" e="PT05M48.80S" f="***">odmítá. </p>
+        <p b="PT05M48.80S" e="PT05M48.99S" f="3"></p>
+        <p b="PT05M48.99S" e="PT05M49.29S" f="***">My se </p>
+        <p b="PT05M49.29S" e="PT05M49.57S" f="***">vás </p>
+        <p b="PT05M49.57S" e="PT05M49.94S" f="***">tématu </p>
+        <p b="PT05M49.94S" e="PT05M50.07S" f="***">dne </p>
+        <p b="PT05M50.07S" e="PT05M50.49S" f="***">ptáme, </p>
+        <p b="PT05M50.49S" e="PT05M50.84S" f="***">co se </p>
+        <p b="PT05M50.84S" e="PT05M51.43S" f="***">podle vás </p>
+        <p b="PT05M51.43S" e="PT05M51.65S" f="***">bude </p>
+        <p b="PT05M51.65S" e="PT05M51.88S" f="***">dít, </p>
+        <p b="PT05M51.88S" e="PT05M52.12S" f="***">když </p>
+        <p b="PT05M52.12S" e="PT05M52.68S" f="***">Británie </p>
+        <p b="PT05M52.68S" e="PT05M53.14S" f="***">práskne </p>
+        <p b="PT05M53.14S" e="PT05M53.55S" f="***">dveřmi </p>
+        <p b="PT05M53.55S" e="PT05M53.76S" f="***">bez </p>
+        <p b="PT05M53.76S" e="PT05M54.04S" f="***">dohody </p>
+        <p b="PT05M54.04S" e="PT05M54.15S" f="*">s </p>
+        <p b="PT05M54.15S" e="PT05M54.46S" f="***">unií, </p>
+        <p b="PT05M54.46S" e="PT05M54.70S" f="3"></p>
+        <p b="PT05M54.70S" e="PT05M54.82S" f="***">do </p>
+        <p b="PT05M54.82S" e="PT05M55.03S" f="***">které </p>
+        <p b="PT05M55.03S" e="PT05M55.48S" f="***">evropské </p>
+        <p b="PT05M55.48S" e="PT05M55.77S" f="***">země </p>
+        <p b="PT05M55.77S" e="PT05M56.20S" f="***">jezdíte </p>
+        <p b="PT05M56.20S" e="PT05M56.74S" f="***">nejraději. </p>
+        <p b="PT05M56.74S" e="PT05M56.92S" f="3"></p>
+        <p b="PT05M56.92S" e="PT05M57.22S" f="***">Voleb </p>
+        <p b="PT05M57.22S" e="PT05M57.77S" f="***">můžete </p>
+        <p b="PT05M57.77S" e="PT05M57.91S" f="***">na </p>
+        <p b="PT05M57.91S" e="PT05M58.38S" f="***">číslo </p>
+        <p b="PT05M58.38S" e="PT05M58.88S" f="***">60</p>
+        <p b="PT05M58.88S" e="PT05M59.34S" f="*">4 </p>
+        <p b="PT05M59.34S" e="PT05M59.63S" f="*">1</p>
+        <p b="PT05M59.63S" e="PT06M0.22S" f="***">11 </p>
+        <p b="PT06M0.22S" e="PT06M0.61S" f="***">20</p>
+        <p b="PT06M0.61S" e="PT06M0.82S" f="*">1 </p>
+        <p b="PT06M0.82S" e="PT06M1.21S" f="4"></p>
+        <p b="PT06M1.21S" e="PT06M1.82S" f="***">sport </p>
+        <p b="PT06M1.82S" e="PT06M1.98S" f="4"></p>
+        <p b="PT06M1.98S" e="PT06M2.54S" f="***">Markéta </p>
+        <p b="PT06M2.54S" e="PT06M3.23S" f="***">Vondroušová </p>
+        <p b="PT06M3.23S" e="PT06M3.50S" f="***">musí </p>
+        <p b="PT06M3.50S" e="PT06M3.60S" f="***">na </p>
+        <p b="PT06M3.60S" e="PT06M4.25S" f="***">semifinále </p>
+        <p b="PT06M4.25S" e="PT06M4.73S" f="***">turnaje </p>
+        <p b="PT06M4.73S" e="PT06M5.12S" f="***">Indian </p>
+        <p b="PT06M5.12S" e="PT06M5.43S" f="***">Wells </p>
+        <p b="PT06M5.43S" e="PT06M6.19S" f="***">zapomenout </p>
+        <p b="PT06M6.19S" e="PT06M7.41S" f="***">devatenáctiletá </p>
+        <p b="PT06M7.41S" e="PT06M7.82S" f="***">česká </p>
+        <p b="PT06M7.82S" e="PT06M8.38S" f="***">tenistka </p>
+        <p b="PT06M8.38S" e="PT06M8.51S" f="***">ve </p>
+        <p b="PT06M8.51S" e="PT06M9.33S" f="***">čtvrtfinálovém </p>
+        <p b="PT06M9.33S" e="PT06M9.60S" f="***">duelu </p>
+        <p b="PT06M9.60S" e="PT06M10.06S" f="***">ztratila </p>
+        <p b="PT06M10.06S" e="PT06M10.38S" f="***">dobře </p>
+        <p b="PT06M10.38S" e="PT06M10.92S" f="***">rozehraný </p>
+        <p b="PT06M10.92S" e="PT06M11.29S" f="***">zápas </p>
+        <p b="PT06M11.29S" e="PT06M11.52S" f="***">proti </p>
+        <p b="PT06M11.52S" e="PT06M11.92S" f="***">světové </p>
+        <p b="PT06M11.92S" e="PT06M12.30S" f="***">šestce </p>
+        <p b="PT06M12.30S" e="PT06M12.68S" f="***">Eleně </p>
+        <p b="PT06M12.68S" e="PT06M13.43S" f="***">Svitolinové, </p>
+        <p b="PT06M13.43S" e="PT06M13.65S" f="3"></p>
+        <p b="PT06M13.65S" e="PT06M13.99S" f="***">se kterou </p>
+        <p b="PT06M13.99S" e="PT06M14.58S" f="***">nakonec </p>
+        <p b="PT06M14.58S" e="PT06M15.04S" f="***">po dvou </p>
+        <p b="PT06M15.04S" e="PT06M15.54S" f="***">hodinách </p>
+        <p b="PT06M15.54S" e="PT06M16.15S" f="***">11 </p>
+        <p b="PT06M16.15S" e="PT06M16.62S" f="***">minutách </p>
+        <p b="PT06M16.62S" e="PT06M17.14S" f="***">prohrála </p>
+        <p b="PT06M17.14S" e="PT06M17.49S" f="*">6</p>
+        <p b="PT06M17.49S" e="PT06M17.92S" f="*">4 </p>
+        <p b="PT06M17.92S" e="PT06M18.01S" f="*">a </p>
+        <p b="PT06M18.01S" e="PT06M18.47S" f="***">2× </p>
+        <p b="PT06M18.47S" e="PT06M18.86S" f="*">4</p>
+        <p b="PT06M18.86S" e="PT06M19.20S" f="*">6 </p>
+        <p b="PT06M19.20S" e="PT06M19.45S" f="3"></p>
+        <p b="PT06M19.45S" e="PT06M20.30S" f="***">osmifinále </p>
+        <p b="PT06M20.30S" e="PT06M20.53S" f="***">dnes </p>
+        <p b="PT06M20.53S" e="PT06M20.76S" f="***">bude </p>
+        <p b="PT06M20.76S" e="PT06M20.79S" f="*">v </p>
+        <p b="PT06M20.79S" e="PT06M21.12S" f="***">Indian </p>
+        <p b="PT06M21.12S" e="PT06M21.44S" f="***">Wells </p>
+        <p b="PT06M21.44S" e="PT06M21.87S" f="***">usilovat </p>
+        <p b="PT06M21.87S" e="PT06M22.06S" f="***">ještě </p>
+        <p b="PT06M22.06S" e="PT06M22.55S" f="***">Karolína </p>
+        <p b="PT06M22.55S" e="PT06M23.05S" f="***">Plíšková. </p>
+        <p b="PT06M23.05S" e="PT06M23.23S" f="3"></p>
+        <p b="PT06M23.23S" e="PT06M23.54S" f="***">Pátá </p>
+        <p b="PT06M23.54S" e="PT06M23.99S" f="***">nasazená </p>
+        <p b="PT06M23.99S" e="PT06M24.33S" f="***">Češka </p>
+        <p b="PT06M24.33S" e="PT06M24.48S" f="***">se </p>
+        <p b="PT06M24.48S" e="PT06M24.88S" f="***">utká </p>
+        <p b="PT06M24.88S" e="PT06M24.98S" f="*">s </p>
+        <p b="PT06M24.98S" e="PT06M25.52S" f="***">Bendou </p>
+        <p b="PT06M25.52S" e="PT06M25.86S" f="***">venčit </p>
+        <p b="PT06M25.86S" e="PT06M26.12S" f="***">Sovou </p>
+        <p b="PT06M26.12S" e="PT06M26.23S" f="***">ze </p>
+        <p b="PT06M26.23S" e="PT06M26.87S" f="***">Švýcarska </p>
+        <p b="PT06M26.87S" e="PT06M27.03S" f="3"></p>
+        <p b="PT06M27.03S" e="PT06M27.24S" f="***">ta </p>
+        <p b="PT06M27.24S" e="PT06M27.61S" f="***">včera </p>
+        <p b="PT06M27.61S" e="PT06M28.05S" f="***">vyřadila </p>
+        <p b="PT06M28.05S" e="PT06M28.56S" f="***">světovou </p>
+        <p b="PT06M28.56S" e="PT06M29.13S" f="***">jedničku </p>
+        <p b="PT06M29.13S" e="PT06M29.60S" f="***">Japonku </p>
+        <p b="PT06M29.60S" e="PT06M29.97S" f="***">Naomi </p>
+        <p b="PT06M29.97S" e="PT06M30.65S" f="***">Ósakaovou.</p>
+        <p b="PT06M30.65S" e="PT06M30.84S" f="-"></p>
+      </pa>
+      <pa a="" b="PT06M30.84S" e="PT06M32.68S" l="" s="343">
+        <p b="PT06M30.84S" e="PT06M31.54S" f="2"></p>
+        <p b="PT06M31.54S" e="PT06M32.15S" f="4"></p>
+        <p b="PT06M32.15S" e="PT06M32.46S" f="***">Nehoda </p>
+        <p b="PT06M32.46S" e="PT06M32.68S" f="***">dvou.</p>
+      </pa>
+      <pa a="" b="PT06M32.68S" e="PT06M38.97S" l="" s="339">
+        <p b="PT06M32.68S" e="PT06M32.94S" f="***">Aut </p>
+        <p b="PT06M32.94S" e="PT06M33.32S" f="***">blokuje </p>
+        <p b="PT06M33.32S" e="PT06M33.49S" f="***">100 </p>
+        <p b="PT06M33.49S" e="PT06M34.06S" f="***">devadesátý </p>
+        <p b="PT06M34.06S" e="PT06M34.36S" f="***">třetí </p>
+        <p b="PT06M34.36S" e="PT06M34.80S" f="***">kilometr </p>
+        <p b="PT06M34.80S" e="PT06M35.27S" f="***">dálnice </p>
+        <p b="PT06M35.27S" e="PT06M35.63S" f="***">D1 </p>
+        <p b="PT06M35.63S" e="PT06M36.01S" f="***">v Brně </p>
+        <p b="PT06M36.01S" e="PT06M36.42S" f="***">ve směru </p>
+        <p b="PT06M36.42S" e="PT06M36.53S" f="***">na </p>
+        <p b="PT06M36.53S" e="PT06M36.80S" f="***">Prahu </p>
+        <p b="PT06M36.80S" e="PT06M36.93S" f="***">se </p>
+        <p b="PT06M36.93S" e="PT06M37.39S" f="***">připravte </p>
+        <p b="PT06M37.39S" e="PT06M37.55S" f="***">si </p>
+        <p b="PT06M37.55S" e="PT06M37.70S" f="***">na </p>
+        <p b="PT06M37.70S" e="PT06M38.56S" f="***">pětikilometrovou </p>
+        <p b="PT06M38.56S" e="PT06M38.97S" f="***">kolonu.</p>
+      </pa>
+      <pa a="" b="PT06M38.97S" e="PT06M44.95S" l="" s="337">
+        <p b="PT06M38.97S" e="PT06M39.47S" f="-"></p>
+        <p b="PT06M39.47S" e="PT06M39.97S" f="-"></p>
+        <p b="PT06M39.97S" e="PT06M40.47S" f="-"></p>
+        <p b="PT06M40.47S" e="PT06M40.97S" f="-"></p>
+        <p b="PT06M40.97S" e="PT06M41.47S" f="-"></p>
+        <p b="PT06M41.47S" e="PT06M41.97S" f="-"></p>
+        <p b="PT06M41.97S" e="PT06M42.47S" f="-"></p>
+        <p b="PT06M42.47S" e="PT06M42.97S" f="-"></p>
+        <p b="PT06M42.97S" e="PT06M43.46S" f="-"></p>
+        <p b="PT06M43.46S" e="PT06M43.49S" f="4"></p>
+        <p b="PT06M43.49S" e="PT06M43.70S" f="4"></p>
+        <p b="PT06M43.70S" e="PT06M44.00S" f="***">Kresta </p>
+        <p b="PT06M44.00S" e="PT06M44.56S" f="***">impulsovi </p>
+        <p b="PT06M44.56S" e="PT06M44.95S" f="***">krásné.</p>
+      </pa>
+      <pa a="" b="PT06M44.95S" e="PT06M54.72S" l="" s="344">
+        <p b="PT06M44.95S" e="PT06M45.18S" f="***">Ráno </p>
+        <p b="PT06M45.18S" e="PT06M45.32S" f="***">vám </p>
+        <p b="PT06M45.32S" e="PT06M45.53S" f="***">přeje </p>
+        <p b="PT06M45.53S" e="PT06M45.91S" f="***">Monika </p>
+        <p b="PT06M45.91S" e="PT06M46.32S" f="***">Honza </p>
+        <p b="PT06M46.32S" e="PT06M47.03S" f="***">dobré ráno. </p>
+        <p b="PT06M47.03S" e="PT06M47.18S" f="***">Za </p>
+        <p b="PT06M47.18S" e="PT06M47.53S" f="***">1000 </p>
+        <p b="PT06M47.53S" e="PT06M47.92S" f="***">povodně, </p>
+        <p b="PT06M47.92S" e="PT06M48.23S" f="4"></p>
+        <p b="PT06M48.23S" e="PT06M48.48S" f="***">co se </p>
+        <p b="PT06M48.48S" e="PT06M48.67S" f="***">bude </p>
+        <p b="PT06M48.67S" e="PT06M48.90S" f="***">dít </p>
+        <p b="PT06M48.90S" e="PT06M49.04S" f="***">až </p>
+        <p b="PT06M49.04S" e="PT06M49.55S" f="***">Británie </p>
+        <p b="PT06M49.55S" e="PT06M50.06S" f="***">práskne </p>
+        <p b="PT06M50.06S" e="PT06M50.45S" f="***">dveřmi </p>
+        <p b="PT06M50.45S" e="PT06M51.14S" f="***">Evropské unie, </p>
+        <p b="PT06M51.14S" e="PT06M51.44S" f="***">kterou </p>
+        <p b="PT06M51.44S" e="PT06M51.98S" f="***">evropskou </p>
+        <p b="PT06M51.98S" e="PT06M52.22S" f="***">zemi </p>
+        <p b="PT06M52.22S" e="PT06M52.51S" f="***">máte </p>
+        <p b="PT06M52.51S" e="PT06M52.89S" f="***">nejradši </p>
+        <p b="PT06M52.89S" e="PT06M53.14S" f="***">ptáme </p>
+        <p b="PT06M53.14S" e="PT06M53.57S" f="***">se dnes </p>
+        <p b="PT06M53.57S" e="PT06M53.80S" f="***">celé </p>
+        <p b="PT06M53.80S" e="PT06M54.09S" f="***">slávě </p>
+        <p b="PT06M54.09S" e="PT06M54.46S" f="***">na to.</p>
+        <p b="PT06M54.46S" e="PT06M54.72S" f="4"></p>
+      </pa>
+      <pa a="" b="PT06M54.72S" e="PT07M0.03S" l="" s="345">
+        <p b="PT06M54.72S" e="PT06M55.25S" f="***">Já </p>
+        <p b="PT06M55.25S" e="PT06M55.59S" f="***">jsem </p>
+        <p b="PT06M55.59S" e="PT06M55.81S" f="***">pro </p>
+        <p b="PT06M55.81S" e="PT06M56.20S" f="***">tvrdý </p>
+        <p b="PT06M56.20S" e="PT06M56.76S" f="***">brexit </p>
+        <p b="PT06M56.76S" e="PT06M57.10S" f="2"></p>
+        <p b="PT06M57.10S" e="PT06M57.87S" f="***">v každém případě, </p>
+        <p b="PT06M57.87S" e="PT06M58.08S" f="***">jak </p>
+        <p b="PT06M58.08S" e="PT06M58.71S" f="***">Británie </p>
+        <p b="PT06M58.71S" e="PT06M59.30S" f="2"></p>
+        <p b="PT06M59.30S" e="PT07M0.03S" f="***">Evropské unii.</p>
+      </pa>
+    </se>
+  </ch>
+  <sp>
+    <s degreeafter="" degreebefore="" firstname="" id="333" lang="" middlename="" sex="x" surname="S00000"/>
+    <s degreeafter="" degreebefore="" firstname="" id="334" lang="" middlename="" sex="x" surname="S00001"/>
+    <s degreeafter="" degreebefore="" firstname="" id="335" lang="" middlename="" sex="x" surname="S00002"/>
+    <s degreeafter="" degreebefore="" firstname="" id="336" lang="" middlename="" sex="x" surname="S00004"/>
+    <s degreeafter="" degreebefore="" firstname="" id="337" lang="" middlename="" sex="x" surname="S00005"/>
+    <s degreeafter="" degreebefore="" firstname="" id="338" lang="" middlename="" sex="x" surname="S00006"/>
+    <s degreeafter="" degreebefore="" firstname="" id="339" lang="" middlename="" sex="x" surname="S00007"/>
+    <s degreeafter="" degreebefore="" firstname="" id="340" lang="" middlename="" sex="x" surname="S00008"/>
+    <s degreeafter="" degreebefore="" firstname="" id="341" lang="" middlename="" sex="x" surname="S00009"/>
+    <s degreeafter="" degreebefore="" firstname="" id="342" lang="" middlename="" sex="x" surname="S00010"/>
+    <s degreeafter="" degreebefore="" firstname="" id="343" lang="" middlename="" sex="x" surname="S00011"/>
+    <s degreeafter="" degreebefore="" firstname="" id="344" lang="" middlename="" sex="x" surname="S00012"/>
+    <s degreeafter="" degreebefore="" firstname="" id="345" lang="" middlename="" sex="x" surname="S00013"/>
+  </sp>
+</transcription>

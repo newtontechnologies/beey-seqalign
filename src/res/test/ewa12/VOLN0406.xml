@@ -1,0 +1,891 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Transcription>
+  <NanoTVSource TechniqueOfCreatingTranscription="None" SynchronizingTimeLagForPlayer="0">
+    <SourceNanoTVBlocks>
+      <SourceNanoTVBlock UrlNanoTVAPI="http://czthp24ntvr.newtonmedia.eu/api" landeck_id="czcoollandeck01" program_id="513" service_name="NOVA" tuner_id="56b5c7101588888f06cca647" IsVideo="True" RecordStart="06.04.2019 12:20:00" RecordLength="36000000000">
+        <LocalSources>
+          <LocalSourceFile Order="0" FileName="0.mp4" Path="C:\TranscriptionWorkplace\AUDIOVIDEOZDROJE\20190406\VOLN" Size="-2147483648" CreateDateTime="01.01.0001 00:00:00" LastSaveDateTime="01.01.0001 00:00:00" AudioVideoStartDateTime="06.04.2019 12:20:00" AudioVideoTickSize="36000000000" IsVideoFile="True" />
+        </LocalSources>
+      </SourceNanoTVBlock>
+    </SourceNanoTVBlocks>
+  </NanoTVSource>
+  <Programme Channel="TV Nova" Title="Volejte Novu" StartOfProgramme="06.04.2019 12:35:04" EndOfProgramme="06.04.2019 13:11:56" ScheduledDateTime="06.04.2019 11:10:00" ScheduledLength="54000000000" Kind=" polytematický" ProgrammeCode="VOLN" TranscriptionType="" TranscriptionTypeCode="NotSettings" Topic="" NewsCount="11">
+    <News Title="Ulice" Author="" StartOfNews="06.04.2019 12:35:06" EndOfNews="06.04.2019 12:39:13" Kind="Transcription" Order="1" RealName="False" CreatorUserName="yvina@centrum.cz">
+      <Act StartOfAct="06.04.2019 12:35:08" EndOfAct="06.04.2019 12:36:09" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Martin" Surname="ČERMÁK" TitleAfter="" TitleBefore="" Function="moderátor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Krásné sobotní poledne, vítejte u premiérového Volejte Novu, které bude i dnes plné exkluzivních reportáží. Nejen ze zákulisí naší televize. Ukážeme vám, jak probíhá natáčení seriálu Kameňák. S kamerou jsme vyrazili přímo na plac. Diváky Snídaně s Novou v týdnu zasáhla informace o smrti sníďaňového štěněte. Připomeneme si Ozyho radostné chvíle. Vrátíme se ke středeční Výměně manželek, prozradíme vám, jak dnes žijí její aktéři s odstupem času. Velké překvapení čekalo tento týden na seriálovou Rozinu. Do Ulice z ničeho nic přijel tajemný přítel Viktor z Ameriky. Jeho představitel Jared Bailey je také pravý Američan. Jak se stalo, že zakotvil právě v Praze? To zjistíte v reportáži.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:36:09" EndOfAct="06.04.2019 12:36:19" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>O svém příteli, kterého nechala ve státech mluvila Rozina Maléřová od svého návratu. Vztah na dálku jí ale nevyhovoval a tak se s Viktorem rozešla. Tomu to ale nedalo spát.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:36:19" EndOfAct="06.04.2019 12:36:47" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Moje role je Viktor. Viktor je mladý chlap z New Yorku a on je kuchař a má velká role na, oni jsou originálně z Trinidadu. Viktor přišel do Prahy, aby se získal zpátky svojí přítelkyni Rozina. Doufám, že se mu to povede, protože on je fakt dobrý člověk.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:36:47" EndOfAct="06.04.2019 12:37:01" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Exotického Viktora hraje herec Jared Bailey, nikdo mu ale neřekne jinak, než Piqi Miqi.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:37:01" EndOfAct="06.04.2019 12:37:29" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Já dělám hudbu a moje hudební jméno je Piqi Miqi a taky dělám modeling. Nějaký reklamy a to je můj první šance v televizi, tak jsem moc vděčný, protože já jsem tady poprvé v televizi a doufám, že budu mít víc možností.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:37:29" EndOfAct="06.04.2019 12:37:30" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Jared stejně jako jeho seriálový Viktor zamířil do Čech z New Yorku.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:37:30" EndOfAct="06.04.2019 12:38:00" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Jsem se narodil v Kenetiketu, to je malej stát vedle New Yorku a jsem studoval v New Yorku, tak jsem tam bydlel čtyři let a když jsem byl na univerzitě, já jsem šel do Prahy na semestr v roce 2007 a jsem se zamiloval do Prahy a když jsem vystudoval, já jsem si rozhodl přestěhovat se do Prahy už jsem tady osm let.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:38:00" EndOfAct="06.04.2019 12:38:12" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Už od mala tento exotický herec věděl, že chce jednou žít jinde, než v Americe. Když se ale rozhodoval, kam do Evropy zamíří, netušil vůbec, že nějaká Praha vůbec existuje.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:38:12" EndOfAct="06.04.2019 12:38:37" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Oni mi dali možnost studovat v Praze nebo v Barceloně nebo v Miláně a já jsem nevěděl, co je Praha a já jsem koukal na internet, to vypadá krásně, to vypadá jako Disneyland nebo něco, protože to bylo moc barev.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:38:37" EndOfAct="06.04.2019 12:38:39" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>A jak se tak zdá, svojí volbu si nemůže vynachválit.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:38:39" EndOfAct="06.04.2019 12:38:46" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Praha má dobrý život. Je to tady krásný. Klid.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:38:46" EndOfAct="06.04.2019 12:38:52" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Není zvykem, aby do té naší seriálové Ulice zamířil nějaký cizinec. Jereda ale štáb přijal velmi vřele.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:38:52" EndOfAct="06.04.2019 12:39:13" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Líbí se mi to moc, protože lidi jsou fakt milí a jsou pohodoví a taky mluví na mě česky a taky anglicky, tak nemám problém s jazykem, protože když něco nerozumím, tak je to někdo, který překládá.</MessageText>
+      </Act>
+    </News>
+    <News Title="The Voice Česko Slovensko" Author="" StartOfNews="06.04.2019 12:39:13" EndOfNews="06.04.2019 12:42:57" Kind="Transcription" Order="2" RealName="False" CreatorUserName="yvina@centrum.cz">
+      <Act StartOfAct="06.04.2019 12:39:13" EndOfAct="06.04.2019 12:39:45" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Martin" Surname="ČERMÁK" TitleAfter="" TitleBefore="" Function="moderátor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Už zítra vás čeká další díl soutěže The Voice Česko Slovensko. Tentokrát bude o osudech soutěžících rozhodovat kouč Kali. Reportérka Simona Šimková, zjišťovala, jaké pocity má těsně před natáčením. A vrátíme se také k týmu Vojty Dyka. Jeho rozhodnutí vyřadit Viktorii Mišenko vyvolalo spoustu reakcí. Poslechněte si, co si sama mladá zpěvačka o Vojtovi myslí a jak se pere s kritikou.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:39:45" EndOfAct="06.04.2019 12:39:59" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Jak už jsme měli možnost Kaliho poznat, tetování a drsný vzhled jsou jenom obalem. Uvnitř je to citlivý kluk. Se svým týmem si navíc utvořil vztah. Vidina toho, že polovinu musí poslat domů, ho ničí.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:39:59" EndOfAct="06.04.2019 12:40:10" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Oni mi dali svou důvěru, šli ke mě do týmu, protože se mnou chtěli vyhrát a teď ten člověk, kterýmu dali důvěru, je vyhodí. To je, to bylo vidět na Vojtovi Dykovi, že  prostě není to jednoduché.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:40:10" EndOfAct="06.04.2019 12:40:29" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>A právě z týmu Vojty vyvolala vlnu reakcí Viktoria Mišenko, která byla počátku favoritem soutěže. Minulý týden pro ní ale cesta v The Voice nečekaně skončila. S takovým rozhodnutím ale soudě dle jejího pohledu vůbec nepočítala. Úplně ta první, první myšlenka, co ti prolítla teda hlavou, když řekl svůj verdikt?</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:40:29" EndOfAct="06.04.2019 12:40:52" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Shit. Mě strašně jakože zarazilo to, že mi celou dobu říkal, jak je to vlastně až dokonalý, což mi nikdy v životě žádný člověk neřekl, že zpívám dokonale třeba nebo prostě, já jsem z toho byla úplně vyšokovaná a 30 vteřin na to mi řekl, že vypadnu.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:40:52" EndOfAct="06.04.2019 12:40:57" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Její překvapení na mnohé působilo jako fakt, že Viki nemá dostatek pokory.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:40:57" EndOfAct="06.04.2019 12:41:17" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Fakt jsem se nedívala na něj, že ho chci zabít. Já jenom mám takovej pohled, to mi říká spousta lidí, ale pak jsem nebyla ani maličko naštvaná nebo prostě necítila jsem vztek nic, já jsem byla absolutně v pohodě. A právě proto jsem Vojtovi psala, že bych mu chtěla aspoň poděkovat za to, že jsme se viděli aspoň párkrát.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:41:17" EndOfAct="06.04.2019 12:42:57" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Tento týden čeká vyřazování na Kaliho. Toho vypjaté emoce odrovnají a dokonce dojde i na slzy. Není se čemu divit. Kaliho tým je opravdu silný a výkony soutěžících jsou ohromující. Dál ale mohou jít jen ti nejlepší. Který z talentovaných zpěváků to bude, uvidíte už zítra hned po televizních novinách. Pokud vás zajímá, co se děje i po natáčení světem zákulisí, vás provedou Šarlota a Matúš. Zákulisní pořad Voice Zone sledujte hned po odvysílání televizního dílu The Voice na Novaplus.cz</MessageText>
+      </Act>
+    </News>
+    <News Title="Dotaz" Author="" StartOfNews="06.04.2019 12:42:57" EndOfNews="06.04.2019 12:43:28" Kind="Transcription" Order="3" RealName="False" CreatorUserName="yvina@centrum.cz">
+      <Act StartOfAct="06.04.2019 12:42:58" EndOfAct="06.04.2019 12:43:28" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Martin" Surname="ČERMÁK" TitleAfter="" TitleBefore="" Function="moderátor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Pojďme se podívat také na dotazy, stihneme dnes alespoň jeden. "Dobrý den, zahlédl jsem v televizi, že se mohou přihlásit opět lidé do pořadu Mise nový domov. Jsou nějaké speciální podmínky? Díky, Vojta." Vojto, zdravíme vás. Ano, je to tak. Stále hledáme rodiny s dětmi, kterým by rekonstrukce mohla změnit život a pomoci jim. Pokud se chcete přihlásit, tak neváhejte a jděte na naše internetové stánky nova.cz/casting.</MessageText>
+      </Act>
+    </News>
+    <News Title="Zemřelo snídaňové štěně" Author="" StartOfNews="06.04.2019 12:43:29" EndOfNews="06.04.2019 12:44:37" Kind="Transcription" Order="4" RealName="False" CreatorUserName="yvina@centrum.cz">
+      <Act StartOfAct="06.04.2019 12:43:29" EndOfAct="06.04.2019 12:43:50" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Martin" Surname="ČERMÁK" TitleAfter="" TitleBefore="" Function="moderátor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Štáb Snídaně s Novou, ale i fanoušky a milovníky psů zasáhla v týdnu smutná zpráva, že zemřelo snídaňové štěně Ozy. To bylo už jako druhé štěně cvičené pro speciální účely. Ozy měl být v budoucnu policejním psem. Připomeňme si teď, jak ho vídali diváci našeho ranního pořadu.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:43:50" EndOfAct="06.04.2019 12:44:37" KindOfAct="ProgrammeBreak" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="7" BreakType="Ukázka" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders />
+        <MessageText>
+        </MessageText>
+      </Act>
+    </News>
+    <News Title="Specialisté" Author="" StartOfNews="06.04.2019 12:44:37" EndOfNews="06.04.2019 12:46:33" Kind="Transcription" Order="5" RealName="False" CreatorUserName="yvina@centrum.cz">
+      <Act StartOfAct="06.04.2019 12:44:37" EndOfAct="06.04.2019 12:45:01" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Martin" Surname="ČERMÁK" TitleAfter="" TitleBefore="" Function="moderátor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>V týdnu jste mohli na obrazovkách televize Nova shlédnout premiérový díl Specialistů, ve kterém se poprvé objevil Martin Dejdar jako major Strouhal. A v dalším díle, který uvidíte už v pondělí, budou kriminalisté vyšetřovat násilnou smrt bezdomovce. Představitel Jardy Čermáka, herec Jan Zadražil, se navíc díky shodě náhod dostane přímo do komunity lidí bez domova.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:45:01" EndOfAct="06.04.2019 12:46:33" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>V městském parku je nalezen zavražděný bezdomovec, který se živil  převážně sběrem prázdných lahví. Jarda Čermák se shodou náhod díky svému aktuálnímu vzezření dostane do bezdomovecké komunity, kde v utajení provádí vyšetřování. Specialisté objeví, že Koval měl v osobních věcech schovaný velký obnos peněz. Z bezdomovecké komunity jsou nakonec vytipováni tři podezřelí. Jeden z nich uvede, že mu Koval pomáhal s úklidem na soukromé lékařské klinice doktorky Vandasové. Kdo je Kovalův vrah, to musí Specialisté zjistit už v pondělním díle ve 20:20 pod vedením majora Strouhala v podání Martina Dejdara.</MessageText>
+      </Act>
+    </News>
+    <News Title="Programový deníček" Author="" StartOfNews="06.04.2019 12:46:33" EndOfNews="06.04.2019 12:49:01" Kind="Transcription" Order="6" RealName="False" CreatorUserName="yvina@centrum.cz">
+      <Act StartOfAct="06.04.2019 12:46:34" EndOfAct="06.04.2019 12:47:18" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Martin" Surname="ČERMÁK" TitleAfter="" TitleBefore="" Function="moderátor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Programový deníček, ano i ten nesmí chybět ve Volejte Novu. Pařížské hvězdy jdou znovu do akce a vy je samozřejmě uvidíte v přímém přenosu na Nova Sport 2. Fotbalový zápas Paris Saint Germain - Racing Strasbourg začíná zítra večer ve 20:55, tak si ho rozhodně nenechte ujít. Na Nova 2 každý den v 18 hodin na vás čeká hned pět dílů oblíbeného seriálu Přátelé. Šestice nejlepších přátel z New Yorku řeší životní trable s humorem sobě vlastním. A na Nova Gold každý den od 20:00 jsou tu Čarodějky. Pozor od 15. 4. vás čekají dva díly za sebou, tak si rozhodně nenechte ujít dobrodružství tří sester, které bojují se zlem v kultovním seriálu. A tady jsou další pozvánky.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:47:18" EndOfAct="06.04.2019 12:49:01" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Před pěti tisíci lety pustošily egyptskou zemi hordy divochů z východu pod vedením neporazitelného Memnona. Odvážný bojovník se rozhodne  vzdorovat osudu a je odhodlán bezohledného krále barbarů zabít. Dobrodružný snímek Král Škorpion v hlavním roli Johnsonem sledujte dnes ve 20 hodin na Nově. Když Oskar Schindler převezme v roce 1939 továrnu, zaměstná v ní stovky Židů, kteří by jinak skončili v koncentračním táboře. Nejdříve ho zajímá pouze zisk. Později se ale jeho názor změní. Nemilosrdné drama založené na skutečných událostech Schindlerův seznam si nenechte ujít dnes ve 20 hodin na Nova Cinema. V pátek večer si přijdou na své všichni fanoušci ledního hokeje. Vždy jednu hodinu po půlnoci na Nova Action můžete sledovat přímý přenos utkání zámořské NHL.</MessageText>
+      </Act>
+    </News>
+    <News Title="Nova na síti" Author="" StartOfNews="06.04.2019 12:49:03" EndOfNews="06.04.2019 12:49:52" Kind="Transcription" Order="7" RealName="False" CreatorUserName="yvina@centrum.cz">
+      <Act StartOfAct="06.04.2019 12:49:05" EndOfAct="06.04.2019 12:49:52" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Martin" Surname="ČERMÁK" TitleAfter="" TitleBefore="" Function="moderátor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>A je tady Nova na síti aneb pozvánka na články na našich webech, které by vám rozhodně neměli ujít. Vláda schválila navýšení důchodů. O kolik si polepšíte, si můžete spočítat na kalkulačce na webu tn.cz. Nevěrný Martin z Ulice si o to koledoval už dlouho. Jak praskne jeho nevěra? Exkluzivní ukázku z nových dílů najdete na nova.cz. A Veronika Kopřivová si prý sbalila kufry a odcestovala na Floridu. Je snad její vztah s Jaromírem Jágrem v krizi? Více informací se dozvíte na prask.tv.</MessageText>
+      </Act>
+    </News>
+    <News Title="Ordinace v růžové zahradě 2" Author="" StartOfNews="06.04.2019 12:49:52" EndOfNews="06.04.2019 12:53:31" Kind="Transcription" Order="8" RealName="False" CreatorUserName="yvina@centrum.cz">
+      <Act StartOfAct="06.04.2019 12:49:52" EndOfAct="06.04.2019 12:50:06" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Martin" Surname="ČERMÁK" TitleAfter="" TitleBefore="" Function="moderátor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>V Ordinaci v růžové zahradě 2 hrají zamilovaný pár, který jak to tak vypadá, ustojí jakoukoliv krizi. Za herci Klárou Oltovou a Romanem Štabrňákem jsme se vydali přímo na plac, abychom zjistili, jak to této dvojce klape mimo kamery.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:50:06" EndOfAct="06.04.2019 12:50:33" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Vilík a Květa. Pár, který zřejmě přestojí všechny problémy. Momentálně jim nepřeje finanční situace. Nad vodou je ale drží jejich láska, kterou zřejmě brzy zpečetí svatbou. Na place to hercům Kláře Oltové a Romanu Štabrňákovi klape jedna báseň. A to zřejmě proto, že už se snaží pěknou řádku let.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:50:33" EndOfAct="06.04.2019 12:50:34" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Tak, Kláry, kdy to bylo?</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:50:34" EndOfAct="06.04.2019 12:51:01" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Já většinou nic nevím, ale tohle vím, protože jsme se potkali na natáčení asi pohádky Vřesový trůn a vím to přesně kdy to bylo, protože mému synovi bylo tři čtvrtě roku, za každým keřem v té pohádce je schovanej kočárek a v něm můj syn. Takže to znamená, že to je 2006 rok.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:51:01" EndOfAct="06.04.2019 12:51:03" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Takže 13 let.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:51:03" EndOfAct="06.04.2019 12:51:04" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>No, tak tos už neměl říkat.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:51:04" EndOfAct="06.04.2019 12:51:04" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Dobře, tak jo.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:51:04" EndOfAct="06.04.2019 12:51:11" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Když už nám tedy prozradili, jak dlouho se znají, rozhodli jsme se jich přátelství tak trochu otestovat. Vzpomínáte si na svojí první seriálovou pusu?</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:51:11" EndOfAct="06.04.2019 12:51:16" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Tak to já nevím.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:51:16" EndOfAct="06.04.2019 12:51:25" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>V  zimě pod takhle dali na ten strom trošku to jmelí. To bylo nějaký ty Vánoce.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:51:25" EndOfAct="06.04.2019 12:51:29" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Ano, máš pravdu, a bylo to v noci.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:51:29" EndOfAct="06.04.2019 12:51:29" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Líbá Roman dobře?</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:51:29" EndOfAct="06.04.2019 12:51:33" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Tak teď jsem na tebe zvědavej.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:51:33" EndOfAct="06.04.2019 12:51:40" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>No takhle, on ten formát tý Ordinace vás nepustí moc daleko, jo, takže ...</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:51:40" EndOfAct="06.04.2019 12:51:42" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>To vypadá, že ti je to líto.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:51:42" EndOfAct="06.04.2019 12:51:43" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Tyjo, tak tohle už zachází hodně daleko.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:51:43" EndOfAct="06.04.2019 12:51:48" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Jak se na Romanovi pozná, že nemá svůj den?</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:51:48" EndOfAct="06.04.2019 12:52:05" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Já nevím. Roman je fakt jako buď seš takovej profík, jak se říká, že ten herec, když někem vejde do toho divadla nebo na to natáčení, tak má nechat všechny ty problémy za sebou, tak buď seš takovej profík nebo ty problémy nemá jako. Nebo já nevím...</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:52:05" EndOfAct="06.04.2019 12:52:07" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Což je divný, viď.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:52:07" EndOfAct="06.04.2019 12:52:16" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Fakt je jako, přináší na plac pohodu tak a teď tím pádem... Teď jsem si tě jako ...</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:52:16" EndOfAct="06.04.2019 12:52:27" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>No, tak když ta práce je v pohodě, tak je to vždycky příjemný pro všechny, než aby byl tady nějakej morous, i když taky se mi stane, že bych chtěl vybouchnout, ale vím, že v rámci toho seskupení, všech těch lidí by to bylo kontroproduktivní.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:52:27" EndOfAct="06.04.2019 12:52:29" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>A jak se to naopak pozná na Kláře?</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:52:29" EndOfAct="06.04.2019 12:52:40" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Taky mi přijde, že nebo mě to možná přijde takový jako obecný, to patří jako k více lidem. Nebo ne, nemáš to tak? Nevnímáš to tak?</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:52:40" EndOfAct="06.04.2019 12:52:40" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Jak jako?</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:52:40" EndOfAct="06.04.2019 12:52:44" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Že když nemáš třeba svůj den, že ti ty texty nelezou do hlavy.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:52:44" EndOfAct="06.04.2019 12:52:48" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Jo. Jo, to asi je jako, to asi jo.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:52:48" EndOfAct="06.04.2019 12:52:55" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>To je hodně zábavnej rozhovor.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:52:55" EndOfAct="06.04.2019 12:52:57" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Co by Klára udělal kdyby vyhrála milion korun?</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:52:57" EndOfAct="06.04.2019 12:53:00" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Tak, to teď vůbec neumím odpovědět. Co bys dělal?</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:53:00" EndOfAct="06.04.2019 12:53:01" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Ty bys cestoval?</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:53:01" EndOfAct="06.04.2019 12:53:05" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Já bych třeba cestoval.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:53:05" EndOfAct="06.04.2019 12:53:05" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Yes.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:53:05" EndOfAct="06.04.2019 12:53:11" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Tak díky, teď si mi pomohla. Ale ty máš cestování taky ráda.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:53:11" EndOfAct="06.04.2019 12:53:13" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Jo, jooo ale opravdu.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:53:13" EndOfAct="06.04.2019 12:53:17" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Roman je vyhlášený kouzelník. Jaké kouzlo rád předvádí?</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:53:17" EndOfAct="06.04.2019 12:53:20" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Osobní.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:53:20" EndOfAct="06.04.2019 12:53:20" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Kouzlo osobnosti, jo.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:53:20" EndOfAct="06.04.2019 12:53:23" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Ano.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:53:23" EndOfAct="06.04.2019 12:53:26" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>No a podívejte, žije z toho doteď.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:53:26" EndOfAct="06.04.2019 12:53:31" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Jak to tak vypadá, s těmito dvěma musí být při natáčení pořádná zábava.</MessageText>
+      </Act>
+    </News>
+    <News Title="Kameňák" Author="" StartOfNews="06.04.2019 12:53:31" EndOfNews="06.04.2019 13:06:14" Kind="Transcription" Order="9" RealName="True" CreatorUserName="yvina@centrum.cz">
+      <Act StartOfAct="06.04.2019 12:53:31" EndOfAct="06.04.2019 12:53:50" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Martin" Surname="ČERMÁK" TitleAfter="" TitleBefore="" Function="moderátor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Nikam rozhodně neodcházejte. Máme pro vás ještě několik reportáží. Mimo jiné ze zákulisí seriálu Kameňák, z kuchařské show MasterChef Česko a také se podíváme, jak s odstupem času žijí obě rodiny ze středeční Výměny manželek. Tak zůstaňte s námi, za chvilku jsme zpět.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 12:53:50" EndOfAct="06.04.2019 13:00:42" KindOfAct="ProgrammeBreak" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="1" BreakType="Reklama" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders />
+        <MessageText>
+        </MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:00:42" EndOfAct="06.04.2019 13:01:03" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Martin" Surname="ČERMÁK" TitleAfter="" TitleBefore="" Function="moderátor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Včera večer jste měli možnost vidět další díl seriálu Kameňák. Tentokrát se v ději objevil i horkovzdušný balon, ve kterém z mělnického náměstí odletěl například Václav Vydra. My vás teď vezmeme přímo na plac a na natáčení této netradiční scény, při které filmaře i herce potrápil silný vítr.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:01:03" EndOfAct="06.04.2019 13:01:26" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Na náměstí v Mělníku jsme v jenom letním parném dni zastihli štáb i herce při natáčení scény s horkovzdušným balonem. Na place ten den natáčení stěžovalo nejen úmorné vedro, ale také vítr, který potrápil nejednoho herce. Třeba i Zuzanu Slavíkovou.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:01:26" EndOfAct="06.04.2019 13:01:48" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Dneska se točí scéna s horkovzdušným balonem, což je trošku náročný, protože pravda lehce fouká nebo lehce, dost fouká. A ten balon zlobí.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:01:48" EndOfAct="06.04.2019 13:01:56" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Diváci si v seriálu oblíbili i postavu učitelky, kterou hraje Veronika Žilková. Ta se balonem proletěla několik hodin.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:01:56" EndOfAct="06.04.2019 13:02:14" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Já jsem dneska ráno vstávala ve čtyři, a myslím, že v šest hodin už jsem byla v koši a už jsem lítala nad Mělníkem, takže žádná maskérka do toho koše se nedostala a teď jsem vlastně přistála asi po sedmi hodinách, takže teď je taková rekonstrukce.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:02:14" EndOfAct="06.04.2019 13:02:19" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Ale to vypadá skvěle po šestihodinovém letu v balonu, jestli tam taky tak foukalo.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:02:19" EndOfAct="06.04.2019 13:02:41" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Jo, jo, jo, tak ještě jsem při tom sváděla Vaška Vydru, což nebylo nekontaktní, takže jsme se o sebe trochu třeli, no ale já mám  ty vlasy tak jako  s těma jen tak něco nehne, to jsem si vymyslela, že moje postava Vlasty, kterou vlastně jsem převzala za Danu Morávkovou, takže miluje Helenku Vondráčkovou a nosí vlasy jako Helenka Vondráčková v 80. letech.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:02:41" EndOfAct="06.04.2019 13:02:48" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Na náměstí jsme zastihli například i herečku Alici Bendovou, které náladu nezkazilo ani extrémní počasí.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:02:48" EndOfAct="06.04.2019 13:03:12" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Musím říct, že jsem se sem tak těšila, a to nekecám, přísahám, že já se není to jako vždycky, že se člověk těší úplně tak strašně tak do tý práce a sem jsem se těšila. Těšila jsem se na ty lidi, je tady dobrá parta, občas to je jasný, občas to trošičku drhne, ale ono se to zase jako rozmotá. Já jsem to stačila úplně zadělat kostým, v kterým hraju, takže ze mě měli velkou radost.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:03:12" EndOfAct="06.04.2019 13:03:12" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>A čím to je, čím to je?</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:03:12" EndOfAct="06.04.2019 13:03:28" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>To nevím, kde jsem to vzala, nevím. Někde se to přihodilo, asi nějaká limoška, tak já hraju takhle vlastně celou dobu. Takže Jarmila učitelka je celá zaprasená, no.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:03:28" EndOfAct="06.04.2019 13:03:45" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Martin" Surname="ČERMÁK" TitleAfter="" TitleBefore="" Function="moderátor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>A teď si připomeneme to nejlepší z drsných vtípků, které ve včerejším díle Kameňáku zazněly z úst vašich oblíbených herců.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:03:45" EndOfAct="06.04.2019 13:06:14" KindOfAct="ProgrammeBreak" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="7" BreakType="Ukázka" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders />
+        <MessageText>
+        </MessageText>
+      </Act>
+    </News>
+    <News Title="MasterChef Česko" Author="" StartOfNews="06.04.2019 13:06:14" EndOfNews="06.04.2019 13:08:55" Kind="Transcription" Order="10" RealName="False" CreatorUserName="yvina@centrum.cz">
+      <Act StartOfAct="06.04.2019 13:06:14" EndOfAct="06.04.2019 13:06:35" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Martin" Surname="ČERMÁK" TitleAfter="" TitleBefore="" Function="moderátor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Jak ve středu večer řekli sami porotce, soutěž MasterChef Česko opustil jeden z nejnadanějších kuchařů. Mladý Honza totiž při svém posledním vaření udělal fatální chybu, která ho stála jeho zástěru. Jak se cítil těsně po vyřazení, zjistíte v následující reportáži.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:06:35" EndOfAct="06.04.2019 13:07:10" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Na začátku to vypadalo na idylické vaření ve dvojicích. Nebyly by to ale naši porotci, aby si na soutěžící nepřichystali nějakou tu podpásovku. Do závěrečného rozstřelu se tak nakonec dostal Honza a Ester. A byl to právě Honza, kterému se příprava originální snídaně vůbec nepovedla.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:07:10" EndOfAct="06.04.2019 13:07:30" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Základní chyba byla asi to, že jsem nevykostil tu rybu. To byla blbost. Hlavně faul, no. Porota byla skvělá, úplně úžasná, nemohli vybrat lepší tři kuchaře a je pravda, že já jsem se prostě nastavil standard a dneska to bylo odporný to jídlo. Takže jakože já jsem vařil, to zní blbě, ale já jako vždycky uvařil hezký jídlo a šel jsem na balkon a tohle byla taková první výzva, kdy jsem takhle skončil, no.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:07:30" EndOfAct="06.04.2019 13:07:35" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>To, že se nestane dalším českým masterchefem mu moc nevadí. Mrzí ho spíš jiné věci.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:07:35" EndOfAct="06.04.2019 13:07:49" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Mrzí mě hlavně asi to, že budu nebo respektive odejdu od těch lidí a budu se muset vrátit zpátky do školy. To mě štve. Letos právě dělám bakalářku, už mám jí napsanou a včera jsem, keceám, ještě jsem ani nezačal.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:07:49" EndOfAct="06.04.2019 13:07:52" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Plány do budoucna už má ale jasné a samozřejmě se týkají vaření.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:07:52" EndOfAct="06.04.2019 13:07:58" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Určitě bych chtěl po škole odjet do zahraničí, do Švýcarska, mám tam kamarádku a pak se uvidí.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:07:58" EndOfAct="06.04.2019 13:08:04" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Ačkoliv to vypadalo, že Honza soutěží proplouvá bez sebemenšího problému, bylo to jen zdání.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:08:04" EndOfAct="06.04.2019 13:08:18" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>No, postupem času se ty jídla jakoby fakt byly těžký a já jsem to tak tak stíhal časově. Ze začátku jsem měl třeba čtvrt hodiny hotovo i před tím. A fakt co mi dalo zabrat, byla třeba Asie závitky, tak jsem stíhal úplně taktak a dneska taky.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:08:18" EndOfAct="06.04.2019 13:08:22" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Největší výzvou pro něj ale bylo vaření s ostatními soutěžícími v jednom týmu.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:08:22" EndOfAct="06.04.2019 13:08:28" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Vařit s lidma, s kterýma jsem se třeba úplně nemusel a musel jsem prostě zatnout zuby a udělat s nima dobrý jídlo.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:08:28" EndOfAct="06.04.2019 13:08:30" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>A kdo to třeba byl?</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:08:30" EndOfAct="06.04.2019 13:08:34" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Třeba se Šárkou. Tak to, je pravda, že dvakrát jsme spolu vařili a dvakrát jsme uvařili dobrý jídlo.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:08:34" EndOfAct="06.04.2019 13:08:43" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Honza, Mirek a Lea. Nerozlučná trojka kamarádů. Jak ale může fungovat kamarádství v soutěži, kde jde o půl milionu korun?</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:08:43" EndOfAct="06.04.2019 13:08:50" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Tak my jsme se snažili nemíchat sociální život a život tady na natáčení. Takže tady jsme byli soupeři, ale za zdma ateliéru jsme byli kamarádi.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:08:50" EndOfAct="06.04.2019 13:08:55" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Komu Honza teď bude držet palce? Jeho odpověď vás překvapí už teď na webu nova.cz.</MessageText>
+      </Act>
+    </News>
+    <News Title="Výměna manželek" Author="" StartOfNews="06.04.2019 13:08:55" EndOfNews="06.04.2019 13:11:56" Kind="Transcription" Order="11" RealName="True" CreatorUserName="yvina@centrum.cz">
+      <Act StartOfAct="06.04.2019 13:08:56" EndOfAct="06.04.2019 13:09:13" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Martin" Surname="ČERMÁK" TitleAfter="" TitleBefore="" Function="moderátor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>O středečním díle Výměny manželek se bude mluvit ještě pěkně dlouho. V rodině Soni totiž prý tak trochu pokulhává osobní hygiena. Náhradní manželka Milada odhalila, jak se Soňa podle ní doopravdy stará o své děti a o domácnost.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:09:13" EndOfAct="06.04.2019 13:09:28" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>V domácnosti Soni a Standy hygieně a úklidu moc nedali. Podle toho také u nich tak vypadalo. Náhradní manželka Milada se tak musela vypořádat s obrovským nepořádkem. Pavel zase musel přetrpět deset dní se Soňou. Oba mají na natáčení nepěkné vzpomínky.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:09:28" EndOfAct="06.04.2019 13:10:14" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Pro mě je nejhorší zážitek celejch deset dnů s ní tady. To bylo asi nejhorší peklo v mým životě. Zaprvý nic nedělala, když něco udělala, tak to jako když to neudělala a nebo to hodila na děti. Což se mi vůbec nelíbilo. To bylo hned ten první večer. A co asi bylo nejhorší, nejhorší asi byl ten smrad z ní. Jo, protože ona se nemyla, jako jde ze záchodu, neumeje si ruce. Tam ty základní hygienický návyky jsou na bodě mrazu. A za těch deset dnů, co tady byla, tak jestli byla třikrát ve sprše? Paní byla cítit z hodně velké dálky. Co se týče tělového pyžma, co se týče mluvení, takže jí zapáchalo i z úst na dva metry se s ní nedalo mluvit. To nešlo.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:10:14" EndOfAct="06.04.2019 13:11:08" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Nejhorší zážitek byl ten záchod. Potom ucpaná ta díra těma použitejma dámskejma kalhotkama, to jako, to jsem myslela, že půjdu. Tam bylo vidět, že měnili topení a zůstala tam prostě díra ve zdi. A já jsem tam byl pelech psí, takže jsem to tam uklízela, vytírala jsem to, dala jsem pelech pryč a zjistila jsem, že tam je prostě nějakej hadr hozenej. Tak jsem říkala, Standovi, říkám, hele pojď, ucpeme to prostě něčím jiným. A když jsem to vytáhla, tak tam byly právě ty použitý dámský kalhotky. A to jsem myslela, že jako to jako nedám. To bylo nejvíc. A co mě dostalo, bylo, když mi děti řekly, že chodí do vany ve středu a v neděli nebo do sprchy ve středu a v neděli. Se mejou ve středu a v neděli.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:11:08" EndOfAct="06.04.2019 13:11:13" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>V rodině Soni a Standy ale od natáčení došlo k velkým změnám.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:11:13" EndOfAct="06.04.2019 13:11:32" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Mě to změnilo hodně, protože jsem si uvědomila taky ty svoje chyby. Takže si myslím, že mi to dalo hodně. Taky ty svoje chyby, co jsem dělal ve vztahu, co se týká mýho vztahu se Standou a s dětma, tak si myslím, že mi to dalo hodně, že jsem si hodně věcí uvědomila.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:11:32" EndOfAct="06.04.2019 13:11:38" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Exkluzivní zpověď druhé rodiny najdete už teď na webu nova.cz.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 13:11:38" EndOfAct="06.04.2019 13:11:56" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="yvina@centrum.cz">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Martin" Surname="ČERMÁK" TitleAfter="" TitleBefore="" Function="moderátor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Sobotní Volejte Novu končí. Díky, že jste se dívali a na závěr vás ještě pozvu na náš Instagram, kde najdete spousty dalších materiálů ze zákulisí vaší oblíbené televize. Účet se jmenuje jednoduše Volejte Novu. Tak, na viděnou.</MessageText>
+      </Act>
+    </News>
+  </Programme>
+</Transcription>
