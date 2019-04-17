@@ -1,0 +1,2457 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<transcription version="3.0" mediauri="HOST.mp4" created="2019-03-13T10:15:22.747764" documentid="e73dad28-1bad-4d5b-a26e-4e94e5362c3a">
+  <meta>
+    <NanoTV AudioVideoStartDateTime="13.03.2019 9:03:00" AudioVideoTickSize="33000000000" Channel="ČRo Radiožurnál" IsVideo="False" RecordLength="33000000000" RecordStart="13.03.2019 9:03:00" ScheduledDateTime="13.03.2019 9:05:00" ScheduledLength="31800000000" UrlNanoTVAPI="http://czprgntvr.newtonmedia.eu/api2" landeck_id="czcoollandeck01" tuner_id="56b5c7eb1588889206cca647" />
+    <NewtonMedia CreatorUserName="micha2004@seznam.cz" EndOfProgramme="13.03.2019 9:58:00" IsVideoFile="False" Kind="monotematický" ProgrammeCode="HOST" Title="Host Lucie Výborné" program_id="16641" service_name="CRo RADIOZURNAL" />
+  <LastEditorUserName>micha2004@seznam.cz</LastEditorUserName><SharedWith><Email>micha2004@seznam.cz</Email></SharedWith></meta>
+  <ch name="">
+    <se name="Host Lucie Výborné - Jiří Světlík">
+      <pa scribeForceLabel="true" b="PT3M24.2S" e="PT3M38.28S" a="None" s="0">
+        <p b="PT3M24.2S" e="PT3M24.79S" f="">Posloucháte </p>
+        <p b="PT3M24.79S" e="PT3M25.28S" f="">dopolední </p>
+        <p b="PT3M25.28S" e="PT3M26.12S" f="">Radiožurnál, </p>
+        <p b="PT3M26.12S" e="PT3M26.44S" f="">my jsme </p>
+        <p b="PT3M26.44S" e="PT3M26.72S" f="">dnes </p>
+        <p b="PT3M26.72S" e="PT3M26.85S" f="">na </p>
+        <p b="PT3M26.85S" e="PT3M27.5S" f="">návštěvě </p>
+        <p b="PT3M27.5S" e="PT3M27.79S" f="">u </p>
+        <p b="PT3M27.79S" e="PT3M28.23S" f="">Jiřího </p>
+        <p b="PT3M28.23S" e="PT3M29.02S" f="">Světlíka, </p>
+        <p b="PT3M29.02S" e="PT3M29.64S" f="">skauta, </p>
+        <p b="PT3M29.64S" e="PT3M30.39S" f="">politického </p>
+        <p b="PT3M30.39S" e="PT3M30.96S" f="">vězně. </p>
+        <p b="PT3M31.21S" e="PT3M31.47S" f="">Pane S</p>
+        <p b="PT3M31.47S" e="PT3M32.29S" f="">větlíku </p>
+        <p b="PT3M32.29S" e="PT3M33.23S" f="">15. </p>
+        <p b="PT3M33.23S" e="PT3M33.64S" f="">března </p>
+        <p b="PT3M33.64S" e="PT3M34.37S" f="">19</p>
+        <p b="PT3M34.37S" e="PT3M35.38S" f="">39, </p>
+        <p b="PT3M36.15S" e="PT3M36.26S" f="">to </p>
+        <p b="PT3M36.26S" e="PT3M36.51S" f="">jste </p>
+        <p b="PT3M36.51S" e="PT3M36.82S" f="">byl </p>
+        <p b="PT3M36.82S" e="PT3M37.7S" f="">patnáctiletý </p>
+        <p b="PT3M37.7S" e="PT3M38.28S" f="">chlapec? </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT3M38.28S" e="PT3M38.67S" a="None" s="1">
+        <p b="PT3M38.28S" e="PT3M38.67S" f="">Ano. </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT3M39.19S" e="PT3M40.78S" a="None" s="0">
+        <p b="PT3M39.19S" e="PT3M39.53S" f="">Jak si </p>
+        <p b="PT3M39.53S" e="PT3M39.63S" f="">na </p>
+        <p b="PT3M39.63S" e="PT3M39.82S" f="">ten </p>
+        <p b="PT3M39.82S" e="PT3M40S" f="">den </p>
+        <p b="PT3M40S" e="PT3M40.78S" f="">pamatujete?</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT3M40.78S" e="PT4M34.67S" a="None" s="1">
+        <p b="PT3M40.78S" e="PT3M41.63S" f="">Krásně, </p>
+        <p b="PT3M41.63S" e="PT3M42.21S" f="">to bylo s</p>
+        <p b="PT3M42.21S" e="PT3M43.03S" f="">viňský </p>
+        <p b="PT3M43.03S" e="PT3M43.82S" f="">počasí, t</p>
+        <p b="PT3M44.23S" e="PT3M44.68S" f="">aková b</p>
+        <p b="PT3M44.68S" e="PT3M45.31S" f="">řečka </p>
+        <p b="PT3M45.31S" e="PT3M46.33S" f="">sněhová. </p>
+        <p b="PT3M46.67S" e="PT3M47.1S" f="">Já jsem </p>
+        <p b="PT3M47.1S" e="PT3M47.29S" f="">jel </p>
+        <p b="PT3M47.29S" e="PT3M47.99S" f="">do školy, tenk</p>
+        <p b="PT3M49.02S" e="PT3M49.22S" f="">rát </p>
+        <p b="PT3M49.22S" e="PT3M49.73S" f="">ještě </p>
+        <p b="PT3M49.73S" e="PT3M50.14S" f="">měly </p>
+        <p b="PT3M50.14S" e="PT3M50.62S" f="">tramvaje </p>
+        <p b="PT3M50.62S" e="PT3M51.06S" f="">takový v</p>
+        <p b="PT3M51.32S" e="PT3M51.64S" f="">lečňáky </p>
+        <p b="PT3M52.22S" e="PT3M52.36S" f="">s </p>
+        <p b="PT3M52.36S" e="PT3M53.02S" f="">otevřenou </p>
+        <p b="PT3M53.02S" e="PT3M53.79S" f="">plošinou </p>
+        <p b="PT3M54.3S" e="PT3M54.55S" f="">a my </p>
+        <p b="PT3M54.55S" e="PT3M54.73S" f="">jsme </p>
+        <p b="PT3M54.73S" e="PT3M54.83S" f="">na </p>
+        <p b="PT3M54.83S" e="PT3M54.98S" f="">té </p>
+        <p b="PT3M54.98S" e="PT3M55.4S" f="">plošině </p>
+        <p b="PT3M55.4S" e="PT3M56.01S" f="">stáli </p>
+        <p b="PT3M56.5S" e="PT3M56.84S" f="">a </p>
+        <p b="PT3M56.84S" e="PT3M57.05S" f="">v </p>
+        <p b="PT3M57.05S" e="PT3M57.64S" f="">Plzni </p>
+        <p b="PT3M58.17S" e="PT3M58.65S" f="">v ulici, </p>
+        <p b="PT3M58.65S" e="PT3M59.18S" f="">která se </p>
+        <p b="PT3M59.18S" e="PT3M59.66S" f="">dnes jmenuje </p>
+        <p b="PT3M59.66S" e="PT4M0.25S" f="">Prešovs</p>
+        <p b="PT4M0.25S" e="PT4M0.76S" f="">ká, </p>
+        <p b="PT4M1.21S" e="PT4M1.4S" f="">tam </p>
+        <p b="PT4M1.4S" e="PT4M2.05S" f="">v tom </p>
+        <p b="PT4M2.5S" e="PT4M3.39S" f="">marastu, </p>
+        <p b="PT4M3.83S" e="PT4M4.09S" f="">v tom </p>
+        <p b="PT4M4.09S" e="PT4M4.86S" f="">rozbředlém </p>
+        <p b="PT4M4.86S" e="PT4M5.44S" f="">padajícím </p>
+        <p b="PT4M5.44S" e="PT4M6.04S" f="">sněhu l</p>
+        <p b="PT4M6.4S" e="PT4M6.93S" f="">ežely </p>
+        <p b="PT4M6.93S" e="PT4M7.13S" f="">2 </p>
+        <p b="PT4M7.13S" e="PT4M7.71S" f="">němečtí </p>
+        <p b="PT4M7.71S" e="PT4M8.13S" f="">vojíni </p>
+        <p b="PT4M8.13S" e="PT4M8.33S" f="">za </p>
+        <p b="PT4M8.33S" e="PT4M9.22S" f="">kulometem, m</p>
+        <p b="PT4M9.65S" e="PT4M10.03S" f="">y jsme </p>
+        <p b="PT4M10.03S" e="PT4M10.2S" f="">se </p>
+        <p b="PT4M10.2S" e="PT4M10.45S" f="">na ně </p>
+        <p b="PT4M10.45S" e="PT4M10.96S" f="">koukali, </p>
+        <p b="PT4M10.96S" e="PT4M11.49S" f="">ukazovali </p>
+        <p b="PT4M11.49S" e="PT4M11.88S" f="">jsme si </p>
+        <p b="PT4M11.88S" e="PT4M12.18S" f="">na ně a </p>
+        <p b="PT4M12.18S" e="PT4M12.52S" f="">smáli </p>
+        <p b="PT4M12.52S" e="PT4M13.02S" f="">jsme se. A jeli j</p>
+        <p b="PT4M13.02S" e="PT4M13.35S" f="">sme </p>
+        <p b="PT4M13.35S" e="PT4M13.79S" f="">tramvají </p>
+        <p b="PT4M13.79S" e="PT4M14.3S" f="">dál, přišli jsme do</p>
+        <p b="PT4M15.3S" e="PT4M15.56S" f=""> </p>
+        <p b="PT4M15.56S" e="PT4M16.21S" f="">školy, </p>
+        <p b="PT4M16.58S" e="PT4M16.78S" f="">no </p>
+        <p b="PT4M16.78S" e="PT4M17.21S" f="">a </p>
+        <p b="PT4M17.88S" e="PT4M18.2S" f="">my jsme to </p>
+        <p b="PT4M18.2S" e="PT4M18.59S" f="">nakonec </p>
+        <p b="PT4M18.69S" e="PT4M19.11S" f="">věděli, </p>
+        <p b="PT4M19.11S" e="PT4M19.71S" f="">protože </p>
+        <p b="PT4M20.18S" e="PT4M20.44S" f="">už </p>
+        <p b="PT4M20.44S" e="PT4M20.7S" f="">den </p>
+        <p b="PT4M20.7S" e="PT4M21.1S" f="">před </p>
+        <p b="PT4M21.1S" e="PT4M21.61S" f="">tím z</p>
+        <p b="PT4M24.39S" e="PT4M24.5S" f=""> </p>
+        <p b="PT4M24.5S" e="PT4M25.4S" f="">rozhlasu </p>
+        <p b="PT4M25.4S" e="PT4M25.68S" f="">bylo </p>
+        <p b="PT4M25.68S" e="PT4M26.12S" f="">známo, </p>
+        <p b="PT4M26.12S" e="PT4M26.33S" f="">že </p>
+        <p b="PT4M26.33S" e="PT4M26.52S" f="">se </p>
+        <p b="PT4M26.52S" e="PT4M26.96S" f="">vytvořil </p>
+        <p b="PT4M26.96S" e="PT4M27.58S" f="">slovenský </p>
+        <p b="PT4M27.58S" e="PT4M28.19S" f="">stát, </p>
+        <p b="PT4M28.94S" e="PT4M29.57S" f="">takže </p>
+        <p b="PT4M29.86S" e="PT4M30.06S" f="">ten </p>
+        <p b="PT4M30.06S" e="PT4M30.9S" f="">zbytek </p>
+        <p b="PT4M31.6S" e="PT4M31.92S" f="">nás </p>
+        <p b="PT4M31.92S" e="PT4M32.19S" f="">asi </p>
+        <p b="PT4M32.19S" e="PT4M32.34S" f="">zaberou, no a oni nás </p>
+        <p b="PT4M33.31S" e="PT4M33.55S" f="">taky </p>
+        <p b="PT4M33.55S" e="PT4M34S" f="">opravdu </p>
+        <p b="PT4M34S" e="PT4M34.67S" f="">zabrali.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT4M34.92S" e="PT4M41.71S" a="None" s="0">
+        <p b="PT4M34.92S" e="PT4M35.58S" f="">Znamená to </p>
+        <p b="PT4M35.58S" e="PT4M35.92S" f="">něco </p>
+        <p b="PT4M35.92S" e="PT4M36.11S" f="">pro </p>
+        <p b="PT4M36.11S" e="PT4M36.43S" f="">kluka, </p>
+        <p b="PT4M36.43S" e="PT4M36.84S" f="">kterému </p>
+        <p b="PT4M36.84S" e="PT4M36.98S" f="">je </p>
+        <p b="PT4M36.98S" e="PT4M38.05S" f="">15 let </p>
+        <p b="PT4M38.05S" e="PT4M38.71S" f="">nebo v </p>
+        <p b="PT4M38.71S" e="PT4M38.97S" f="">té </p>
+        <p b="PT4M38.97S" e="PT4M39.24S" f="">době </p>
+        <p b="PT4M39.24S" e="PT4M39.53S" f="">žije </p>
+        <p b="PT4M39.53S" e="PT4M40.11S" f="">ve světě, </p>
+        <p b="PT4M40.11S" e="PT4M40.42S" f="">kde se </p>
+        <p b="PT4M40.42S" e="PT4M40.56S" f="">to </p>
+        <p b="PT4M40.56S" e="PT4M40.78S" f="">zas </p>
+        <p b="PT4M40.78S" e="PT4M40.94S" f="">tak </p>
+        <p b="PT4M40.94S" e="PT4M41.23S" f="">moc </p>
+        <p b="PT4M41.23S" e="PT4M41.71S" f="">neřeší.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT4M41.87S" e="PT5M51.4S" a="None" s="1">
+        <p b="PT4M41.87S" e="PT4M42.45S" f="">No, tak </p>
+        <p b="PT4M42.8S" e="PT4M43.23S" f="">to by </p>
+        <p b="PT4M43.23S" e="PT4M43.43S" f="">byl </p>
+        <p b="PT4M43.43S" e="PT4M44.03S" f="">omyl. </p>
+        <p b="PT4M44.77S" e="PT4M45.21S" f="">Já jsem </p>
+        <p b="PT4M45.21S" e="PT4M45.33S" f="">byl </p>
+        <p b="PT4M45.33S" e="PT4M45.42S" f="">v </p>
+        <p b="PT4M45.42S" e="PT4M45.72S" f="">prvé </p>
+        <p b="PT4M45.72S" e="PT4M46.01S" f="">řadě </p>
+        <p b="PT4M46.01S" e="PT4M46.71S" f="">skaut, </p>
+        <p b="PT4M47.7S" e="PT4M48.03S" f="">v roce </p>
+        <p b="PT4M48.03S" e="PT4M48.44S" f="">3</p>
+        <p b="PT4M48.44S" e="PT4M48.82S" f="">8 </p>
+        <p b="PT4M48.82S" e="PT4M49.2S" f="">jsem </p>
+        <p b="PT4M49.44S" e="PT4M49.88S" f="">skládal </p>
+        <p b="PT4M49.88S" e="PT4M50.36S" f="">slib a</p>
+        <p b="PT4M51.37S" e="PT4M51.58S" f=""> </p>
+        <p b="PT4M51.58S" e="PT4M51.78S" f="">v </p>
+        <p b="PT4M51.78S" e="PT4M52.02S" f="">té </p>
+        <p b="PT4M52.02S" e="PT4M52.65S" f="">době </p>
+        <p b="PT4M52.65S" e="PT4M53.24S" f="">už t</p>
+        <p b="PT4M54.16S" e="PT4M54.61S" f="">a </p>
+        <p b="PT4M54.61S" e="PT4M55.37S" f="">situace v </p>
+        <p b="PT4M55.92S" e="PT4M56.93S" f="">republice a </p>
+        <p b="PT4M57.14S" e="PT4M57.43S" f="">v tom </p>
+        <p b="PT4M57.43S" e="PT4M58.45S" f="">pohraničí </p>
+        <p b="PT4M58.45S" e="PT4M58.81S" f="">byla </p>
+        <p b="PT4M58.81S" e="PT4M59.31S" f="">velice </p>
+        <p b="PT4M59.31S" e="PT4M59.79S" f="">špatná</p>
+        <p b="PT4M59.79S" e="PT5M0.02S" f="">. </p>
+        <p b="PT5M0.94S" e="PT5M1.36S" f="">My jsme </p>
+        <p b="PT5M1.36S" e="PT5M2.05S" f="">tenkrát </p>
+        <p b="PT5M2.39S" e="PT5M2.99S" f="">věděli </p>
+        <p b="PT5M2.99S" e="PT5M3.46S" f="">toho </p>
+        <p b="PT5M3.46S" e="PT5M3.95S" f="">velice </p>
+        <p b="PT5M3.95S" e="PT5M4.64S" f="">mnoho </p>
+        <p b="PT5M5.31S" e="PT5M5.43S" f="">o </p>
+        <p b="PT5M5.43S" e="PT5M6.09S" f="">současném </p>
+        <p b="PT5M6.09S" e="PT5M6.4S" f="">dění </p>
+        <p b="PT5M6.4S" e="PT5M6.75S" f="">a </p>
+        <p b="PT5M7.27S" e="PT5M7.79S" f="">byl </p>
+        <p b="PT5M7.79S" e="PT5M8.42S" f="">u nás </p>
+        <p b="PT5M8.42S" e="PT5M9.27S" f="">v Plzni </p>
+        <p b="PT5M9.64S" e="PT5M10.29S" f="">jako </p>
+        <p b="PT5M10.73S" e="PT5M11.32S" f="">velitel </p>
+        <p b="PT5M11.32S" e="PT5M11.93S" f="">tenkrát </p>
+        <p b="PT5M12.33S" e="PT5M12.66S" f="">bratr K</p>
+        <p b="PT5M12.66S" e="PT5M13.25S" f="">rab </p>
+        <p b="PT5M14.02S" e="PT5M14.14S" f="">a </p>
+        <p b="PT5M14.14S" e="PT5M14.49S" f="">tenhle </p>
+        <p b="PT5M14.49S" e="PT5M14.65S" f="">ten </p>
+        <p b="PT5M14.65S" e="PT5M15.08S" f="">bratr K</p>
+        <p b="PT5M15.08S" e="PT5M15.49S" f="">rab </p>
+        <p b="PT5M15.49S" e="PT5M16.24S" f="">z nás v</p>
+        <p b="PT5M16.61S" e="PT5M17.32S" f="">eřejně </p>
+        <p b="PT5M17.32S" e="PT5M17.82S" f="">vytvořil </p>
+        <p b="PT5M17.82S" e="PT5M18.57S" f="">zpravodajský </p>
+        <p b="PT5M18.57S" e="PT5M19.04S" f="">oddíl. </p>
+        <p b="PT5M20.04S" e="PT5M20.4S" f="">My jsme </p>
+        <p b="PT5M20.4S" e="PT5M20.72S" f="">měli </p>
+        <p b="PT5M20.72S" e="PT5M21.19S" f="">původně </p>
+        <p b="PT5M21.19S" e="PT5M21.43S" f="">jako </p>
+        <p b="PT5M21.43S" e="PT5M22.15S" f="">za úkol, </p>
+        <p b="PT5M22.35S" e="PT5M22.53S" f="">že </p>
+        <p b="PT5M22.53S" e="PT5M22.96S" f="">budeme </p>
+        <p b="PT5M22.96S" e="PT5M23.24S" f="">takhle </p>
+        <p b="PT5M23.24S" e="PT5M23.63S" f="">po </p>
+        <p b="PT5M23.87S" e="PT5M24.14S" f="">těch </p>
+        <p b="PT5M24.14S" e="PT5M24.67S" f="">různých </p>
+        <p b="PT5M24.67S" e="PT5M25.39S" f="">místech </p>
+        <p b="PT5M25.39S" e="PT5M25.56S" f="">v </p>
+        <p b="PT5M25.56S" e="PT5M26.19S" f="">okolí </p>
+        <p b="PT5M26.19S" e="PT5M26.56S" f="">Plzně </p>
+        <p b="PT5M27.39S" e="PT5M27.57S" f="">na </p>
+        <p b="PT5M27.57S" e="PT5M27.91S" f="">těch </p>
+        <p b="PT5M27.91S" e="PT5M28.58S" f="">rozhlednách </p>
+        <p b="PT5M28.58S" e="PT5M29.34S" f="">a podobně p</p>
+        <p b="PT5M30.06S" e="PT5M30.83S" f="">ozorovat </p>
+        <p b="PT5M30.83S" e="PT5M31.63S" f="">nepřátelská </p>
+        <p b="PT5M31.63S" e="PT5M32.26S" f="">letadla </p>
+        <p b="PT5M32.5S" e="PT5M32.6S" f="">a </p>
+        <p b="PT5M32.6S" e="PT5M32.98S" f="">budeme </p>
+        <p b="PT5M32.98S" e="PT5M33.49S" f="">o tom </p>
+        <p b="PT5M33.49S" e="PT5M33.91S" f="">dávat </p>
+        <p b="PT5M33.91S" e="PT5M34.62S" f="">zprávy. </p>
+        <p b="PT5M35.28S" e="PT5M35.9S" f="">Prapor</p>
+        <p b="PT5M35.9S" e="PT5M36.12S" f="">kama</p>
+        <p b="PT5M36.12S" e="PT5M36.48S" f=""> </p>
+        <p b="PT5M37.01S" e="PT5M37.43S" f="">jsme si </p>
+        <p b="PT5M37.43S" e="PT5M37.95S" f="">dávali </p>
+        <p b="PT5M37.95S" e="PT5M38.67S" f="">znamení, </p>
+        <p b="PT5M38.85S" e="PT5M39.24S" f="">jaké </p>
+        <p b="PT5M39.24S" e="PT5M39.75S" f="">letadlo, </p>
+        <p b="PT5M39.75S" e="PT5M40.17S" f="">odkud, </p>
+        <p b="PT5M40.17S" e="PT5M40.5S" f="">a tak </p>
+        <p b="PT5M40.5S" e="PT5M40.96S" f="">dále. </p>
+        <p b="PT5M41.54S" e="PT5M42S" f="">Ten </p>
+        <p b="PT5M42.21S" e="PT5M42.95S" f="">bratr </p>
+        <p b="PT5M43.11S" e="PT5M43.68S" f="">Krab </p>
+        <p b="PT5M44.2S" e="PT5M44.63S" f="">z nás </p>
+        <p b="PT5M44.63S" e="PT5M44.89S" f="">udělal </p>
+        <p b="PT5M44.89S" e="PT5M45.75S" f="">zpravodajský </p>
+        <p b="PT5M45.75S" e="PT5M46.45S" f="">oddíl</p>
+        <p b="PT5M46.89S" e="PT5M47.3S" f="">, řekněme si to </p>
+        <p b="PT5M47.58S" e="PT5M47.89S" f="">na rovinu, on z nás udělal</p>
+        <p b="PT5M48.1S" e="PT5M48.52S" f=""> </p>
+        <p b="PT5M48.52S" e="PT5M49.03S" f="">špiony</p>
+        <p b="PT5M49.03S" e="PT5M49.25S" f="">. </p>
+        <p b="PT5M50.27S" e="PT5M50.72S" f="">Já jsem </p>
+        <p b="PT5M50.72S" e="PT5M50.88S" f="">se </p>
+        <p b="PT5M50.88S" e="PT5M51.4S" f="">toho řemesla potom držel.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT9M24.01S" e="PT9M38.19S" a="None" s="0">
+        <p b="PT9M24.01S" e="PT9M24.27S" f="">Hostem </p>
+        <p b="PT9M24.27S" e="PT9M24.81S" f="">dopoledního </p>
+        <p b="PT9M24.81S" e="PT9M25.7S" f="">Radiožurnálu </p>
+        <p b="PT9M25.7S" e="PT9M26.13S" f="">je dnes </p>
+        <p b="PT9M26.13S" e="PT9M26.37S" f="">pan </p>
+        <p b="PT9M26.37S" e="PT9M26.67S" f="">Jiří </p>
+        <p b="PT9M26.67S" e="PT9M27.19S" f="">Světlík, </p>
+        <p b="PT9M27.19S" e="PT9M27.73S" f="">se kterým </p>
+        <p b="PT9M27.73S" e="PT9M28.42S" f="">vzpomínáme </p>
+        <p b="PT9M28.42S" e="PT9M28.53S" f="">na </p>
+        <p b="PT9M28.53S" e="PT9M29.08S" f="">události </p>
+        <p b="PT9M29.08S" e="PT9M29.3S" f="">před </p>
+        <p b="PT9M29.3S" e="PT9M29.97S" f="">80 </p>
+        <p b="PT9M29.97S" e="PT9M30.31S" f="">lety a</p>
+        <p b="PT9M30.71S" e="PT9M30.97S" f=""> </p>
+        <p b="PT9M30.97S" e="PT9M31.66S" f="">následující </p>
+        <p b="PT9M31.66S" e="PT9M32.14S" f="">osudy </p>
+        <p b="PT9M32.14S" e="PT9M32.48S" f="">během </p>
+        <p b="PT9M32.48S" e="PT9M32.94S" f="">války. </p>
+        <p b="PT9M33.33S" e="PT9M33.65S" f="">Vy jste </p>
+        <p b="PT9M33.65S" e="PT9M33.77S" f="">byl </p>
+        <p b="PT9M33.77S" e="PT9M33.95S" f="">pane S</p>
+        <p b="PT9M33.95S" e="PT9M34.46S" f="">větlíku </p>
+        <p b="PT9M34.46S" e="PT9M34.74S" f="">v roce </p>
+        <p b="PT9M34.74S" e="PT9M35.46S" f="">19</p>
+        <p b="PT9M35.46S" e="PT9M36.46S" f="">44 </p>
+        <p b="PT9M36.46S" e="PT9M37.02S" f="">nasazen </p>
+        <p b="PT9M37.02S" e="PT9M37.16S" f="">na </p>
+        <p b="PT9M37.16S" e="PT9M37.66S" f="">práci </p>
+        <p b="PT9M37.66S" e="PT9M37.83S" f="">do Ř</p>
+        <p b="PT9M37.83S" e="PT9M38.19S" f="">íše. </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT9M38.19S" e="PT9M38.52S" a="None" s="1">
+        <p b="PT9M38.19S" e="PT9M38.52S" f="">Ano. </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT9M38.95S" e="PT9M39.82S" a="None" s="0">
+        <p b="PT9M38.95S" e="PT9M39.2S" f="">Co </p>
+        <p b="PT9M39.2S" e="PT9M39.4S" f="">jste </p>
+        <p b="PT9M39.4S" e="PT9M39.82S" f="">dělal? </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT9M40.26S" e="PT9M42.68S" a="None" s="1">
+        <p b="PT9M40.26S" e="PT9M40.83S" f="">Tam jsem se, </p>
+        <p b="PT9M40.83S" e="PT9M41.19S" f="">prosím, </p>
+        <p b="PT9M41.19S" e="PT9M41.66S" f="">naučil být </p>
+        <p b="PT9M42.03S" e="PT9M42.68S" f="">frézařem. </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT9M43.26S" e="PT9M47.96S" a="None" s="0">
+        <p b="PT9M43.26S" e="PT9M43.72S" f="">Pro ty, </p>
+        <p b="PT9M43.72S" e="PT9M43.87S" f="">co </p>
+        <p b="PT9M43.87S" e="PT9M44.01S" f="">už </p>
+        <p b="PT9M44.01S" e="PT9M44.28S" f="">si to </p>
+        <p b="PT9M44.28S" e="PT9M45.33S" f="">nepamatují, </p>
+        <p b="PT9M45.33S" e="PT9M45.7S" f="">jak </p>
+        <p b="PT9M45.7S" e="PT9M46.24S" f="">vypadalo </p>
+        <p b="PT9M46.24S" e="PT9M46.75S" f="">totální </p>
+        <p b="PT9M46.75S" e="PT9M47.36S" f="">nasazení v </p>
+        <p b="PT9M47.36S" e="PT9M47.96S" f="">Německu?</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT9M47.96S" e="PT10M36.7S" a="None" s="1">
+        <p b="PT9M47.96S" e="PT9M48.34S" f="">No tak totální</p>
+        <p b="PT9M48.58S" e="PT9M48.76S" f=""> </p>
+        <p b="PT9M48.76S" e="PT9M49.33S" f="">nasazení </p>
+        <p b="PT9M49.33S" e="PT9M49.76S" f="">vypadalo </p>
+        <p b="PT9M49.76S" e="PT9M50.13S" f="">velice </p>
+        <p b="PT9M50.13S" e="PT9M50.92S" f="">jednoduše. </p>
+        <p b="PT9M51.56S" e="PT9M52.09S" f="">Jednoho </p>
+        <p b="PT9M52.09S" e="PT9M52.6S" f="">dne </p>
+        <p b="PT9M53.16S" e="PT9M53.4S" f="">jsem </p>
+        <p b="PT9M53.4S" e="PT9M53.72S" f="">dostal </p>
+        <p b="PT9M53.72S" e="PT9M54.37S" f="">předvolání </p>
+        <p b="PT9M54.37S" e="PT9M54.55S" f="">na </p>
+        <p b="PT9M54.55S" e="PT9M55.07S" f="">pracovní </p>
+        <p b="PT9M55.07S" e="PT9M55.61S" f="">úřad, </p>
+        <p b="PT9M56S" e="PT9M56.58S" f="">tam </p>
+        <p b="PT9M56.73S" e="PT9M57.65S" f="">okamžitě </p>
+        <p b="PT9M57.65S" e="PT9M57.89S" f="">jsem </p>
+        <p b="PT9M57.89S" e="PT9M58.51S" f="">dostal </p>
+        <p b="PT10M0.09S" e="PT10M0.56S" f="">Verpflichtungsbescheid, </p>
+        <p b="PT10M0.84S" e="PT10M1.44S" f="">že jsem </p>
+        <p b="PT10M1.78S" e="PT10M2.06S" f="">v tom </p>
+        <p b="PT10M2.06S" e="PT10M2.84S" f="">okamžiku </p>
+        <p b="PT10M2.84S" e="PT10M3.58S" f="">nasazen </p>
+        <p b="PT10M3.95S" e="PT10M4.42S" f="">na přeu</p>
+        <p b="PT10M4.42S" e="PT10M5.05S" f="">čení </p>
+        <p b="PT10M5.05S" e="PT10M5.55S" f="">se </p>
+        <p b="PT10M6.32S" e="PT10M6.47S" f="">v </p>
+        <p b="PT10M6.47S" e="PT10M7.64S" f="">kovoprůmyslu d</p>
+        <p b="PT10M7.95S" e="PT10M8.59S" f="">o </p>
+        <p b="PT10M9.31S" e="PT10M10.25S" f="">Maschinenfabrik GmbH </p>
+        <p b="PT10M11.64S" e="PT10M12.29S" f="">Donauwert. Nástup </p>
+        <p b="PT10M12.29S" e="PT10M12.64S" f="">týž den </p>
+        <p b="PT10M12.64S" e="PT10M13.09S" f="">večer v </p>
+        <p b="PT10M13.09S" e="PT10M13.85S" f="">10 hodin </p>
+        <p b="PT10M14.04S" e="PT10M14.17S" f="">na </p>
+        <p b="PT10M14.17S" e="PT10M14.6S" f="">hlavním </p>
+        <p b="PT10M14.6S" e="PT10M15.15S" f="">nádraží v Plzni. Hotovo. T</p>
+        <p b="PT10M17.76S" e="PT10M17.96S" f="">am </p>
+        <p b="PT10M17.96S" e="PT10M18.22S" f="">jsme </p>
+        <p b="PT10M18.22S" e="PT10M18.94S" f="">přijeli </p>
+        <p b="PT10M19.5S" e="PT10M19.6S" f="">a </p>
+        <p b="PT10M19.6S" e="PT10M20S" f="">dělali </p>
+        <p b="PT10M20S" e="PT10M20.14S" f="">tam s námi </p>
+        <p b="PT10M20.42S" e="PT10M20.76S" f="">také </p>
+        <p b="PT10M20.76S" e="PT10M21.67S" f="">Němci. </p>
+        <p b="PT10M22.5S" e="PT10M22.84S" f="">Takoví </p>
+        <p b="PT10M22.84S" e="PT10M22.95S" f="">ti </p>
+        <p b="PT10M22.95S" e="PT10M23.39S" f="">dědkové </p>
+        <p b="PT10M23.39S" e="PT10M23.53S" f="">co </p>
+        <p b="PT10M23.53S" e="PT10M23.69S" f="">už </p>
+        <p b="PT10M23.69S" e="PT10M24.23S" f="">neudrželi </p>
+        <p b="PT10M24.23S" e="PT10M24.95S" f="">flintu, </p>
+        <p b="PT10M25.54S" e="PT10M25.76S" f="">tak </p>
+        <p b="PT10M25.76S" e="PT10M26.31S" f="">mohli stát </p>
+        <p b="PT10M26.31S" e="PT10M26.69S" f="">aspoň u </p>
+        <p b="PT10M26.69S" e="PT10M27.36S" f="">mašiny </p>
+        <p b="PT10M27.62S" e="PT10M27.71S" f="">a </p>
+        <p b="PT10M27.71S" e="PT10M27.99S" f="">dělat </p>
+        <p b="PT10M27.99S" e="PT10M28.25S" f="">třeba </p>
+        <p b="PT10M28.25S" e="PT10M28.34S" f="">na </p>
+        <p b="PT10M28.34S" e="PT10M28.8S" f="">fréze </p>
+        <p b="PT10M28.8S" e="PT10M29.28S" f="">nebo co. </p>
+        <p b="PT10M29.42S" e="PT10M29.85S" f="">A tam </p>
+        <p b="PT10M29.85S" e="PT10M30.47S" f="">jsem se z</p>
+        <p b="PT10M30.81S" e="PT10M31.57S" f="">aučil </p>
+        <p b="PT10M31.57S" e="PT10M31.85S" f="">na tu </p>
+        <p b="PT10M31.85S" e="PT10M32.42S" f="">frézu. </p>
+        <p b="PT10M32.88S" e="PT10M33.33S" f="">Ráno </p>
+        <p b="PT10M33.33S" e="PT10M33.86S" f="">se dělalo </p>
+        <p b="PT10M33.86S" e="PT10M34.76S" f="">od šesti </p>
+        <p b="PT10M35.03S" e="PT10M35.18S" f="">do </p>
+        <p b="PT10M35.18S" e="PT10M35.62S" f="">večera </p>
+        <p b="PT10M35.62S" e="PT10M35.72S" f="">do </p>
+        <p b="PT10M35.72S" e="PT10M36.13S" f="">šesti </p>
+        <p b="PT10M36.13S" e="PT10M36.7S" f="">hodin.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT10M37.59S" e="PT10M44.39S" a="None" s="0">
+        <p b="PT10M37.59S" e="PT10M37.86S" f="">Z té </p>
+        <p b="PT10M37.86S" e="PT10M38.66S" f="">fabriky </p>
+        <p b="PT10M38.66S" e="PT10M38.84S" f="">si </p>
+        <p b="PT10M38.84S" e="PT10M39.22S" f="">člověk </p>
+        <p b="PT10M39.22S" e="PT10M39.63S" f="">nemohl </p>
+        <p b="PT10M39.63S" e="PT10M40S" f="">jezdit </p>
+        <p b="PT10M40S" e="PT10M40.33S" f="">domů, </p>
+        <p b="PT10M40.33S" e="PT10M40.54S" f="">tak </p>
+        <p b="PT10M40.54S" e="PT10M40.71S" f="">jak </p>
+        <p b="PT10M40.71S" e="PT10M41.33S" f="">by chtěl. </p>
+        <p b="PT10M41.76S" e="PT10M42.26S" f="">Nicméně </p>
+        <p b="PT10M42.26S" e="PT10M42.53S" f="">vy jste </p>
+        <p b="PT10M42.53S" e="PT10M42.89S" f="">si </p>
+        <p b="PT10M43.21S" e="PT10M43.64S" f="">trošku </p>
+        <p b="PT10M43.64S" e="PT10M44.01S" f="">jezdil </p>
+        <p b="PT10M44.01S" e="PT10M44.39S" f="">domů.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT10M44.01S" e="PT10M46.39S" a="None" s="1">
+        <p b="PT10M44.01S" e="PT10M44.39S" f="">No p</p>
+        <p b="PT10M44.56S" e="PT10M45.23S" f="">ochopitelné, </p>
+        <p b="PT10M45.23S" e="PT10M45.41S" f="">že </p>
+        <p b="PT10M45.41S" e="PT10M46.39S" f="">načerno. </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT10M45.41S" e="PT10M48.23S" a="None" s="0">
+        <p b="PT10M45.41S" e="PT10M46.39S" f="">A</p>
+        <p b="PT10M47.65S" e="PT10M48.23S" f="">le jak?</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT10M47.65S" e="PT10M49.26S" a="None" s="1">
+        <p b="PT10M47.65S" e="PT10M48.23S" f="">No vlak</p>
+        <p b="PT10M48.74S" e="PT10M49.26S" f="">em.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT10M48.74S" e="PT10M54.92S" a="None" s="0">
+        <p b="PT10M48.74S" e="PT10M49.26S" f="">T</p>
+        <p b="PT10M49.87S" e="PT10M50.14S" f="">ak to </p>
+        <p b="PT10M50.14S" e="PT10M50.31S" f="">si </p>
+        <p b="PT10M50.31S" e="PT10M50.56S" f="">mohl </p>
+        <p b="PT10M50.56S" e="PT10M51.05S" f="">člověk </p>
+        <p b="PT10M51.05S" e="PT10M51.52S" f="">totálně </p>
+        <p b="PT10M51.52S" e="PT10M52.14S" f="">nasazený </p>
+        <p b="PT10M52.14S" e="PT10M52.63S" f="">normálně </p>
+        <p b="PT10M52.63S" e="PT10M53.03S" f="">sednout </p>
+        <p b="PT10M53.03S" e="PT10M53.16S" f="">do </p>
+        <p b="PT10M53.16S" e="PT10M53.49S" f="">vlaku a odjet </p>
+        <p b="PT10M53.49S" e="PT10M54.18S" f="">si </p>
+        <p b="PT10M54.18S" e="PT10M54.42S" f="">bez </p>
+        <p b="PT10M54.42S" e="PT10M54.92S" f="">povolení domů?</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT10M54.92S" e="PT10M56.06S" a="None" s="1">
+        <p b="PT10M54.92S" e="PT10M55.07S" f="">No </p>
+        <p b="PT10M55.07S" e="PT10M55.54S" f="">nemohl, ale </p>
+        <p b="PT10M55.54S" e="PT10M56.06S" f="">jel.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT10M56.06S" e="PT10M57.09S" a="None" s="0">
+        <p b="PT10M56.06S" e="PT10M56.33S" f="">A jak </p>
+        <p b="PT10M56.33S" e="PT10M56.49S" f="">jste </p>
+        <p b="PT10M56.49S" e="PT10M56.61S" f="">to </p>
+        <p b="PT10M56.61S" e="PT10M57.09S" f="">dělal?</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT10M57.73S" e="PT12M8.23S" a="None" s="1">
+        <p b="PT10M57.73S" e="PT10M58.1S" f="">Kdyby </p>
+        <p b="PT10M58.1S" e="PT10M58.3S" f="">mě </p>
+        <p b="PT10M58.3S" e="PT10M58.66S" f="">chytli, </p>
+        <p b="PT10M58.66S" e="PT10M58.92S" f="">tak </p>
+        <p b="PT10M59.23S" e="PT10M59.73S" f="">by mě mohli </p>
+        <p b="PT10M59.73S" e="PT11M0.07S" f="">chytit </p>
+        <p b="PT11M0.07S" e="PT11M0.55S" f="">jedině na </p>
+        <p b="PT11M0.55S" e="PT11M1.12S" f="">hranicích. </p>
+        <p b="PT11M1.58S" e="PT11M2.26S" f="">Hranice </p>
+        <p b="PT11M2.26S" e="PT11M2.95S" f="">byly </p>
+        <p b="PT11M5.74S" e="PT11M5.97S" f="">Tuschkau Kosolup, ono </p>
+        <p b="PT11M5.97S" e="PT11M6.27S" f="">se to potom </p>
+        <p b="PT11M6.27S" e="PT11M7.05S" f="">jmenovalo </p>
+        <p b="PT11M7.05S" e="PT11M7.43S" f="">Touškov - </p>
+        <p b="PT11M7.43S" e="PT11M7.95S" f="">Kozolupy, teď se to jmenuje </p>
+        <p b="PT11M8.72S" e="PT11M9.33S" f="">Kozolupy u </p>
+        <p b="PT11M9.33S" e="PT11M9.86S" f="">Plzně. </p>
+        <p b="PT11M10.86S" e="PT11M11.63S" f="">To byla </p>
+        <p b="PT11M11.63S" e="PT11M12.57S" f="">německá </p>
+        <p b="PT11M12.57S" e="PT11M13.19S" f="">pohraniční </p>
+        <p b="PT11M13.19S" e="PT11M13.84S" f="">stanice, </p>
+        <p b="PT11M15.2S" e="PT11M15.62S" f="">jízdní </p>
+        <p b="PT11M15.62S" e="PT11M15.98S" f="">řády </p>
+        <p b="PT11M15.98S" e="PT11M16.52S" f="">a podobně a</p>
+        <p b="PT11M16.52S" e="PT11M16.6S" f=""> </p>
+        <p b="PT11M16.6S" e="PT11M17.06S" f="">spoje, </p>
+        <p b="PT11M17.06S" e="PT11M17.48S" f="">to bylo </p>
+        <p b="PT11M17.48S" e="PT11M17.98S" f="">moje, </p>
+        <p b="PT11M18.74S" e="PT11M19.17S" f="">abych </p>
+        <p b="PT11M19.17S" e="PT11M19.44S" f="">věděl </p>
+        <p b="PT11M19.44S" e="PT11M19.88S" f="">kdy, </p>
+        <p b="PT11M19.88S" e="PT11M20.15S" f="">kde, </p>
+        <p b="PT11M20.15S" e="PT11M20.7S" f="">odkud co, </p>
+        <p b="PT11M20.7S" e="PT11M20.91S" f="">kam </p>
+        <p b="PT11M20.91S" e="PT11M21.4S" f="">jezdí. </p>
+        <p b="PT11M22.45S" e="PT11M22.79S" f="">A </p>
+        <p b="PT11M22.79S" e="PT11M23.27S" f="">pro tenhle </p>
+        <p b="PT11M23.27S" e="PT11M23.55S" f="">ten </p>
+        <p b="PT11M23.55S" e="PT11M23.86S" f="">účel </p>
+        <p b="PT11M23.86S" e="PT11M24.4S" f="">se mi v jízdním ř</p>
+        <p b="PT11M25.55S" e="PT11M25.93S" f="">ádu </p>
+        <p b="PT11M25.93S" e="PT11M26.48S" f="">líbil t</p>
+        <p b="PT11M26.77S" e="PT11M27.21S" f="">akzvaný </p>
+        <p b="PT11M28.27S" e="PT11M28.79S" f="">Fronturlauberzug,  </p>
+        <p b="PT11M28.96S" e="PT11M29.39S" f="">vlak </p>
+        <p b="PT11M29.39S" e="PT11M29.94S" f="">pro </p>
+        <p b="PT11M29.94S" e="PT11M30.66S" f="">frontové </p>
+        <p b="PT11M30.66S" e="PT11M31.2S" f="">dovolence, </p>
+        <p b="PT11M32.12S" e="PT11M32.38S" f="">to byl </p>
+        <p b="PT11M32.38S" e="PT11M32.76S" f="">rychlík, </p>
+        <p b="PT11M32.76S" e="PT11M33.17S" f="">který </p>
+        <p b="PT11M33.17S" e="PT11M33.38S" f="">jezdil </p>
+        <p b="PT11M33.38S" e="PT11M33.51S" f="">z </p>
+        <p b="PT11M33.51S" e="PT11M34.18S" f="">Paříže </p>
+        <p b="PT11M34.18S" e="PT11M34.58S" f="">do </p>
+        <p b="PT11M35.89S" e="PT11M36.22S" f="">Přemyšlu. Tenhle </p>
+        <p b="PT11M36.22S" e="PT11M36.45S" f="">ten </p>
+        <p b="PT11M36.45S" e="PT11M36.76S" f="">vlak </p>
+        <p b="PT11M36.76S" e="PT11M37.38S" f="">byl </p>
+        <p b="PT11M37.71S" e="PT11M38.23S" f="">nějak o </p>
+        <p b="PT11M38.47S" e="PT11M38.96S" f="">půlnoci </p>
+        <p b="PT11M40.05S" e="PT11M40.21S" f="">v </p>
+        <p b="PT11M40.21S" e="PT11M40.99S" f="">Norimberku na </p>
+        <p b="PT11M40.99S" e="PT11M41.49S" f="">hlavním </p>
+        <p b="PT11M41.49S" e="PT11M42.4S" f="">nádraží. </p>
+        <p b="PT11M42.95S" e="PT11M43.33S" f="">Vlak </p>
+        <p b="PT11M43.33S" e="PT11M43.52S" f="">pro </p>
+        <p b="PT11M43.52S" e="PT11M44.03S" f="">vojenské </p>
+        <p b="PT11M44.03S" e="PT11M44.42S" f="">dovolence </p>
+        <p b="PT11M44.42S" e="PT11M45.15S" f="">měl </p>
+        <p b="PT11M45.41S" e="PT11M45.75S" f="">10 va</p>
+        <p b="PT11M45.95S" e="PT11M46.28S" f="">gónů, </p>
+        <p b="PT11M46.28S" e="PT11M46.49S" f="">z toho </p>
+        <p b="PT11M46.49S" e="PT11M47.17S" f="">8 </p>
+        <p b="PT11M47.52S" e="PT11M47.83S" f="">bylo </p>
+        <p b="PT11M47.83S" e="PT11M48.26S" f="">jenom </p>
+        <p b="PT11M48.26S" e="PT11M48.63S" f="">pro </p>
+        <p b="PT11M48.63S" e="PT11M49.22S" f="">vojáky </p>
+        <p b="PT11M49.22S" e="PT11M49.97S" f="">německé a</p>
+        <p b="PT11M50.38S" e="PT11M50.54S" f=""> 2 </p>
+        <p b="PT11M50.98S" e="PT11M51.64S" f="">vozy </p>
+        <p b="PT11M51.93S" e="PT11M52.53S" f="">na konci </p>
+        <p b="PT11M52.53S" e="PT11M52.87S" f="">vlaku </p>
+        <p b="PT11M52.87S" e="PT11M53.23S" f="">byly </p>
+        <p b="PT11M53.23S" e="PT11M53.77S" f="">pro </p>
+        <p b="PT11M54.36S" e="PT11M54.97S" f="">civilní </p>
+        <p b="PT11M54.97S" e="PT11M55.81S" f="">přepravu. </p>
+        <p b="PT11M57.13S" e="PT11M57.73S" f="">Takže </p>
+        <p b="PT11M58.07S" e="PT11M58.44S" f="">jsem </p>
+        <p b="PT11M58.44S" e="PT11M58.95S" f="">počkal, vlezl jsem si do těch vagónů, </p>
+        <p b="PT12M0.36S" e="PT12M0.62S" f="">ale </p>
+        <p b="PT12M0.62S" e="PT12M1.3S" f="">teďka </p>
+        <p b="PT12M1.57S" e="PT12M1.85S" f="">jsme </p>
+        <p b="PT12M1.85S" e="PT12M2.64S" f="">přijeli </p>
+        <p b="PT12M2.92S" e="PT12M3.41S" f="">do</p>
+        <p b="PT12M5.86S" e="PT12M6.11S" f=""> Tuschkau Kosolup, jsem </p>
+        <p b="PT12M6.11S" e="PT12M6.57S" f="">otevřel </p>
+        <p b="PT12M6.57S" e="PT12M7.09S" f="">dvířka </p>
+        <p b="PT12M7.09S" e="PT12M7.55S" f="">a vylezl </p>
+        <p b="PT12M7.55S" e="PT12M7.85S" f="">jsem </p>
+        <p b="PT12M7.85S" e="PT12M8.23S" f="">ven na stupátko.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT12M9.68S" e="PT12M12.36S" a="None" s="0">
+        <p b="PT12M9.68S" e="PT12M10.32S" f="">To znamená, </p>
+        <p b="PT12M10.52S" e="PT12M10.65S" f="">ta </p>
+        <p b="PT12M10.65S" e="PT12M11.11S" f="">hlídka </p>
+        <p b="PT12M11.11S" e="PT12M11.39S" f="">šla </p>
+        <p b="PT12M11.39S" e="PT12M11.66S" f="">kolem </p>
+        <p b="PT12M11.66S" e="PT12M12.36S" f="">vás. </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT12M12.36S" e="PT12M12.74S" a="None" s="1">
+        <p b="PT12M12.36S" e="PT12M12.74S" f="">Ano. </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT12M12.74S" e="PT12M13.91S" a="None" s="0">
+        <p b="PT12M12.74S" e="PT12M13.01S" f="">Vlastně </p>
+        <p b="PT12M13.01S" e="PT12M13.31S" f="">mimo </p>
+        <p b="PT12M13.31S" e="PT12M13.91S" f="">vás.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT12M15.05S" e="PT12M24.87S" a="None" s="1">
+        <p b="PT12M15.05S" e="PT12M15.31S" f="">No, ty </p>
+        <p b="PT12M15.31S" e="PT12M15.71S" f="">vlezli </p>
+        <p b="PT12M15.71S" e="PT12M16.15S" f="">do toho </p>
+        <p b="PT12M16.15S" e="PT12M16.71S" f="">předního </p>
+        <p b="PT12M16.71S" e="PT12M17.13S" f="">vagónu </p>
+        <p b="PT12M17.85S" e="PT12M18.18S" f="">a než oni tam vlezli, tak já </p>
+        <p b="PT12M18.18S" e="PT12M18.59S" f="">jsem vylezl na stupátko </p>
+        <p b="PT12M20.13S" e="PT12M20.27S" f="">na </p>
+        <p b="PT12M20.27S" e="PT12M20.69S" f="">opačné </p>
+        <p b="PT12M20.69S" e="PT12M21.09S" f="">straně té</p>
+        <p b="PT12M21.94S" e="PT12M22.11S" f=""> </p>
+        <p b="PT12M22.11S" e="PT12M22.87S" f="">plošiny, </p>
+        <p b="PT12M23.37S" e="PT12M23.72S" f="">zavřel jsem dveře a hotovo.</p>
+        <p b="PT12M24.17S" e="PT12M24.87S" f=""> </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT12M24.87S" e="PT12M25.44S" a="None" s="0">
+        <p b="PT12M24.87S" e="PT12M25.44S" f="">Jasně.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT12M25.69S" e="PT13M30.7S" a="None" s="1">
+        <p b="PT12M25.69S" e="PT12M25.96S" f="">Ale </p>
+        <p b="PT12M25.96S" e="PT12M26.32S" f="">ta nej</p>
+        <p b="PT12M26.32S" e="PT12M26.6S" f="">větší </p>
+        <p b="PT12M26.6S" e="PT12M27.04S" f="">legrace byla tenkrát, když</p>
+        <p b="PT12M27.36S" e="PT12M27.65S" f=""> </p>
+        <p b="PT12M27.65S" e="PT12M27.99S" f="">jsem </p>
+        <p b="PT12M27.99S" e="PT12M28.31S" f="">vezl </p>
+        <p b="PT12M28.84S" e="PT12M29.47S" f="">kluka, </p>
+        <p b="PT12M29.72S" e="PT12M30.05S" f="">to byl </p>
+        <p b="PT12M30.05S" e="PT12M30.49S" f="">chlapec, </p>
+        <p b="PT12M30.49S" e="PT12M31.11S" f="">který byl </p>
+        <p b="PT12M31.45S" e="PT12M31.85S" f="">těžce </p>
+        <p b="PT12M31.85S" e="PT12M32.64S" f="">nemocen, </p>
+        <p b="PT12M33.13S" e="PT12M34.02S" f="">jel </p>
+        <p b="PT12M34.46S" e="PT12M35.09S" f="">domů. </p>
+        <p b="PT12M35.71S" e="PT12M36.57S" f="">Předpokládali, </p>
+        <p b="PT12M36.57S" e="PT12M36.91S" f="">aby </p>
+        <p b="PT12M36.91S" e="PT12M37.97S" f="">neumřel na lágru</p>
+        <p b="PT12M37.97S" e="PT12M38.39S" f="">. </p>
+        <p b="PT12M38.88S" e="PT12M39.13S" f="">A já </p>
+        <p b="PT12M39.13S" e="PT12M39.32S" f="">jsem </p>
+        <p b="PT12M39.32S" e="PT12M39.75S" f="">řekl, kluci </p>
+        <p b="PT12M39.75S" e="PT12M40.2S" f="">já s nim </p>
+        <p b="PT12M40.2S" e="PT12M40.77S" f="">pojedu. </p>
+        <p b="PT12M41.87S" e="PT12M42.66S" f="">Chlapec </p>
+        <p b="PT12M42.66S" e="PT12M43.15S" f="">jel </p>
+        <p b="PT12M43.71S" e="PT12M44.27S" f="">prakticky </p>
+        <p b="PT12M44.27S" e="PT12M44.71S" f="">umřít </p>
+        <p b="PT12M44.71S" e="PT12M44.99S" f="">domů, on byl v </p>
+        <p b="PT12M45.32S" e="PT12M46.22S" f="">podstatě, ne v</p>
+        <p b="PT12M47.45S" e="PT12M47.5S" f=""> </p>
+        <p b="PT12M47.5S" e="PT12M48.17S" f="">bezvědomí, </p>
+        <p b="PT12M48.17S" e="PT12M48.24S" f="">ale </p>
+        <p b="PT12M48.24S" e="PT12M48.77S" f="">prostě </p>
+        <p b="PT12M48.97S" e="PT12M49.24S" f="">moc </p>
+        <p b="PT12M49.24S" e="PT12M49.63S" f="">o sobě </p>
+        <p b="PT12M49.63S" e="PT12M50.15S" f="">nevěděl. </p>
+        <p b="PT12M50.79S" e="PT12M51.09S" f="">Ale </p>
+        <p b="PT12M51.09S" e="PT12M51.65S" f="">protože ty</p>
+        <p b="PT12M51.65S" e="PT12M51.8S" f=""> </p>
+        <p b="PT12M51.8S" e="PT12M51.88S" f="">v</p>
+        <p b="PT12M51.88S" e="PT12M52.49S" f="">agóny </p>
+        <p b="PT12M53.05S" e="PT12M53.72S" f="">pro ty </p>
+        <p b="PT12M54.04S" e="PT12M54.82S" f="">válečné dovolence byly</p>
+        <p b="PT12M55.43S" e="PT12M55.6S" f=""> </p>
+        <p b="PT12M55.6S" e="PT12M56.33S" f="">narvaný, ty </p>
+        <p b="PT12M56.33S" e="PT12M56.61S" f="">byly plný,</p>
+        <p b="PT12M56.61S" e="PT12M57.19S" f=""> </p>
+        <p b="PT12M57.83S" e="PT12M58.04S" f="">tak </p>
+        <p b="PT12M58.04S" e="PT12M58.34S" f="">i </p>
+        <p b="PT12M58.34S" e="PT12M58.72S" f="">v těch </p>
+        <p b="PT12M58.72S" e="PT12M59.29S" f="">vozech </p>
+        <p b="PT12M59.29S" e="PT12M59.59S" f="">pro tu </p>
+        <p b="PT12M59.59S" e="PT13M0.01S" f="">civilně </p>
+        <p b="PT13M0.01S" e="PT13M0.86S" f="">přepravu b</p>
+        <p b="PT13M1.22S" e="PT13M1.79S" f="">yli </p>
+        <p b="PT13M1.79S" e="PT13M2.35S" f="">němečtí </p>
+        <p b="PT13M2.35S" e="PT13M2.95S" f="">vojáci. </p>
+        <p b="PT13M3.41S" e="PT13M3.53S" f="">A </p>
+        <p b="PT13M3.53S" e="PT13M3.65S" f="">na </p>
+        <p b="PT13M3.65S" e="PT13M3.91S" f="">té </p>
+        <p b="PT13M3.91S" e="PT13M4.34S" f="">plošině, </p>
+        <p b="PT13M4.34S" e="PT13M4.49S" f="">kde </p>
+        <p b="PT13M4.49S" e="PT13M4.93S" f="">já jsem měl </p>
+        <p b="PT13M4.93S" e="PT13M5.46S" f="">položeného toho</p>
+        <p b="PT13M5.69S" e="PT13M5.9S" f=""> </p>
+        <p b="PT13M5.9S" e="PT13M6.54S" f="">kluka </p>
+        <p b="PT13M7.03S" e="PT13M7.47S" f="">stály </p>
+        <p b="PT13M7.47S" e="PT13M7.69S" f="">2 </p>
+        <p b="PT13M7.69S" e="PT13M8.53S" f="">důstojníci </p>
+        <p b="PT13M8.96S" e="PT13M9.8S" f="">wehrmachtu. </p>
+        <p b="PT13M10.72S" e="PT13M11.33S" f="">Přijížděli </p>
+        <p b="PT13M11.33S" e="PT13M11.61S" f="">jsme </p>
+        <p b="PT13M11.61S" e="PT13M11.78S" f="">k </p>
+        <p b="PT13M11.78S" e="PT13M12.38S" f="">Plzni </p>
+        <p b="PT13M12.85S" e="PT13M13.14S" f="">a já </p>
+        <p b="PT13M13.14S" e="PT13M13.7S" f="">povídám t</p>
+        <p b="PT13M14.53S" e="PT13M14.82S" f="">ěm důstojníkům, "P</p>
+        <p b="PT13M15.62S" e="PT13M16.27S" f="">ánové, </p>
+        <p b="PT13M17.07S" e="PT13M17.64S" f="">promiňte, </p>
+        <p b="PT13M17.64S" e="PT13M17.9S" f="">já vám to </p>
+        <p b="PT13M17.9S" e="PT13M18.14S" f="">řeknu na </p>
+        <p b="PT13M18.14S" e="PT13M18.83S" f="">rovinu. </p>
+        <p b="PT13M19.17S" e="PT13M19.44S" f="">Já ho </p>
+        <p b="PT13M19.44S" e="PT13M20.12S" f="">doprovázím, </p>
+        <p b="PT13M20.12S" e="PT13M20.47S" f="">ale já </p>
+        <p b="PT13M20.47S" e="PT13M20.87S" f="">nemám </p>
+        <p b="PT13M21.52S" e="PT13M22.15S" f="">propustku, j</p>
+        <p b="PT13M22.47S" e="PT13M22.8S" f="">á </p>
+        <p b="PT13M22.8S" e="PT13M23.24S" f="">vylezu </p>
+        <p b="PT13M23.24S" e="PT13M23.56S" f="">ven." </p>
+        <p b="PT13M25.17S" e="PT13M25.48S" f="">A když </p>
+        <p b="PT13M25.48S" e="PT13M25.77S" f="">ta </p>
+        <p b="PT13M26.28S" e="PT13M26.87S" f="">policejní </p>
+        <p b="PT13M26.87S" e="PT13M27.3S" f="">kontrola </p>
+        <p b="PT13M27.3S" e="PT13M27.91S" f="">přešla, </p>
+        <p b="PT13M27.91S" e="PT13M28.26S" f="">tak jeden z těch důstojníků otevřel ty dveře a povídá, "P</p>
+        <p b="PT13M30S" e="PT13M30.27S" f="">ojďte </p>
+        <p b="PT13M30.27S" e="PT13M30.7S" f="">dovnitř."</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT13M30.93S" e="PT13M31.6S" a="None" s="0">
+        <p b="PT13M30.93S" e="PT13M31.6S" f="">Němec.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT13M31.6S" e="PT13M32.22S" a="None" s="1">
+        <p b="PT13M31.6S" e="PT13M32.22S" f="">Němec. </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT13M33.47S" e="PT13M37.53S" a="None" s="0">
+        <p b="PT13M33.47S" e="PT13M33.85S" f="">No, </p>
+        <p b="PT13M33.85S" e="PT13M34.59S" f="">nicméně </p>
+        <p b="PT13M34.59S" e="PT13M34.89S" f="">to </p>
+        <p b="PT13M34.89S" e="PT13M35.32S" f="">ježdění </p>
+        <p b="PT13M35.32S" e="PT13M35.8S" f="">vlakem </p>
+        <p b="PT13M35.8S" e="PT13M36.14S" f="">se vám </p>
+        <p b="PT13M36.14S" e="PT13M36.46S" f="">stalo </p>
+        <p b="PT13M36.46S" e="PT13M36.82S" f="">trochu </p>
+        <p b="PT13M36.82S" e="PT13M37.53S" f="">osudným. </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT13M37.53S" e="PT13M38.01S" a="None" s="1">
+        <p b="PT13M37.53S" e="PT13M37.75S" f="">Ale </p>
+        <p b="PT13M37.75S" e="PT13M38.01S" f="">no tak ne stalo osudným.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT13M39.97S" e="PT13M42.85S" a="None" s="0">
+        <p b="PT13M39.97S" e="PT13M40.35S" f="">No, někdo </p>
+        <p b="PT13M40.35S" e="PT13M40.5S" f="">to </p>
+        <p b="PT13M40.5S" e="PT13M40.91S" f="">na vás vy</p>
+        <p b="PT13M40.91S" e="PT13M41.49S" f="">zvonil a </p>
+        <p b="PT13M41.49S" e="PT13M41.75S" f="">šel </p>
+        <p b="PT13M41.75S" e="PT13M42.38S" f="">jste </p>
+        <p b="PT13M42.38S" e="PT13M42.85S" f="">do vězení.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT13M42.38S" e="PT14M33.84S" a="None" s="1">
+        <p b="PT13M42.38S" e="PT13M42.85S" f="">No, práskl to. No ale </p>
+        <p b="PT13M44.59S" e="PT13M44.86S" f="">za </p>
+        <p b="PT13M44.86S" e="PT13M45.32S" f="">tyhle ty </p>
+        <p b="PT13M45.32S" e="PT13M45.7S" f="">jízdy </p>
+        <p b="PT13M45.7S" e="PT13M46.33S" f="">načerno </p>
+        <p b="PT13M46.66S" e="PT13M46.95S" f="">jsem </p>
+        <p b="PT13M46.95S" e="PT13M47.62S" f="">dostal </p>
+        <p b="PT13M47.99S" e="PT13M48.62S" f="">3 </p>
+        <p b="PT13M48.62S" e="PT13M49.28S" f="">neděle </p>
+        <p b="PT13M49.28S" e="PT13M50.06S" f="">policejní </p>
+        <p b="PT13M50.06S" e="PT13M50.6S" f="">trest. </p>
+        <p b="PT13M51.5S" e="PT13M51.92S" f="">A ty </p>
+        <p b="PT13M51.92S" e="PT13M52.14S" f="">3 </p>
+        <p b="PT13M52.14S" e="PT13M52.5S" f="">neděle </p>
+        <p b="PT13M52.5S" e="PT13M52.77S" f="">jsem </p>
+        <p b="PT13M52.77S" e="PT13M53.47S" f="">od</p>
+        <p b="PT13M53.47S" e="PT13M54.18S" f="">sloužil v</p>
+        <p b="PT13M55.2S" e="PT13M55.36S" f=""> </p>
+        <p b="PT13M55.36S" e="PT13M55.87S" f="">takzvaném </p>
+        <p b="PT13M56.17S" e="PT13M56.77S" f="">Presswerku, </p>
+        <p b="PT13M56.99S" e="PT13M57.29S" f="">to byla </p>
+        <p b="PT13M57.29S" e="PT13M57.8S" f="">lisovna </p>
+        <p b="PT13M57.8S" e="PT13M58.15S" f="">střel </p>
+        <p b="PT13M58.15S" e="PT13M58.32S" f="">za </p>
+        <p b="PT13M58.32S" e="PT13M58.95S" f="">horka. Ty </p>
+        <p b="PT14M0.01S" e="PT14M0.73S" f="">Němci, </p>
+        <p b="PT14M1.2S" e="PT14M1.34S" f="">ty </p>
+        <p b="PT14M1.34S" e="PT14M2.06S" f="">dědkové </p>
+        <p b="PT14M2.48S" e="PT14M3.4S" f="">věděli, </p>
+        <p b="PT14M3.83S" e="PT14M4.03S" f="">že </p>
+        <p b="PT14M4.03S" e="PT14M4.5S" f="">já jsem </p>
+        <p b="PT14M4.5S" e="PT14M4.79S" f="">ten </p>
+        <p b="PT14M4.79S" e="PT14M5.58S" f="">darebák, </p>
+        <p b="PT14M5.94S" e="PT14M6.27S" f="">který </p>
+        <p b="PT14M6.27S" e="PT14M6.48S" f="">jim </p>
+        <p b="PT14M6.48S" e="PT14M6.8S" f="">říkal, </p>
+        <p b="PT14M6.8S" e="PT14M7.08S" f="">že tu </p>
+        <p b="PT14M7.08S" e="PT14M7.41S" f="">válku </p>
+        <p b="PT14M7.41S" e="PT14M7.72S" f="">musí </p>
+        <p b="PT14M7.72S" e="PT14M8.33S" f="">prohrát. </p>
+        <p b="PT14M8.97S" e="PT14M9.61S" f="">To bylo </p>
+        <p b="PT14M9.61S" e="PT14M10.14S" f="">už </p>
+        <p b="PT14M10.14S" e="PT14M10.96S" f="">v červnu, u</p>
+        <p b="PT14M12.12S" e="PT14M12.37S" f="">ž </p>
+        <p b="PT14M12.37S" e="PT14M12.58S" f="">byla </p>
+        <p b="PT14M12.58S" e="PT14M13.26S" f="">invaze. </p>
+        <p b="PT14M14.33S" e="PT14M14.78S" f="">Já jsem </p>
+        <p b="PT14M14.78S" e="PT14M15S" f="">těm </p>
+        <p b="PT14M15S" e="PT14M15.52S" f="">dědkům říkal, "P</p>
+        <p b="PT14M15.52S" e="PT14M16.02S" f="">ánové, t</p>
+        <p b="PT14M17.11S" e="PT14M17.47S" f="">ohle </p>
+        <p b="PT14M17.47S" e="PT14M17.94S" f="">to už </p>
+        <p b="PT14M17.94S" e="PT14M18.57S" f="">nemůžete </p>
+        <p b="PT14M18.57S" e="PT14M19.28S" f="">vyhrát." Ale to je jisté, </p>
+        <p b="PT14M21.36S" e="PT14M22.13S" f="">vůdce a </p>
+        <p b="PT14M22.13S" e="PT14M22.42S" f="">tak, </p>
+        <p b="PT14M22.42S" e="PT14M23.03S" f="">prostě n</p>
+        <p b="PT14M23.58S" e="PT14M24.2S" f="">adšené kydy. No, p</p>
+        <p b="PT14M24.8S" e="PT14M25.52S" f="">ochopitelně </p>
+        <p b="PT14M25.52S" e="PT14M25.75S" f="">oni to n</p>
+        <p b="PT14M25.89S" e="PT14M26.19S" f="">a mě </p>
+        <p b="PT14M26.19S" e="PT14M26.85S" f="">práskly, </p>
+        <p b="PT14M27S" e="PT14M27.2S" f="">ale </p>
+        <p b="PT14M27.2S" e="PT14M27.74S" f="">protože to </p>
+        <p b="PT14M27.74S" e="PT14M27.95S" f="">byly </p>
+        <p b="PT14M27.95S" e="PT14M28.26S" f="">zase </p>
+        <p b="PT14M28.26S" e="PT14M28.85S" f="">blbci, </p>
+        <p b="PT14M29.14S" e="PT14M29.45S" f="">tak to </p>
+        <p b="PT14M29.45S" e="PT14M29.58S" f="">nepráskli na </p>
+        <p b="PT14M30.11S" e="PT14M31S" f="">gestapu, </p>
+        <p b="PT14M31.28S" e="PT14M31.6S" f="">ale </p>
+        <p b="PT14M31.6S" e="PT14M31.95S" f="">práskli </p>
+        <p b="PT14M31.95S" e="PT14M32.16S" f="">to </p>
+        <p b="PT14M32.16S" e="PT14M32.4S" f="">jenom </p>
+        <p b="PT14M32.4S" e="PT14M32.53S" f="">na </p>
+        <p b="PT14M32.53S" e="PT14M33.11S" f="">policejní </p>
+        <p b="PT14M33.11S" e="PT14M33.84S" f="">stanici.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT14M33.84S" e="PT14M36.92S" a="None" s="0">
+        <p b="PT14M33.84S" e="PT14M34.25S" f="">Takhle, </p>
+        <p b="PT14M34.25S" e="PT14M34.56S" f="">to bylo </p>
+        <p b="PT14M34.56S" e="PT14M34.85S" f="">vaše </p>
+        <p b="PT14M34.85S" e="PT14M35.16S" f="">velké </p>
+        <p b="PT14M35.16S" e="PT14M35.62S" f="">štěstí, </p>
+        <p b="PT14M35.62S" e="PT14M35.91S" f="">že to </p>
+        <p b="PT14M35.91S" e="PT14M36.21S" f="">nebylo </p>
+        <p b="PT14M36.21S" e="PT14M36.31S" f="">na </p>
+        <p b="PT14M36.31S" e="PT14M36.92S" f="">gestapu.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT14M37.44S" e="PT15M35.53S" a="None" s="1">
+        <p b="PT14M37.44S" e="PT14M37.85S" f="">No, </p>
+        <p b="PT14M37.85S" e="PT14M38.33S" f="">ano. </p>
+        <p b="PT14M38.33S" e="PT14M38.77S" f="">Ale </p>
+        <p b="PT14M39.24S" e="PT14M39.62S" f="">výsledek byl </p>
+        <p b="PT14M39.88S" e="PT14M40.54S" f="">stejný. </p>
+        <p b="PT14M41.39S" e="PT14M41.8S" f="">Vzali mě z toho </p>
+        <p b="PT14M42.73S" e="PT14M43.37S" f="">Presswerku, </p>
+        <p b="PT14M43.62S" e="PT14M43.88S" f="">ani </p>
+        <p b="PT14M43.88S" e="PT14M44.13S" f="">jsem </p>
+        <p b="PT14M44.13S" e="PT14M44.25S" f="">ty tři týdny </p>
+        <p b="PT14M45.4S" e="PT14M45.68S" f="">toho </p>
+        <p b="PT14M45.68S" e="PT14M46.31S" f="">policejního </p>
+        <p b="PT14M46.31S" e="PT14M46.64S" f="">trestu </p>
+        <p b="PT14M46.64S" e="PT14M47.71S" f="">neodpykal a</p>
+        <p b="PT14M49.97S" e="PT14M50.33S" f=""> šoupli mě </p>
+        <p b="PT14M50.33S" e="PT14M50.72S" f="">do </p>
+        <p b="PT14M50.91S" e="PT14M51.63S" f="">kriminálu </p>
+        <p b="PT14M51.9S" e="PT14M52.41S" f="">Donauwertu. </p>
+        <p b="PT14M52.97S" e="PT14M53.31S" f="">To byl </p>
+        <p b="PT14M53.31S" e="PT14M54.04S" f="">velice </p>
+        <p b="PT14M54.46S" e="PT14M55.12S" f="">slušný </p>
+        <p b="PT14M55.12S" e="PT14M56.01S" f="">kriminál, s</p>
+        <p b="PT14M56.85S" e="PT14M57.81S" f="">tarobylý. </p>
+        <p b="PT14M58.6S" e="PT14M59.27S" f="">Moji</p>
+        <p b="PT14M59.93S" e="PT15M0.27S" f=""> </p>
+        <p b="PT15M0.27S" e="PT15M0.8S" f="">vnouč</p>
+        <p b="PT15M0.8S" e="PT15M1.48S" f="">átka, </p>
+        <p b="PT15M2.09S" e="PT15M2.3S" f="">tak </p>
+        <p b="PT15M2.3S" e="PT15M2.54S" f="">oni </p>
+        <p b="PT15M2.54S" e="PT15M2.99S" f="">říkali </p>
+        <p b="PT15M2.99S" e="PT15M3.76S" f="">dědečku, m</p>
+        <p b="PT15M4.59S" e="PT15M4.91S" f="">y </p>
+        <p b="PT15M4.91S" e="PT15M5.13S" f="">tě </p>
+        <p b="PT15M5.13S" e="PT15M5.74S" f="">odvezeme </p>
+        <p b="PT15M5.74S" e="PT15M6.1S" f="">do toho </p>
+        <p b="PT15M6.45S" e="PT15M6.65S" f="">Donauwert, </p>
+        <p b="PT15M6.65S" e="PT15M7.14S" f="">aby si </p>
+        <p b="PT15M7.14S" e="PT15M7.29S" f="">to </p>
+        <p b="PT15M7.29S" e="PT15M7.55S" f="">viděl, </p>
+        <p b="PT15M7.55S" e="PT15M7.8S" f="">jak to </p>
+        <p b="PT15M7.8S" e="PT15M8.52S" f="">vypadá. </p>
+        <p b="PT15M9.66S" e="PT15M10.27S" f="">Přijedeme </p>
+        <p b="PT15M10.27S" e="PT15M10.65S" f="">tam, </p>
+        <p b="PT15M11.61S" e="PT15M11.9S" f="">ten </p>
+        <p b="PT15M11.9S" e="PT15M12.6S" f="">dvůr </p>
+        <p b="PT15M13.64S" e="PT15M13.88S" f="">byl </p>
+        <p b="PT15M13.88S" e="PT15M14.39S" f="">zachován, </p>
+        <p b="PT15M14.39S" e="PT15M15.19S" f="">jenomže </p>
+        <p b="PT15M15.53S" e="PT15M15.92S" f="">na něm </p>
+        <p b="PT15M15.92S" e="PT15M16S" f="">je </p>
+        <p b="PT15M16S" e="PT15M16.38S" f="">dneska </p>
+        <p b="PT15M16.38S" e="PT15M17.37S" f="">parkoviště </p>
+        <p b="PT15M18.5S" e="PT15M18.61S" f="">a </p>
+        <p b="PT15M18.61S" e="PT15M18.97S" f="">oni </p>
+        <p b="PT15M18.97S" e="PT15M19.7S" f="">zbourali </p>
+        <p b="PT15M19.7S" e="PT15M19.86S" f="">to </p>
+        <p b="PT15M19.86S" e="PT15M20.33S" f="">křídlo, </p>
+        <p b="PT15M20.33S" e="PT15M20.49S" f="">kde </p>
+        <p b="PT15M20.49S" e="PT15M20.7S" f="">byla </p>
+        <p b="PT15M20.7S" e="PT15M20.86S" f="">ta </p>
+        <p b="PT15M20.86S" e="PT15M21.69S" f="">věznice a</p>
+        <p b="PT15M22.16S" e="PT15M22.3S" f=""> </p>
+        <p b="PT15M22.3S" e="PT15M22.98S" f="">přistavili </p>
+        <p b="PT15M22.98S" e="PT15M23.33S" f="">k tomu </p>
+        <p b="PT15M23.33S" e="PT15M23.81S" f="">budovu </p>
+        <p b="PT15M23.81S" e="PT15M24.03S" f="">toho </p>
+        <p b="PT15M24.03S" e="PT15M24.53S" f="">krajského </p>
+        <p b="PT15M24.53S" e="PT15M25.18S" f="">úřadu, </p>
+        <p b="PT15M25.18S" e="PT15M25.48S" f="">protože </p>
+        <p b="PT15M25.48S" e="PT15M25.72S" f="">ten </p>
+        <p b="PT15M25.72S" e="PT15M26.29S" f="">úřad </p>
+        <p b="PT15M26.83S" e="PT15M27.5S" f="">potřeboval z</p>
+        <p b="PT15M27.5S" e="PT15M27.88S" f="">většit. T</p>
+        <p b="PT15M28.34S" e="PT15M28.63S" f="">akže </p>
+        <p b="PT15M28.63S" e="PT15M28.94S" f="">oni </p>
+        <p b="PT15M28.94S" e="PT15M29.08S" f="">mi </p>
+        <p b="PT15M29.08S" e="PT15M29.67S" f="">zbourali </p>
+        <p b="PT15M29.67S" e="PT15M29.89S" f="">ten </p>
+        <p b="PT15M29.89S" e="PT15M30.45S" f="">kriminál a </p>
+        <p b="PT15M30.64S" e="PT15M31.06S" f="">já jsem </p>
+        <p b="PT15M31.06S" e="PT15M31.31S" f="">nemohl </p>
+        <p b="PT15M31.31S" e="PT15M31.83S" f="">vnoučatům </p>
+        <p b="PT15M31.83S" e="PT15M32.35S" f="">ukázat, </p>
+        <p b="PT15M32.58S" e="PT15M32.79S" f="">kde </p>
+        <p b="PT15M32.79S" e="PT15M33.02S" f="">jsem </p>
+        <p b="PT15M33.02S" e="PT15M33.59S" f="">začínal </p>
+        <p b="PT15M33.83S" e="PT15M34.15S" f="">svoji </p>
+        <p b="PT15M34.15S" e="PT15M34.79S" f="">kriminální </p>
+        <p b="PT15M34.79S" e="PT15M35.14S" f="">čin</p>
+        <p b="PT15M35.14S" e="PT15M35.53S" f="">nost.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT15M35.14S" e="PT15M37.58S" a="None" s="0">
+        <p b="PT15M35.14S" e="PT15M35.53S" f="">No, </p>
+        <p b="PT15M35.53S" e="PT15M36.06S" f="">ale Jáchymov jste jim</p>
+        <p b="PT15M36.2S" e="PT15M36.59S" f=""> </p>
+        <p b="PT15M36.59S" e="PT15M37.12S" f="">ukázat </p>
+        <p b="PT15M37.12S" e="PT15M37.58S" f="">mohl. </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT15M37.12S" e="PT16M8.82S" a="None" s="1">
+        <p b="PT15M37.12S" e="PT15M37.58S" f="">No tak</p>
+        <p b="PT15M38.44S" e="PT15M38.74S" f=""> </p>
+        <p b="PT15M38.74S" e="PT15M39.49S" f="">Jáchymov, </p>
+        <p b="PT15M40.06S" e="PT15M40.46S" f="">jak se </p>
+        <p b="PT15M40.46S" e="PT15M40.73S" f="">na to </p>
+        <p b="PT15M40.73S" e="PT15M41.08S" f="">člověk </p>
+        <p b="PT15M41.08S" e="PT15M41.52S" f="">kouká, no let je</p>
+        <p b="PT15M41.85S" e="PT15M42.32S" f=""> </p>
+        <p b="PT15M42.32S" e="PT15M43.02S" f="">10 let. </p>
+        <p b="PT15M44.06S" e="PT15M44.34S" f="">Člověk </p>
+        <p b="PT15M44.34S" e="PT15M44.55S" f="">musí být</p>
+        <p b="PT15M44.55S" e="PT15M44.67S" f=""> </p>
+        <p b="PT15M44.67S" e="PT15M45.44S" f="">optimista, </p>
+        <p b="PT15M46.5S" e="PT15M46.94S" f="">musí </p>
+        <p b="PT15M46.94S" e="PT15M47.39S" f="">prostě </p>
+        <p b="PT15M47.39S" e="PT15M47.79S" f="">věřit</p>
+        <p b="PT15M47.79S" e="PT15M48.11S" f="">, </p>
+        <p b="PT15M48.52S" e="PT15M48.87S" f="">že to </p>
+        <p b="PT15M48.87S" e="PT15M49.62S" f="">přežije. </p>
+        <p b="PT15M49.83S" e="PT15M49.99S" f="">Když </p>
+        <p b="PT15M49.99S" e="PT15M50.18S" f="">šel </p>
+        <p b="PT15M50.18S" e="PT15M50.54S" f="">do té </p>
+        <p b="PT15M50.54S" e="PT15M50.87S" f="">basy, </p>
+        <p b="PT15M50.87S" e="PT15M51.05S" f="">tak </p>
+        <p b="PT15M51.05S" e="PT15M51.31S" f="">musel </p>
+        <p b="PT15M51.31S" e="PT15M51.77S" f="">vědět, </p>
+        <p b="PT15M52.36S" e="PT15M52.88S" f="">že to </p>
+        <p b="PT15M52.88S" e="PT15M53.71S" f="">musí </p>
+        <p b="PT15M53.71S" e="PT15M54.01S" f="">ten </p>
+        <p b="PT15M54.01S" e="PT15M54.51S" f="">kriminál </p>
+        <p b="PT15M54.51S" e="PT15M55.15S" f="">přežít. </p>
+        <p b="PT15M55.74S" e="PT15M56.15S" f="">Když jsem </p>
+        <p b="PT15M56.15S" e="PT15M56.7S" f="">dostal u</p>
+        <p b="PT15M57.09S" e="PT15M57.44S" f=""> </p>
+        <p b="PT15M57.44S" e="PT15M58.01S" f="">státního </p>
+        <p b="PT15M58.01S" e="PT15M58.61S" f="">soudu </p>
+        <p b="PT15M59.1S" e="PT16M0.02S" f="">20 let, tak jsem si </p>
+        <p b="PT16M0.91S" e="PT16M1.42S" f="">říkal, "H</p>
+        <p b="PT16M1.42S" e="PT16M1.93S" f="">ochu, </p>
+        <p b="PT16M2.37S" e="PT16M2.93S" f="">no </p>
+        <p b="PT16M3.66S" e="PT16M4.03S" f="">je to </p>
+        <p b="PT16M4.03S" e="PT16M4.45S" f="">hodně, </p>
+        <p b="PT16M4.45S" e="PT16M4.91S" f="">ale </p>
+        <p b="PT16M5.43S" e="PT16M5.84S" f="">musíš dělat </p>
+        <p b="PT16M5.96S" e="PT16M6.32S" f="">všechno </p>
+        <p b="PT16M6.32S" e="PT16M6.58S" f="">pro to, </p>
+        <p b="PT16M6.58S" e="PT16M6.84S" f="">abys to přežil," no tak </p>
+        <p b="PT16M7.75S" e="PT16M8.08S" f="">jsem </p>
+        <p b="PT16M8.08S" e="PT16M8.2S" f="">to </p>
+        <p b="PT16M8.2S" e="PT16M8.82S" f="">přežil.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT19M33.56S" e="PT19M42.59S" a="None" s="0">
+        <p b="PT19M33.56S" e="PT19M33.95S" f="">Dnešním </p>
+        <p b="PT19M33.95S" e="PT19M34.27S" f="">hostem </p>
+        <p b="PT19M34.27S" e="PT19M35.04S" f="">Radiožurnálu </p>
+        <p b="PT19M35.04S" e="PT19M35.15S" f="">je </p>
+        <p b="PT19M35.15S" e="PT19M35.33S" f="">pan </p>
+        <p b="PT19M35.33S" e="PT19M35.61S" f="">Jiří </p>
+        <p b="PT19M35.61S" e="PT19M36.1S" f="">Světlík, </p>
+        <p b="PT19M36.1S" e="PT19M36.5S" f="">se kterým </p>
+        <p b="PT19M36.5S" e="PT19M36.68S" f="">jsme </p>
+        <p b="PT19M36.68S" e="PT19M37.23S" f="">natáčeli </p>
+        <p b="PT19M37.23S" e="PT19M37.48S" f="">v jeho </p>
+        <p b="PT19M37.48S" e="PT19M38.22S" f="">plzeňském </p>
+        <p b="PT19M38.22S" e="PT19M38.52S" f="">bytě. </p>
+        <p b="PT19M38.85S" e="PT19M39.28S" f="">Dnes je </p>
+        <p b="PT19M39.28S" e="PT19M39.45S" f="">mu </p>
+        <p b="PT19M39.45S" e="PT19M40.46S" f="">95, </p>
+        <p b="PT19M40.46S" e="PT19M40.76S" f="">takže </p>
+        <p b="PT19M40.76S" e="PT19M41.23S" f="">zažil </p>
+        <p b="PT19M41.23S" e="PT19M41.77S" f="">10 </p>
+        <p b="PT19M41.77S" e="PT19M42.59S" f="">prezidentů. </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT19M42.59S" e="PT19M49.88S" a="None" s="1">
+        <p b="PT19M42.59S" e="PT19M42.97S" f="">Ano a</p>
+        <p b="PT19M43.25S" e="PT19M43.58S" f=""> </p>
+        <p b="PT19M43.58S" e="PT19M44.28S" f="">přežil,</p>
+        <p b="PT19M45.47S" e="PT19M45.77S" f=""> </p>
+        <p b="PT19M45.77S" e="PT19M46.2S" f="">všichni už </p>
+        <p b="PT19M46.2S" e="PT19M46.62S" f="">šli z </p>
+        <p b="PT19M46.79S" e="PT19M47.26S" f="">funkce </p>
+        <p b="PT19M47.26S" e="PT19M47.63S" f="">pryč, </p>
+        <p b="PT19M48.24S" e="PT19M48.49S" f="">ještě </p>
+        <p b="PT19M48.87S" e="PT19M49.29S" f="">1 </p>
+        <p b="PT19M49.29S" e="PT19M49.88S" f="">je tam.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT19M50.67S" e="PT19M51.25S" a="None" s="0">
+        <p b="PT19M50.67S" e="PT19M51.25S" f="">Rozumím.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT19M51.46S" e="PT19M57.3S" a="None" s="1">
+        <p b="PT19M51.46S" e="PT19M51.84S" f="">Tyhle </p>
+        <p b="PT19M51.84S" e="PT19M52.01S" f="">ti </p>
+        <p b="PT19M52.01S" e="PT19M52.77S" f="">prezidenti, </p>
+        <p b="PT19M52.77S" e="PT19M53.11S" f="">no, </p>
+        <p b="PT19M53.48S" e="PT19M54.34S" f="">jeden z nich mi </p>
+        <p b="PT19M54.34S" e="PT19M54.64S" f="">dal </p>
+        <p b="PT19M54.64S" e="PT19M55.38S" f="">amnestii </p>
+        <p b="PT19M55.38S" e="PT19M55.74S" f="">v roce </p>
+        <p b="PT19M55.74S" e="PT19M56.48S" f="">19</p>
+        <p b="PT19M56.48S" e="PT19M57.3S" f="">62.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT19M56.48S" e="PT19M57.3S" a="None" s="0">
+        <p b="PT19M56.48S" e="PT19M57.3S" f="">Novotný.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT19M58.32S" e="PT20M35.54S" a="None" s="1">
+        <p b="PT19M58.32S" e="PT19M59.01S" f="">Amnestie </p>
+        <p b="PT19M59.01S" e="PT19M59.34S" f="">v roce </p>
+        <p b="PT19M59.34S" e="PT20M0.13S" f="">19</p>
+        <p b="PT20M0.13S" e="PT20M0.7S" f="">60 </p>
+        <p b="PT20M0.7S" e="PT20M0.95S" f="">se </p>
+        <p b="PT20M1.18S" e="PT20M1.31S" f="">na </p>
+        <p b="PT20M1.31S" e="PT20M1.49S" f="">mě </p>
+        <p b="PT20M1.49S" e="PT20M2.42S" f="">nevztahovala, </p>
+        <p b="PT20M2.71S" e="PT20M3.51S" f="">protože jsem </p>
+        <p b="PT20M3.51S" e="PT20M3.62S" f="">byl </p>
+        <p b="PT20M3.62S" e="PT20M4.29S" f="">špion a protože jsem </p>
+        <p b="PT20M5.51S" e="PT20M5.94S" f="">byl </p>
+        <p b="PT20M5.94S" e="PT20M6.41S" f="">vedoucí </p>
+        <p b="PT20M6.41S" e="PT20M7.11S" f="">skupiny. </p>
+        <p b="PT20M7.85S" e="PT20M8.01S" f="">Tím </p>
+        <p b="PT20M8.01S" e="PT20M8.47S" f="">vedoucím </p>
+        <p b="PT20M8.47S" e="PT20M8.99S" f="">skupiny </p>
+        <p b="PT20M8.99S" e="PT20M9.67S" f="">jsem byl </p>
+        <p b="PT20M9.91S" e="PT20M10.44S" f="">ne </p>
+        <p b="PT20M10.44S" e="PT20M11S" f="">omylem, </p>
+        <p b="PT20M11S" e="PT20M11.5S" f="">ale n</p>
+        <p b="PT20M12.37S" e="PT20M13.14S" f="">esprávně </p>
+        <p b="PT20M13.14S" e="PT20M13.98S" f="">zařazen, protože </p>
+        <p b="PT20M15S" e="PT20M15.41S" f="">celou </p>
+        <p b="PT20M15.41S" e="PT20M16.21S" f="">tuhle tu v</p>
+        <p b="PT20M16.51S" e="PT20M17.13S" f="">ýzvědnou </p>
+        <p b="PT20M17.13S" e="PT20M17.5S" f="">činnost </p>
+        <p b="PT20M17.5S" e="PT20M18.48S" f="">organizoval </p>
+        <p b="PT20M19.33S" e="PT20M19.96S" f="">1 </p>
+        <p b="PT20M19.96S" e="PT20M20.44S" f="">můj </p>
+        <p b="PT20M21.27S" e="PT20M22.58S" f="">spolupachatel, o</p>
+        <p b="PT20M23.49S" e="PT20M23.81S" f="">všem </p>
+        <p b="PT20M23.81S" e="PT20M24.07S" f="">toho </p>
+        <p b="PT20M24.07S" e="PT20M24.35S" f="">nemohli </p>
+        <p b="PT20M24.35S" e="PT20M24.71S" f="">udělat </p>
+        <p b="PT20M24.71S" e="PT20M25.07S" f="">vedoucím </p>
+        <p b="PT20M25.07S" e="PT20M25.6S" f="">skupiny, proto</p>
+        <p b="PT20M25.92S" e="PT20M26.04S" f="">že </p>
+        <p b="PT20M26.04S" e="PT20M26.22S" f="">on </p>
+        <p b="PT20M26.22S" e="PT20M26.33S" f="">byl </p>
+        <p b="PT20M26.33S" e="PT20M27.04S" f="">dělnického </p>
+        <p b="PT20M27.04S" e="PT20M27.7S" f="">původu. </p>
+        <p b="PT20M28.99S" e="PT20M29.47S" f="">Zatímco </p>
+        <p b="PT20M29.47S" e="PT20M29.73S" f="">já </p>
+        <p b="PT20M29.73S" e="PT20M30.23S" f="">jako </p>
+        <p b="PT20M30.23S" e="PT20M31.11S" f="">buržoazního </p>
+        <p b="PT20M31.11S" e="PT20M31.39S" f="">původu j</p>
+        <p b="PT20M31.39S" e="PT20M31.68S" f="">sem se </p>
+        <p b="PT20M31.68S" e="PT20M32.02S" f="">lépe </p>
+        <p b="PT20M32.02S" e="PT20M32.46S" f="">hodil na </p>
+        <p b="PT20M32.46S" e="PT20M32.96S" f="">vedoucího </p>
+        <p b="PT20M32.96S" e="PT20M33.43S" f="">skupiny, </p>
+        <p b="PT20M33.69S" e="PT20M34.06S" f="">tak jsem </p>
+        <p b="PT20M34.06S" e="PT20M34.19S" f="">byl </p>
+        <p b="PT20M34.19S" e="PT20M34.63S" f="">vedoucí </p>
+        <p b="PT20M34.63S" e="PT20M35.11S" f="">skupiny </p>
+        <p b="PT20M35.11S" e="PT20M35.54S" f="">já.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT20M36.03S" e="PT20M42S" a="None" s="0">
+        <p b="PT20M36.03S" e="PT20M36.38S" f="">Pojďme </p>
+        <p b="PT20M36.38S" e="PT20M36.66S" f="">ještě </p>
+        <p b="PT20M36.66S" e="PT20M36.91S" f="">k těm </p>
+        <p b="PT20M36.91S" e="PT20M37.84S" f="">prezidentům. </p>
+        <p b="PT20M38.1S" e="PT20M38.95S" f="">Je pravda, </p>
+        <p b="PT20M38.95S" e="PT20M39.43S" f="">že j</p>
+        <p b="PT20M39.43S" e="PT20M39.66S" f="">ste </p>
+        <p b="PT20M39.66S" e="PT20M40.68S" f="">Gottwaldovi </p>
+        <p b="PT20M40.68S" e="PT20M41.28S" f="">věnoval </p>
+        <p b="PT20M41.28S" e="PT20M42S" f="">zápalky? </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT20M42S" e="PT20M42.56S" a="None" s="1">
+        <p b="PT20M42S" e="PT20M42.56S" f="">Ano. </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT20M42S" e="PT20M43.44S" a="None" s="0">
+        <p b="PT20M42S" e="PT20M42.56S" f="">Jak se to </p>
+        <p b="PT20M42.91S" e="PT20M43.44S" f="">stalo? </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT20M43.44S" e="PT23M15.47S" a="None" s="1">
+        <p b="PT20M43.44S" e="PT20M44.36S" f="">Osobně. </p>
+        <p b="PT20M44.74S" e="PT20M45.15S" f="">Byli jsme </p>
+        <p b="PT20M45.15S" e="PT20M45.21S" f="">na </p>
+        <p b="PT20M45.21S" e="PT20M45.57S" f="">nějakém </p>
+        <p b="PT20M45.57S" e="PT20M45.82S" f="">zájezdu někde n</p>
+        <p b="PT20M46.05S" e="PT20M46.96S" f="">a Moravě, </p>
+        <p b="PT20M47.54S" e="PT20M47.99S" f="">já jsem </p>
+        <p b="PT20M47.99S" e="PT20M48.38S" f="">pracoval </p>
+        <p b="PT20M48.38S" e="PT20M48.46S" f="">v </p>
+        <p b="PT20M48.46S" e="PT20M48.7S" f="">Kovo</p>
+        <p b="PT20M48.7S" e="PT20M49.42S" f="">družstvo. </p>
+        <p b="PT20M49.85S" e="PT20M50.15S" f="">A my </p>
+        <p b="PT20M50.15S" e="PT20M50.37S" f="">jsme </p>
+        <p b="PT20M50.37S" e="PT20M50.7S" f="">dělali </p>
+        <p b="PT20M50.7S" e="PT20M51.36S" f="">krásné </p>
+        <p b="PT20M51.36S" e="PT20M52.06S" f="">zájezdy </p>
+        <p b="PT20M52.48S" e="PT20M52.75S" f="">taky </p>
+        <p b="PT20M52.75S" e="PT20M53.23S" f="">týden </p>
+        <p b="PT20M53.23S" e="PT20M53.57S" f="">třeba </p>
+        <p b="PT20M53.57S" e="PT20M53.68S" f="">na </p>
+        <p b="PT20M53.68S" e="PT20M54.4S" f="">Moravu, </p>
+        <p b="PT20M54.67S" e="PT20M54.81S" f="">to </p>
+        <p b="PT20M54.81S" e="PT20M55.1S" f="">nebylo </p>
+        <p b="PT20M55.1S" e="PT20M55.77S" f="">špatné. </p>
+        <p b="PT20M56.6S" e="PT20M57.31S" f="">Já jsem </p>
+        <p b="PT20M57.31S" e="PT20M57.98S" f="">měl </p>
+        <p b="PT20M58.41S" e="PT20M59.14S" f="">tenkrát </p>
+        <p b="PT20M59.14S" e="PT20M59.85S" f="">známého </p>
+        <p b="PT20M59.85S" e="PT21M0.26S" f="">jednoho </p>
+        <p b="PT21M0.26S" e="PT21M1.07S" f="">poslance </p>
+        <p b="PT21M1.8S" e="PT21M2.14S" f="">za </p>
+        <p b="PT21M2.14S" e="PT21M3.06S" f="">československou </p>
+        <p b="PT21M3.06S" e="PT21M3.42S" f="">stranu </p>
+        <p b="PT21M3.42S" e="PT21M4.2S" f="">lidovou, </p>
+        <p b="PT21M4.66S" e="PT21M5.46S" f="">byli jsme </p>
+        <p b="PT21M5.46S" e="PT21M6.25S" f="">za ním </p>
+        <p b="PT21M6.69S" e="PT21M7.03S" f="">v </p>
+        <p b="PT21M7.38S" e="PT21M7.91S" f="">národním </p>
+        <p b="PT21M7.91S" e="PT21M8.95S" f="">shromáždění. </p>
+        <p b="PT21M10.23S" e="PT21M10.93S" f="">Poslanecký </p>
+        <p b="PT21M10.93S" e="PT21M11.47S" f="">klub </p>
+        <p b="PT21M11.85S" e="PT21M12.67S" f="">komunistické </p>
+        <p b="PT21M12.67S" e="PT21M13.32S" f="">strany </p>
+        <p b="PT21M13.89S" e="PT21M14.18S" f="">a </p>
+        <p b="PT21M14.18S" e="PT21M15.02S" f="">Poslanecký </p>
+        <p b="PT21M15.02S" e="PT21M15.43S" f="">klub </p>
+        <p b="PT21M15.43S" e="PT21M15.82S" f="">strany </p>
+        <p b="PT21M15.82S" e="PT21M16.41S" f="">lidové </p>
+        <p b="PT21M16.41S" e="PT21M17.06S" f="">byli </p>
+        <p b="PT21M17.63S" e="PT21M18.15S" f="">na </p>
+        <p b="PT21M18.5S" e="PT21M18.95S" f="">jedné </p>
+        <p b="PT21M18.95S" e="PT21M19.54S" f="">chodbě, </p>
+        <p b="PT21M19.81S" e="PT21M20.59S" f="">proti sobě </p>
+        <p b="PT21M20.59S" e="PT21M21.15S" f="">dveře a </p>
+        <p b="PT21M21.89S" e="PT21M22.35S" f="">já jsem </p>
+        <p b="PT21M22.35S" e="PT21M22.72S" f="">čekal </p>
+        <p b="PT21M22.72S" e="PT21M23.05S" f="">na toho </p>
+        <p b="PT21M23.05S" e="PT21M23.45S" f="">našeho </p>
+        <p b="PT21M23.45S" e="PT21M24.21S" f="">poslance </p>
+        <p b="PT21M24.63S" e="PT21M24.82S" f="">a </p>
+        <p b="PT21M24.82S" e="PT21M25.25S" f="">vyšel </p>
+        <p b="PT21M25.25S" e="PT21M25.74S" f="">Klement </p>
+        <p b="PT21M25.74S" e="PT21M26.34S" f="">Gottwald z toho klubu, na</p>
+        <p b="PT21M28.29S" e="PT21M29.03S" f="">cpanou </p>
+        <p b="PT21M29.03S" e="PT21M29.61S" f="">fajfku v hubě a </p>
+        <p b="PT21M30.8S" e="PT21M31.34S" f="">teď </p>
+        <p b="PT21M31.34S" e="PT21M31.8S" f="">se takhle </p>
+        <p b="PT21M31.8S" e="PT21M32.33S" f="">šacoval, </p>
+        <p b="PT21M32.33S" e="PT21M32.64S" f="">já jsem </p>
+        <p b="PT21M32.64S" e="PT21M32.85S" f="">sáhl </p>
+        <p b="PT21M32.85S" e="PT21M32.97S" f="">do </p>
+        <p b="PT21M32.97S" e="PT21M33.47S" f="">kapsy, vzal jsem sirky a povídám, "P</p>
+        <p b="PT21M34.91S" e="PT21M35.27S" f="">rosím </p>
+        <p b="PT21M35.27S" e="PT21M35.96S" f="">pane předsedo, </p>
+        <p b="PT21M35.96S" e="PT21M36.43S" f="">zapalte </p>
+        <p b="PT21M36.43S" e="PT21M36.82S" f="">si." T</p>
+        <p b="PT21M38.06S" e="PT21M38.41S" f="">ak si </p>
+        <p b="PT21M38.41S" e="PT21M39.16S" f="">zapálil </p>
+        <p b="PT21M39.16S" e="PT21M39.27S" f="">a </p>
+        <p b="PT21M39.27S" e="PT21M39.69S" f="">chtěl mi je vracet</p>
+        <p b="PT21M39.69S" e="PT21M40.01S" f=""> </p>
+        <p b="PT21M40.01S" e="PT21M40.43S" f="">a já povídám, "Jen </p>
+        <p b="PT21M40.43S" e="PT21M40.6S" f="">si je </p>
+        <p b="PT21M40.6S" e="PT21M40.95S" f="">nechte, </p>
+        <p b="PT21M40.95S" e="PT21M41.11S" f="">stejně jiné</p>
+        <p b="PT21M41.11S" e="PT21M41.44S" f=""> </p>
+        <p b="PT21M41.44S" e="PT21M42.01S" f="">nemáte." </p>
+        <p b="PT21M42.93S" e="PT21M43.19S" f="">Můj </p>
+        <p b="PT21M43.19S" e="PT21M43.69S" f="">tatínek </p>
+        <p b="PT21M43.69S" e="PT21M44.06S" f="">vždycky říkal, "S</p>
+        <p b="PT21M44.33S" e="PT21M44.91S" f="">právný </p>
+        <p b="PT21M44.91S" e="PT21M45.13S" f="">hoch </p>
+        <p b="PT21M45.13S" e="PT21M45.36S" f="">má </p>
+        <p b="PT21M45.36S" e="PT21M45.68S" f="">vždycky </p>
+        <p b="PT21M45.68S" e="PT21M46.37S" f="">štěstí." </p>
+        <p b="PT21M47.2S" e="PT21M47.65S" f="">A já </p>
+        <p b="PT21M47.65S" e="PT21M47.92S" f="">tomu </p>
+        <p b="PT21M47.92S" e="PT21M48.5S" f="">věřím. </p>
+        <p b="PT21M49.91S" e="PT21M51.2S" f="">21. </p>
+        <p b="PT21M51.2S" e="PT21M51.88S" f="">prosince </p>
+        <p b="PT21M51.88S" e="PT21M52.7S" f="">19</p>
+        <p b="PT21M52.7S" e="PT21M53.85S" f="">44, </p>
+        <p b="PT21M54.11S" e="PT21M54.92S" f="">měl jsem </p>
+        <p b="PT21M54.92S" e="PT21M55.33S" f="">mít </p>
+        <p b="PT21M55.69S" e="PT21M56.4S" f="">soud </p>
+        <p b="PT21M56.9S" e="PT21M57.36S" f="">u </p>
+        <p b="PT21M57.73S" e="PT21M58.32S" f="">vrchního </p>
+        <p b="PT21M58.32S" e="PT21M58.94S" f="">Zemského </p>
+        <p b="PT21M58.94S" e="PT21M59.4S" f="">soudu </p>
+        <p b="PT21M59.4S" e="PT21M59.43S" f="">v </p>
+        <p b="PT21M59.43S" e="PT22M0.22S" f="">Mnichově. </p>
+        <p b="PT22M1.16S" e="PT22M1.63S" f="">Už jsem měl před</p>
+        <p b="PT22M1.94S" e="PT22M2.55S" f="">volání, </p>
+        <p b="PT22M3.26S" e="PT22M3.74S" f="">jenomže </p>
+        <p b="PT22M3.74S" e="PT22M4.37S" f="">v noci z </p>
+        <p b="PT22M4.67S" e="PT22M5.47S" f="">dvacátého </p>
+        <p b="PT22M5.47S" e="PT22M5.58S" f="">na </p>
+        <p b="PT22M5.58S" e="PT22M6.4S" f="">21. </p>
+        <p b="PT22M6.4S" e="PT22M7.07S" f="">prosinec b</p>
+        <p b="PT22M7.51S" e="PT22M7.86S" f="">yl </p>
+        <p b="PT22M7.86S" e="PT22M8.51S" f="">nálet </p>
+        <p b="PT22M9.24S" e="PT22M9.78S" f="">a ten </p>
+        <p b="PT22M9.78S" e="PT22M10.4S" f="">justiční </p>
+        <p b="PT22M10.4S" e="PT22M10.91S" f="">palác vyhořel do </p>
+        <p b="PT22M11.23S" e="PT22M11.97S" f="">základů. N</p>
+        <p b="PT22M12.96S" e="PT22M13.62S" f="">o, tak </p>
+        <p b="PT22M14.03S" e="PT22M14.65S" f="">jindy, k</p>
+        <p b="PT22M15.57S" e="PT22M15.87S" f="">dyž </p>
+        <p b="PT22M15.87S" e="PT22M16.27S" f="">vyhořel </p>
+        <p b="PT22M16.27S" e="PT22M16.82S" f="">justiční </p>
+        <p b="PT22M16.82S" e="PT22M17.37S" f="">palác, </p>
+        <p b="PT22M17.68S" e="PT22M18.47S" f="">neznamenalo to, </p>
+        <p b="PT22M18.47S" e="PT22M18.7S" f="">že </p>
+        <p b="PT22M18.7S" e="PT22M19.19S" f="">shořely </p>
+        <p b="PT22M19.19S" e="PT22M19.91S" f="">spisy. </p>
+        <p b="PT22M20.16S" e="PT22M20.62S" f="">Němci byli tak </p>
+        <p b="PT22M20.88S" e="PT22M21.42S" f="">důkladní, že </p>
+        <p b="PT22M21.42S" e="PT22M21.59S" f="">ty </p>
+        <p b="PT22M21.59S" e="PT22M21.96S" f="">spisy </p>
+        <p b="PT22M21.96S" e="PT22M22.5S" f="">ukládali </p>
+        <p b="PT22M22.5S" e="PT22M22.77S" f="">tak, </p>
+        <p b="PT22M22.97S" e="PT22M23.38S" f="">aby se jim nic ne</p>
+        <p b="PT22M23.77S" e="PT22M24.23S" f="">stalo. </p>
+        <p b="PT22M25.16S" e="PT22M25.42S" f="">Když </p>
+        <p b="PT22M25.42S" e="PT22M25.81S" f="">potom </p>
+        <p b="PT22M25.81S" e="PT22M26.25S" f="">tu </p>
+        <p b="PT22M26.62S" e="PT22M27.24S" f="">budovu </p>
+        <p b="PT22M27.24S" e="PT22M28.2S" f="">vyklidili </p>
+        <p b="PT22M28.43S" e="PT22M28.62S" f="">a </p>
+        <p b="PT22M28.62S" e="PT22M28.75S" f="">ve </p>
+        <p b="PT22M28.75S" e="PT22M29.36S" f="">sklepích, </p>
+        <p b="PT22M29.36S" e="PT22M29.7S" f="">které </p>
+        <p b="PT22M29.7S" e="PT22M30.41S" f="">zůstaly, se </p>
+        <p b="PT22M30.72S" e="PT22M31.12S" f="">udělali </p>
+        <p b="PT22M31.12S" e="PT22M31.52S" f="">další </p>
+        <p b="PT22M31.52S" e="PT22M32.32S" f="">kanceláře </p>
+        <p b="PT22M32.57S" e="PT22M32.67S" f="">a </p>
+        <p b="PT22M32.67S" e="PT22M33.34S" f="">jednací </p>
+        <p b="PT22M33.34S" e="PT22M33.97S" f="">síně, </p>
+        <p b="PT22M34.45S" e="PT22M34.83S" f="">tak jsem </p>
+        <p b="PT22M34.83S" e="PT22M35.21S" f="">tam byl </p>
+        <p b="PT22M35.21S" e="PT22M35.99S" f="">pozván </p>
+        <p b="PT22M36.21S" e="PT22M36.41S" f="">k </p>
+        <p b="PT22M36.41S" e="PT22M36.98S" f="">hlavnímu </p>
+        <p b="PT22M36.98S" e="PT22M37.41S" f="">líčení </p>
+        <p b="PT22M37.41S" e="PT22M37.54S" f="">na 4.</p>
+        <p b="PT22M38.18S" e="PT22M38.63S" f=""> d</p>
+        <p b="PT22M39.05S" e="PT22M39.92S" f="">uben </p>
+        <p b="PT22M40.39S" e="PT22M41.1S" f="">19</p>
+        <p b="PT22M42.7S" e="PT22M43.26S" f="">45. 4. d</p>
+        <p b="PT22M43.26S" e="PT22M43.55S" f="">ubna </p>
+        <p b="PT22M43.55S" e="PT22M44.31S" f="">19</p>
+        <p b="PT22M44.31S" e="PT22M45.17S" f="">45 </p>
+        <p b="PT22M45.88S" e="PT22M46.98S" f="">sovětští </p>
+        <p b="PT22M47.35S" e="PT22M48.27S" f="">hoši </p>
+        <p b="PT22M48.61S" e="PT22M49.51S" f="">uzavírali kleště </p>
+        <p b="PT22M49.88S" e="PT22M50.23S" f="">okolo </p>
+        <p b="PT22M50.23S" e="PT22M51.01S" f="">Berlína a A</p>
+        <p b="PT22M51.95S" e="PT22M52.67S" f="">meričani </p>
+        <p b="PT22M52.67S" e="PT22M52.89S" f="">byli </p>
+        <p b="PT22M52.89S" e="PT22M53.04S" f="">na </p>
+        <p b="PT22M53.04S" e="PT22M53.55S" f="">Rýnu, </p>
+        <p b="PT22M54.19S" e="PT22M54.92S" f="">takže </p>
+        <p b="PT22M55.36S" e="PT22M55.76S" f="">nějak </p>
+        <p b="PT22M55.76S" e="PT22M55.88S" f="">to </p>
+        <p b="PT22M55.88S" e="PT22M56.62S" f="">dopadne. </p>
+        <p b="PT22M58.25S" e="PT22M58.59S" f="">To jsem </p>
+        <p b="PT22M58.59S" e="PT22M58.72S" f="">byl </p>
+        <p b="PT22M58.72S" e="PT22M59.4S" f="">převezen </p>
+        <p b="PT22M59.4S" e="PT22M59.59S" f="">do </p>
+        <p b="PT22M59.59S" e="PT23M0.49S" f="">Mnichova </p>
+        <p b="PT23M0.97S" e="PT23M1.42S" f="">na </p>
+        <p b="PT23M2.6S" e="PT23M3.36S" f="">Stadelheim. Napomáhání </p>
+        <p b="PT23M3.36S" e="PT23M3.87S" f="">nepříteli, </p>
+        <p b="PT23M3.87S" e="PT23M4.05S" f="">to je </p>
+        <p b="PT23M4.05S" e="PT23M4.62S" f="">ošklivý, </p>
+        <p b="PT23M5.69S" e="PT23M5.9S" f="">ale </p>
+        <p b="PT23M5.9S" e="PT23M6.33S" f="">rozklad </p>
+        <p b="PT23M6.33S" e="PT23M6.73S" f="">branné </p>
+        <p b="PT23M6.73S" e="PT23M7.03S" f="">síly </p>
+        <p b="PT23M7.03S" e="PT23M7.58S" f="">německého </p>
+        <p b="PT23M7.58S" e="PT23M8.08S" f="">národa, </p>
+        <p b="PT23M8.34S" e="PT23M8.68S" f="">na to </p>
+        <p b="PT23M8.68S" e="PT23M8.9S" f="">byli </p>
+        <p b="PT23M8.9S" e="PT23M9.03S" f="">na </p>
+        <p b="PT23M9.03S" e="PT23M9.66S" f="">všechno </p>
+        <p b="PT23M9.92S" e="PT23M10.07S" f="">v </p>
+        <p b="PT23M10.07S" e="PT23M10.53S" f="">nejhorším </p>
+        <p b="PT23M10.53S" e="PT23M11.04S" f="">případě </p>
+        <p b="PT23M11.04S" e="PT23M11.37S" f="">tresty </p>
+        <p b="PT23M11.37S" e="PT23M12.03S" f="">smrti, </p>
+        <p b="PT23M13.07S" e="PT23M13.24S" f="">no </p>
+        <p b="PT23M13.24S" e="PT23M13.59S" f="">ale </p>
+        <p b="PT23M13.9S" e="PT23M14.4S" f="">nějak </p>
+        <p b="PT23M14.57S" e="PT23M14.94S" f="">jim to </p>
+        <p b="PT23M14.94S" e="PT23M15.47S" f="">nevyšlo, hochům no.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT23M16.34S" e="PT23M25.78S" a="None" s="0">
+        <p b="PT23M16.34S" e="PT23M16.81S" f="">Rozhovor </p>
+        <p b="PT23M16.81S" e="PT23M16.91S" f="">s </p>
+        <p b="PT23M16.91S" e="PT23M17.2S" f="">Jiřím S</p>
+        <p b="PT23M17.2S" e="PT23M17.8S" f="">větlíkem </p>
+        <p b="PT23M17.8S" e="PT23M17.98S" f="">bude </p>
+        <p b="PT23M17.98S" e="PT23M18.62S" f="">pokračovat </p>
+        <p b="PT23M18.62S" e="PT23M18.79S" f="">po </p>
+        <p b="PT23M18.79S" e="PT23M19.37S" f="">zprávách. </p>
+        <p b="PT23M19.37S" e="PT23M19.85S" f="">Natáčeli </p>
+        <p b="PT23M19.85S" e="PT23M20.05S" f="">jsme </p>
+        <p b="PT23M20.05S" e="PT23M20.28S" f="">ještě </p>
+        <p b="PT23M20.28S" e="PT23M20.61S" f="">o tom, </p>
+        <p b="PT23M20.61S" e="PT23M21S" f="">jak </p>
+        <p b="PT23M21S" e="PT23M21.34S" f="">prožil </p>
+        <p b="PT23M21.34S" e="PT23M21.9S" f="">okamžiky </p>
+        <p b="PT23M21.9S" e="PT23M22.31S" f="">konce </p>
+        <p b="PT23M22.31S" e="PT23M22.77S" f="">války </p>
+        <p b="PT23M22.77S" e="PT23M23.32S" f="">a taky </p>
+        <p b="PT23M23.32S" e="PT23M23.63S" f="">o jeho </p>
+        <p b="PT23M23.63S" e="PT23M24.04S" f="">dalším </p>
+        <p b="PT23M24.04S" e="PT23M24.63S" f="">věznění </p>
+        <p b="PT23M24.63S" e="PT23M24.73S" f="">v </p>
+        <p b="PT23M24.73S" e="PT23M25.35S" f="">padesátých </p>
+        <p b="PT23M25.35S" e="PT23M25.78S" f="">letech.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT33M17.05S" e="PT33M34.66S" a="None" s="0">
+        <p b="PT33M17.05S" e="PT33M17.5S" f="">Dnešním </p>
+        <p b="PT33M17.5S" e="PT33M17.81S" f="">hostem </p>
+        <p b="PT33M17.81S" e="PT33M18.58S" f="">Radiožurnálu </p>
+        <p b="PT33M18.58S" e="PT33M18.7S" f="">je </p>
+        <p b="PT33M18.7S" e="PT33M18.87S" f="">pan </p>
+        <p b="PT33M18.87S" e="PT33M19.15S" f="">Jiří </p>
+        <p b="PT33M19.15S" e="PT33M19.65S" f="">Světlík, </p>
+        <p b="PT33M19.65S" e="PT33M20.04S" f="">se kterým </p>
+        <p b="PT33M20.04S" e="PT33M20.22S" f="">jsme </p>
+        <p b="PT33M20.22S" e="PT33M20.77S" f="">natáčeli </p>
+        <p b="PT33M20.77S" e="PT33M21.02S" f="">v jeho </p>
+        <p b="PT33M21.02S" e="PT33M21.76S" f="">plzeňském </p>
+        <p b="PT33M21.76S" e="PT33M22.07S" f="">bytě. </p>
+        <p b="PT33M22.42S" e="PT33M22.7S" f="">V roce </p>
+        <p b="PT33M22.7S" e="PT33M23.3S" f="">19</p>
+        <p b="PT33M23.3S" e="PT33M23.92S" f="">39 </p>
+        <p b="PT33M23.92S" e="PT33M24.31S" f="">mu bylo </p>
+        <p b="PT33M24.31S" e="PT33M25.16S" f="">15 let, </p>
+        <p b="PT33M25.16S" e="PT33M25.39S" f="">byl </p>
+        <p b="PT33M25.39S" e="PT33M25.89S" f="">zavřený </p>
+        <p b="PT33M25.89S" e="PT33M26.04S" f="">za </p>
+        <p b="PT33M26.04S" e="PT33M26.56S" f="">Němců </p>
+        <p b="PT33M26.56S" e="PT33M26.72S" f="">i </p>
+        <p b="PT33M26.72S" e="PT33M26.87S" f="">za </p>
+        <p b="PT33M26.87S" e="PT33M27.58S" f="">komunismu. </p>
+        <p b="PT33M27.9S" e="PT33M28.45S" f="">Řekněte </p>
+        <p b="PT33M28.45S" e="PT33M28.58S" f="">mi, </p>
+        <p b="PT33M28.58S" e="PT33M28.93S" f="">když </p>
+        <p b="PT33M28.93S" e="PT33M29.1S" f="">byl </p>
+        <p b="PT33M29.1S" e="PT33M29.75S" f="">duben </p>
+        <p b="PT33M30.16S" e="PT33M30.21S" f="">a </p>
+        <p b="PT33M30.21S" e="PT33M30.49S" f="">vy jste </p>
+        <p b="PT33M30.49S" e="PT33M30.88S" f="">byl </p>
+        <p b="PT33M31.1S" e="PT33M31.93S" f="">ve vězení. J</p>
+        <p b="PT33M32.57S" e="PT33M33.01S" f="">ak jste </p>
+        <p b="PT33M33.01S" e="PT33M33.17S" f="">se </p>
+        <p b="PT33M33.17S" e="PT33M33.74S" f="">dozvěděl, </p>
+        <p b="PT33M33.74S" e="PT33M34.11S" f="">že už je </p>
+        <p b="PT33M34.11S" e="PT33M34.27S" f="">po </p>
+        <p b="PT33M34.27S" e="PT33M34.66S" f="">všem?</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT33M35.68S" e="PT35M14.55S" a="None" s="1">
+        <p b="PT33M35.68S" e="PT33M36.22S" f="">Chodili </p>
+        <p b="PT33M36.22S" e="PT33M36.69S" f="">jsme </p>
+        <p b="PT33M36.69S" e="PT33M37.46S" f="">všichni </p>
+        <p b="PT33M37.79S" e="PT33M38.11S" f="">na vycházk</p>
+        <p b="PT33M38.11S" e="PT33M38.71S" f="">ový </p>
+        <p b="PT33M38.71S" e="PT33M39.17S" f="">dvůr, </p>
+        <p b="PT33M39.6S" e="PT33M39.83S" f="">tam </p>
+        <p b="PT33M39.83S" e="PT33M40.1S" f="">byly </p>
+        <p b="PT33M40.1S" e="PT33M40.54S" f="">kruhy </p>
+        <p b="PT33M40.54S" e="PT33M40.96S" f="">takový </p>
+        <p b="PT33M40.96S" e="PT33M41.84S" f="">vycházkový. </p>
+        <p b="PT33M42.22S" e="PT33M42.74S" f="">A tam </p>
+        <p b="PT33M42.74S" e="PT33M43.14S" f="">byl </p>
+        <p b="PT33M43.48S" e="PT33M43.98S" f="">nějaký </p>
+        <p b="PT33M44.83S" e="PT33M45.47S" f="">velitel </p>
+        <p b="PT33M45.47S" e="PT33M45.81S" f="">toho </p>
+        <p b="PT33M45.81S" e="PT33M46.24S" f="">druhého </p>
+        <p b="PT33M46.24S" e="PT33M46.43S" f="">oddělení, </p>
+        <p b="PT33M46.43S" e="PT33M47.05S" f="">nějaký </p>
+        <p b="PT33M49.93S" e="PT33M50.3S" f="">Oberwachtmeister Schuster, on byl tedy jen wachtmeister, ale každém se říkala Herr Oberwachtmeister. Tak pan </p>
+        <p b="PT33M55.11S" e="PT33M55.33S" f="">Oberwachtmeister </p>
+        <p b="PT33M55.74S" e="PT33M56.49S" f="">Schuster, </p>
+        <p b="PT33M57.12S" e="PT33M57.52S" f="">ten to </p>
+        <p b="PT33M57.52S" e="PT33M57.74S" f="">měl </p>
+        <p b="PT33M57.74S" e="PT33M57.91S" f="">na </p>
+        <p b="PT33M57.91S" e="PT33M58.47S" f="">povel </p>
+        <p b="PT33M59.11S" e="PT33M59.91S" f="">a bylo </p>
+        <p b="PT34M1.93S" e="PT34M2.72S" f="">30. </p>
+        <p b="PT34M2.72S" e="PT34M3.26S" f="">dubna</p>
+        <p b="PT34M4.82S" e="PT34M5.56S" f=""> </p>
+        <p b="PT34M6.67S" e="PT34M7.15S" f="">a </p>
+        <p b="PT34M7.41S" e="PT34M7.84S" f="">napadal </p>
+        <p b="PT34M7.84S" e="PT34M8.4S" f="">sníh. </p>
+        <p b="PT34M9.4S" e="PT34M10.37S" f="">30. </p>
+        <p b="PT34M10.37S" e="PT34M10.86S" f="">dubna </p>
+        <p b="PT34M10.86S" e="PT34M10.98S" f="">v </p>
+        <p b="PT34M10.98S" e="PT34M11.65S" f="">Mnichově </p>
+        <p b="PT34M11.65S" e="PT34M12.48S" f="">krásně </p>
+        <p b="PT34M12.73S" e="PT34M13.16S" f="">nějakých 10,</p>
+        <p b="PT34M13.16S" e="PT34M13.54S" f=""> </p>
+        <p b="PT34M13.54S" e="PT34M13.97S" f="">15 </p>
+        <p b="PT34M13.97S" e="PT34M14.62S" f="">cm </p>
+        <p b="PT34M14.82S" e="PT34M15.38S" f="">čerstvého </p>
+        <p b="PT34M15.38S" e="PT34M15.76S" f="">sněhu. </p>
+        <p b="PT34M16.84S" e="PT34M17.33S" f="">Byli jsme </p>
+        <p b="PT34M17.33S" e="PT34M17.86S" f="">nastoupení </p>
+        <p b="PT34M17.86S" e="PT34M18.03S" f="">na </p>
+        <p b="PT34M18.03S" e="PT34M18.78S" f="">chodbě </p>
+        <p b="PT34M18.78S" e="PT34M19.23S" f="">toho oddělení</p>
+        <p b="PT34M19.23S" e="PT34M19.63S" f=""> </p>
+        <p b="PT34M19.63S" e="PT34M19.94S" f="">na </p>
+        <p b="PT34M20.44S" e="PT34M21.19S" f="">sčítací </p>
+        <p b="PT34M21.19S" e="PT34M21.54S" f="">nás</p>
+        <p b="PT34M21.54S" e="PT34M21.85S" f="">tup </p>
+        <p b="PT34M22.34S" e="PT34M22.59S" f="">a pan </p>
+        <p b="PT34M31.82S" e="PT34M32.27S" f="">Oberwachtmeister Schuster říká, "Kdo se </p>
+        <p b="PT34M32.27S" e="PT34M33.51S" f="">dobrovolně hlásí k uklízení sněhu?" </p>
+        <p b="PT34M33.87S" e="PT34M34.15S" f="">A no </p>
+        <p b="PT34M34.36S" e="PT34M34.67S" f="">to </p>
+        <p b="PT34M34.67S" e="PT34M34.93S" f="">byla </p>
+        <p b="PT34M34.93S" e="PT34M35.17S" f="">věc </p>
+        <p b="PT34M35.17S" e="PT34M35.63S" f="">naprosto </p>
+        <p b="PT34M35.63S" e="PT34M36.57S" f="">nebývalá, </p>
+        <p b="PT34M36.81S" e="PT34M37.09S" f="">protože </p>
+        <p b="PT34M37.09S" e="PT34M37.29S" f="">on </p>
+        <p b="PT34M37.29S" e="PT34M37.69S" f="">prostě </p>
+        <p b="PT34M37.69S" e="PT34M38.15S" f="">určil </p>
+        <p b="PT34M38.15S" e="PT34M38.43S" f="">tolik a </p>
+        <p b="PT34M38.43S" e="PT34M38.75S" f="">tolik </p>
+        <p b="PT34M38.75S" e="PT34M39.2S" f="">lidí a </p>
+        <p b="PT34M39.43S" e="PT34M40.09S" f="">odchod. </p>
+        <p b="PT34M40.46S" e="PT34M41.22S" f="">Tak si povídám, a</p>
+        <p b="PT34M42.59S" e="PT34M42.88S" f="">le </p>
+        <p b="PT34M42.88S" e="PT34M43.31S" f="">sakra </p>
+        <p b="PT34M43.31S" e="PT34M44.06S" f="">chlapče, </p>
+        <p b="PT34M44.37S" e="PT34M44.54S" f="">to je </p>
+        <p b="PT34M44.54S" e="PT34M44.89S" f="">nějaké </p>
+        <p b="PT34M44.89S" e="PT34M45.46S" f="">divné. </p>
+        <p b="PT34M45.98S" e="PT34M46.08S" f="">A </p>
+        <p b="PT34M46.08S" e="PT34M46.66S" f="">1 </p>
+        <p b="PT34M46.66S" e="PT34M47.84S" f="">spoluvězeň </p>
+        <p b="PT34M48.74S" e="PT34M49.24S" f="">nějaký </p>
+        <p b="PT34M49.24S" e="PT34M49.6S" f="">Pepík L</p>
+        <p b="PT34M49.6S" e="PT34M50.18S" f="">iška, </p>
+        <p b="PT34M50.18S" e="PT34M50.59S" f="">který byl </p>
+        <p b="PT34M50.59S" e="PT34M51.01S" f="">se mnou </p>
+        <p b="PT34M51.01S" e="PT34M51.11S" f="">na </p>
+        <p b="PT34M51.11S" e="PT34M51.62S" f="">cele, mi povídá "Hele p</p>
+        <p b="PT34M53S" e="PT34M53.42S" f="">ojď </p>
+        <p b="PT34M53.85S" e="PT34M54.26S" f="">půjdeme," já povídám, "No to si se </p>
+        <p b="PT34M55.02S" e="PT34M55.59S" f="">zbláznil, k</p>
+        <p b="PT34M56.83S" e="PT34M57.17S" f="">dyž je </p>
+        <p b="PT34M57.17S" e="PT34M57.37S" f="">to </p>
+        <p b="PT34M57.37S" e="PT34M58.2S" f="">dobrovolně, </p>
+        <p b="PT34M58.2S" e="PT34M58.53S" f="">tak to </p>
+        <p b="PT34M58.53S" e="PT34M58.64S" f="">ne</p>
+        <p b="PT34M58.64S" e="PT34M59.29S" f="">musím, t</p>
+        <p b="PT34M59.68S" e="PT35M" f="">ak co </p>
+        <p b="PT35M" e="PT35M0.57S" f="">polezu někam na sníh." N</p>
+        <p b="PT35M2.15S" e="PT35M2.67S" f="">o, ale </p>
+        <p b="PT35M2.67S" e="PT35M2.85S" f="">Liška </p>
+        <p b="PT35M3.88S" e="PT35M4.42S" f="">šel, </p>
+        <p b="PT35M4.83S" e="PT35M5.22S" f="">vrátil se asi ta</p>
+        <p b="PT35M5.64S" e="PT35M5.93S" f="">k za</p>
+        <p b="PT35M6.44S" e="PT35M6.87S" f=""> </p>
+        <p b="PT35M6.87S" e="PT35M7.25S" f="">půl </p>
+        <p b="PT35M7.25S" e="PT35M7.6S" f="">hodiny nebo</p>
+        <p b="PT35M7.6S" e="PT35M7.7S" f=""> </p>
+        <p b="PT35M7.7S" e="PT35M8.18S" f="">tři čtvrtě </p>
+        <p b="PT35M8.18S" e="PT35M8.66S" f="">hodiny a povídá, "T</p>
+        <p b="PT35M10.9S" e="PT35M11.19S" f="">ak je </p>
+        <p b="PT35M11.19S" e="PT35M11.3S" f="">to </p>
+        <p b="PT35M11.3S" e="PT35M11.98S" f="">hotový, </p>
+        <p b="PT35M12.53S" e="PT35M12.71S" f="">na </p>
+        <p b="PT35M12.71S" e="PT35M13.06S" f="">bráně </p>
+        <p b="PT35M13.06S" e="PT35M13.34S" f="">vlaje </p>
+        <p b="PT35M13.34S" e="PT35M13.85S" f="">americký </p>
+        <p b="PT35M13.85S" e="PT35M14.55S" f="">prapor."</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT35M16.6S" e="PT35M32.46S" a="None" s="0">
+        <p b="PT35M16.6S" e="PT35M16.84S" f="">Já </p>
+        <p b="PT35M16.84S" e="PT35M17.15S" f="">vás </p>
+        <p b="PT35M17.15S" e="PT35M17.95S" f="">poslouchám. </p>
+        <p b="PT35M18.92S" e="PT35M19.18S" f="">Mám </p>
+        <p b="PT35M19.18S" e="PT35M19.53S" f="">pořád </p>
+        <p b="PT35M19.53S" e="PT35M19.87S" f="">pocit, jak </p>
+        <p b="PT35M19.87S" e="PT35M20.2S" f="">kdyby </p>
+        <p b="PT35M20.2S" e="PT35M20.33S" f="">mi </p>
+        <p b="PT35M20.33S" e="PT35M20.73S" f="">okolo </p>
+        <p b="PT35M20.73S" e="PT35M21.11S" f="">uší </p>
+        <p b="PT35M21.11S" e="PT35M21.52S" f="">lítala </p>
+        <p b="PT35M21.52S" e="PT35M22.11S" f="">smrt, </p>
+        <p b="PT35M22.7S" e="PT35M23.56S" f="">ve vězení, v </p>
+        <p b="PT35M23.56S" e="PT35M24.37S" f="">lágru,  </p>
+        <p b="PT35M24.37S" e="PT35M25.44S" f="">u soudu, </p>
+        <p b="PT35M25.44S" e="PT35M25.66S" f="">v </p>
+        <p b="PT35M25.66S" e="PT35M26.3S" f="">uranových </p>
+        <p b="PT35M26.3S" e="PT35M26.95S" f="">dolech. Vy j</p>
+        <p b="PT35M27.66S" e="PT35M27.93S" f="">ste </p>
+        <p b="PT35M27.93S" e="PT35M28.06S" f="">to </p>
+        <p b="PT35M28.06S" e="PT35M28.45S" f="">vůbec </p>
+        <p b="PT35M28.45S" e="PT35M28.74S" f="">takhle </p>
+        <p b="PT35M28.74S" e="PT35M29.24S" f="">nebral? Vy j</p>
+        <p b="PT35M29.39S" e="PT35M29.65S" f="">ste </p>
+        <p b="PT35M29.65S" e="PT35M29.77S" f="">to </p>
+        <p b="PT35M29.77S" e="PT35M30.49S" f="">nevnímal? Vás ne</p>
+        <p b="PT35M31S" e="PT35M31.57S" f="">napadlo, </p>
+        <p b="PT35M31.57S" e="PT35M31.69S" f="">že </p>
+        <p b="PT35M31.69S" e="PT35M32.46S" f="">umřete?</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT35M32.83S" e="PT35M41.17S" a="None" s="1">
+        <p b="PT35M32.83S" e="PT35M33.3S" f="">No tak, </p>
+        <p b="PT35M33.65S" e="PT35M34.14S" f="">napadlo </p>
+        <p b="PT35M34.14S" e="PT35M34.47S" f="">mě to, ale člověk se musí </p>
+        <p b="PT35M35.08S" e="PT35M35.55S" f="">vyhnout</p>
+        <p b="PT35M35.55S" e="PT35M35.78S" f="">. </p>
+        <p b="PT35M37.76S" e="PT35M37.99S" f="">Nemůžu si to brát v</p>
+        <p b="PT35M39.05S" e="PT35M39.68S" f="">šecko, to co se </p>
+        <p b="PT35M40.68S" e="PT35M41.17S" f="">nabízí.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT35M41.17S" e="PT35M45.06S" a="None" s="0">
+        <p b="PT35M41.17S" e="PT35M41.51S" f="">Vy z toho </p>
+        <p b="PT35M41.65S" e="PT35M41.82S" f="">teď </p>
+        <p b="PT35M41.82S" e="PT35M42.19S" f="">máte </p>
+        <p b="PT35M42.19S" e="PT35M43.12S" f="">legraci, </p>
+        <p b="PT35M43.69S" e="PT35M43.79S" f="">to </p>
+        <p b="PT35M43.79S" e="PT35M44.02S" f="">jste </p>
+        <p b="PT35M44.02S" e="PT35M44.27S" f="">měl </p>
+        <p b="PT35M44.27S" e="PT35M44.42S" f="">i </p>
+        <p b="PT35M44.42S" e="PT35M45.06S" f="">tehdy?</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT35M44.42S" e="PT35M46.88S" a="None" s="1">
+        <p b="PT35M44.42S" e="PT35M45.06S" f="">A víte </p>
+        <p b="PT35M46.02S" e="PT35M46.46S" f="">že </p>
+        <p b="PT35M46.46S" e="PT35M46.88S" f="">jo. </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT35M46.88S" e="PT35M47.45S" a="None" s="0">
+        <p b="PT35M46.88S" e="PT35M47.45S" f="">Fakt?</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT35M46.88S" e="PT35M49.03S" a="None" s="1">
+        <p b="PT35M46.88S" e="PT35M47.45S" f="">N</p>
+        <p b="PT35M48.29S" e="PT35M48.65S" f="">ěkdy </p>
+        <p b="PT35M48.65S" e="PT35M49.03S" f="">jo.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT35M49.03S" e="PT35M50.38S" a="None" s="0">
+        <p b="PT35M49.03S" e="PT35M49.32S" f="">Vy jste </p>
+        <p b="PT35M49.32S" e="PT35M49.44S" f="">byl </p>
+        <p b="PT35M49.44S" e="PT35M50.09S" f="">srandista </p>
+        <p b="PT35M50.09S" e="PT35M50.38S" f="">nebo čím to je?</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT35M51.48S" e="PT37M27.89S" a="None" s="1">
+        <p b="PT35M51.48S" e="PT35M51.9S" f="">Byl, </p>
+        <p b="PT35M52.64S" e="PT35M53.16S" f="">já jsem </p>
+        <p b="PT35M53.16S" e="PT35M53.87S" f="">kdysi, </p>
+        <p b="PT35M54.4S" e="PT35M54.64S" f="">že </p>
+        <p b="PT35M54.64S" e="PT35M55.26S" f="">učil </p>
+        <p b="PT35M55.54S" e="PT35M56.19S" f="">režii p</p>
+        <p b="PT35M57.1S" e="PT35M57.53S" f="">ro </p>
+        <p b="PT35M57.92S" e="PT35M58.5S" f="">divadelní </p>
+        <p b="PT35M58.5S" e="PT35M59.43S" f="">ochotníky </p>
+        <p b="PT36M0.16S" e="PT36M0.68S" f="">a </p>
+        <p b="PT36M0.88S" e="PT36M1.29S" f="">tam </p>
+        <p b="PT36M1.29S" e="PT36M1.65S" f="">třeba </p>
+        <p b="PT36M1.65S" e="PT36M2.36S" f="">v tom </p>
+        <p b="PT36M3.12S" e="PT36M3.67S" f="">Donauwertu zrovna </p>
+        <p b="PT36M3.98S" e="PT36M4.38S" f="">jsem to </p>
+        <p b="PT36M4.38S" e="PT36M5.2S" f="">využil </p>
+        <p b="PT36M5.8S" e="PT36M6.17S" f="">a tam </p>
+        <p b="PT36M6.17S" e="PT36M6.39S" f="">jsem </p>
+        <p b="PT36M6.39S" e="PT36M7S" f="">udělal </p>
+        <p b="PT36M7.34S" e="PT36M7.66S" f="">třeba </p>
+        <p b="PT36M7.66S" e="PT36M8.21S" f="">takový </p>
+        <p b="PT36M8.69S" e="PT36M9.84S" f="">představení. </p>
+        <p b="PT36M10.01S" e="PT36M10.4S" f="">Prostě </p>
+        <p b="PT36M10.4S" e="PT36M10.87S" f="">z těch </p>
+        <p b="PT36M11.12S" e="PT36M11.49S" f="">lidí j</p>
+        <p b="PT36M11.49S" e="PT36M11.68S" f="">sem </p>
+        <p b="PT36M11.68S" e="PT36M12.33S" f="">sestavil </p>
+        <p b="PT36M12.57S" e="PT36M12.85S" f="">vždycky </p>
+        <p b="PT36M12.85S" e="PT36M13.2S" f="">něco, ten </p>
+        <p b="PT36M13.2S" e="PT36M13.61S" f="">něco </p>
+        <p b="PT36M13.61S" e="PT36M14.28S" f="">zazpíval, ten </p>
+        <p b="PT36M14.28S" e="PT36M14.63S" f="">něco </p>
+        <p b="PT36M14.63S" e="PT36M15.34S" f="">zarecitoval, </p>
+        <p b="PT36M15.58S" e="PT36M15.74S" f="">ten </p>
+        <p b="PT36M15.74S" e="PT36M16.22S" f="">vypravoval </p>
+        <p b="PT36M16.22S" e="PT36M16.54S" f="">nějaké </p>
+        <p b="PT36M16.54S" e="PT36M17.03S" f="">vtipy </p>
+        <p b="PT36M17.31S" e="PT36M17.54S" f="">a </p>
+        <p b="PT36M17.54S" e="PT36M18.11S" f="">udělal </p>
+        <p b="PT36M18.11S" e="PT36M18.45S" f="">jsem </p>
+        <p b="PT36M18.45S" e="PT36M18.87S" f="">tam </p>
+        <p b="PT36M19.53S" e="PT36M19.95S" f="">skoro </p>
+        <p b="PT36M19.95S" e="PT36M20.56S" f="">hodinový </p>
+        <p b="PT36M20.56S" e="PT36M21.35S" f="">představení. </p>
+        <p b="PT36M21.77S" e="PT36M22.48S" f="">Absolutně </p>
+        <p b="PT36M22.48S" e="PT36M23.58S" f="">nejkrásnější </p>
+        <p b="PT36M23.58S" e="PT36M24.1S" f="">bylo, to</p>
+        <p b="PT36M27.26S" e="PT36M27.76S" f=""> bylo </p>
+        <p b="PT36M27.76S" e="PT36M27.91S" f="">na </p>
+        <p b="PT36M27.91S" e="PT36M28.66S" f="">ostří </p>
+        <p b="PT36M29.25S" e="PT36M30.05S" f="">břitvy. </p>
+        <p b="PT36M31.57S" e="PT36M31.95S" f="">Na tohle </p>
+        <p b="PT36M31.95S" e="PT36M32.21S" f="">to </p>
+        <p b="PT36M32.21S" e="PT36M32.83S" f="">naše </p>
+        <p b="PT36M32.83S" e="PT36M33.55S" f="">představení </p>
+        <p b="PT36M33.55S" e="PT36M33.73S" f="">se </p>
+        <p b="PT36M33.73S" e="PT36M34.11S" f="">přišel </p>
+        <p b="PT36M34.11S" e="PT36M34.35S" f="">taky </p>
+        <p b="PT36M34.35S" e="PT36M34.83S" f="">podívat </p>
+        <p b="PT36M35.01S" e="PT36M35.21S" f="">pan </p>
+        <p b="PT36M35.65S" e="PT36M36.45S" f="">Lagrführer, </p>
+        <p b="PT36M36.89S" e="PT36M37.16S" f="">to byl </p>
+        <p b="PT36M37.38S" e="PT36M37.71S" f="">šéf </p>
+        <p b="PT36M37.71S" e="PT36M37.91S" f="">toho </p>
+        <p b="PT36M37.91S" e="PT36M39.01S" f="">ubytovacího z</p>
+        <p b="PT36M39.51S" e="PT36M40.49S" f="">ařízení </p>
+        <p b="PT36M40.74S" e="PT36M40.84S" f="">a </p>
+        <p b="PT36M40.84S" e="PT36M41.29S" f="">přišel </p>
+        <p b="PT36M41.29S" e="PT36M41.81S" f="">tam i </p>
+        <p b="PT36M43.52S" e="PT36M43.97S" f="">Betriebsobmann, </p>
+        <p b="PT36M44.72S" e="PT36M45.11S" f="">to byla </p>
+        <p b="PT36M45.11S" e="PT36M45.78S" f="">šarže o</p>
+        <p b="PT36M46.2S" e="PT36M47.32S" f="">dborová. </p>
+        <p b="PT36M48.29S" e="PT36M48.78S" f="">Já jsem </p>
+        <p b="PT36M48.78S" e="PT36M48.97S" f="">tam </p>
+        <p b="PT36M48.97S" e="PT36M49.34S" f="">takhle dal </p>
+        <p b="PT36M50.97S" e="PT36M51.37S" f="">na </p>
+        <p b="PT36M51.37S" e="PT36M52.29S" f="">jeviště </p>
+        <p b="PT36M52.83S" e="PT36M53.11S" f="">3 </p>
+        <p b="PT36M53.11S" e="PT36M53.72S" f="">kluky, m</p>
+        <p b="PT36M54.71S" e="PT36M54.91S" f="">ěli jsme to na</p>
+        <p b="PT36M55.38S" e="PT36M56.1S" f="">cvičené </p>
+        <p b="PT36M56.98S" e="PT36M57.37S" f="">a </p>
+        <p b="PT36M57.65S" e="PT36M58.19S" f="">říkám, </p>
+        <p b="PT36M58.19S" e="PT36M58.88S" f="">německy </p>
+        <p b="PT36M58.88S" e="PT36M59.82S" f="">pochopitelně. </p>
+        <p b="PT37M0.07S" e="PT37M0.39S" f="">Těmhle </p>
+        <p b="PT37M0.39S" e="PT37M0.64S" f="">těm </p>
+        <p b="PT37M0.64S" e="PT37M1.07S" f="">pánům, tomu </p>
+        <p b="PT37M1.07S" e="PT37M1.26S" f="">Lagrführerovi </p>
+        <p b="PT37M1.26S" e="PT37M1.6S" f="">a tomu </p>
+        <p b="PT37M3.06S" e="PT37M3.4S" f="">Betriebsobmannovi, </p>
+        <p b="PT37M3.67S" e="PT37M4.06S" f="">kdyby </p>
+        <p b="PT37M4.06S" e="PT37M4.3S" f="">byly </p>
+        <p b="PT37M4.3S" e="PT37M4.49S" f="">tak </p>
+        <p b="PT37M4.49S" e="PT37M5S" f="">hodný </p>
+        <p b="PT37M5.26S" e="PT37M5.39S" f="">a </p>
+        <p b="PT37M5.39S" e="PT37M5.74S" f="">vzali </p>
+        <p b="PT37M5.74S" e="PT37M5.97S" f="">si </p>
+        <p b="PT37M5.97S" e="PT37M6.71S" f="">tyhle ty </p>
+        <p b="PT37M6.71S" e="PT37M7.42S" f="">krásné </p>
+        <p b="PT37M7.42S" e="PT37M8.14S" f="">pentle, </p>
+        <p b="PT37M8.43S" e="PT37M8.92S" f="">každý </p>
+        <p b="PT37M8.92S" e="PT37M9.73S" f="">jednu. </p>
+        <p b="PT37M10.67S" e="PT37M10.9S" f="">A ti </p>
+        <p b="PT37M10.9S" e="PT37M11.31S" f="">chlapci začali zpívat "</p>
+        <p b="PT37M17.72S" e="PT37M18.37S" f="">Pasol Jano tri voly, u hája" samozřejmě, </p>
+        <p b="PT37M18.37S" e="PT37M18.51S" f="">že </p>
+        <p b="PT37M18.51S" e="PT37M19.18S" f="">obecenstvo </p>
+        <p b="PT37M19.18S" e="PT37M19.37S" f="">se </p>
+        <p b="PT37M19.37S" e="PT37M20.01S" f="">smálo </p>
+        <p b="PT37M20.01S" e="PT37M21.15S" f="">decentně. </p>
+        <p b="PT37M22.59S" e="PT37M22.86S" f="">Ale </p>
+        <p b="PT37M22.86S" e="PT37M23.45S" f="">takovýmhle </p>
+        <p b="PT37M23.45S" e="PT37M24.28S" f="">způsobem, </p>
+        <p b="PT37M24.67S" e="PT37M25.2S" f="">opravdu </p>
+        <p b="PT37M25.2S" e="PT37M25.39S" f="">na </p>
+        <p b="PT37M25.39S" e="PT37M25.75S" f="">ostří </p>
+        <p b="PT37M25.75S" e="PT37M26.13S" f="">nože, </p>
+        <p b="PT37M26.35S" e="PT37M26.94S" f="">jsem to </p>
+        <p b="PT37M26.94S" e="PT37M27.61S" f="">dokázal </p>
+        <p b="PT37M27.61S" e="PT37M27.89S" f="">si s nimi hrát.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT40M34.49S" e="PT40M45.48S" a="None" s="0">
+        <p b="PT40M34.49S" e="PT40M34.64S" f="">Jiří </p>
+        <p b="PT40M34.64S" e="PT40M35.03S" f="">Světlík </p>
+        <p b="PT40M35.03S" e="PT40M35.3S" f="">je dnes </p>
+        <p b="PT40M35.3S" e="PT40M35.62S" f="">hostem </p>
+        <p b="PT40M35.62S" e="PT40M36.58S" f="">Radiožurnálu. </p>
+        <p b="PT40M37.1S" e="PT40M37.41S" f="">Je </p>
+        <p b="PT40M37.41S" e="PT40M37.81S" f="">po letech, </p>
+        <p b="PT40M37.81S" e="PT40M38.11S" f="">když se </p>
+        <p b="PT40M38.11S" e="PT40M38.61S" f="">ohlížíte </p>
+        <p b="PT40M38.61S" e="PT40M38.75S" f="">za </p>
+        <p b="PT40M38.75S" e="PT40M39.3S" f="">dvacátým </p>
+        <p b="PT40M39.3S" e="PT40M39.82S" f="">stoletím </p>
+        <p b="PT40M39.82S" e="PT40M40.19S" f="">nějaký </p>
+        <p b="PT40M40.19S" e="PT40M40.86S" f="">rozdíl </p>
+        <p b="PT40M40.86S" e="PT40M41.01S" f="">ve </p>
+        <p b="PT40M41.01S" e="PT40M41.94S" f="">vzpomínkách </p>
+        <p b="PT40M42.24S" e="PT40M42.45S" f="">na </p>
+        <p b="PT40M42.45S" e="PT40M42.89S" f="">vězení </p>
+        <p b="PT40M42.89S" e="PT40M43.03S" f="">za </p>
+        <p b="PT40M43.03S" e="PT40M43.53S" f="">války </p>
+        <p b="PT40M43.53S" e="PT40M43.82S" f="">a </p>
+        <p b="PT40M43.82S" e="PT40M43.95S" f="">na </p>
+        <p b="PT40M43.95S" e="PT40M44.35S" f="">vězení </p>
+        <p b="PT40M44.35S" e="PT40M44.43S" f="">v </p>
+        <p b="PT40M44.43S" e="PT40M45.05S" f="">padesátých </p>
+        <p b="PT40M45.05S" e="PT40M45.48S" f="">letech?</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT40M46.33S" e="PT41M43.14S" a="None" s="1">
+        <p b="PT40M46.33S" e="PT40M46.68S" f="">Víte </p>
+        <p b="PT40M46.68S" e="PT40M47.26S" f="">tenkrát v </p>
+        <p b="PT40M47.26S" e="PT40M47.41S" f="">tom </p>
+        <p b="PT40M47.41S" e="PT40M47.96S" f="">Německu to </p>
+        <p b="PT40M47.96S" e="PT40M48.39S" f="">trvalo </p>
+        <p b="PT40M48.39S" e="PT40M48.93S" f="">rok. </p>
+        <p b="PT40M49.84S" e="PT40M50.13S" f="">To </p>
+        <p b="PT40M50.13S" e="PT40M50.24S" f="">se </p>
+        <p b="PT40M50.24S" e="PT40M50.81S" f="">skutečně </p>
+        <p b="PT40M50.81S" e="PT40M51.08S" f="">dalo </p>
+        <p b="PT40M51.08S" e="PT40M51.47S" f="">přežít </p>
+        <p b="PT40M51.47S" e="PT40M51.91S" f="">protože, </p>
+        <p b="PT40M52.35S" e="PT40M52.5S" f="">jak </p>
+        <p b="PT40M52.5S" e="PT40M52.82S" f="">říkám </p>
+        <p b="PT40M52.82S" e="PT40M53.16S" f="">byl jsem </p>
+        <p b="PT40M53.16S" e="PT40M53.6S" f="">v tom </p>
+        <p b="PT40M56.09S" e="PT40M56.91S" f="">Donauwertu, tam je </p>
+        <p b="PT40M57.33S" e="PT40M58.03S" f="">v blízkosti toho </p>
+        <p b="PT40M58.03S" e="PT40M58.57S" f="">Donauwertu pohoří, </p>
+        <p b="PT40M59.81S" e="PT41M0.28S" f="">které se </p>
+        <p b="PT41M0.28S" e="PT41M0.6S" f="">jmenuje </p>
+        <p b="PT41M1.06S" e="PT41M1.62S" f="">Švábská Jura, </p>
+        <p b="PT41M2.28S" e="PT41M3.01S" f="">to je </p>
+        <p b="PT41M3.01S" e="PT41M3.84S" f="">listnaté </p>
+        <p b="PT41M3.84S" e="PT41M4.55S" f="">položí. </p>
+        <p b="PT41M5.4S" e="PT41M5.82S" f="">A </p>
+        <p b="PT41M5.82S" e="PT41M6.37S" f="">na to byl </p>
+        <p b="PT41M6.37S" e="PT41M7.27S" f="">krásný </p>
+        <p b="PT41M7.27S" e="PT41M7.81S" f="">pohled </p>
+        <p b="PT41M8.09S" e="PT41M8.37S" f="">z </p>
+        <p b="PT41M8.37S" e="PT41M9.15S" f="">pater </p>
+        <p b="PT41M9.37S" e="PT41M9.55S" f="">té </p>
+        <p b="PT41M9.55S" e="PT41M10.43S" f="">věznice, </p>
+        <p b="PT41M11.5S" e="PT41M11.98S" f="">když </p>
+        <p b="PT41M11.98S" e="PT41M12.37S" f="">byl </p>
+        <p b="PT41M12.37S" e="PT41M12.94S" f="">podzim. </p>
+        <p b="PT41M13.24S" e="PT41M13.88S" f="">A to </p>
+        <p b="PT41M14.12S" e="PT41M14.43S" f="">se </p>
+        <p b="PT41M14.43S" e="PT41M14.56S" f="">s z</p>
+        <p b="PT41M14.56S" e="PT41M15.07S" f="">barvovalo do ž</p>
+        <p b="PT41M15.81S" e="PT41M16.31S" f="">luta, do</p>
+        <p b="PT41M16.6S" e="PT41M16.78S" f=""> </p>
+        <p b="PT41M16.78S" e="PT41M17.63S" f="">oranžova, </p>
+        <p b="PT41M17.8S" e="PT41M18.81S" f="">do červena. </p>
+        <p b="PT41M19.28S" e="PT41M19.7S" f="">Ty </p>
+        <p b="PT41M19.7S" e="PT41M20.25S" f="">úseky </p>
+        <p b="PT41M20.25S" e="PT41M20.83S" f="">toho </p>
+        <p b="PT41M20.83S" e="PT41M21.55S" f="">listnatého </p>
+        <p b="PT41M21.55S" e="PT41M21.93S" f="">lesa, </p>
+        <p b="PT41M22.12S" e="PT41M22.39S" f="">to byl </p>
+        <p b="PT41M22.39S" e="PT41M22.79S" f="">velice </p>
+        <p b="PT41M22.79S" e="PT41M23.24S" f="">krásný </p>
+        <p b="PT41M23.24S" e="PT41M23.73S" f="">pohled </p>
+        <p b="PT41M24.19S" e="PT41M24.34S" f="">z </p>
+        <p b="PT41M24.34S" e="PT41M25.16S" f="">kriminálu. </p>
+        <p b="PT41M27.01S" e="PT41M27.58S" f="">A </p>
+        <p b="PT41M27.58S" e="PT41M28.45S" f="">tam </p>
+        <p b="PT41M28.64S" e="PT41M29.15S" f="">jsme </p>
+        <p b="PT41M29.15S" e="PT41M29.65S" f="">sekali </p>
+        <p b="PT41M29.65S" e="PT41M30.03S" f="">dříví, </p>
+        <p b="PT41M30.03S" e="PT41M30.65S" f="">protože </p>
+        <p b="PT41M31.05S" e="PT41M31.89S" f="">němečtí </p>
+        <p b="PT41M32.01S" e="PT41M32.72S" f="">manželé, </p>
+        <p b="PT41M32.72S" e="PT41M33.15S" f="">kteří by </p>
+        <p b="PT41M33.15S" e="PT41M33.32S" f="">to </p>
+        <p b="PT41M33.32S" e="PT41M33.5S" f="">byly </p>
+        <p b="PT41M33.5S" e="PT41M33.81S" f="">pro ty </p>
+        <p b="PT41M33.81S" e="PT41M34.16S" f="">rodiny </p>
+        <p b="PT41M34.16S" e="PT41M34.53S" f="">dělali</p>
+        <p b="PT41M35.37S" e="PT41M35.6S" f="">, tak ty </p>
+        <p b="PT41M35.6S" e="PT41M36.2S" f="">bojovali </p>
+        <p b="PT41M36.2S" e="PT41M36.32S" f="">na </p>
+        <p b="PT41M36.32S" e="PT41M36.91S" f="">frontě. </p>
+        <p b="PT41M37.67S" e="PT41M37.82S" f="">No, </p>
+        <p b="PT41M37.82S" e="PT41M38.16S" f="">a tak </p>
+        <p b="PT41M38.16S" e="PT41M38.52S" f="">ti </p>
+        <p b="PT41M38.52S" e="PT41M39.22S" f="">trestanci a </p>
+        <p b="PT41M39.22S" e="PT41M40.14S" f="">nepřátelé Ř</p>
+        <p b="PT41M40.5S" e="PT41M41.15S" f="">íše </p>
+        <p b="PT41M41.35S" e="PT41M41.76S" f="">pro ty </p>
+        <p b="PT41M41.76S" e="PT41M42.16S" f="">rodiny </p>
+        <p b="PT41M42.16S" e="PT41M42.32S" f="">se</p>
+        <p b="PT41M42.32S" e="PT41M42.68S" f="">kali to </p>
+        <p b="PT41M42.68S" e="PT41M43.14S" f="">dříví.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT41M44.22S" e="PT41M46.76S" a="None" s="0">
+        <p b="PT41M44.22S" e="PT41M44.63S" f="">Takže </p>
+        <p b="PT41M44.63S" e="PT41M45.12S" f="">lehčí </p>
+        <p b="PT41M45.12S" e="PT41M45.56S" f="">práce </p>
+        <p b="PT41M45.56S" e="PT41M45.79S" f="">než v </p>
+        <p b="PT41M45.79S" e="PT41M46.31S" f="">uranových </p>
+        <p b="PT41M46.31S" e="PT41M46.76S" f="">dolech. </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT41M48.04S" e="PT42M14.36S" a="None" s="1">
+        <p b="PT41M48.04S" e="PT41M48.18S" f="">V </p>
+        <p b="PT41M48.18S" e="PT41M48.74S" f="">uranových </p>
+        <p b="PT41M48.74S" e="PT41M49.29S" f="">dolech </p>
+        <p b="PT41M50.09S" e="PT41M50.46S" f="">taky </p>
+        <p b="PT41M50.46S" e="PT41M50.65S" f="">to </p>
+        <p b="PT41M50.65S" e="PT41M51.1S" f="">nebylo </p>
+        <p b="PT41M51.1S" e="PT41M51.32S" f="">někdy</p>
+        <p b="PT41M52.3S" e="PT41M52.89S" f=""> </p>
+        <p b="PT41M52.89S" e="PT41M53.14S" f="">tak z</p>
+        <p b="PT41M53.14S" e="PT41M53.7S" f="">rovna těžké. N</p>
+        <p b="PT41M55.39S" e="PT41M55.72S" f="">o </p>
+        <p b="PT41M55.72S" e="PT41M55.92S" f="">ale, prosím vás, </p>
+        <p b="PT41M57.48S" e="PT41M57.69S" f="">v </p>
+        <p b="PT41M57.69S" e="PT41M58.38S" f="">uranových </p>
+        <p b="PT41M58.38S" e="PT41M59.05S" f="">dolech, </p>
+        <p b="PT41M59.44S" e="PT41M59.63S" f="">těch </p>
+        <p b="PT41M59.63S" e="PT42M0.1S" f="">6 let </p>
+        <p b="PT42M0.1S" e="PT42M0.13S" f="">v </p>
+        <p b="PT42M0.13S" e="PT42M0.94S" f="">Jáchymově j</p>
+        <p b="PT42M1.17S" e="PT42M1.39S" f="">sem </p>
+        <p b="PT42M1.39S" e="PT42M1.97S" f="">dělal </p>
+        <p b="PT42M1.97S" e="PT42M2.94S" f="">absolutně </p>
+        <p b="PT42M2.94S" e="PT42M3.85S" f="">všechno, </p>
+        <p b="PT42M4.15S" e="PT42M4.55S" f="">co se </p>
+        <p b="PT42M4.55S" e="PT42M4.94S" f="">dělat </p>
+        <p b="PT42M4.94S" e="PT42M5.42S" f="">může. </p>
+        <p b="PT42M6.21S" e="PT42M6.74S" f="">Já jsem </p>
+        <p b="PT42M6.74S" e="PT42M6.96S" f="">tam </p>
+        <p b="PT42M6.96S" e="PT42M7.45S" f="">měl </p>
+        <p b="PT42M7.76S" e="PT42M8.58S" f="">kamaráda </p>
+        <p b="PT42M8.93S" e="PT42M9.46S" f="">Jardu H</p>
+        <p b="PT42M9.46S" e="PT42M10.05S" f="">náta </p>
+        <p b="PT42M10.8S" e="PT42M11.24S" f="">a </p>
+        <p b="PT42M11.24S" e="PT42M11.86S" f="">já jsem </p>
+        <p b="PT42M11.86S" e="PT42M12.49S" f="">dělal </p>
+        <p b="PT42M12.8S" e="PT42M13.3S" f="">1 </p>
+        <p b="PT42M13.3S" e="PT42M13.89S" f="">čas </p>
+        <p b="PT42M13.89S" e="PT42M14.36S" f="">taky </p>
+        <p b="PT42M14.36S" e="PT42M14.36S" f="">radiometristu.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT42M14.99S" e="PT42M17.81S" a="None" s="0">
+        <p b="PT42M14.99S" e="PT42M15.3S" f="">To </p>
+        <p b="PT42M16.41S" e="PT42M16.83S" f="">znamená, </p>
+        <p b="PT42M16.83S" e="PT42M17.17S" f="">měřil </p>
+        <p b="PT42M17.17S" e="PT42M17.39S" f="">jste </p>
+        <p b="PT42M17.39S" e="PT42M17.81S" f="">radioaktivitu. </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT42M17.81S" e="PT42M27.18S" a="None" s="1">
+        <p b="PT42M17.81S" e="PT42M18.21S" f="">Ano. </p>
+        <p b="PT42M19.13S" e="PT42M19.81S" f="">Jarda </p>
+        <p b="PT42M20.18S" e="PT42M20.38S" f="">měl</p>
+        <p b="PT42M20.66S" e="PT42M21.28S" f=""> </p>
+        <p b="PT42M20.66S" e="PT42M21.28S" f="">dobývku, </p>
+        <p b="PT42M21.86S" e="PT42M22.56S" f="">samozřejmě </p>
+        <p b="PT42M22.56S" e="PT42M23.01S" f="">platilo </p>
+        <p b="PT42M23.01S" e="PT42M23.19S" f="">se </p>
+        <p b="PT42M23.19S" e="PT42M23.59S" f="">za </p>
+        <p b="PT42M23.85S" e="PT42M24.82S" f="">odkrytou </p>
+        <p b="PT42M25.19S" e="PT42M25.92S" f="">plochu té </p>
+        <p b="PT42M26.54S" e="PT42M27.18S" f="">žíly.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT42M27.18S" e="PT42M27.4S" a="None" s="0">
+        <p b="PT42M27.18S" e="PT42M27.4S" f="">Jo. </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT42M27.66S" e="PT43M1.92S" a="None" s="1">
+        <p b="PT42M27.66S" e="PT42M28.14S" f="">To byly </p>
+        <p b="PT42M28.14S" e="PT42M28.45S" f="">jedny </p>
+        <p b="PT42M28.45S" e="PT42M28.99S" f="">peníze </p>
+        <p b="PT42M29.35S" e="PT42M29.46S" f="">a </p>
+        <p b="PT42M29.46S" e="PT42M29.79S" f="">druhý </p>
+        <p b="PT42M29.79S" e="PT42M30.2S" f="">peníze </p>
+        <p b="PT42M30.2S" e="PT42M30.45S" f="">byla </p>
+        <p b="PT42M30.45S" e="PT42M30.92S" f="">vytěžená ruda, </p>
+        <p b="PT42M32.09S" e="PT42M32.54S" f="">takzvaná </p>
+        <p b="PT42M32.54S" e="PT42M33.13S" f="">úpravenská,</p>
+        <p b="PT42M33.13S" e="PT42M33.38S" f=""> </p>
+        <p b="PT42M33.38S" e="PT42M33.67S" f="">ta byla </p>
+        <p b="PT42M33.67S" e="PT42M33.8S" f="">za </p>
+        <p b="PT42M33.8S" e="PT42M34.19S" f="">1,</p>
+        <p b="PT42M34.19S" e="PT42M35.01S" f="">60 Korun za kilo, </p>
+        <p b="PT42M37.56S" e="PT42M37.97S" f="">potom </p>
+        <p b="PT42M37.97S" e="PT42M38.53S" f="">byla </p>
+        <p b="PT42M38.86S" e="PT42M39.72S" f="">za 3, </p>
+        <p b="PT42M40.33S" e="PT42M40.63S" f="">za </p>
+        <p b="PT42M40.63S" e="PT42M41.4S" f="">8, </p>
+        <p b="PT42M41.89S" e="PT42M42.14S" f="">za </p>
+        <p b="PT42M42.14S" e="PT42M43.02S" f="">16 </p>
+        <p b="PT42M43.34S" e="PT42M43.51S" f="">a </p>
+        <p b="PT42M43.51S" e="PT42M44.15S" f="">čistá sm</p>
+        <p b="PT42M44.15S" e="PT42M44.44S" f="">olka </p>
+        <p b="PT42M44.44S" e="PT42M44.84S" f="">za </p>
+        <p b="PT42M44.84S" e="PT42M45.53S" f="">32 Kč </p>
+        <p b="PT42M45.53S" e="PT42M46.01S" f="">kilo. </p>
+        <p b="PT42M47.22S" e="PT42M47.57S" f="">Tenhle </p>
+        <p b="PT42M47.57S" e="PT42M47.98S" f="">Jarda Hnát měl </p>
+        <p b="PT42M49.97S" e="PT42M50.7S" f="">dobývku a říká, "Člověče, </p>
+        <p b="PT42M51.43S" e="PT42M51.82S" f="">my bychom potřebovali přijít k n</p>
+        <p b="PT42M52.55S" e="PT42M52.92S" f="">ějakým </p>
+        <p b="PT42M52.92S" e="PT42M53.28S" f="">penězům." </p>
+        <p b="PT42M53.28S" e="PT42M53.56S" f="">Já jsem řekl, "C</p>
+        <p b="PT42M53.73S" e="PT42M54.36S" f="">hlapče, </p>
+        <p b="PT42M55.44S" e="PT42M55.94S" f="">něco </p>
+        <p b="PT42M55.94S" e="PT42M56.78S" f="">vymyslíme." </p>
+        <p b="PT42M57.46S" e="PT42M57.66S" f="">No a </p>
+        <p b="PT42M57.66S" e="PT42M58.21S" f="">vymysleli </p>
+        <p b="PT42M58.21S" e="PT42M58.53S" f="">jsme, </p>
+        <p b="PT42M59.85S" e="PT43M0.12S" f="">víte co jsou to </p>
+        <p b="PT43M0.54S" e="PT43M1.36S" f="">radioaktivní </p>
+        <p b="PT43M1.36S" e="PT43M1.92S" f="">látky? </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT43M1.92S" e="PT43M2.38S" a="None" s="0">
+        <p b="PT43M1.92S" e="PT43M2.38S" f="">No. </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT43M2.68S" e="PT44M28.41S" a="None" s="1">
+        <p b="PT43M2.68S" e="PT43M3.07S" f="">Mezi </p>
+        <p b="PT43M3.07S" e="PT43M4.02S" f="">radioaktivní</p>
+        <p b="PT43M4.02S" e="PT43M4.2S" f="">mi </p>
+        <p b="PT43M4.2S" e="PT43M4.89S" f="">prvky </p>
+        <p b="PT43M5.17S" e="PT43M5.65S" f="">je také </p>
+        <p b="PT43M5.65S" e="PT43M6.05S" f="">1, </p>
+        <p b="PT43M6.05S" e="PT43M6.44S" f="">který se </p>
+        <p b="PT43M6.44S" e="PT43M6.66S" f="">jmenuje </p>
+        <p b="PT43M6.66S" e="PT43M7.29S" f="">radon. </p>
+        <p b="PT43M7.82S" e="PT43M8.14S" f="">To je </p>
+        <p b="PT43M8.14S" e="PT43M8.95S" f="">mrcha </p>
+        <p b="PT43M8.95S" e="PT43M9.56S" f="">prvek, </p>
+        <p b="PT43M10.16S" e="PT43M11.02S" f="">skvělý, </p>
+        <p b="PT43M11.02S" e="PT43M11.57S" f="">vyžaduje </p>
+        <p b="PT43M11.57S" e="PT43M11.96S" f="">Alfa, </p>
+        <p b="PT43M11.96S" e="PT43M12.28S" f="">Beta, G</p>
+        <p b="PT43M12.28S" e="PT43M12.83S" f="">ama </p>
+        <p b="PT43M13.09S" e="PT43M13.86S" f="">paprsky. Plyny jsou </p>
+        <p b="PT43M15.33S" e="PT43M15.87S" f="">rozpustné </p>
+        <p b="PT43M15.87S" e="PT43M16.02S" f="">ve </p>
+        <p b="PT43M16.02S" e="PT43M16.44S" f="">vodě </p>
+        <p b="PT43M16.65S" e="PT43M16.86S" f="">nebo </p>
+        <p b="PT43M16.86S" e="PT43M16.93S" f="">v </p>
+        <p b="PT43M16.93S" e="PT43M17.82S" f="">kapalinách. </p>
+        <p b="PT43M19.12S" e="PT43M19.24S" f="">I </p>
+        <p b="PT43M19.24S" e="PT43M19.79S" f="">radon je </p>
+        <p b="PT43M19.79S" e="PT43M20.32S" f="">rozpustný </p>
+        <p b="PT43M20.32S" e="PT43M20.41S" f="">ve </p>
+        <p b="PT43M20.41S" e="PT43M20.81S" f="">vodě. </p>
+        <p b="PT43M21.54S" e="PT43M21.94S" f="">Vzalo s</p>
+        <p b="PT43M22.36S" e="PT43M22.52S" f="">e Rudé </p>
+        <p b="PT43M22.52S" e="PT43M23.13S" f="">právo, protože jin</p>
+        <p b="PT43M24.22S" e="PT43M24.61S" f="">é n</p>
+        <p b="PT43M24.61S" e="PT43M24.99S" f="">oviny </p>
+        <p b="PT43M24.99S" e="PT43M25.37S" f="">se tam </p>
+        <p b="PT43M25.37S" e="PT43M25.69S" f="">nemohli </p>
+        <p b="PT43M25.69S" e="PT43M26.39S" f="">odebírat. </p>
+        <p b="PT43M27.34S" e="PT43M27.74S" f="">Rudé </p>
+        <p b="PT43M27.74S" e="PT43M28.13S" f="">právo </p>
+        <p b="PT43M28.13S" e="PT43M28.31S" f="">se </p>
+        <p b="PT43M28.31S" e="PT43M29.26S" f="">namočilo </p>
+        <p b="PT43M29.94S" e="PT43M30.25S" f="">v té </p>
+        <p b="PT43M30.25S" e="PT43M31.05S" f="">radioaktivní </p>
+        <p b="PT43M31.05S" e="PT43M31.35S" f="">vodě, </p>
+        <p b="PT43M31.35S" e="PT43M31.65S" f="">která </p>
+        <p b="PT43M31.65S" e="PT43M31.82S" f="">tam </p>
+        <p b="PT43M31.82S" e="PT43M32.14S" f="">tekla </p>
+        <p b="PT43M32.14S" e="PT43M32.61S" f="">všude </p>
+        <p b="PT43M32.83S" e="PT43M32.95S" f="">ve </p>
+        <p b="PT43M32.95S" e="PT43M33.6S" f="">stružkách  </p>
+        <p b="PT43M33.6S" e="PT43M33.79S" f="">na chodbách.</p>
+        <p b="PT43M33.79S" e="PT43M34.29S" f=""> </p>
+        <p b="PT43M35S" e="PT43M35.26S" f="">Vzali </p>
+        <p b="PT43M35.26S" e="PT43M35.6S" f="">jsme </p>
+        <p b="PT43M35.6S" e="PT43M35.99S" f="">tu </p>
+        <p b="PT43M36.53S" e="PT43M37.25S" f="">plechovou </p>
+        <p b="PT43M37.25S" e="PT43M38.32S" f="">bedničku, </p>
+        <p b="PT43M38.68S" e="PT43M39.26S" f="">vyložil </p>
+        <p b="PT43M39.26S" e="PT43M39.51S" f="">jsme ji</p>
+        <p b="PT43M39.51S" e="PT43M39.84S" f=""> </p>
+        <p b="PT43M39.84S" e="PT43M40.05S" f="">tím </p>
+        <p b="PT43M40.05S" e="PT43M40.8S" f="">mokrým r</p>
+        <p b="PT43M41.92S" e="PT43M42.61S" f="">adonem </p>
+        <p b="PT43M42.61S" e="PT43M43.14S" f="">nasáklým Rudým</p>
+        <p b="PT43M43.14S" e="PT43M43.52S" f=""> </p>
+        <p b="PT43M43.52S" e="PT43M44.05S" f="">právem, </p>
+        <p b="PT43M44.55S" e="PT43M45.28S" f="">nasypali </p>
+        <p b="PT43M45.28S" e="PT43M45.52S" f="">jsme </p>
+        <p b="PT43M45.52S" e="PT43M46.3S" f="">do toho </p>
+        <p b="PT43M46.88S" e="PT43M47.31S" f="">tu rudu za</p>
+        <p b="PT43M47.76S" e="PT43M47.92S" f=""> </p>
+        <p b="PT43M47.92S" e="PT43M48.33S" f="">korunu </p>
+        <p b="PT43M48.33S" e="PT43M48.58S" f="">šedesát, n</p>
+        <p b="PT43M50.32S" e="PT43M50.82S" f="">ahoru </p>
+        <p b="PT43M50.82S" e="PT43M51.06S" f="">jsme </p>
+        <p b="PT43M51.06S" e="PT43M51.34S" f="">dali </p>
+        <p b="PT43M51.34S" e="PT43M51.81S" f="">trošku</p>
+        <p b="PT43M51.81S" e="PT43M52.01S" f=""> </p>
+        <p b="PT43M52.01S" e="PT43M52.71S" f="">opravdické rudy,</p>
+        <p b="PT43M52.71S" e="PT43M53.07S" f=""> </p>
+        <p b="PT43M53.84S" e="PT43M54.44S" f="">zavřeli </p>
+        <p b="PT43M54.44S" e="PT43M55.21S" f="">jsme to </p>
+        <p b="PT43M55.99S" e="PT43M56.52S" f="">a aby </p>
+        <p b="PT43M56.52S" e="PT43M56.84S" f="">to bylo </p>
+        <p b="PT43M56.84S" e="PT43M57.18S" f="">hodně </p>
+        <p b="PT43M57.18S" e="PT43M57.98S" f="">těžké, </p>
+        <p b="PT43M58.57S" e="PT43M58.97S" f="">tak se do holínky ze stružky </p>
+        <p b="PT44M0.61S" e="PT44M1.1S" f="">nabrala </p>
+        <p b="PT44M1.1S" e="PT44M1.42S" f="">voda, nalila </p>
+        <p b="PT44M1.75S" e="PT44M2.48S" f="">se do toho na to a hned s tohle tou rudou se šlo na </p>
+        <p b="PT44M5.8S" e="PT44M6.51S" f="">rasy. </p>
+        <p b="PT44M7.15S" e="PT44M7.94S" f="">Ras</p>
+        <p b="PT44M10.93S" e="PT44M11.55S" f=""> (???) , </p>
+        <p b="PT44M12.32S" e="PT44M12.54S" f="">na </p>
+        <p b="PT44M12.54S" e="PT44M12.89S" f="">rase </p>
+        <p b="PT44M12.89S" e="PT44M13.23S" f="">to změřili, </p>
+        <p b="PT44M13.23S" e="PT44M13.93S" f="">řekli</p>
+        <p b="PT44M14.12S" e="PT44M14.36S" f=""> </p>
+        <p b="PT44M14.36S" e="PT44M14.9S" f="">dobrý, </p>
+        <p b="PT44M14.9S" e="PT44M15.4S" f="">taková a </p>
+        <p b="PT44M15.4S" e="PT44M15.88S" f="">taková </p>
+        <p b="PT44M16.61S" e="PT44M17.02S" f="">ruda, po 8 </p>
+        <p b="PT44M17.02S" e="PT44M17.7S" f="">korunách, </p>
+        <p b="PT44M17.88S" e="PT44M18.74S" f="">zvážili, hotovo a </p>
+        <p b="PT44M19.23S" e="PT44M19.64S" f="">máš to. T</p>
+        <p b="PT44M20.42S" e="PT44M20.75S" f="">akže </p>
+        <p b="PT44M20.75S" e="PT44M21.39S" f="">my jsme z rudy za 1,</p>
+        <p b="PT44M22.33S" e="PT44M23.03S" f="">60 </p>
+        <p b="PT44M23.37S" e="PT44M24.21S" f="">pomocí </p>
+        <p b="PT44M24.21S" e="PT44M24.75S" f="">Rudého </p>
+        <p b="PT44M24.75S" e="PT44M25.38S" f="">práva a </p>
+        <p b="PT44M25.76S" e="PT44M26.74S" f="">radonu </p>
+        <p b="PT44M26.74S" e="PT44M27.2S" f="">dělali </p>
+        <p b="PT44M27.2S" e="PT44M27.74S" f="">rudu za 8 k</p>
+        <p b="PT44M27.95S" e="PT44M28.41S" f="">orun.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT48M20.05S" e="PT48M35.78S" a="None" s="0">
+        <p b="PT48M20.05S" e="PT48M20.13S" f="">Na </p>
+        <p b="PT48M20.13S" e="PT48M20.98S" f="">Radiožurnálu </p>
+        <p b="PT48M20.98S" e="PT48M21.36S" f="">mluvím </p>
+        <p b="PT48M21.36S" e="PT48M21.5S" f="">s </p>
+        <p b="PT48M21.5S" e="PT48M22.61S" f="">protikomunistickým o</p>
+        <p b="PT48M22.61S" e="PT48M23.38S" f="">dbojářem a </p>
+        <p b="PT48M23.38S" e="PT48M24.06S" f="">politickým </p>
+        <p b="PT48M24.06S" e="PT48M24.51S" f="">vězněm </p>
+        <p b="PT48M24.51S" e="PT48M24.78S" f="">panem </p>
+        <p b="PT48M24.78S" e="PT48M25.07S" f="">Jiřím S</p>
+        <p b="PT48M25.07S" e="PT48M25.76S" f="">větlíkem, </p>
+        <p b="PT48M25.92S" e="PT48M26.22S" f="">který </p>
+        <p b="PT48M26.22S" e="PT48M26.48S" f="">loni </p>
+        <p b="PT48M26.48S" e="PT48M27.09S" f="">v listopadu </p>
+        <p b="PT48M27.09S" e="PT48M27.42S" f="">dostal </p>
+        <p b="PT48M27.42S" e="PT48M27.69S" f="">cenu P</p>
+        <p b="PT48M27.69S" e="PT48M28.19S" f="">aměti </p>
+        <p b="PT48M28.19S" e="PT48M28.72S" f="">národa. </p>
+        <p b="PT48M29.2S" e="PT48M29.63S" f="">Říkám </p>
+        <p b="PT48M29.63S" e="PT48M29.82S" f="">si, jak vás </p>
+        <p b="PT48M30.08S" e="PT48M30.24S" f="">tak </p>
+        <p b="PT48M30.24S" e="PT48M30.95S" f="">poslouchám, </p>
+        <p b="PT48M30.95S" e="PT48M31.2S" f="">kde </p>
+        <p b="PT48M31.2S" e="PT48M31.61S" f="">člověk </p>
+        <p b="PT48M31.61S" e="PT48M31.84S" f="">bere </p>
+        <p b="PT48M31.84S" e="PT48M31.99S" f="">tu </p>
+        <p b="PT48M31.99S" e="PT48M32.42S" f="">sílu </p>
+        <p b="PT48M32.42S" e="PT48M32.87S" f="">vydržet </p>
+        <p b="PT48M32.87S" e="PT48M33.41S" f="">věznění </p>
+        <p b="PT48M33.41S" e="PT48M33.78S" f="">dvou </p>
+        <p b="PT48M33.78S" e="PT48M34.32S" f="">totalit </p>
+        <p b="PT48M34.32S" e="PT48M34.73S" f="">a </p>
+        <p b="PT48M34.73S" e="PT48M35.29S" f="">nepoddat </p>
+        <p b="PT48M35.29S" e="PT48M35.42S" f="">se </p>
+        <p b="PT48M35.42S" e="PT48M35.78S" f="">tomu?</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT48M36.36S" e="PT49M52.25S" a="None" s="1">
+        <p b="PT48M36.36S" e="PT48M36.88S" f="">Já jsem </p>
+        <p b="PT48M36.88S" e="PT48M37.03S" f="">to </p>
+        <p b="PT48M37.03S" e="PT48M37.55S" f="">prostě </p>
+        <p b="PT48M37.55S" e="PT48M38.09S" f="">žil </p>
+        <p b="PT48M38.58S" e="PT48M38.96S" f="">a </p>
+        <p b="PT48M39.23S" e="PT48M39.98S" f="">snažil </p>
+        <p b="PT48M39.98S" e="PT48M40.47S" f="">jsem se </p>
+        <p b="PT48M40.47S" e="PT48M41.48S" f="">vždycky t</p>
+        <p b="PT48M42.41S" e="PT48M43.03S" f="">o tak </p>
+        <p b="PT48M43.03S" e="PT48M43.6S" f="">nějak </p>
+        <p b="PT48M44.06S" e="PT48M44.82S" f="">proklouznout, </p>
+        <p b="PT48M44.82S" e="PT48M45.29S" f="">aby to </p>
+        <p b="PT48M45.29S" e="PT48M45.85S" f="">šlo. </p>
+        <p b="PT48M46.75S" e="PT48M47.45S" f="">Když jsem </p>
+        <p b="PT48M47.45S" e="PT48M47.99S" f="">byl </p>
+        <p b="PT48M48.33S" e="PT48M49.14S" f="">nedávno </p>
+        <p b="PT48M49.45S" e="PT48M50.3S" f="">v Praze, </p>
+        <p b="PT48M50.65S" e="PT48M51.09S" f="">v tom </p>
+        <p b="PT48M51.09S" e="PT48M51.58S" f="">národním </p>
+        <p b="PT48M51.58S" e="PT48M51.89S" f="">divadle o</p>
+        <p b="PT48M52.11S" e="PT48M52.55S" f="">ceněn, </p>
+        <p b="PT48M53.18S" e="PT48M53.59S" f="">tak jsem </p>
+        <p b="PT48M53.59S" e="PT48M53.86S" f="">tam </p>
+        <p b="PT48M53.86S" e="PT48M54.3S" f="">dostal </p>
+        <p b="PT48M54.3S" e="PT48M54.84S" f="">jako </p>
+        <p b="PT48M55.31S" e="PT48M55.62S" f="">na </p>
+        <p b="PT48M55.62S" e="PT48M56.51S" f="">památku </p>
+        <p b="PT48M57.08S" e="PT48M57.46S" f="">takovou </p>
+        <p b="PT48M57.46S" e="PT48M57.99S" f="">velikou </p>
+        <p b="PT48M57.99S" e="PT48M58.53S" f="">plátěnou </p>
+        <p b="PT48M58.53S" e="PT48M59.2S" f="">tašku, a </p>
+        <p b="PT48M59.48S" e="PT48M59.89S" f="">v </p>
+        <p b="PT48M59.89S" e="PT49M0.57S" f="">strašně </p>
+        <p b="PT49M0.57S" e="PT49M1.08S" f="">tlustou </p>
+        <p b="PT49M1.08S" e="PT49M1.69S" f="">knihu </p>
+        <p b="PT49M2.1S" e="PT49M2.54S" f="">Karla P</p>
+        <p b="PT49M2.54S" e="PT49M3.28S" f="">ecky, </p>
+        <p b="PT49M4.1S" e="PT49M4.64S" f="">která se </p>
+        <p b="PT49M4.64S" e="PT49M4.93S" f="">jmenuje S</p>
+        <p b="PT49M4.93S" e="PT49M5.81S" f="">ouhvězdí </p>
+        <p b="PT49M5.81S" e="PT49M6.5S" f="">gulag. </p>
+        <p b="PT49M7.65S" e="PT49M8.12S" f="">Já </p>
+        <p b="PT49M8.12S" e="PT49M8.5S" f="">Karla P</p>
+        <p b="PT49M8.5S" e="PT49M8.91S" f="">ecku</p>
+        <p b="PT49M8.91S" e="PT49M9.14S" f=""> </p>
+        <p b="PT49M9.45S" e="PT49M9.83S" f="">jsem </p>
+        <p b="PT49M9.83S" e="PT49M10.66S" f="">znal, my jsme</p>
+        <p b="PT49M11.26S" e="PT49M11.62S" f=""> </p>
+        <p b="PT49M11.62S" e="PT49M12.01S" f="">spolu </p>
+        <p b="PT49M12.01S" e="PT49M12.33S" f="">byli na </p>
+        <p b="PT49M12.62S" e="PT49M13.15S" f="">Nikolaji na </p>
+        <p b="PT49M13.15S" e="PT49M13.87S" f="">lágru. A z</p>
+        <p b="PT49M14.78S" e="PT49M15.35S" f="">atímco </p>
+        <p b="PT49M15.35S" e="PT49M15.48S" f="">my </p>
+        <p b="PT49M15.48S" e="PT49M15.97S" f="">všichni </p>
+        <p b="PT49M15.97S" e="PT49M16.38S" f="">jsme se </p>
+        <p b="PT49M16.38S" e="PT49M17.3S" f="">snažili t</p>
+        <p b="PT49M17.71S" e="PT49M17.92S" f="">o </p>
+        <p b="PT49M17.92S" e="PT49M19.14S" f="">nějakým způsobem </p>
+        <p b="PT49M19.14S" e="PT49M19.68S" f="">prostě </p>
+        <p b="PT49M19.68S" e="PT49M20.34S" f="">přežít, </p>
+        <p b="PT49M20.56S" e="PT49M21.1S" f="">odšvindlovat, a po</p>
+        <p b="PT49M22.28S" e="PT49M23.25S" f="">dobně, </p>
+        <p b="PT49M24.1S" e="PT49M24.33S" f="">tak </p>
+        <p b="PT49M24.33S" e="PT49M24.62S" f="">Karel </p>
+        <p b="PT49M24.62S" e="PT49M25.01S" f="">Pecka </p>
+        <p b="PT49M25.01S" e="PT49M25.75S" f="">trpěl. </p>
+        <p b="PT49M26.83S" e="PT49M26.93S" f="">A </p>
+        <p b="PT49M26.93S" e="PT49M27.33S" f="">napsal </p>
+        <p b="PT49M27.33S" e="PT49M27.84S" f="">o tom </p>
+        <p b="PT49M28.22S" e="PT49M28.78S" f="">knihu </p>
+        <p b="PT49M28.78S" e="PT49M29.5S" f="">například </p>
+        <p b="PT49M30.76S" e="PT49M31.98S" f="">Motáky nezvěstnému </p>
+        <p b="PT49M32.3S" e="PT49M32.63S" f="">nebo N</p>
+        <p b="PT49M32.63S" e="PT49M32.97S" f="">a co </p>
+        <p b="PT49M32.97S" e="PT49M33.52S" f="">umírají </p>
+        <p b="PT49M33.52S" e="PT49M34.23S" f="">muži, t</p>
+        <p b="PT49M35.11S" e="PT49M35.59S" f="">o jsou </p>
+        <p b="PT49M35.59S" e="PT49M36.49S" f="">dramata, </p>
+        <p b="PT49M36.77S" e="PT49M37.34S" f="">to jsou </p>
+        <p b="PT49M37.66S" e="PT49M38.3S" f="">hrozné </p>
+        <p b="PT49M38.3S" e="PT49M38.72S" f="">věci. </p>
+        <p b="PT49M39.42S" e="PT49M39.7S" f="">A to </p>
+        <p b="PT49M39.7S" e="PT49M39.92S" f="">jsme </p>
+        <p b="PT49M39.92S" e="PT49M40.25S" f="">spolu </p>
+        <p b="PT49M40.25S" e="PT49M40.44S" f="">byli </p>
+        <p b="PT49M40.44S" e="PT49M40.55S" f="">na </p>
+        <p b="PT49M40.55S" e="PT49M41S" f="">stejném </p>
+        <p b="PT49M41S" e="PT49M41.4S" f="">lágru, </p>
+        <p b="PT49M41.4S" e="PT49M42.05S" f="">já nevím jestli on snad chodil jinými dveřmi, n</p>
+        <p b="PT49M45.32S" e="PT49M45.75S" f="">evím. </p>
+        <p b="PT49M46.53S" e="PT49M47.27S" f="">Prostě, </p>
+        <p b="PT49M47.83S" e="PT49M48.46S" f="">já jsem </p>
+        <p b="PT49M48.46S" e="PT49M48.8S" f="">se to </p>
+        <p b="PT49M48.8S" e="PT49M49.21S" f="">snažil </p>
+        <p b="PT49M49.21S" e="PT49M49.98S" f="">přežít, </p>
+        <p b="PT49M50.57S" e="PT49M51.06S" f="">zatímco </p>
+        <p b="PT49M51.06S" e="PT49M51.4S" f="">Karel </p>
+        <p b="PT49M51.4S" e="PT49M51.72S" f="">Pecka </p>
+        <p b="PT49M51.72S" e="PT49M52.25S" f="">trpěl. </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT49M52.63S" e="PT49M55.6S" a="None" s="0">
+        <p b="PT49M52.63S" e="PT49M53.05S" f="">Možná, </p>
+        <p b="PT49M53.05S" e="PT49M53.45S" f="">kdybyste </p>
+        <p b="PT49M53.45S" e="PT49M53.9S" f="">trpěl </p>
+        <p b="PT49M53.9S" e="PT49M54.4S" f="">příliš, </p>
+        <p b="PT49M54.4S" e="PT49M54.55S" f="">tak </p>
+        <p b="PT49M54.55S" e="PT49M54.77S" f="">jste </p>
+        <p b="PT49M54.77S" e="PT49M54.93S" f="">to </p>
+        <p b="PT49M54.93S" e="PT49M55.6S" f="">nepřežil. </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT49M56.26S" e="PT49M58.65S" a="None" s="1">
+        <p b="PT49M56.26S" e="PT49M56.66S" f="">No já si </p>
+        <p b="PT49M56.66S" e="PT49M57.09S" f="">to taky myslím, </p>
+        <p b="PT49M57.41S" e="PT49M57.7S" f="">Pecka je taky</p>
+        <p b="PT49M57.7S" e="PT49M57.93S" f=""> </p>
+        <p b="PT49M57.93S" e="PT49M58.13S" f="">už </p>
+        <p b="PT49M58.13S" e="PT49M58.65S" f="">nebožtík.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT49M58.65S" e="PT50M13.37S" a="None" s="0">
+        <p b="PT49M58.65S" e="PT49M59.07S" f="">No, </p>
+        <p b="PT49M59.07S" e="PT49M59.6S" f="">ale </p>
+        <p b="PT49M59.6S" e="PT50M0.37S" f="">jako, </p>
+        <p b="PT50M0.37S" e="PT50M0.75S" f="">já </p>
+        <p b="PT50M0.75S" e="PT50M0.97S" f="">znám </p>
+        <p b="PT50M0.97S" e="PT50M1.41S" f="">spoustu </p>
+        <p b="PT50M1.41S" e="PT50M1.65S" f="">lidí, </p>
+        <p b="PT50M1.65S" e="PT50M2.05S" f="">kteří </p>
+        <p b="PT50M2.05S" e="PT50M2.22S" f="">ten </p>
+        <p b="PT50M2.22S" e="PT50M2.53S" f="">uran </p>
+        <p b="PT50M2.53S" e="PT50M3.22S" f="">nepřežili. Vy j</p>
+        <p b="PT50M3.71S" e="PT50M3.94S" f="">ste </p>
+        <p b="PT50M3.94S" e="PT50M4.27S" f="">fakt </p>
+        <p b="PT50M4.27S" e="PT50M5.1S" f="">nikdy </p>
+        <p b="PT50M5.59S" e="PT50M5.81S" f="">za </p>
+        <p b="PT50M5.81S" e="PT50M6.12S" f="">celou </p>
+        <p b="PT50M6.12S" e="PT50M6.85S" f="">tu dobu </p>
+        <p b="PT50M7.37S" e="PT50M7.65S" f="">toho, </p>
+        <p b="PT50M7.65S" e="PT50M7.83S" f="">co </p>
+        <p b="PT50M7.83S" e="PT50M8.35S" f="">vás věznili </p>
+        <p b="PT50M9S" e="PT50M9.27S" f="">2 </p>
+        <p b="PT50M9.27S" e="PT50M10.25S" f="">totality </p>
+        <p b="PT50M10.46S" e="PT50M10.75S" f="">ani </p>
+        <p b="PT50M10.75S" e="PT50M11.65S" f="">nebrečel, </p>
+        <p b="PT50M11.99S" e="PT50M12.21S" f="">ani </p>
+        <p b="PT50M12.21S" e="PT50M12.6S" f="">jste si </p>
+        <p b="PT50M12.6S" e="PT50M13.37S" f="">nezoufal?</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT50M14.25S" e="PT51M1.05S" a="None" s="1">
+        <p b="PT50M14.25S" e="PT50M14.89S" f="">No, tak </p>
+        <p b="PT50M14.89S" e="PT50M15.45S" f="">jistě, </p>
+        <p b="PT50M15.45S" e="PT50M15.64S" f="">že </p>
+        <p b="PT50M15.64S" e="PT50M16.16S" f="">byly </p>
+        <p b="PT50M16.97S" e="PT50M17.48S" f="">velice </p>
+        <p b="PT50M17.48S" e="PT50M18.11S" f="">špatné </p>
+        <p b="PT50M18.11S" e="PT50M18.65S" f="">věci. </p>
+        <p b="PT50M19.74S" e="PT50M20.16S" f="">Velice </p>
+        <p b="PT50M20.16S" e="PT50M20.62S" f="">špatné </p>
+        <p b="PT50M20.62S" e="PT50M20.84S" f="">bylo, </p>
+        <p b="PT50M20.84S" e="PT50M21.25S" f="">když jsem </p>
+        <p b="PT50M21.25S" e="PT50M21.41S" f="">se </p>
+        <p b="PT50M21.41S" e="PT50M21.96S" f="">rozváděl </p>
+        <p b="PT50M21.96S" e="PT50M22.08S" f="">s </p>
+        <p b="PT50M22.08S" e="PT50M22.85S" f="">manželkou, </p>
+        <p b="PT50M24.18S" e="PT50M24.8S" f="">když si </p>
+        <p b="PT50M25.08S" e="PT50M25.95S" f="">manželka p</p>
+        <p b="PT50M27.1S" e="PT50M27.61S" f="">ořídila </p>
+        <p b="PT50M27.61S" e="PT50M28.2S" f="">dítě. Teď </p>
+        <p b="PT50M29.56S" e="PT50M29.98S" f="">si </p>
+        <p b="PT50M29.98S" e="PT50M30.56S" f="">představte, </p>
+        <p b="PT50M30.56S" e="PT50M30.95S" f="">našinec zavřený,</p>
+        <p b="PT50M30.95S" e="PT50M31.69S" f=""> </p>
+        <p b="PT50M32.15S" e="PT50M32.39S" f="">ale </p>
+        <p b="PT50M32.39S" e="PT50M33.44S" f="">podle zákona, </p>
+        <p b="PT50M34.31S" e="PT50M34.62S" f="">jestliže </p>
+        <p b="PT50M34.62S" e="PT50M34.81S" f="">se </p>
+        <p b="PT50M34.81S" e="PT50M34.88S" f="">v </p>
+        <p b="PT50M34.88S" e="PT50M35.41S" f="">manželství </p>
+        <p b="PT50M35.41S" e="PT50M35.81S" f="">narodí </p>
+        <p b="PT50M35.81S" e="PT50M36.45S" f="">dítě, t</p>
+        <p b="PT50M36.71S" e="PT50M36.97S" f="">ak </p>
+        <p b="PT50M36.97S" e="PT50M37.76S" f="">otec j</p>
+        <p b="PT50M38.13S" e="PT50M38.49S" f="">e ten </p>
+        <p b="PT50M38.49S" e="PT50M39.18S" f="">manžel </p>
+        <p b="PT50M39.85S" e="PT50M40.05S" f="">a my </p>
+        <p b="PT50M40.05S" e="PT50M40.27S" f="">jsme </p>
+        <p b="PT50M40.27S" e="PT50M40.53S" f="">ještě </p>
+        <p b="PT50M40.53S" e="PT50M40.86S" f="">nebyli </p>
+        <p b="PT50M40.86S" e="PT50M41.59S" f="">rozvedeni. </p>
+        <p b="PT50M41.82S" e="PT50M42.02S" f="">Čili </p>
+        <p b="PT50M42.02S" e="PT50M42.35S" f="">já jsem </p>
+        <p b="PT50M42.35S" e="PT50M42.48S" f="">byl </p>
+        <p b="PT50M42.48S" e="PT50M42.98S" f="">otcem </p>
+        <p b="PT50M42.98S" e="PT50M43.72S" f="">dítěte, </p>
+        <p b="PT50M44.37S" e="PT50M44.73S" f="">který </p>
+        <p b="PT50M44.73S" e="PT50M44.99S" f="">jsem </p>
+        <p b="PT50M44.99S" e="PT50M45.66S" f="">samozřejmě </p>
+        <p b="PT50M45.66S" e="PT50M46.05S" f="">nemohl </p>
+        <p b="PT50M46.05S" e="PT50M46.72S" f="">zplodit. </p>
+        <p b="PT50M48.12S" e="PT50M48.46S" f="">Vždycky </p>
+        <p b="PT50M48.46S" e="PT50M48.88S" f="">jsem musel </p>
+        <p b="PT50M48.88S" e="PT50M49.44S" f="">požádat </p>
+        <p b="PT50M49.44S" e="PT50M49.53S" f="">o </p>
+        <p b="PT50M49.53S" e="PT50M50.1S" f="">zvláštní </p>
+        <p b="PT50M50.1S" e="PT50M50.65S" f="">dopis, </p>
+        <p b="PT50M50.95S" e="PT50M51.61S" f="">protože jsem </p>
+        <p b="PT50M51.61S" e="PT50M51.87S" f="">dělal </p>
+        <p b="PT50M51.87S" e="PT50M52.59S" f="">podání n</p>
+        <p b="PT50M52.88S" e="PT50M53.05S" f="">a </p>
+        <p b="PT50M53.05S" e="PT50M53.79S" f="">soudy </p>
+        <p b="PT50M53.96S" e="PT50M54.08S" f="">a </p>
+        <p b="PT50M54.08S" e="PT50M54.56S" f="">takové to </p>
+        <p b="PT50M54.56S" e="PT50M55.1S" f="">věci. </p>
+        <p b="PT50M55.53S" e="PT50M55.81S" f="">A já </p>
+        <p b="PT50M55.81S" e="PT50M56.18S" f="">jsem </p>
+        <p b="PT50M56.52S" e="PT50M57.08S" f="">tímhle tím </p>
+        <p b="PT50M57.08S" e="PT50M57.95S" f="">způsobem </p>
+        <p b="PT50M57.95S" e="PT50M58.75S" f="">skutečně </p>
+        <p b="PT50M58.91S" e="PT50M59.52S" f="">byl </p>
+        <p b="PT50M59.99S" e="PT51M0.6S" f="">zbaven </p>
+        <p b="PT51M0.6S" e="PT51M1.05S" f="">toho otcovství.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT51M1.42S" e="PT51M8.38S" a="None" s="0">
+        <p b="PT51M1.42S" e="PT51M2.11S" f="">U</p>
+        <p b="PT51M2.76S" e="PT51M3.11S" f="">míte </p>
+        <p b="PT51M3.11S" e="PT51M3.27S" f="">si </p>
+        <p b="PT51M3.27S" e="PT51M3.78S" f="">představit, </p>
+        <p b="PT51M3.78S" e="PT51M4.15S" f="">že by se </p>
+        <p b="PT51M4.15S" e="PT51M4.87S" f="">některá </p>
+        <p b="PT51M4.87S" e="PT51M5.05S" f="">z </p>
+        <p b="PT51M5.05S" e="PT51M5.65S" f="">totalit </p>
+        <p b="PT51M5.65S" e="PT51M5.88S" f="">nebo </p>
+        <p b="PT51M5.88S" e="PT51M6.21S" f="">vlastně </p>
+        <p b="PT51M6.21S" e="PT51M6.87S" f="">jakákoli </p>
+        <p b="PT51M6.87S" e="PT51M7.42S" f="">totalita </p>
+        <p b="PT51M7.42S" e="PT51M7.75S" f="">ještě </p>
+        <p b="PT51M7.75S" e="PT51M8.38S" f="">vrátila?</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT51M9.22S" e="PT51M43.6S" a="None" s="1">
+        <p b="PT51M9.22S" e="PT51M9.52S" f="">Poslyšte, </p>
+        <p b="PT51M10.38S" e="PT51M11.01S" f="">sleduje </p>
+        <p b="PT51M11.01S" e="PT51M11.7S" f="">dění, </p>
+        <p b="PT51M12.07S" e="PT51M12.53S" f="">ovšem </p>
+        <p b="PT51M12.53S" e="PT51M12.8S" f="">pouze </p>
+        <p b="PT51M12.8S" e="PT51M12.88S" f="">z </p>
+        <p b="PT51M12.88S" e="PT51M13.35S" f="">televizní </p>
+        <p b="PT51M13.35S" e="PT51M14.22S" f="">obrazovky, </p>
+        <p b="PT51M14.88S" e="PT51M15.1S" f="">no </p>
+        <p b="PT51M15.1S" e="PT51M15.55S" f="">ale c</p>
+        <p b="PT51M17.09S" e="PT51M17.58S" f="">opak </p>
+        <p b="PT51M17.58S" e="PT51M17.84S" f="">víte, </p>
+        <p b="PT51M17.84S" e="PT51M18.19S" f="">co se </p>
+        <p b="PT51M18.19S" e="PT51M18.49S" f="">může </p>
+        <p b="PT51M18.49S" e="PT51M19.03S" f="">komu </p>
+        <p b="PT51M19.59S" e="PT51M20.3S" f="">náhodou </p>
+        <p b="PT51M20.3S" e="PT51M20.77S" f="">zrodit v </p>
+        <p b="PT51M20.77S" e="PT51M21.24S" f="">hlavě? </p>
+        <p b="PT51M22.04S" e="PT51M22.32S" f="">Ono </p>
+        <p b="PT51M22.32S" e="PT51M22.46S" f="">to </p>
+        <p b="PT51M22.46S" e="PT51M23.21S" f="">sice </p>
+        <p b="PT51M23.85S" e="PT51M24.65S" f="">v současné </p>
+        <p b="PT51M24.65S" e="PT51M25.2S" f="">době </p>
+        <p b="PT51M25.57S" e="PT51M26.02S" f="">na to </p>
+        <p b="PT51M26.02S" e="PT51M26.67S" f="">nevypadá, </p>
+        <p b="PT51M26.67S" e="PT51M27.06S" f="">ale </p>
+        <p b="PT51M27.85S" e="PT51M28.31S" f="">že by se </p>
+        <p b="PT51M28.31S" e="PT51M28.8S" f="">vrátilo</p>
+        <p b="PT51M28.8S" e="PT51M28.83S" f=""> </p>
+        <p b="PT51M28.83S" e="PT51M29.13S" f="">takové </p>
+        <p b="PT51M29.13S" e="PT51M29.91S" f="">podobné z</p>
+        <p b="PT51M29.91S" e="PT51M30.6S" f="">řízení j</p>
+        <p b="PT51M31.09S" e="PT51M31.41S" f="">ako </p>
+        <p b="PT51M31.41S" e="PT51M32.02S" f="">bylo to </p>
+        <p b="PT51M32.39S" e="PT51M32.73S" f="">nacistické nebo komunistické, to by mus</p>
+        <p b="PT51M38.94S" e="PT51M39.47S" f="">elo </p>
+        <p b="PT51M39.47S" e="PT51M39.62S" f="">být </p>
+        <p b="PT51M39.62S" e="PT51M39.93S" f="">nějaké </p>
+        <p b="PT51M39.93S" e="PT51M40.41S" f="">třetí, to z</p>
+        <p b="PT51M40.41S" e="PT51M40.95S" f="">atím </p>
+        <p b="PT51M41.23S" e="PT51M41.43S" f="">se </p>
+        <p b="PT51M41.43S" e="PT51M42.13S" f="">nerodí, </p>
+        <p b="PT51M42.13S" e="PT51M42.55S" f="">nevím. </p>
+        <p b="PT51M42.73S" e="PT51M43.19S" f="">Doufám, </p>
+        <p b="PT51M43.19S" e="PT51M43.6S" f="">že ne. </p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT51M43.86S" e="PT51M46.53S" a="None" s="0">
+        <p b="PT51M43.86S" e="PT51M44.08S" f="">Ale </p>
+        <p b="PT51M44.08S" e="PT51M44.63S" f="">správný </p>
+        <p b="PT51M44.63S" e="PT51M45.27S" f="">skaut </p>
+        <p b="PT51M45.27S" e="PT51M45.51S" f="">je </p>
+        <p b="PT51M45.51S" e="PT51M45.94S" f="">vždycky </p>
+        <p b="PT51M45.94S" e="PT51M46.53S" f="">připraven.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT51M45.94S" e="PT51M48.69S" a="None" s="1">
+        <p b="PT51M45.94S" e="PT51M46.53S" f="">Ano, tedy</p>
+        <p b="PT51M47.48S" e="PT51M47.77S" f=""> </p>
+        <p b="PT51M47.77S" e="PT51M47.92S" f="">to </p>
+        <p b="PT51M47.92S" e="PT51M48.28S" f="">máte </p>
+        <p b="PT51M48.28S" e="PT51M48.69S" f="">pravdu.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT51M50.44S" e="PT51M51.67S" a="None" s="0">
+        <p b="PT51M50.44S" e="PT51M50.67S" f="">Takže </p>
+        <p b="PT51M50.67S" e="PT51M50.93S" f="">vy jste </p>
+        <p b="PT51M50.93S" e="PT51M51.25S" f="">pořád </p>
+        <p b="PT51M51.25S" e="PT51M51.67S" f="">skaut.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT51M52.35S" e="PT52M2.38S" a="None" s="1">
+        <p b="PT51M52.35S" e="PT51M52.69S" f="">Já jsem </p>
+        <p b="PT51M52.69S" e="PT51M53.06S" f="">pořád </p>
+        <p b="PT51M53.06S" e="PT51M53.38S" f="">skaut, ano. </p>
+        <p b="PT51M54.75S" e="PT51M55.63S" f="">80 </p>
+        <p b="PT51M55.63S" e="PT51M55.77S" f="">let </p>
+        <p b="PT51M55.77S" e="PT51M56.1S" f="">už jsem </p>
+        <p b="PT51M56.1S" e="PT51M56.62S" f="">skaut. </p>
+        <p b="PT51M57.7S" e="PT51M58.12S" f="">Jednou </p>
+        <p b="PT51M58.12S" e="PT51M58.25S" f="">to </p>
+        <p b="PT51M58.25S" e="PT51M59.11S" f="">slíbíte, tak jste skaut no, to se</p>
+        <p b="PT52M0.27S" e="PT52M0.68S" f=""> </p>
+        <p b="PT52M1.44S" e="PT52M1.83S" f="">nedá </p>
+        <p b="PT52M1.83S" e="PT52M2.38S" f="">nic dělat.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT52M3.15S" e="PT52M11.37S" a="None" s="0">
+        <p b="PT52M3.15S" e="PT52M3.36S" f="">Pan </p>
+        <p b="PT52M3.36S" e="PT52M3.62S" f="">Jiří </p>
+        <p b="PT52M3.62S" e="PT52M4.16S" f="">Světlík </p>
+        <p b="PT52M4.16S" e="PT52M5S" f="">dneska </p>
+        <p b="PT52M5S" e="PT52M5.56S" f="">hostil </p>
+        <p b="PT52M5.56S" e="PT52M6.46S" f="">Radiožurnál </p>
+        <p b="PT52M6.46S" e="PT52M6.8S" f="">přímo </p>
+        <p b="PT52M6.8S" e="PT52M7.21S" f="">ve svém </p>
+        <p b="PT52M7.21S" e="PT52M7.47S" f="">domě </p>
+        <p b="PT52M7.47S" e="PT52M8.13S" f="">v Plzni, </p>
+        <p b="PT52M8.13S" e="PT52M8.39S" f="">tak </p>
+        <p b="PT52M8.39S" e="PT52M8.71S" f="">děkuji </p>
+        <p b="PT52M8.71S" e="PT52M8.86S" f="">za </p>
+        <p b="PT52M8.86S" e="PT52M9.48S" f="">vzpomínky a </p>
+        <p b="PT52M9.48S" e="PT52M9.82S" f="">děkuji, </p>
+        <p b="PT52M9.82S" e="PT52M10.11S" f="">že jste </p>
+        <p b="PT52M10.11S" e="PT52M10.25S" f="">si </p>
+        <p b="PT52M10.25S" e="PT52M10.58S" f="">na nás </p>
+        <p b="PT52M10.58S" e="PT52M10.89S" f="">udělal </p>
+        <p b="PT52M10.89S" e="PT52M11.37S" f="">čas.</p>
+      </pa>
+      <pa scribeForceLabel="true" b="PT52M11.85S" e="PT52M14.14S" a="None" s="1">
+        <p b="PT52M11.85S" e="PT52M12.1S" f="">No </p>
+        <p b="PT52M12.1S" e="PT52M12.55S" f="">já jsem </p>
+        <p b="PT52M12.55S" e="PT52M12.82S" f="">rád, </p>
+        <p b="PT52M12.82S" e="PT52M13.11S" f="">že jste </p>
+        <p b="PT52M13.11S" e="PT52M13.28S" f="">mě </p>
+        <p b="PT52M13.28S" e="PT52M14.14S" f="">navštívili.</p>
+      </pa>
+    </se>
+  </ch>
+  <sp>
+    <s role="moderátorka" id="0" surname="VÝBORNÁ" firstname="Lucie" sex="x" lang="" dbid="dd7274f8-58cf-44e1-8d0e-8d2c420e3a59" dbtype="user" synchronized="2019-03-13T13:15:02.9036078Z">
+      <a name="role" date="0001-01-01T00:00:00Z">moderátorka</a>
+    </s>
+    <s role="skaut, politický vězeň" id="1" surname="Světlík" firstname="Jiří" sex="x" lang="" dbid="a9811067-baa0-433b-bf9c-28e30a07dc09" dbtype="user" synchronized="2019-03-13T13:15:02.9036078Z">
+      <a name="role" date="0001-01-01T00:00:00Z">skaut, politický vězeň</a>
+    </s>
+  </sp>
+</transcription>

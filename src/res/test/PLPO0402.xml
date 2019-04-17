@@ -1,0 +1,438 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Transcription>
+  <NanoTVSource TechniqueOfCreatingTranscription="None" SynchronizingTimeLagForPlayer="0">
+    <SourceNanoTVBlocks>
+      <SourceNanoTVBlock UrlNanoTVAPI="http://czthp24ntvr.newtonmedia.eu/api" landeck_id="czcoollandeck03" program_id="0" service_name="ČRo Plzeň" tuner_id="5b84f13bdd65a174e0d5b743" IsVideo="False" RecordStart="02.04.2019 08:58:00" RecordLength="20400000000" />
+    </SourceNanoTVBlocks>
+  </NanoTVSource>
+  <Programme Channel="ČRo Plzeň" Title="Poradíme vám - lékařská témata" StartOfProgramme="02.04.2019 09:07:52" EndOfProgramme="02.04.2019 09:30:52" ScheduledDateTime="02.04.2019 09:00:00" ScheduledLength="24000000000" Kind=" polytematický" ProgrammeCode="PLPO" TranscriptionType="Normální" TranscriptionTypeCode="Normal" Topic="" NewsCount="1">
+    <News Title="Očkování: povinná - nepovinná" Author="" StartOfNews="02.04.2019 09:07:52" EndOfNews="02.04.2019 09:30:52" Kind="Transcription" Order="1" RealName="False" CreatorUserName="monika.svitakova">
+      <Act StartOfAct="02.04.2019 09:07:52" EndOfAct="02.04.2019 09:08:04" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Iveta Bartošová zpívá, že ona už končí, my teprve začínáme naší dnešní poradnu. Jak jsem říkala, mým hostem je doktorka Daniela Fránová, lékařka oddělení očkování a cestovní medicíny ze Zdravotního ústavu. Dobré dopoledne přeju.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:08:04" EndOfAct="02.04.2019 09:08:05" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Daniela" Surname="FRÁNOVÁ" TitleAfter="" TitleBefore="" Function="lékařka oddělení očkování a cestovní medicíny, Zdravotní ústav Plzeň" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Dobrý den.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:08:05" EndOfAct="02.04.2019 09:08:20" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Paní doktorko, naše dnešní téma a vlastně věčné téma bych řekla je očkování, ono se hodně teď ta pozornost na něj obrací kvůli spalničkám. Máte nějaké informace o té aktuální situaci, jak u nás jsme na tom se spalničkami?</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:08:20" EndOfAct="02.04.2019 09:08:59" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Daniela" Surname="FRÁNOVÁ" TitleAfter="" TitleBefore="" Function="lékařka oddělení očkování a cestovní medicíny, Zdravotní ústav Plzeň" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Když to porovnám s minulostí, kdy spalničky se tady asi dvě desetiletí vyskytovaly pouze sporadicky, pouze výjimečně a vždy to byla importovaná onemocnění ze zahraničí, tak současná situace v posledních několika letech je odlišná, a je vlastně úplně stejná jako je v ostatních evropských zemích. Takže nejsme úplně výjimkou v tomto. A jedná se o to, že máme každoročně 100, 200 případů onemocnění. To znamená, že je tady velmi odlišná epidemiologická situace v tom , že už tady dochází k našemu českému šíření spalniček mezi lidmi, kteří jinak si je neimportují ze zahraničí.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:08:59" EndOfAct="02.04.2019 09:09:07" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Já mám tak nějak zažité, že spalničky jsou nemoc dětí, ale ono je to teď naopak, ono těch případů je víc u dospělých, než u dětí.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:09:07" EndOfAct="02.04.2019 09:09:53" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Daniela" Surname="FRÁNOVÁ" TitleAfter="" TitleBefore="" Function="lékařka oddělení očkování a cestovní medicíny, Zdravotní ústav Plzeň" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Spalničky určitě jsou nemoc dětí a to platí pro neočkovanou populaci, to znamená, na tou můžou zavzpomínat všichni, kterým je dnes víc než 50 let, protože dnešní 50 byli v roce 1968 jako první ročník očkováni. Takže všichni starší žili v době, kdy se spalničky běžně šířily, byla to, a šířily se mezi dětskou populací, je to vysoce nakažlivá infekce a to znamená, že onemocněla valná většina lidí, 95 % dětí onemocnělo v případě, že se spalničky volně šířily /nesrozumitelné/ očkování. V současné době je tomu jinak. V současné době onemocní více dospělí lidé, i mezi nimi jsou očkovaní, a to souvisí s efektem vyvanutí imunity po tom očkování.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:09:53" EndOfAct="02.04.2019 09:10:00" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Takže logicky teď měli bychom se nechat přeočkovat, i my, co jsme právě ta generace, která prošla tím očkováním?</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:10:00" EndOfAct="02.04.2019 09:11:14" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Daniela" Surname="FRÁNOVÁ" TitleAfter="" TitleBefore="" Function="lékařka oddělení očkování a cestovní medicíny, Zdravotní ústav Plzeň" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Dá se říct, že jak se zavádělo to očkování, tak prvních několik let, zhruba 10 let, to očkování nebylo tak dokonalé, jako tomu bylo v pozdějších letech. Nebylo tak dokonalé z toho důvodu, že se očkovalo pouze jednou dávkou, ne dvěma jako později, ta ampula s očkovací látkou byla deseti dávková, očkovalo se dříve, očkovalo se už od 12 měsíců věku, a mohla tam být ještě interference s mateřskými protilátkami, takže pak když se upravilo to očkování, tak už to bylo dokonalejší, takže těch prvních 10 očkovaných ročníků, to znamená mezi 68 až 78, tak nebylo očkováno ještě tak dokonale, takže ti jsou vlastně nejzranitelnější a také mají nejdelší dobu od toho očkování. My už s tím očkováním žijeme tady 40 až 50 let tato, tito lidé. Takže tam může dojít k tomu efektu /nesrozumitelné/ imunity a nemusely vždycky vytvořit protilátky po tom očkováním v raném dětství. Takže je možné buďto se přeočkovat jen tak naslepo, aniž bych věděl nic o svém imunologickém statusu, anebo je možné vyšetřit krev na protilátky a očkovat se jen v případě nepřítomnosti protilátek.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:11:14" EndOfAct="02.04.2019 09:11:19" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Děkuji. Máte také první telefonický dotaz, tak vás poprosím sluchátka. Dobrý den. Kdo se nám dovolal?</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:11:19" EndOfAct="02.04.2019 09:11:37" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="posluchačka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Dobrý den přeji. Posluchačka z Chomutova. Já bych se chtěla paní doktorky zeptat, jestli by bylo vhodný se nechat naočkovat na ty, proti těm spalničkám, je mi 71 roků. Nevím, jestli se tenkrát očkovali.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:11:37" EndOfAct="02.04.2019 09:12:40" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Daniela" Surname="FRÁNOVÁ" TitleAfter="" TitleBefore="" Function="lékařka oddělení očkování a cestovní medicíny, Zdravotní ústav Plzeň" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Teď jsme o tom mluvily, že první očkovaný ročník je 1968, takže dneska 50letí lidé. Všichni starší žili v době, kdy se neočkovalo proti spalničkám a kdy se spalničky šířily mezi dětskou populací. Takže vy jste velmi pravděpodobně spalničky prodělala. Valná většina lidí si pamatuje ten údaj, že spalničky prodělali, pokud si nepamatujete, buď jste onemocněla úplně v raném dětství, rodiče vám o tom nevyprávěli, třeba jestli jste onemocněla 2, 3letá, pak vám u později o tom neříkali, tak možná, že jste je prodělala, možná ne, v tom případě jestliže nevíte, byl by asi vhodný odběr krve na protilátky, zjištění, vy je velmi pravděpodobně mít budete, protože lidé vašeho věku, 95 % všech lidí spalničky prodělalo. Takže s velkou pravděpodobností vy protilátky mít budete. Ale samozřejmě můžete patřit mezi těch 5 % lidí, kteří je neprodělali a pak ty očkování i v 70 letech bylo vhodné.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:12:40" EndOfAct="02.04.2019 09:12:42" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="posluchačka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Bylo vhodné. Tak vám děkuji moc.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:12:42" EndOfAct="02.04.2019 09:12:44" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Děkujeme za dotaz. Mějte se moc hezky.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:12:44" EndOfAct="02.04.2019 09:12:45" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="posluchačka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Moc děkuji a přeji hezký den, na shledanou.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:12:45" EndOfAct="02.04.2019 09:12:59" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Vám taky, na shledanou. Naším hostem je doktorka Daniela Fránová, naše téma je očkování. Máte-li i vy nějaký dotaz, tak nám volejte na 221554222, nebo pište SMSky na 605558888.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:12:59" EndOfAct="02.04.2019 09:16:51" KindOfAct="ProgrammeBreak" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="2" BreakType="Písnička" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders />
+        <MessageText>
+        </MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:16:51" EndOfAct="02.04.2019 09:17:09" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>V dnešní poradně probíráme očkování s doktorkou Danielou Fránovou, lékařkou oddělení očkování a cestovní medicíny Zdravotního ústavu. Telefonní linka 221554222 je obsazena, tak začneme tento vstup telefonátem. Dobrý den. Povídejte, jaký máte dotaz? Halo, halo, slyšíme se?</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:17:09" EndOfAct="02.04.2019 09:17:09" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="posluchačka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Dobrý den. Slyšíme se?</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:17:09" EndOfAct="02.04.2019 09:17:12" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Ano, už můžete.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:17:12" EndOfAct="02.04.2019 09:17:14" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="posluchačka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Ano, vypnula jsem rádio.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:17:14" EndOfAct="02.04.2019 09:17:14" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>To jste šikovná.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:17:14" EndOfAct="02.04.2019 09:17:53" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="posluchačka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Prosím vás, já mám dotaz na dceru přes 50. Já jako matka její, je mi přes 70, jsem prodělala velmi silné spalničky, to by bylo v pořádku, ale jako 2letou jsem jí měla v nemocnici, kde propukly spalničky a aby je nedostala, dostala dávku Gamaglobulin. Ta karanténa je 21 dnů, radovala jsem se, že ráno 21. je nemá a večer se mírně osypala, jestli ta imunita je tam nabuzená tím, když vlastně byly slabé a byly jakoby potlačené nebo...</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:17:53" EndOfAct="02.04.2019 09:18:58" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Daniela" Surname="FRÁNOVÁ" TitleAfter="" TitleBefore="" Function="lékařka oddělení očkování a cestovní medicíny, Zdravotní ústav Plzeň" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Ovlivněné..., v tom Gamaglobulinu jsou totiž protilátky, které se sbírají vlastně ze sér zdravých osob, a jsou tam vlastně koncentrované protilátky proti různým infekcím, záleží, jaký druh Gamaglobulinu to je, ale pokud je to normální Gamaglobulin směsný, tak tam jsou protilátky proti více infekcím, a využívalo se toho, že právě v té době mezi lidmi bylo hodně spalniček, to znamená, valná většina lidí protilátka měla, proto se ten Gamaglobulin podával, je možné, že ovlivnil tu infekci tak, že proběhlo jako lehké onemocnění, ale jestli vydrží protilátky po takovém průběhu spalniček, jestli vydrží protilátky desítky let, je opravdu možné zjistit jenom tím odběrem krve na aktuální zjištění stavu protilátek těch dlouhodobě přetrvávajících IGG protilátek, které mají přetrvávat prostě dlouhodobě v řádu desítek let, ale jestli to opravdu bylo někdy od konce 60. let doteď, jedině odběrem krve na protilátky na ověří stavu imunity.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:18:58" EndOfAct="02.04.2019 09:19:10" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="posluchačka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Dcera je totiž celiakik a ještě teďko na starý kolena studuje, tak mám strach, že by to jako u ní mělo potom ošklivý průběh, kdyby je dostala. Děkuju moc.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:19:10" EndOfAct="02.04.2019 09:19:12" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>My taky děkujeme. Hezký den přejeme, na slyšenou.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:19:12" EndOfAct="02.04.2019 09:19:13" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="posluchačka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Děkuji vám.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:19:13" EndOfAct="02.04.2019 09:19:24" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Když jsme u toho odběru krve, tady přišel dotaz od paní Anny, jestli to vyšetření na protilátky a očkování je pro dospělé zpoplatněno a pokud ano, kolik to stojí?</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:19:24" EndOfAct="02.04.2019 09:20:07" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Daniela" Surname="FRÁNOVÁ" TitleAfter="" TitleBefore="" Function="lékařka oddělení očkování a cestovní medicíny, Zdravotní ústav Plzeň" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Očkování pro dospělé je určitě zpoplatněno, já vím o ceně 800 korun, protože to je cena na našem pracovišti, ostatní ceny nevím. A odběr krve, v některých případech možná může udělat i praktický lékař, pak by to bylo hrazeno zdravotním pojištěním, nebo ho může udělat prakticky jakákoliv laboratoř, tam nepotřebujete žádné poradenství, takže tam můžete jít asi do jakékoliv laboratoře. A ty ceny se pohybují od 4 do 600 za odběr krve na protilátky. Vždycky chtějte po té laboratoři ty protilátky, které stačí říct, že jsou to dlouhodobé protilátky, oni už by to měly vědět, že mají zaškrtnout typ protilátek IGG.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:20:07" EndOfAct="02.04.2019 09:20:19" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Další dotaz, malinko odskočíme od těch spalniček. "Dobrý den, před 14 dny jsem byla očkována proti tetanu a ještě mám na ruce flíček a zatvrdlou bulku. Je to obvyklá reakce, kdy to zmizí?"</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:20:19" EndOfAct="02.04.2019 09:20:57" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Daniela" Surname="FRÁNOVÁ" TitleAfter="" TitleBefore="" Function="lékařka oddělení očkování a cestovní medicíny, Zdravotní ústav Plzeň" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Kdyby to bylo bezprostředně po očkování, tak řeknu ano, je to víceméně obvyklá reakce, zvláště u tetanu, kde je to bolestivější očkování, takže ty lokální reakce v místě vpichu tam vídáme relativně často. Pokud to přetrvává, taková zatvrdlina, a začervenalý flíček po dobu 14 dnů, tak už je to relativně dlouho, ale samozřejmě může to souviset s tím očkováním, může to být, pokud v tom není žádný jiný příznak jako horečka nebo zduřelé lymfatické uzliny, tak je to mírná reakce, mírná lokální reakce, která odezní sama od sebe a odezní do týdne, do 2 týdnů.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:20:57" EndOfAct="02.04.2019 09:21:20" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>A zpátky ke spalničkám v dalším dotazu, který teď právě skočil do naší SMS brány. "Můj syn, ročník 1995, studuje v Praze, spalničky jsou mezi studenty i profesory." Opět dotaz vlastně podobný: "Myslíte, že je nutné přeočkování? Líba z Ostrova." 95 ročník chlapec, mladý muž tedy.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:21:20" EndOfAct="02.04.2019 09:22:03" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Daniela" Surname="FRÁNOVÁ" TitleAfter="" TitleBefore="" Function="lékařka oddělení očkování a cestovní medicíny, Zdravotní ústav Plzeň" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Bohužel se ukazuje, že ani u mladých lidí této věkové kategorie nejsou protilátky u 100 % všech lidí, kteří byli očkováni, byli řádně očkování, nemají od toho očkování až tak velký odstup, je to nějakých 20 let od očkování, byli očkováni 2 dávkami, takže dá se předpokládat, že by tam ochrana měla být dlouhodobá, a není u všech lidí. Předpokládám, že zhruba 70, 80 % lidí této věkové kategorie protilátky mít bude, takže zase buď přeočkovat jednou dávkou a pokud mluvím jednou dávkou vakcíny, tak je to trojvakcína proti spalničkám, zarděnkám, příušnicím, neexistuje tady monovakcína.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:22:03" EndOfAct="02.04.2019 09:22:04" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Není.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:22:04" EndOfAct="02.04.2019 09:22:12" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Daniela" Surname="FRÁNOVÁ" TitleAfter="" TitleBefore="" Function="lékařka oddělení očkování a cestovní medicíny, Zdravotní ústav Plzeň" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Není. A nebo zase to, o čem jsem opakovaně mluvila, zjistit stav imunity zjištění protilátek proti viru spalniček.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:22:12" EndOfAct="02.04.2019 09:22:30" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Ano. Doktorka Daniela Fránová ještě bude pár minut naším hostem v poradně, zdravotní poradně, tak máte-li dotazy, tak znovu opakuji kontakty k nám do studia 221544222, to je číslo, na které můžete telefonovat, 605558888, tady přijímáme vaše SMS dotazy. Hezké dopoledne.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:22:30" EndOfAct="02.04.2019 09:24:48" KindOfAct="ProgrammeBreak" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="2" BreakType="Písnička" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders />
+        <MessageText>
+        </MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:24:48" EndOfAct="02.04.2019 09:25:18" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Za 5 minut bude půl 10., posloucháte vysílání rádia vašeho kraje, hostem poradny je stále doktorka Daniela Fránová, lékařka oddělení očkování a cestovní medicíny Zdravotního ústavu. Očkování je naše stěžejní téma. Možná bych opravdu teď opustila na chvilku ty spalničky, jelikož paní doktorka bude naším hostem i večer po 18. hodině, tak tam na to bude ještě více prostoru, ale takový obecný dotaz, byť se o tom pořád mluví dokola a měly bychom to i my asi jako matky vědět. Očkování, proti kterým chorobám je u nás povinné?</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:25:18" EndOfAct="02.04.2019 09:25:23" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Daniela" Surname="FRÁNOVÁ" TitleAfter="" TitleBefore="" Function="lékařka oddělení očkování a cestovní medicíny, Zdravotní ústav Plzeň" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Ano. Tak teď jsem čekala...</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:25:23" EndOfAct="02.04.2019 09:25:25" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Teď jsem vás zaskočila.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:25:25" EndOfAct="02.04.2019 09:26:09" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Daniela" Surname="FRÁNOVÁ" TitleAfter="" TitleBefore="" Function="lékařka oddělení očkování a cestovní medicíny, Zdravotní ústav Plzeň" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Takže očkování je povinné proti 6 infekcím, 6 nemocem, které se proti nim očkuje v té hexavakcíně. Takže když začnu od té hexavakcíny, od toho, proti čemu se očkují úplně ty nejmenší děti, tak je to tetanus, záškrt, černý kašel, pak jsou to virová hepatitida B, přenosná dětská obrna, jinak řečeno poliomyelitida, a proti infekcím vyvolaným hemofilem, což jsou bakteriální infekce hemofilové. A pak je povinné očkování proti tomu, co se očkuje v té trojvakcíně, to jsou spalničky, zarděnky, příušnice.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:26:09" EndOfAct="02.04.2019 09:26:24" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Další dotaz, který je docela zajímavý, očkovací kalendář, to nafasujou všechny děti, když se narodí. Je u všech dětí stejný, nebo se liší podle roku, kdy se narodily.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:26:24" EndOfAct="02.04.2019 09:26:29" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Daniela" Surname="FRÁNOVÁ" TitleAfter="" TitleBefore="" Function="lékařka oddělení očkování a cestovní medicíny, Zdravotní ústav Plzeň" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Já vám napřed trošku opravím terminologii. Děti nafasují očkovací průkaz, ano, děti nafackují, pardon...</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:26:29" EndOfAct="02.04.2019 09:26:31" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>To je pak na nás na rodičích.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:26:31" EndOfAct="02.04.2019 09:26:54" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Daniela" Surname="FRÁNOVÁ" TitleAfter="" TitleBefore="" Function="lékařka oddělení očkování a cestovní medicíny, Zdravotní ústav Plzeň" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Nafasují očkovací průkaz, to znamená nějako knížečku, kam se zaznamená to očkování. Ale očkovací kalendář, tak to je vlastně takový předpis, to je předpis, který je stanovován, který stanovuje, co a kdy a v jakém věku se bude očkovat.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:26:54" EndOfAct="02.04.2019 09:26:55" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Pravda. Ano.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:26:55" EndOfAct="02.04.2019 09:27:09" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Daniela" Surname="FRÁNOVÁ" TitleAfter="" TitleBefore="" Function="lékařka oddělení očkování a cestovní medicíny, Zdravotní ústav Plzeň" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Takže očkovací kalendář je něco trošičku jiného. A to víceméně, pokud mluvíme o té terminologii nafasování, to nafasuji hlavně pediatři, hlavně naši dětští lékaři, aby věděli, kdy které dítě pozvat na očkování.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:27:09" EndOfAct="02.04.2019 09:27:15" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Ano, je to jeho povinnost nás na to očkování zvát, že nemáme si to hlídat úplně sami, nebo to není povinnost?</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:27:15" EndOfAct="02.04.2019 09:27:35" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Daniela" Surname="FRÁNOVÁ" TitleAfter="" TitleBefore="" Function="lékařka oddělení očkování a cestovní medicíny, Zdravotní ústav Plzeň" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>To mezi povinnosti pediatrie asi úplně nepatří, nicméně očkování, o čem jsem mluvila, těch 9 infekcí, které jsem vyjmenovala, tak to je takzvané pravidelné očkování. To je klasické rozdělení našeho očkování mezi pravidelné, zvláštní, mimořádné a očkování na vlastní žádost. A to pravidelné očkování je očkování povinné.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:27:35" EndOfAct="02.04.2019 09:27:36" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Ano.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:27:36" EndOfAct="02.04.2019 09:28:53" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Daniela" Surname="FRÁNOVÁ" TitleAfter="" TitleBefore="" Function="lékařka oddělení očkování a cestovní medicíny, Zdravotní ústav Plzeň" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Takže mně se víc líbí to rozdělení na pravidelné očkování a zvláštní a mimořádné a na vlastní žádost. O těch 4 kategoriích s tím, že potom říkáme, že to, že to pravidelné očkování je povinné. A povinnost je, toho lékaře je povinnost provést to očkování, je povinnost té osoby se dostavit na očkování, samozřejmě u dětí tuto povinnost přebírají jejich rodiče nebo zákonní zástupci, je povinnost státu zajistit očkovací látky, je povinnost distributora těch očkovacích látek očkovací látky fyzicky nakoupit a distribuovat do ordinací, těch povinností v rámci toho povinného očkování je daleko víc. A já bych je chtěla zdůraznit, protože není to jenom povinnost dostavit se na očkování a nechat se očkovat, ale těch povinností, a ještě taky jedna povinnost, je tady v rámci těchto očkování, je tady povinnost zdravotních pojišťoven toto očkování uhradit, to je velmi důležitá povinnost, takže těch povinností je tady řada, těch subjektů, které jsou do toho zapojeny, je tady velké množství, jak jsem je teď vyjmenovala, a všichni plní nějaké povinnosti. A ten člověk, který se nechává očkovat, je jenom jeden z nich a celé je to vlastně systém očkování, které je takto nastaveno v České republice.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:28:53" EndOfAct="02.04.2019 09:29:03" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Dotaz, který asi musí padnout, co se děje, když rodič odmítne očkovat své dítě, bavíme se tedy o tom povinném očkování. Nějaké sankce jsou za to?</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:29:03" EndOfAct="02.04.2019 09:30:13" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Daniela" Surname="FRÁNOVÁ" TitleAfter="" TitleBefore="" Function="lékařka oddělení očkování a cestovní medicíny, Zdravotní ústav Plzeň" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Sankce mohou být, protože může se zjistit, že dítě je neočkované třeba při kontrole, kterou mohou provádět pracovníci krajských hygienických stanic, provádějí kontrolu proočkovanosti takzvaně, to znamená, kolik osob je očkováno z toho příslušného ročníku, který očkován být měl, nebo kolik dětí je očkováno z toho příslušného ročníku, a epidemiologové krajských hygienických stanic při té kontroly mohou zjistit, že nějaké dítě očkováno není a potom v rámci správního řádu mohou činit nějaká opatření. Jedno z těch opatření je třeba uložení pokuty. Může být za to uložena pokuta, protože to, že očkování je povinné v tomto smyslu pro tu očkovanou osobu, nám ukládá zákon o ochraně veřejného zdraví. A to je další věc, u které se možná můžeme zastavit, protože to očkování není jenom individuální ochrana toho nemocného, pardon, toho jednoho konkrétního člověka, aby nebyl nemocný, není to ochrana jenom dítěte, nebo ochrana dospělého, aby on nedostal tu příslušnou nemoc, ale je to ochrana celé společnosti, a to je třeba zdůrazňovat, a to jsem hrozně moc ráda, že můžu říct tady do éteru.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:30:13" EndOfAct="02.04.2019 09:30:50" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Veronika" Surname="ALBRECHTOVÁ" TitleAfter="" TitleBefore="" Function="moderátorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>A možná večer to ještě klidně zopakujte, já si myslím, že to bychom měli opakovat často, nejde jenom o nás, ale jde o celou naši společnost. Nicméně, paní doktorko, ten čas na dopolední poradnu nám vypršel, já vám mockrát děkuju, že jste dorazila. Po 18. hodině opět tedy paní doktorka Daniela Fránová zde u mikrofonu a pokud máte dotaz, který vás třeba až teď napadl a už jste ho nestihl poslat SMSkou, tak klidně to dělejte po celý den na číslo 605558888 a večer tedy mezi 18. a 19. hodinou se na ně určitě dostane. Teď vám děkuji, že jste přišla, přeju hezký den a zase brzy na slyšenou.</MessageText>
+      </Act>
+      <Act StartOfAct="02.04.2019 09:30:50" EndOfAct="02.04.2019 09:30:52" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="monika.svitakova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Daniela" Surname="FRÁNOVÁ" TitleAfter="" TitleBefore="" Function="lékařka oddělení očkování a cestovní medicíny, Zdravotní ústav Plzeň" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>I posluchačům hezký den.</MessageText>
+      </Act>
+    </News>
+  </Programme>
+</Transcription>

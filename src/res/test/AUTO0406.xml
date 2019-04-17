@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Transcription>
+  <NanoTVSource TechniqueOfCreatingTranscription="None" SynchronizingTimeLagForPlayer="0">
+    <SourceNanoTVBlocks>
+      <SourceNanoTVBlock UrlNanoTVAPI="http://czthp24ntvr.newtonmedia.eu/api" landeck_id="czcoollandeck01" program_id="773" service_name="Prima" tuner_id="56b5c73e1588889106cca649" IsVideo="True" RecordStart="06.04.2019 08:40:00" RecordLength="54000000000" />
+    </SourceNanoTVBlocks>
+  </NanoTVSource>
+  <Programme Channel="Prima" Title="Autosalon" StartOfProgramme="06.04.2019 08:46:10" EndOfProgramme="06.04.2019 09:53:08" ScheduledDateTime="06.04.2019 08:20:00" ScheduledLength="42000000000" Kind=" polytematický" ProgrammeCode="AUTO" TranscriptionType="Normální" TranscriptionTypeCode="Normal" Topic="" NewsCount="6">
+    <News Title="Volkswagen Arteon 2,0 TSI BMT 4MOT R Line" Author="" StartOfNews="06.04.2019 08:46:22" EndOfNews="06.04.2019 08:54:33" Kind="Transcription" Order="1" RealName="True" CreatorUserName="koubova">
+      <Act StartOfAct="06.04.2019 08:46:22" EndOfAct="06.04.2019 08:47:09" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Radek" Surname="VRTAL" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Volkswagen se dlouhodobě prezentuje globálním designem, přeci jen potřebuje své produkty prodávat v Evropě, Asii, ale i ve Spojených státech. Jak toho dosáhnout? Recept je docela jednoduchý, je třeba navrhnout bezpohlavní design, který nepodléhá módním vlivům jednotlivých světadílů. Živě to vidím, jak to probíhá v design centru Volkswagenu. Je nutné pro všechny nastupující generace přiostřit vzhled, zdůrazňuji, návrh musí schválit všechny centrály.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 08:47:09" EndOfAct="06.04.2019 08:47:10" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="osoba" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Ano, šéfe.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 08:47:10" EndOfAct="06.04.2019 08:49:45" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Radek" Surname="VRTAL" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Plně souhlasím s názory, že auta vypadají, jako by je ani nenavrhoval člověk, chladná bez jediné emotivní křivky. To ale neplatí o Arteonu. Troufám si říct, že jeho design je nadčasový a za pár let se objeví v učebnicích automobilového designu. Škoda, že se pod jeho kapotu asi nedostane nikdy plnohodnotný motor, mám na mysli krásný kultivovaný šestiválec. K testování jsem si vybral pohonnou jednotku odpovídající dnešním trendům, žádný diesel. Pod kapotou mám dvoulitový benzin podporovaný turbodmychadlem. Ve špičkách dosahuje výkonu 200 kilowatt, tedy krásných 272 koňských. A hned na začátku vám odtajním to nejdůležitější - spotřebu. Během týdenního cestování jsem se nedostal nad přijatelných 8,5 litrů na 100 kilometrů. A ve chvíli, kdy jsem si párkrát vyzkoušel akceleraci kvůli předjíždějí, tak jsem se spotřebou vlastně víc než spokojen. Po dlouhé době mě nějaké auto ohromilo výrazem přední masky. Ovšem docela rád bych viděl, jak bude členitá maska chladiče včetně světlometů vypadat třeba v létě. Ve všech prolisech a záhybech bude hmyz a mušky a nebude to úplně jednoduchou záležitostí dostat to do původního stavu. A když už jsem u těch neduhů, head-up displej, ten se moc nepovedl. Na to, jak je Arteon krásně vystylovaný, tohle na mě působí lacině francouzsky, fuj. Navíc se svými 196 centimetry nejsem schopen seštelovat head-up displej tak, aby mi údaje na něm promítané krásně levitovaly nad kapotou, čtu je přesně v kapotě. V dnešní době není určitě jednoduché vymyslet název pro nový model. Arteon, Arteon, to zní skvěle. Jménem by klidně mohl patřit do party ke třem mušketýrům. Zajímavé je, když název rozdělím napůl, Art - umění, výstižné ...</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 08:49:45" EndOfAct="06.04.2019 08:49:59" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Eon - neboli nadčasovost. I s tím se v Wolfsburgu trefili.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 08:49:59" EndOfAct="06.04.2019 08:50:48" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Radek" Surname="VRTAL" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Jsem stará škola, tak si užívám sílu benzinových koní. Spolupráce výkonného dvoulitru se 7stupňovým DSG je ukázkově sametová. Arteonu náramně sedí defenzivní jízdní styl, který ještě umocní poskytovaný jízdní komfort a luxus. Koncernovým autům, zejména těm střední a vyšší třídy, dlouhodobě vytýkám šeď, jakou nabízí svým majitelům, respektive chudou paletu barev karosérie. Když se ale podíváte, jak to Arteonu sluší v jarní přírodě,dáte mi zapravdu, že šedo-šedivý styling karosérie je naprosto famózní.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 08:50:48" EndOfAct="06.04.2019 08:51:13" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Dvě bílé, dvě stříbrné, dvě modré, dvě šedé, dvě černé, dvě červené, fádní není ani novinka, co měla světovou premiéru na konci února a kterou brzy vyzkoušíme, Jaguar XE.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 08:51:13" EndOfAct="06.04.2019 08:51:37" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Francouzský fastback své kategorie nedostojí, dynamicky střižený sedan by si jistě zasloužil víc než maximálních 133 kilowatt, třeba se brzy dočkáme.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 08:51:37" EndOfAct="06.04.2019 08:52:03" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Ty tam ty jsou doby, kdy pod kapotou středně třídního Volkswagenu sídlil čtyřlitr, dnes končí na poloviční kubatuře. Korejci sice nenabízejí W8, ani 3,3 W6 Turbo však nezní zle.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 08:52:03" EndOfAct="06.04.2019 08:53:47" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Radek" Surname="VRTAL" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Na zadních sedadlech mě čekalo příjemné překvapení. Očekával bych pod sportovně svažující se střechou nějaké prostorové omezení, jenže nad hlavou spousta místa a prostor pro nohy ani neřeším. Volkswagen jen potvrzuje, že jeho produkty mají jako standard vysoký komfort. A když je potřeba, umí vykouzlit i úsměv na tváři řidiče. Stačí strašlivě málo. Volím jízdní režim sport, plynový pedál na podlahu a kde se vzal, tu se vzal, nádherně laděný výfuk se ozval. Nabízí se řečnická otázka. Když se podívám po konkurenčních modelech, většinou nejde ale v druhé generaci, přicházejí čtyřdvéřová kupé s další karosářskou variantou Shotting Brake. Co ty, Arteone, kdy se nám představíš jako kombík? Do roka a do dne? Těším se na to. Vidím světlo na konci tunelu. S designem Volkswagenu to není tak zlé. Arteon je krásným příkladem toho,že když se chce, tak se umí vyrobit auto plné designových emocí. Za mě je Arteon skvělým parťákem na dlouhé cesty. Vždy vás bude perfektně reprezentovat a mě jako týdenního majitele vždy potěšilo, když na mě mrknul svým uhrančivým pohledem.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 08:53:47" EndOfAct="06.04.2019 08:54:33" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Arteon by si zasloužil 6válec, třeba ten, co má koncernový sourozenec Audi S5 Sportback a taky lépe konfigurovaný head-up displej, suma sumárum -4 % a parkovací místo těsně před autosalonovou garáží.</MessageText>
+      </Act>
+    </News>
+    <News Title="Audi A1 Sportback S Line 3D TFSI S Tronic" Author="" StartOfNews="06.04.2019 08:54:33" EndOfNews="06.04.2019 09:03:23" Kind="Transcription" Order="2" RealName="True" CreatorUserName="koubova">
+      <Act StartOfAct="06.04.2019 08:54:33" EndOfAct="06.04.2019 08:57:47" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Tereza" Surname="TOBIÁŠOVÁ" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Auto. Stovka. Nikdo nepochybuje o tom, co tady ukazuju, ale existuje víc než auto a víc než stovka. A jestli se vyplatí do nich investovat, na to si dneska odpovíme. Pamatuju si moc dobře, že můj děda měl jako diplomatický auto v zahraničí audinu a já jsem si říkala, jak velikánský luxus to je a přála jsem si, že až budu velká, tak si audinu pořídím. A1 je pro mnohý řidiče jejich poprvé se 4 kruhy. Pojďme si hned na začátek říct, že A1 je na pohled mladá a na pohled do peněženky drahá. Ale udělám teď radost úplně všem, kteří nám píšou v komentářích, že testujeme v Autosalonu v poslední době jenom auta přes mega. Tohle v základu stojí jenom něco málo přes půlku. Základ znamená litrový benzinový tříválec v manuálu s 95 koňmi. K tomu dostanete LED denní svícení a o 53 milimetrů víc oproti původnímu modelu. K tomu dostanete 5 dveří a čekejte absenci středovýho displeje, za všechno se totiž musí platit. A protože nechcete ani Ibizu ani Polo, ale chcete A1, tak si za připlatíte. Já si třeba teď jedu pro stovku, která je o dost dražší, ale je hezká a hravá a já ji chci. Tohle je Audi A1 Sport Line. Se všem příplatkovými parádami se dostanete na skoro mega. A stejně k tomu dostanete takovýhle obyčejný klíček, budete si zase na chvilku připadat jako v Polu anebo v Ibize. Slyšíte ten rozdíl. Tak ten je z repráků. Já osobně bych ho klidně vynechala, protože na tom motoru je to dost znát. Na to, že má jenom litrový objem motoru a z 0 na 100 se vyšvihne za 9,5 vteřiny, tak to jede celkem slušně. Přepínat si tu můžete mezi několika jízdními režimy. Efficiency je úsporný. Auto je líný a dynamický sedí A1 úplně nejlíp. Jestli vám můžu radit, tak si pořiďte pádla pod volant, protože ty mi tu extrémně schází a spíš 1,5 anebo nejvyššího dvoulitra. Ten tomuhle sportovnímu drobkovi bude slušet úplně nejvíc. Kdybych ho měla, tak už v tom Ústí dávno jsem a už mám to svoje vysněný kilo, kilo, co stojí litr. A proč jedu do Ústí? No, protože tam ho prostě ještě nevyprodali.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 08:57:47" EndOfAct="06.04.2019 08:58:35" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Cestu z Prahy do Ústí využijeme pro představení přímých konkurenčních vozidel, aneb segment B rovná se Dacia Sandero, ale i MINI Cooper S. Volba je na vás. Dobře si rozmyslete, zda budete sledovat Autosalon s manželkou, přítelkyní, milenkou, budou mít přehled o čerstvých novinkách, které by jim mohly padnout do oka, jako DS3 Crossback. Hodinka s námi by vás mohla přijít draho.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 08:58:35" EndOfAct="06.04.2019 08:59:03" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Prostřednictvím sociálních sítí vás necháváme nahlédnout do zákulisí. Některá know-how si ale necháme pro sebe. Předání oné tisícové stovky proběhne v režimu Top Secret.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 08:59:03" EndOfAct="06.04.2019 09:03:23" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Tereza" Surname="TOBIÁŠOVÁ" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Automobilka Audi slaví 110 let. Český stát oslovil loni rovnou stovku, a tak vydal památeční bankovku ve stejný hodnotě. Je to stovka jako každá jiná, ale stojí víc, stejně jako A1. Stojí víc, než bych měla. Ale na druhou stranu chcete něco jinýho, něco originálnějšího, něco luxusnějšího, něco, co nikdo nemá. A je hezká. A1 se vyznačuje ostrýma hranama, vypadá jako sportovní agresivní vůz, dokonce sama automobilka uvádí, že má maskulinní zjev. Já ho tam teda nevidím, ale dobře. Některé prvky odkazují přímo k legendárnímu Audi Sport Quattru. Jsou to třeba průduchy v přední části,které jsou spojené tenkou linkou. Je to krásný designový prvek, jinak nefunkční. Tohle je totiž slepý, ale je to hezký. Nejmenší audina je určena řidičům, kteří se toho nebojí, a proto je dodávána v křiklavých barvách s kontrastní střechou. Přemýšlím, jak se cítím, když mám tu novou vysněnou stovku. Nic se nezměnilo, ale je mi dobře a je na ni krásnej pohled, což teda ostatně nemůžu úplně říct při pohledá na interiér A1. Musím potvrdit, že je to hodně maskulinní a na můj vkus je tu nějak moc použitých materiálů. Tady je plast, tady je jiný plast, zase jiný plast, tady čalounění kůže, hliník a nějak mi to k sobě prostě nesedí. Já tady taky málo odkladových ploch a celkem vtipný mi připadá i ten malý displejík na klimu, ale je užitečný. Když od toho všeho ale odhlídnu a budu se soustředit na to, co se tady opravdu povedlo, pak je to celkový design a linky, přístrojovka, koncernová digitální klasika, příplatkový multlimediální displej s konektivitou na chytré telefony, sedačky, zvuk a volant. Ten je stejně nejdůležitější, protože se na něj koukáte celou dobu. Investovala jsem do kila litr a do audiny skoro mega, ale myslím si, že je trošku moc drahá. Nicméně udělám si selfíčko. No, a protože to jde, tak já to přes wifinu v autě rovnou kousku, nějakej filtr a je to online. Hele, a už mi choděj komentáře, to je rychlý. Kdes vzala to kilo? No, to by chtěli vidět. Dobrá kára. Tomuhle kapesnímu /vypípnuto zvukovým signálem/ bych teda audinu do rukou nedal. Ať už ta uječená blondýna zmizí. Tak já teda jedu. Já jsem taky jenom člověk.</MessageText>
+      </Act>
+    </News>
+    <News Title="Soutěž" Author="" StartOfNews="06.04.2019 09:03:23" EndOfNews="06.04.2019 09:04:36" Kind="Transcription" Order="3" RealName="False" CreatorUserName="koubova">
+      <Act StartOfAct="06.04.2019 09:03:23" EndOfAct="06.04.2019 09:03:38" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Dnes nepřijdete o cenově přístupná auta. Auta kategorie Extra a motoristické ceny, které vám věnujeme. Otvírákem soutěže je kupon v hodnotě 3 tisíce korun na nákup přilby LS2 od oficiálního dovozce do České a Slovenské republiky, společnosti ASP Group Distributing.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:03:38" EndOfAct="06.04.2019 09:03:46" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Aktuální výhru tvoří jarní balíček motoristických produktů, které vám pomohou připravit vůz na sezónu od provozovatele sítě čerpacích stanic Shell Czech Republic.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:03:46" EndOfAct="06.04.2019 09:03:56" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Rovněž dárková poukázka Motozem na nákup v hodnotě 2 tisíce korun, kterou lze uplatnit na e-shopu Motozem.cz nebo osobně v Dobré a Praze-Říčanech.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:03:56" EndOfAct="06.04.2019 09:04:02" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Nebo poukaz v hodnotě 3 tisíce korun na nákup oblečení Camp David a Soccx v e-shopu www.campdavidshop.cz.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:04:02" EndOfAct="06.04.2019 09:04:20" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>A poslední cenou jsou dvě vstupenky na 22. ročník automobilové výstavy Autoshow Praha konané v PVA Expo Praha Letňany, kde se mimo jiné bude představovat vůz Škoda Scala, Showcar, Škoda Kamiq a mnoho dalšího od společnosti ABF a.s. Soutěžní otázka pro tento týden zní:</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:04:20" EndOfAct="06.04.2019 09:04:25" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Kdo nebo co byl Cullinan? Za A) majitel lomu nebo za B) legendární raper.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:04:25" EndOfAct="06.04.2019 09:04:36" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Na www.iprima.cz/autosalon v sekci Soutěž zaškrtněte správnou odpověď, doplňte kontaktní údaje a odešlete.</MessageText>
+      </Act>
+    </News>
+    <News Title="Access Shade Extreme 850I LT EPS" Author="" StartOfNews="06.04.2019 09:13:54" EndOfNews="06.04.2019 09:22:29" Kind="Transcription" Order="4" RealName="True" CreatorUserName="koubova">
+      <Act StartOfAct="06.04.2019 09:13:54" EndOfAct="06.04.2019 09:17:48" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Josef &quot;Sršeň&quot;" Surname="ŠILER" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Kurňa, kdyby věděli, že ty čtyřkolky nemám rád. Na just to dáme Sršňovi do testu. Jo, každej si nemůže v práci vybírat. Shade Extreme Access. Extrémní stín. Ono to vypadá, že dneska bude trošku sranda. Ty pracáky jsou všechny postavený víceméně na stejným základu. Konkrétně Access není ani špičková pracovní čtyřkolka, ale taky není úplně špatná čtyřkolka, je to takovej zlatej střed. O fungování celýho toho stroje se stará 850 jednoválcovou čtyřtaktní motor. Neřadím manuálně, ten motor je spojenej s variátorem, je to stejný jako u skútrů. Já celou čtyřkolku ovládám plynem, kterej není jako u motorky, je na palec. Když by se mi rozkmitaly řídítka a mám předním brzdu, zadní brzdu, obě dvě brzdy mám na ruce, k tomu mám nožní brzdu, abych měl nějakou variabilitu. Ten základ, kterej opravdu potřebuju vědět, je, že můžu jet a mít zaplej náhon jenom zadních kol, nebo si můžu zapnout i přední náhon, anebo jedu extrémně, kde se zahrabu, tak si tam prdnu uzávěrku. Takhle, jak stojí, tak je z prvovýroby. Já jako zákazník nemusím draze doplácet za nějaký příslušenství, ale už to tam mám opravdu tak, jak přijdu na krám, tak takhle se to prodává. Jak vepředu, tak vzadu bytelný, dobře svařený železný nosiče, bytelnej přední rám, když už se někam netrefím. Velice chytře zakompovanej naviják, kterej je taky velkým pomocníkem, když už někde zapadnu a nemůžu se z toho dostat. Tady je vidět, že všechny ty šrouby jsou na lepidle. Když ty šrouby jsou opravdu hodně namáhaný na těch expandovanejch místech, tak jsou zajištěný závlačkou. Jestli to vydrží nebo nevydrží, já dneska v průběhu toho testu nezjistím. To bude chtít delší čas a myslím si, že člověk, kterej se o to bude trochu starat, tak není, co by se na tom rozbilo. Hrozně důležitá věc u pracovní čtyřkolky, chromovaná koule, abych si mohl připojit kárku a jezdit krást dříví do lesa. I ty ramena i to zavěšený vypadá opravdu kvalitní, dobrý sváry, ošetřený. Tady to mi připadá trošku groteskní, plastová ochrana těch ramen, vole, která drží na třech šroubech, ale myslím si, že průměrná větvička to urve. Neřekl bych, že mluvit o brzdách je úplně moc důležitý, o nějakým dávkování. Čtyřkolka s těma kolama minimálně v terénu tam opravdu zpomalí docela razantním způsobem jenom po zavření plynu a já se přiznám bez mučení, že nejvíc se z celýho dnešního dne těším na jednu věc, jak to celý /vypípnuto zvukovým signálem/. Ono se to může zdát jako stabilní, ale nebejvá to úplně pravidlem. Ty pracáky nemaj tak velkej rozvor a hrozně rychle to člověka zmuchlá, ale když máš mezi ušima srovnáno, tak ten problém není. Do řídítek nějaký velký rány nejdou. Člověk by si měl dávat bacha na to, když vezme jedním kolem kolej a druhým ne, při velký rychlosti by z toho mohl docela rychle vystoupit. Maximum to jede 90 kilometrů za hodinu, to si v terénu nedovedu úplně představit, ale jelikož je čtyřkolka homologovaná, tak s ní můžu normálně na silnici, tam už potom jo.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:17:48" EndOfAct="06.04.2019 09:18:33" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Komu silnice nevoní, doporučujeme se ujistit, že vysněné ATV disponuje uzávěrkou předního diferenciálu a zadním samosvorem, jako to mají testovaný Access a CF Moto Gladiator. Japonskými konkurenty podobného zdvihového objemu a určení jsou Kawasaki Brute Force či největší pracovní čtyřkolka značky Suzuki.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:18:33" EndOfAct="06.04.2019 09:22:29" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Josef &quot;Sršeň&quot;" Surname="ŠILER" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Grip úplně příkladnej a i ty nerovnosti je lepší trošku stát než sedět, ale vyškrabe se to úplně všude, to je fajn. Prostupnost tím terénem úžasná. Největší sranda bude asi ta louže, ta mě láká moc. Jak malej parchant, kterej vidí louži, prostě se rozeběhne a i když na něj matka řve - nedělej to, zabiju tě, tak do ní skočí. Všichni ví, že ty čtyřkolky nemusím, ale ze stínu v průběhu dnešního brutálního testování nic neupadlo, ani Pepa. Těch 50 koňů výkonu tý 850 jednoválcový je bohatě dostačující i při tom extrémně těžkým terénu a i když jsem měl chvilkama pocit, že ta čtyřkolka se musí převrátit i se mnou, vyloženě při tom stoupání se nezahrabala, vždycky to mělo dost trakce na to, abych se opravdu postupně přes ty překážky dostával do těch vjezdů a co mě bavilo a opravdu těch 50 koní bohatě stačí. Podvozek jako takovej je průměrnej, ale dobrej. V momentě, kdy jsem měl ty těžký pasáže, výmoly, rigoly, kolikrát jsem měl jedno, dvě kola ve vzduchu, musel jsem hodně pracovat tělem, abych to vyvážil, ta čtyřkolka mi začala dávat smysl a v ten moment mě opravdu hodně bavila. K brzdám vám toho moc neřeknu. V průběhu testování jsem na brzdy šáh vlastně asi jenom jednou, když jsem se otáčel a couval jsem, jinak opravdu, když ten člověk ubere, tak ten odpor těch kol je tak obrovskej, že to zpomalí ne tak, abych úplně zastavil, ale krásně mi to tu čtyřkolku navede do tý rychlosti, kterou já potřebuju na průjezd daný věci. Asi nejdůležitější věc u pracovní čtyřkolky je průchodnost terénem a ta je u stínu brutálně nehorázná. Za celej den toho ježdění mě bavilo zjišťovat ty náklonový úhly, do kterých se můžu dostat ze všech stran a opravdu Access je na /nesrozumitelné/ gumách, je na dobře připraveným podvozku na takhle pomalý ježdění a průchodnost je excelentní. Za celou dobu dnešního ježdění jsem si nezapnul uzávěr, protože s tím bude tam čtyřkolka mít průchodnost ještě větší. Úplně upřímně, aby sis jí koupil a odjel s ní Dakar, to je blbost. V momentě, kdy si ten Access člověk pořídí na chalupu jako pracovní stroj, tak si s tím užije i hodně zábavy. Když už tý práce bude mít dost, tak se může jít jen tak svézt, užije si spoustu zábavy. A jako bonus se při tom může /vypípnuto zvukovým signálem/ jako Sršeň. Hrozně důležitý tady v tom počasí je správně se oblíct na tu čtyřkolku. Nejedu v montérkách, mám adekvátní oblečení, který je nepromovaný, teplý, takže jsem v suchu. Má to jenom jednu velikou nevýhodu, ty kalhoty jsou laclový a nemají zip pro pány, znamená to, že já držím čurání celou dobu cestu, nedej bůh, kdyby se mi chtělo kakat.</MessageText>
+      </Act>
+    </News>
+    <News Title="Renault Kadjar TCE160 EDC GPF Intens" Author="" StartOfNews="06.04.2019 09:22:29" EndOfNews="06.04.2019 09:32:05" Kind="Transcription" Order="5" RealName="True" CreatorUserName="koubova">
+      <Act StartOfAct="06.04.2019 09:22:29" EndOfAct="06.04.2019 09:22:49" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="František" Surname="FIALA" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Dnes se s radostí vrhám za volant tohoto nádherně vybarveného krasavce. Jde o nejnovější Renault Kadjar, kterého jste mohli vidět v závěru minulého roku. Kolega Radek ho tehdy uvedl takto:</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:22:49" EndOfAct="06.04.2019 09:23:03" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Radek" Surname="VRTAL" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Tři roky utekly jako voda, a tak se v Paříži představuje faceliftovaný Renault Kadjar. Ten se velmi dobře zapsal na světových trzích, prodalo se ho více jak 450 tisíc kusů, a tak nebylo nutné, aby karosérie prodělala zásadnější změny.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:23:03" EndOfAct="06.04.2019 09:27:10" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="František" Surname="FIALA" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>No, jo, ale tím pádem já mám problém. Jak se teď mohu pyšnit před sousedy, že mám nejnovější model, vždyť to nikdo nepozná? I když pár indicií by tady bylo, zvětšená maska chladiče. Jinak tvarovaný kryt spodku a orámování mlhovek. Nový světelný podpis. Marně pátrám, jestli jde o nějaké známé písmeno. Spodní část doznala nejvíce změn. Taktéž světelný podpis je úplně nový. Nový a nutně podotknout, že hezký design, mají kola z lehkých slitin. Co na první pohled nikdo nepozná, se skrývá pod kapotou. Mohou tam být totiž na výběr dvě nové pohonné jednotky, buď úplně nový vznětový agregát o objemu 1,7 litru. Má výkon 110 kilowatt, na ten se ale podíváme jinde. Nově se do Kadjara dostává zážehová 1,3. Známe ji ze Scénicu, z Kapturu a z modelu Megane. Jedná se o moderní agregát vyvinutý v alianci Renault - Nissan - Mitsubishi ve spolupráci s koncernem Daimler. Mě tento motor zajímá zejména z toho důvodu, že jsem dlouholetým zastáncem hesla objem ničím nenahradíš a 1,3 do poměrně hmotného SUV, nevím, nevím. V tomto voze nese agregát označení TCE 160 GPF. Poslední trojice písmen je novinkou, neboť nese označení filtru pevných částic. Inu i ty nejmenší částice musíme zachytávat, aby měla ekologie radost a naopak, aby velké námořní kolosy mohly chrlit do ovzduší nekontrolovaně množství sajrajtu, fuj. Mimochodem tady jde z výfuku také v pravidelných intervalech nevábná vůně. Když se totiž filtr rekuperuje, tedy vypaluje. Zpět k motoru. Že by někdo čekal trojici válců, tak to zaplaťpánbůh není, jde prostě o klasiku. Jak tedy s Kadjarem nový motor zápasí? Vcelku solidně. Má tichý a kultivovaný chod. Další důležitá věc, funguje už od nízkých otázek. Je tomu tak proto, že točivý moment má výrazně plochou křivku. Maxima 270 newtonmetrů dosáhne už od 1800 otáček, ale skutečně ani v nižším spektru otáček se bát nemusíte, motor je dostatečně pružný. Díky výkonu 117 kilowatt není pružná akcelerace také žádný problém, a to jsem tu akceleraci zkoušel, i když měl auto plně vytížené a naštěstí jsem všechny teď vyložil. Na druhou stranu bych v rámci této pohonné jednotky určitě za autem netahal vlek s koněm, anebo s jachtou, na to bych si vybral něco jiného. Spotřeba udávaná v techničáku 5,6 litrů benzinu na 100 kilometrů. Já jsem jezdil v průměru od 5,9 do 6,2 litrů na 100 kilometrů, a upozorňuju, že teploty byly kolem nuly. S tímto zážehovým agregátem se pojí dvojspojkový sedmistupňový automat. V rámci toho, že v současné době většina aut používá otočný ovládač, tak mě klasický volič docela překvapil, ale vše funguje bez zaváhání, bez cukání, plynule. Kadjar patří do segmentu C SUV, jehož oblíbenost rok od roku stoupá, a to platí pro svět, pro Evropu i pro Českou republiku. Na zpevněné komunikaci se nechová vůbec špatně. Trochu se pohupuje, ale drží stopu. A není třeba se bát ani v rychle projížděných zatáčkách.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:27:10" EndOfAct="06.04.2019 09:27:32" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Když jsou disky velké, zvyšují světlou výšku bez zásahu do podvozku, nepadají do děr a hezky vyplňují blatníky. Renault nedodává menší rozměr než 17 palců, Nissan pak o číslo menší.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:27:32" EndOfAct="06.04.2019 09:27:55" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Odchod Citroënu C5 jsme oplakali, protože šlo o vychytaný podvozkově vytříbený vůz. To Aircross musí své dlouhodobé kvality teprve dokázat. První setkání ale nedopadlo zle, verdikt zněl 94 %.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:27:55" EndOfAct="06.04.2019 09:28:28" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Největší březnovou aktualitou rüsselsheimské automobilky je ofenzíva na ruském trhu s modely Vivaro, Zafira Life a Grandland X, neboli konkurent poslední.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:28:28" EndOfAct="06.04.2019 09:32:05" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="František" Surname="FIALA" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Není to pouze jako SUV, ale je to skutečně SUV. Nejen vzhledem ke světlé výšce 200 milimetrů, ale také vzhledem k velkým nájezdovým úhlům, vepředu 17 stupňů a vzadu 25. Omezujíc je pouze pohon jedné nápravy, no, a také vzorek pneumatik. Jak si tady za volantem lebedím, tak musím upozornit na novou konstrukci sedadel. Mají nyní nastavitelnou délku sedáku. Výplň je s dvojitou tuhostí pro zlepšení komfortu a snížení únavy z jízdy. Zlepšeno bylo také boční vedení. Loketní opěru si snadno mohu nastavit na optimální místo. Výplně dveří byla také komplet změněny. Nastavení vnějších zpětných zrcátek a elektrického ovládání oken jsou dnes sdruženy do jednoho panelu. Mrkněte, jak jedním dotekem ovládám okna a to platí pro všechna. Teď v zimě nemá člověk takovou žízeň, ale v létě oceníte, že se sem vejde láhev o objemu 1,5 litru. Chce to trochu násilí, ale funguje to. Když jsem u pití, ocenil jsem dva zvětšené držáky nápojů. Odkládací prostory se obecně zvětšily, ale ouha, u tohoto prostoru mobil pohodlně nedám, protože je tady zásuvka na 12 voltů. Kde jsem to jen viděl, aha u Dustera. Automatická klimatizace je dneska modernější a intuitivnější. Uvítal bych ale, kdyby zapnutí funkce auto bylo viditelnější. Nový sedmipalcový displej, multifunkčního a navigačního systému, má lepší jas a rychle reaguje na dotyk. Sem dozadu se dostanu málokdy, ale kdyby, tak budu rád, že šikovně umístěné výdechy klimatizace. K dispozici je také dvojice USB vstupů a další zásuvka na 12 voltů. Podle firemních materiálů by se sem dozadu měla vejít také láhev o objemu 1,5 litrů, ale to sem fakt nedám, ale menší se sem vejde. Co se týče zavazadlového prostoru, patří k největším a nejpřístupnějším ve svém segmentu. Na začátku jsem měl strach, jestli můj nový Kadjar nezapadne mezi těmi 450 tisíci kusy, které v celkem 50 zemích celého světa automobilka prodala. Nedovedu rozhodnout, někdo novinku pozná a někdo ne, ale ono to není důležité. Rozhodující je, jestli jsem byl já s autem spokojen, a to já byl. Takže paráda.</MessageText>
+      </Act>
+    </News>
+    <News Title="Rolls Royce Cullinan (4 Seats)" Author="" StartOfNews="06.04.2019 09:41:25" EndOfNews="06.04.2019 09:53:08" Kind="Transcription" Order="6" RealName="True" CreatorUserName="koubova">
+      <Act StartOfAct="06.04.2019 09:41:26" EndOfAct="06.04.2019 09:44:25" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Josef" Surname="VRTAL" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Sedím a přemítám o tomhle gumovým koberečku. Hezkej, co? Koukni. Zajímavý. On je totiž naprosto unikátní. Patří totiž do vozu Rolls-Royce, prvního z goodwoodských aristokratů,který se nebojí špíny a dusání pod sebou pohonem všech kol. Cullinan, odkud vzali tohle jméno? Musíme zpátky v čase až do roku 1905. Tehdy byl v jižní Africe nalezen největší diamant všech dob, přes 3 tisíce karátů, 630 gramů váhy. Dostal jméno po majiteli lomu, Siru Thomasi Cullinanovi. Vezměte to nejlepší, co je a udělejte to ještě dokonalejší, řekl kdysi Henry Royce. A když to náhodou neexistuje, no, tak to navrhněte. Jakoby prorocky předpověděl nástup Cullinana. Impozantních 5,34 metrů. A vzadu jakýsi podivný batoh, žádná náhodná fantazie designéra, ale opět historická inspirace. Vzpomínka na doby, kdy se kufry vozily vzadu odděleny od posádky. Sem zavazadlo a já pasažér, dělí nás skleněná přepážka, můžu smrdět, nic necítím. Nebo se povalovat v zatáčkách v kufru ze strany na stranu, nic neslyším. Někdo otevírá víko kufru, venku je zima a strašně fičí. Opravdu? To já zůstávám pěkně v teple. Dík, přepážko. Čtyřsedadlová verze nabízí lednici se skleničkami na šáňo, karafu na vodu, no, lépe na whisky se skleničkami ve stejném designu. Nápojový set ale můžete vyměnit za další sedadlo a mnohem dobrodružnější využití celého prostoru.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:44:25" EndOfAct="06.04.2019 09:44:46" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Pětimístný Cullinan postrádá kouzlo skleněné oddělující přepážky. Dovolí ale sklopit zadní sedadla poprvé u značky Rolls-Royce. Jde samozřejmě o pohyb veskrze elektrický, přece by se rentiér kvůli tomu nenaučil pracovat. Naložit se dá předmět dlouhý až 2,25 metry.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:44:46" EndOfAct="06.04.2019 09:45:21" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Josef" Surname="VRTAL" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Moje čtyřsedadlová verze sedadla bohužel nesklopí, má i menší objem kufru. Místo 600 jen 525 litrů, ale nemusíte se bát, spolyká toho i tak dost a dost. Dvojité zadní víko funguje souběžně i samostatně, horní díl, spodní díl. Na ten se můžete klidně posadit a za příplatek dokonce i mnohem pohodlněji.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:45:21" EndOfAct="06.04.2019 09:45:41" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Rolls-Royce Cullinan si připisuje další unikum. Díky setu Viewing Suite jde také o první sedmimístný Rolls v novodobé historii značky.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:45:41" EndOfAct="06.04.2019 09:45:49" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Josef" Surname="VRTAL" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Znáte SUV vir? Zákeřnou chorobu, která dokázala zmutovat mnohé automobilky? Že ne. Vzpomeňte na Porsche a jejich model Cayenne.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:45:49" EndOfAct="06.04.2019 09:46:08" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Vbrzku přeskočil legendární 911 a stal se nejprodávanějším vozem značky Porsche. Podobně zaskočil příval objednávat Lamborghini. Model Urus už teď tvoří polovinu produkce italských supersportů.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:46:08" EndOfAct="06.04.2019 09:47:15" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Josef" Surname="VRTAL" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Rolls už tuhle velkou krabici taky nestačí vyrábět. Možná se ubránili tím, kdyby už na začátku měl úplně jinou cenu, dvojnásobnou. Ale já myslím, že i tak by o něj byl zájem a vlastně se není čemu divit. Všechno z hliníku, ale stejně to váží skoro 3 tuny. O to víc údivem otevřete pusu, když zrychlí z 0 na 100 za 5 vteřin, kupředu se žene jak závodník a zastavovat tohohle britskýho slona, to už chce mít pár kilometrů naježděno. A taky trošku se nám to houpe, ale k tomu patří. To je skvělý. Ježíš marjá 140 a prudká zatáčka bez zábradlí, pod náma sráz. Z toho až běhá po zádech mráz. Co ale by měl zažít každý? Pohled přes sošky Spirit of Extasy na silnici. Navíc z výšky nákladního vozu. Skvělý.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:47:15" EndOfAct="06.04.2019 09:47:44" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Frank" Surname="TIEMANN" TitleAfter="" TitleBefore="" Function="Rolls-Royce Motor Cars" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Protože jde o zcela nový model, prosíme naše zákazníky o trpělivost při jeho objednávkách. Zatímco čekací doba na Phantom je zhruba půl roku, v případě Cullinanu může být o měsíc či dva delší. Díky flexibilní produkci ve výrobním závodu v Goodwoodu však nehrozí žádný kolaps výroby. Naopak očekávám, že se Rolls-Royce Cullinan stane naším bestsellerem, a to už v letošním roce.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:47:44" EndOfAct="06.04.2019 09:48:05" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Snad s výjimkou Bugatti se všechny luxusní značky nakazily virem SUV. Kdo spíš než soukromý bar hledá soukromý pozemní tryskáč, najde ho v Bentley Bentayga Speed.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:48:05" EndOfAct="06.04.2019 09:48:24" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Cadillac zvolil stejnou strategii jako jeho britský protějšek o mnoho let dříve. Nejluxusnější modelovou řadou není limuzína, nýbrž opulentní SUV Escalade.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:48:24" EndOfAct="06.04.2019 09:48:45" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="" Surname="" TitleAfter="" TitleBefore="" Function="redaktorka" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Jakousi sociální o třetinu levnější alternativu představuje další britský zástupce segmentu SUV E. Rolls-Royce Cullinan versus Range Rover LWB SVAutobiography.</MessageText>
+      </Act>
+      <Act StartOfAct="06.04.2019 09:48:45" EndOfAct="06.04.2019 09:53:08" KindOfAct="Normal" ActStartAttributeCode="0" ActStartAttribute="" NoteBeforeAct="" BreakTypeCode="0" BreakType="" ActEndAttributeCode="0" ActEndAttribute="" NoteAfterAct="" CreatorUserName="koubova">
+        <Descenders>
+          <RealPerson>
+            <PersonData PersonDataType="TransmittedData" FirstName="Josef" Surname="VRTAL" TitleAfter="" TitleBefore="" Function="redaktor" />
+          </RealPerson>
+        </Descenders>
+        <MessageText>Při nastupování se Cullinan o 4 centimetry sníží, aby do něj pohodlně hupsly i Asiati. Po nastartování se Rolls důstojně vrací do původní polohy. A začne překvapovat připraveností na moderní život. Celkem 5 portů USB, jeden, dva, tři, vpředu čtyři a pět a možnost bezdrátovýho nabíjení a pak celý arsenál bezpečnostních asistentů. Málem bych zapomněl na to nejdůležitější, offroad. Takový tlačítko zatím neměl žádnej Rolls. Vzhůru ze silnice na šotolinku. První věc, co je jasná, dluhatánskej rozvor, to znamená prostor mezi kolama. Člověk musí dávat pozor na přejezdy, aby nedostával do břicha, ale i na rozbití cestě platí klasický rollsí magic carpet, to znamená, já ty díry nevymetám, já se vznáším. Ten tady vidí Hiluxem a vidí poprvé Rollse v terénu. Zdar. Ten čuměl. Co je skvělý. Vzduchovej podvozek. Když nějaký kolo má pod sebou díru, tak ho do tý díry zatlačím. Vy máte pořád kontakt s vozovkou. Fantastický, že i při jízdě v terénu se myslí na vaše ošacení. Hned dokážu. Zastavím. Trošku zvedli prach. Všimněte si, kde končí dveře. Díky tomu si po terénní rozcvičce neumažu kalhoty o špinavý rám. Jo a unavovat se jejich zavíráním, stačí Cullinan lehce poprosit dotykem a on to všechno zacvakne sám. Chlubí se dalším rollsím prvenstvím, má tažný zařízení, abraka dabraka, polez ven, hochu. Mimochodem hloubku brodění udává Rolls-Royce na úrovni 54 centimetrů. Ta panická hrůza řidičů, když mě vidí na silnici. Jsem širokej, uhni, no, vidíš to. Vešli jsme se. Teprve teď oceňuju skleněnou přepážku za zadními sedadly. Lítá nám tam technika, stativy, stojany, kamery, ale já o ničem nevím. Na druhou stranu, kdyby bylo teplíčko, já tady budu mít 17 a vzadu z mýho psa bude hot dog, protože do kufru výdechy klimatizace nejsou vyvedeny. Dívám se na něj a vím, že Cullinan není nic ve stylu předělané Audi na Lambo, jako u modelu Urus. To je hnus. Koupit si Bentaygu Bentley, jedině, kdyby mě palicí do hlavy /vypípnuto zvukovým signálem/. Možná, že Rolls není extra vzhledný, ale je tak skvělý, že má ode mě titul automobilovýho boha letošního roku. Cullinane Rollsem v Goodwoodu vyrobený, posvěť se výkon tvůj, buď jízda tvá jako na dálnicích, tak i na písku, vjeď co nejrychleji do garáže mé a odpusť všem svým konkurentům, co tě pomlouvají, protože ti nesahají ani po ráfky pneumatik. Cullinan.</MessageText>
+      </Act>
+    </News>
+  </Programme>
+</Transcription>
