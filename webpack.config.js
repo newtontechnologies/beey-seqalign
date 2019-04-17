@@ -9,7 +9,8 @@ module.exports = {
     context: ROOT,
 
     entry: {
-        'main': './main.ts'
+        'synthetic_main': './synthetic_main.ts',
+        'test_main': './test_main'
     },
     
     output: {
