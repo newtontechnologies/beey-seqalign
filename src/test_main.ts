@@ -99,13 +99,12 @@ async function main() {
         sourceSequence = sourceTranscription.words;
     }
 
-    visualization.visualizeTarget(targetSequence, targetTranscription.timestamps);
     const matchIndices = stringAligner.compareSequences(sourceSequence, targetSequence);
-    visualization.visualizeReference(sourceSequence, matchIndices);
+    visualization.visualize(sourceSequence, targetSequence, targetTranscription.timestamps, matchIndices);
     return Promise.resolve();
 }
 
 let stringAligner = new StringAligner();
-const visualization = new Visualization('target', 'source', 'begin', 'end');
+const visualization = new Visualization('table');
 
 main();

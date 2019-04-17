@@ -7,7 +7,7 @@ export class StringAligner {
     }
 
     string2words(str: string) {
-        return str.split(/[ \xA0]/u);
+        return str.split(/[ ]/u);
     }
 
     distortWords(sequence: string[], errorRate: number) {
@@ -29,7 +29,9 @@ export class StringAligner {
         return distorted;
     }
 
-    static distanceFunction = (a: string, b: string) => {
+    static prefixDistance = (a: string, b: string) => {
+        a = a.toLowerCase();
+        b = b.toLowerCase();
         let i;
         for (i = 0; i < Math.min(a.length, b.length); i++) {
             if (a[i] !== b[i]) {
@@ -44,7 +46,7 @@ export class StringAligner {
     }
 
     compareSequences(sourceSequence: string[], targetSequence: string[]) {
-        const aligner = new Alignment(targetSequence, StringAligner.distanceFunction, 1, 1);
+        const aligner = new Alignment(targetSequence, StringAligner.prefixDistance, 1, 1);
         // const aligner = new Alignment(targetSequence, StringAligner.distanceFunction, 1, 1);
         console.log('aligning...');
         aligner.match(sourceSequence);

@@ -1,39 +1,38 @@
 export class Visualization {
-    refContainer: Element;
-    targetContainer: Element;
-    beginContainer: Element;
-    endContainer: Element;
+    table: Element;
 
-    constructor(referenceId: string, targetId: string, beginId: string, endId: string) {
-        this.refContainer = document.getElementById(referenceId);
-        this.targetContainer = document.getElementById(targetId);
-        this.beginContainer = document.getElementById(beginId);
-        this.endContainer = document.getElementById(endId);
+    constructor(tableId: string) {
+        this.table = document.getElementById(tableId);
     }
 
-    visualizeReference(sequence: string[], permutation: number[]) {
+    visualize(source: string[], target: string[], timestamps: number[][], permutation: number[]) {
         let lastIndex = -1;
         for (let i = 0; i < permutation.length; i++) {
+            const row = document.createElement('tr');
+            const sourceTd = document.createElement('td');
+            sourceTd.innerHTML = source[i];
+            row.appendChild(sourceTd);
+
             const seqIndex = permutation[i];
-            const el = document.createElement('div');
+            const el = document.createElement('td');
             if (lastIndex !== seqIndex) {
-                el.innerHTML = sequence[seqIndex];
-                this.targetContainer.appendChild(el);
+                let text = timestamps[i][0] + ' ';
+                for (let j = seqIndex; j < permutation[i + 1]; j++) {
+                    text += ' ' + target[j];
+                }
+                // let text = timestamps[i][0] + ' ' + sequence[seqIndex];
+                el.innerHTML = text;
             } else {
                 el.innerHTML = '...';
-                const lastChild = this.targetContainer.children[this.targetContainer.childElementCount - 1];
-                this.targetContainer.insertBefore(el, lastChild);
+                // const lastChild = this.targetContainer.children[this.targetContainer.childElementCount - 1];
+                // this.targetContainer.insertBefore(el, lastChild);
             }
             lastIndex = seqIndex;
-        }
-    }
 
-    visualizeTarget(sequence: string[], timestamps: number[][]) {
-        for (let i = 0; i < sequence.length; i++) {
-            const el = document.createElement('div');
-            el.innerHTML = sequence[i];
-            this.refContainer.appendChild(el);
+            row.appendChild(el);
+            this.table.appendChild(row);
         }
+        /*
         for (let i = 0; i < sequence.length; i++) {
             const beginDiv = document.createElement('div');
             const endDiv = document.createElement('div');
@@ -42,5 +41,6 @@ export class Visualization {
             this.beginContainer.appendChild(beginDiv);
             this.endContainer.appendChild(endDiv);
         }
+        */
     }
 }
