@@ -1,6 +1,9 @@
 <html>
 <head>
 <style>
+    table tr td {
+        vertical-align: top;
+    }
     table tr td div {
         width: 200px
     }
@@ -8,21 +11,35 @@
 </head>
 <body>
     <h1>Alignment</h1>
+    <h2 id='filename'></h2>
+    <div id='menu'></div>
     <table>
     <tr>
         <td>
-            <strong>reference</strong>
+            <strong>source</strong>
         </td>
         <td>
-            <strong>distorted </strong>
+            <strong>target</strong>
+        </td>
+        <td>
+            <strong>begin</strong>
+        </td>
+        <td>
+            <strong>end</strong>
         </td>
     </tr>
     <tr>
         <td>
-            <div id="reference"></div>
+            <div id="source"></div>
         </td>
         <td>
-            <div id="distorted"></div> 
+            <div id="target"></div> 
+        </td>
+        <td>
+            <div id="begin"></div> 
+        </td>
+        <td>
+            <div id="end"></div> 
         </td>
     </tr>    
     </table>

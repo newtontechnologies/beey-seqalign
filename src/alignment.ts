@@ -79,7 +79,7 @@ export class Alignment<T> {
     let i = this.b.length;
     let j = this.a.length;
     let op = this.prev[i][j];
-    const matchIndices = [];
+    const matchIndices = new Array(this.a.length).fill(0);
     let opSequence = [];
     for (var c = 0; true; c++) {
         if (op === Op.Begin) {
