@@ -56,6 +56,7 @@ const prefixes = [
 'vad/UDAL0103',
 ];
 
+let stringAligner: StringAligner;
 async function fetchText(url: string) {
     console.log('fetching ' + url);
     const response = await fetch(url);
@@ -75,7 +76,22 @@ function viewLinks() {
     }
 }
 
+async function align() {
+    const text = (<HTMLTextAreaElement>document.getElementById('text')).value;
+    let sourceSequence: string[];
+    sourceSequence = StringAligner.string2words(text); // .slice(0, 50);
+    const matchIndices = stringAligner.compareSequence(sourceSequence,
+        Number((<HTMLInputElement>document.getElementById('from')).value),
+        Number((<HTMLInputElement>document.getElementById('to')).value));
+
+    visualization.visualize(sourceSequence, stringAligner.targetSequence, stringAligner.targetTimestamps, matchIndices);
+    return Promise.resolve();
+}
+
 async function main() {
+    let btn = document.getElementById('align-button');
+    btn.addEventListener('click', (e: Event) => align());
+
     var url_string = window.location.href;
     var url = new URL(url_string);
     viewLinks();
@@ -87,24 +103,17 @@ async function main() {
     const targetSequence = targetTranscription.words; // .slice(0, 50);
     // let sourceSequence = stringAligner.string2words(source).slice(0, 50);
 
+    stringAligner = new StringAligner(targetSequence, targetTranscription.timestamps);
+
     let source = await fetchText('res/test/' + name + '.edited.txt');
-    let sourceSequence: string[];
-    let stringAligner = new StringAligner(targetSequence);
-
-    if (source !== null) {
-        sourceSequence = StringAligner.string2words(source); // .slice(0, 50);
-        // let sourceSequence = stringAligner.distortWords(targetSequence, 0.2);
+    if (source === null) {
+        const sourceTrsx = await fetchText('res/test/' + name + '.edited.trsx');
+        const sourceTranscription = new Transcription(sourceTrsx);
+        source = sourceTranscription.text;
     }
-    else {
-        source = await fetchText('res/test/' + name + '.edited.trsx');
-        const sourceTranscription = new Transcription(source);
-        sourceSequence = sourceTranscription.words;
-    }
+    const textarea = <HTMLTextAreaElement>document.getElementById('text');
+    textarea.value = source;
 
-    const matchIndices = stringAligner.compareSequence(sourceSequence,
-        Number((<HTMLInputElement>document.getElementById('from')).value),
-        Number((<HTMLInputElement>document.getElementById('to')).value));
-    visualization.visualize(sourceSequence, targetSequence, targetTranscription.timestamps, matchIndices);
     return Promise.resolve();
 }
 

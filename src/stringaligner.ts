@@ -3,11 +3,13 @@ import { Visualization } from './visualization';
 
 export class StringAligner {
     targetSequence: string[];
+    targetTimestamps: number[][];
     aligner: Alignment<string>;
 
-    constructor(targetSequence: string[]) {
+    constructor(targetSequence: string[], targetTimestamps: number[][]) {
         this.targetSequence = targetSequence;
         this.aligner = new Alignment(this.targetSequence, StringAligner.prefixDistance, 1, 1);
+        this.targetTimestamps = targetTimestamps;
     }
 
     static string2array(str: string) {
@@ -55,8 +57,7 @@ export class StringAligner {
 
     compareSequence(sourceSequence: string[], from: number, to: number) {
         console.log('aligning...');
-        this.aligner.match(sourceSequence, from, to);
-        const { distance, matchIndices } = this.aligner.evaluate();
+        const { distance, matchIndices } = this.aligner.match(sourceSequence, from, to);
         console.log(distance / sourceSequence.length);
         return matchIndices;
     }

@@ -2,6 +2,7 @@ import * as moment from 'moment';
 
 export class Transcription {
     words: string[];
+    text: string;
     timestamps: number[][];
     length: number;
     constructor(trsx: string) {
@@ -17,7 +18,7 @@ export class Transcription {
             const text = words[i];
             if (text.length !== 0) {
                 this.words.push(text);
-            this.timestamps.push([begin, end]);
+                this.timestamps.push([begin, end]);
             }
         }
     }
@@ -25,12 +26,13 @@ export class Transcription {
     fromTrsx(trsx: string) {
         this.words = [];
         this.timestamps = [];
+        this.text = '';
         const xmlParser = new DOMParser();
         const xml = xmlParser.parseFromString(trsx, 'text/xml');
         const phrases = xml.getElementsByTagName('p');
-
         for (let i = 0; i < phrases.length; i += 1) {
             this.loadPhrase(phrases[i]);
+            this.text += phrases[i].textContent;
         }
         this.length = this.words.length;
     }

@@ -42,15 +42,14 @@ export class Alignment<T> {
     }
 
     // increment each column in the first row
-    var j: number;
-    for (j = 0; j <= this.a.length; j++) {
+    for (let j = 0; j <= this.a.length; j++) {
       this.matrix[0][j] = j;
       this.prev[0][j] = Op.Begin; // beginnning
     }
 
     // Fill in the rest of the matrix
     for (let i = 1; i <= b.length; i++) {
-      for (j = 1; j <= this.a.length; j++) {
+      for (let j = 1; j <= this.a.length; j++) {
         const wordDistance = this.distance(b[i - 1], this.a[j - 1]);
         var substitution = this.matrix[i - 1][j - 1] + wordDistance;
         var insertion = this.matrix[i][j - 1] + this.insertionPenalty;
@@ -73,9 +72,6 @@ export class Alignment<T> {
         }
       }
     }
-  }
-
-  evaluate() {
     let i = this.b.length;
     let j = this.a.length;
     let op = this.prev[i][j];
