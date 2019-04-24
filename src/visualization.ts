@@ -16,7 +16,7 @@ export class Visualization {
             const seqIndex = permutation[i];
             const el = document.createElement('td');
             if (lastIndex !== seqIndex) {
-                let text = timestamps[i][0] + ' ';
+                let text = timestamps[seqIndex][0] + ' ';
                 for (let j = seqIndex; j < permutation[i + 1]; j++) {
                     text += ' ' + target[j];
                 }

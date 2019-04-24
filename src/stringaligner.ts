@@ -5,11 +5,17 @@ export class StringAligner {
     targetSequence: string[];
     targetTimestamps: number[][];
     aligner: Alignment<string>;
-
-    constructor(targetSequence: string[], targetTimestamps: number[][]) {
+    deletionPenalty: number;
+    insertionPenalty: number;
+    substitutionPenalty: number;
+    constructor(targetSequence: string[], targetTimestamps: number[][], insertionPenalty: number,
+                deletionPenalty: number, substitutionPenalty: number) {
         this.targetSequence = targetSequence;
-        this.aligner = new Alignment(this.targetSequence, StringAligner.prefixDistance, 1, 1);
+        this.aligner = new Alignment(this.targetSequence, this.prefixDistance, this.wordInsertionPenalty);
         this.targetTimestamps = targetTimestamps;
+        this.deletionPenalty = deletionPenalty;
+        this.substitutionPenalty = substitutionPenalty;
+        this.insertionPenalty = insertionPenalty;
     }
 
     static string2array(str: string) {
@@ -39,7 +45,11 @@ export class StringAligner {
         return distorted;
     }
 
-    static prefixDistance = (a: string, b: string) => {
+    wordInsertionPenalty = (a: string) => {
+        // return 1;
+        return this.insertionPenalty * a.length;
+    }
+    prefixDistance = (a: string, b: string) => {
         a = a.toLowerCase();
         b = b.toLowerCase();
         let i;
@@ -48,7 +58,7 @@ export class StringAligner {
                 break;
             }
         }
-        return 1 - (i / Math.max(a.length, b.length));
+        return this.substitutionPenalty * (Math.max(a.length, b.length) - i);
     }
 
     static exactMatchDistance = (a: string, b: string) => {

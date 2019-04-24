@@ -103,7 +103,7 @@ async function main() {
     const targetSequence = targetTranscription.words; // .slice(0, 50);
     // let sourceSequence = stringAligner.string2words(source).slice(0, 50);
 
-    stringAligner = new StringAligner(targetSequence, targetTranscription.timestamps);
+    stringAligner = new StringAligner(targetSequence, targetTranscription.timestamps, 1, 1, 1);
 
     let source = await fetchText('res/test/' + name + '.edited.txt');
     if (source === null) {
