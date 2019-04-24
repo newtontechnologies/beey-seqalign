@@ -29,7 +29,7 @@ export class Alignment<T> {
     return counts;
   }
 
-  match(b: T[]) {
+  match(b: T[], from: number, to: number) {
     this.b = b;
     // if (this.a.length === 0) return this.b.length;
     // if (this.b.length === 0) return this.a.length;

@@ -84,13 +84,15 @@ async function main() {
     document.getElementById('filename').innerHTML = name;
     const target = await fetchText('res/test/' + name + '.trsx');
     const targetTranscription = new Transcription(target);
-    const targetSequence = targetTranscription.words; //.slice(0, 50);
+    const targetSequence = targetTranscription.words; // .slice(0, 50);
     // let sourceSequence = stringAligner.string2words(source).slice(0, 50);
 
     let source = await fetchText('res/test/' + name + '.edited.txt');
     let sourceSequence: string[];
+    let stringAligner = new StringAligner(targetSequence);
+
     if (source !== null) {
-        sourceSequence = stringAligner.string2words(source); //.slice(0, 50);
+        sourceSequence = StringAligner.string2words(source); // .slice(0, 50);
         // let sourceSequence = stringAligner.distortWords(targetSequence, 0.2);
     }
     else {
@@ -99,12 +101,13 @@ async function main() {
         sourceSequence = sourceTranscription.words;
     }
 
-    const matchIndices = stringAligner.compareSequences(sourceSequence, targetSequence);
+    const matchIndices = stringAligner.compareSequence(sourceSequence,
+        Number((<HTMLInputElement>document.getElementById('from')).value),
+        Number((<HTMLInputElement>document.getElementById('to')).value));
     visualization.visualize(sourceSequence, targetSequence, targetTranscription.timestamps, matchIndices);
     return Promise.resolve();
 }
 
-let stringAligner = new StringAligner();
 const visualization = new Visualization('table');
 
 main();

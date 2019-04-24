@@ -2,11 +2,19 @@ import { Alignment } from './alignment';
 import { Visualization } from './visualization';
 
 export class StringAligner {
-    string2array(str: string) {
+    targetSequence: string[];
+    aligner: Alignment<string>;
+
+    constructor(targetSequence: string[]) {
+        this.targetSequence = targetSequence;
+        this.aligner = new Alignment(this.targetSequence, StringAligner.prefixDistance, 1, 1);
+    }
+
+    static string2array(str: string) {
         return str.split(/(?=[\s\S])/u); // converts string to an array of utf-8 characters.
     }
 
-    string2words(str: string) {
+    static string2words(str: string) {
         return str.split(/[ ]/u);
     }
 
@@ -45,12 +53,10 @@ export class StringAligner {
         return a === b ? 1 : 0;
     }
 
-    compareSequences(sourceSequence: string[], targetSequence: string[]) {
-        const aligner = new Alignment(targetSequence, StringAligner.prefixDistance, 1, 1);
-        // const aligner = new Alignment(targetSequence, StringAligner.distanceFunction, 1, 1);
+    compareSequence(sourceSequence: string[], from: number, to: number) {
         console.log('aligning...');
-        aligner.match(sourceSequence);
-        const { distance, matchIndices } = aligner.evaluate();
+        this.aligner.match(sourceSequence, from, to);
+        const { distance, matchIndices } = this.aligner.evaluate();
         console.log(distance / sourceSequence.length);
         return matchIndices;
     }
