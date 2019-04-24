@@ -6,7 +6,10 @@ export class Visualization {
     }
 
     visualize(source: string[], target: string[], timestamps: number[][], permutation: number[]) {
+        this.table.innerHTML = '';
         let lastIndex = -1;
+        source.unshift('');
+        permutation.unshift(0);
         for (let i = 0; i < permutation.length; i++) {
             const row = document.createElement('tr');
             const sourceTd = document.createElement('td');
