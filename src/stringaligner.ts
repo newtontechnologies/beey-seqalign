@@ -84,3 +84,8 @@ export class StringAligner {
         return matchIndices;
     }
 }
+
+module.exports = {
+    StringAligner,
+    Alignment,
+};
