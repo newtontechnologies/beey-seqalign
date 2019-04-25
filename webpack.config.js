@@ -9,8 +9,8 @@ module.exports = {
     context: ROOT,
 
     entry: {
-        'synthetic_main': './synthetic_main.ts',
-        'test_main': './test_main'
+        'stringaligner': './stringaligner',
+        'alignment': './alignment',
     },
     
     output: {
@@ -53,11 +53,6 @@ module.exports = {
             },
         ],
     },
-    plugins: [
-        new CopyPlugin([
-            { from: 'res', to: 'res' },
-        ]),
-    ],
     
     devtool: 'cheap-module-source-map',
     devServer: {}

@@ -70,7 +70,7 @@ export class StringAligner {
     static exactMatchDistance = (a: string, b: string) => {
         return a === b ? 1 : 0;
     }
-    
+
     timeToIndex(time: number) {
         return this.targetTimestamps.findIndex((t) => {
             return t[0] >= time;
