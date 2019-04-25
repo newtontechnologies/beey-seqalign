@@ -3,6 +3,9 @@ const webpack = require('webpack');
 
 const ROOT = path.resolve( __dirname, 'src' );
 const DESTINATION = path.resolve( __dirname, 'dist' );
+const pkg = require('./package.json');
+
+let libraryName = pkg.name;
 
 module.exports = {
     context: ROOT,
@@ -14,7 +17,9 @@ module.exports = {
     
     output: {
         filename: '[name].bundle.js',
-	library: 'seqalign',
+        library: libraryName,
+        libraryTarget: 'umd',
+        umdNamedDefine: true,
         path: DESTINATION
     },
 

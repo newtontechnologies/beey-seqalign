@@ -1,11 +1,12 @@
 {
-  "name": "webpack-typescript-starter",
+  "name": "seqalign",
   "version": "0.0.1",
   "description": "A simple Webpack 4 starter with TypeScript transpilation",
-  "main": "index.js",
+  "main": "dist/stringaligner.bundle.js",
   "scripts": {
-    "start": "webpack-dev-server --port 9000 --inline --progress --profile --colors --watch --content-base src/  --mode development",
+    "watch": "webpack-watch-server --config webpack.dev.js",
     "build": "webpack --config webpack.dev.js --mode development",
+    "start": "webpack-dev-server --port 9000 --inline --progress --profile --colors --watch --content-base dist/ --mode development",
     "build.prod": "webpack --config webpack.config.js -p",
     "test": "karma start karma.config.js"
   },
@@ -36,6 +37,7 @@
     "webpack-merge": "^4.2.1"
   },
   "dependencies": {
-    "moment": "^2.22.2"
+    "moment": "^2.22.2",
+    "webpack-watch-server": "^1.2.1"
   }
 }
