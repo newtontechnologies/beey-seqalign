@@ -15,6 +15,7 @@ module.exports = {
     
     output: {
         filename: '[name].bundle.js',
+	library: 'seqalign',
         path: DESTINATION
     },
 
