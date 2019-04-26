@@ -87,7 +87,7 @@ export class Alignment<T> {
         if (op === Op.Begin) {
             break;
         }
-        if (i <= 0 || j <= 0) {
+        if (i < 0 || j < 0) {
           console.log('this was not supposed to happen...');
           break;
         }
@@ -112,7 +112,6 @@ export class Alignment<T> {
         // console.log(i + ' ' + j + ' ' + this.a[j] + ', ' + b[i] + ' ' + op);
         matchIndices[i] = from + j;
     }
-    const opcounts = this.countOperations(opSequence);
 
     return {
       distance: matrix[this.b.length][aslice.length],
