@@ -6,7 +6,7 @@
   "scripts": {
     "watch": "webpack-watch-server --config webpack.dev.js",
     "build": "webpack --config webpack.dev.js --mode development",
-    "start": "webpack-dev-server --port 9000 --inline --progress --profile --colors --watch --content-base dist/ --mode development",
+    "start": "webpack-dev-server --port 9000 --inline --progress --profile --colors --watch --content-base devdist/ --mode development",
     "build.prod": "webpack --config webpack.config.js -p",
     "test": "karma start karma.config.js"
   },
