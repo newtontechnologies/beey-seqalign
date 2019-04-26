@@ -89,6 +89,11 @@ async function align() {
 }
 
 async function main() {
+    // TODO temporary.
+    const teststringAligner = new StringAligner(['adaba', 'bahada', 'cadaga', 'dabada'], [[1, 2], [2, 3], [3, 4], [4, 5]], 1, 1, 1);
+    const testmatchIndices = teststringAligner.compareSequence(['adaba', 'bahada', 'cadaga', 'dabada'], 0, 1000);
+    console.log(testmatchIndices);
+
     let btn = document.getElementById('align-button');
     btn.addEventListener('click', (e: Event) => align());
 

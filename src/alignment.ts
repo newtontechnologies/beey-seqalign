@@ -43,6 +43,7 @@ export class Alignment<T> {
     }
 
     matrix[0][0] = 0;
+    ops[0][0] = Op.Begin;
     for (let j = 1; j <= aslice.length; j++) {
       matrix[0][j] = matrix[0][j - 1] + this.insertionPenalty(aslice[j - 1]);
       ops[0][j] = Op.Begin;
@@ -83,13 +84,12 @@ export class Alignment<T> {
     const matchIndices = new Array(this.b.length).fill(0);
     let opSequence = [];
     for (var c = 0; true; c++) {
-      console.log([i, j]);
-        if (i <= 0 || j <= 0) {
-          console.log('sumting vird :-S');
-          break;
-        }
         if (op === Op.Begin) {
             break;
+        }
+        if (i <= 0 || j <= 0) {
+          console.log('this was not supposed to happen...');
+          break;
         }
         else if (op === Op.Substitute) {
             i = i - 1;
@@ -113,7 +113,6 @@ export class Alignment<T> {
         matchIndices[i] = from + j;
     }
     const opcounts = this.countOperations(opSequence);
-    console.log(opcounts);
 
     return {
       distance: matrix[this.b.length][aslice.length],
