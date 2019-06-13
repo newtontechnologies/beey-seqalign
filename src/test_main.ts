@@ -90,10 +90,9 @@ async function align() {
 
 async function main() {
     // TODO temporary.
-    const teststringAligner = new StringAligner(['adaba', 'bahada', 'cadaga', 'dabada'], [[1, 2], [2, 3], [3, 4], [4, 5]], 1, 1, 1);
+    const teststringAligner = new StringAligner(['adaba', 'bahada', 'cadaga', 'dabada'], [[1, 2], [2, 3], [3, 4], [4, 5]], 1, 1, 1, 0.9);
     const testmatchIndices = teststringAligner.compareSequence(['adaba', 'bahada', 'cadaga', 'dabada'], 0, 1000);
     console.log(testmatchIndices);
-
     let btn = document.getElementById('align-button');
     btn.addEventListener('click', (e: Event) => align());
 
@@ -108,7 +107,7 @@ async function main() {
     const targetSequence = targetTranscription.words; // .slice(0, 50);
     // let sourceSequence = stringAligner.string2words(source).slice(0, 50);
 
-    stringAligner = new StringAligner(targetSequence, targetTranscription.timestamps, 1, 1, 1);
+    stringAligner = new StringAligner(targetSequence, targetTranscription.timestamps, 1, 1, 1, 0.9);
 
     let source = await fetchText('res/test/' + name + '.edited.txt');
     if (source === null) {

@@ -9,15 +9,20 @@ enum Op {
 export class Alignment<T> {
   a: T[];
   b: T[];
+  beginLaterPenalty: (x: T) => number;
   insertionPenalty: (x: T) => number;
   deletionPenalty: (x: T) => number;
   distance: (x: T, y: T) => number;
-  constructor(baseSequence: T[], distance: (x: T, y: T) => number,
-              insertionPenalty: (x: T) => number, deletionPenalty: (x: T) => number) {
+  constructor(baseSequence: T[],
+              distance: (x: T, y: T) => number,
+              insertionPenalty: (x: T) => number,
+              deletionPenalty: (x: T) => number,
+              beginLaterPenalty: (x: T) => number) {
     this.a = baseSequence;
     this.distance = distance;
     this.insertionPenalty = insertionPenalty;
     this.deletionPenalty = deletionPenalty;
+    this.beginLaterPenalty = beginLaterPenalty;
   }
 
   countOperations(operations: Op[]) {
@@ -29,7 +34,7 @@ export class Alignment<T> {
   }
 
   match(b: T[], from: number, to: number) {
-    // matrix[i][j] is the levenshtein distance of b[:i] and a[:j]
+    // matrix[i][j] is the weighted levenshtein distance of b[:i] and a[from:from+j]
     const matrix: number[][] = [];
     const ops: number[][] = [];
     this.b = b;
@@ -45,7 +50,7 @@ export class Alignment<T> {
     matrix[0][0] = 0;
     ops[0][0] = Op.Begin;
     for (let j = 1; j <= aslice.length; j++) {
-      matrix[0][j] = matrix[0][j - 1] + this.insertionPenalty(aslice[j - 1]);
+      matrix[0][j] = matrix[0][j - 1] + this.beginLaterPenalty(aslice[j - 1]);
       ops[0][j] = Op.Begin;
     }
     for (let i = 1; i <= this.b.length; i++) {
@@ -59,6 +64,10 @@ export class Alignment<T> {
         const wordDistance = this.distance(b[i - 1], aslice[j - 1]);
         var substitution = matrix[i - 1][j - 1] + wordDistance;
         var insertion = matrix[i][j - 1] + this.insertionPenalty(aslice[j - 1]);
+        if (i === b.length) {
+          // skipping words at the end costs less.
+          insertion = matrix[i][j - 1] + this.beginLaterPenalty(aslice[j - 1]);
+        }
         var deletion = matrix[i - 1][j] + this.deletionPenalty(this.b[i - 1]);
         if (substitution < insertion && substitution < deletion) {
           matrix[i][j] = substitution;

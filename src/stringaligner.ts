@@ -8,14 +8,20 @@ export class StringAligner {
     deletionPenalty: number;
     insertionPenalty: number;
     substitutionPenalty: number;
+    beginLaterPenalty: number;
     constructor(targetSequence: string[], targetTimestamps: number[][], insertionPenalty: number,
-                deletionPenalty: number, substitutionPenalty: number) {
+                deletionPenalty: number, substitutionPenalty: number, beginLaterPenalty: number) {
         this.targetSequence = targetSequence;
-        this.aligner = new Alignment(this.targetSequence, this.prefixDistance, this.wordInsertionPenalty, this.wordDeletionPenalty);
+        this.aligner = new Alignment(this.targetSequence,
+                                     this.prefixDistance,
+                                     this.wordInsertionPenalty,
+                                     this.wordDeletionPenalty,
+                                     this.wordBeginLaterPenalty);
         this.targetTimestamps = targetTimestamps;
         this.deletionPenalty = deletionPenalty;
         this.substitutionPenalty = substitutionPenalty;
         this.insertionPenalty = insertionPenalty;
+        this.beginLaterPenalty = beginLaterPenalty;
     }
 
     static string2array(str: string) {
@@ -55,6 +61,12 @@ export class StringAligner {
         return this.deletionPenalty * a.length;
     }
 
+    wordBeginLaterPenalty = (a: string) => {
+        // return 1;
+        return this.beginLaterPenalty * a.length;
+    }
+
+
     prefixDistance = (a: string, b: string) => {
         a = a.toLowerCase();
         b = b.toLowerCase();
@@ -80,7 +92,6 @@ export class StringAligner {
     compareSequence(sourceSequence: string[], timeFrom: number, timeTo: number) {
         console.log('aligning...');
         const { distance, matchIndices } = this.aligner.match(sourceSequence, this.timeToIndex(timeFrom), this.timeToIndex(timeTo));
-        console.log(distance / sourceSequence.length);
         return matchIndices;
     }
 }
