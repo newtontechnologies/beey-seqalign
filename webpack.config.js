@@ -13,6 +13,7 @@ module.exports = {
     entry: {
         'stringaligner': './stringaligner',
         'alignment': './alignment',
+        'align_files': './align_files',
     },
     
     output: {
@@ -20,6 +21,7 @@ module.exports = {
         library: libraryName,
         libraryTarget: 'umd',
         umdNamedDefine: true,
+        globalObject: 'this',
         path: DESTINATION
     },
 
@@ -60,6 +62,7 @@ module.exports = {
     },
     
     devtool: 'cheap-module-source-map',
-    devServer: {}
+    devServer: {},
+    target: 'node'
 };
 

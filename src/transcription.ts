@@ -1,11 +1,14 @@
 import * as moment from 'moment';
 
+const DOMParser = require('xmldom').DOMParser;
+
 export class Transcription {
     words: string[];
     text: string;
     timestamps: number[][];
     length: number;
     constructor(trsx: string) {
+        this.length = 0;
         this.fromTrsx(trsx);
     }
 
@@ -18,6 +21,7 @@ export class Transcription {
             const text = words[i];
             if (text.length !== 0) {
                 this.words.push(text);
+                this.length += 1;
                 this.timestamps.push([begin, end]);
             }
         }
@@ -34,6 +38,5 @@ export class Transcription {
             this.loadPhrase(phrases[i]);
             this.text += phrases[i].textContent;
         }
-        this.length = this.words.length;
     }
 }

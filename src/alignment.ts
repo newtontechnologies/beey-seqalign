@@ -37,7 +37,6 @@ export class Alignment<T> {
     // matrix[i][j] is the weighted levenshtein distance of b[:i] and a[from:from+j]
     const matrix: number[][] = [];
     const ops: number[][] = [];
-    this.b = b;
     const aslice = this.a.slice(from, to);
     // if (this.a.length === 0) return this.b.length;
     // if (this.b.length === 0) return this.a.length;
@@ -53,8 +52,8 @@ export class Alignment<T> {
       matrix[0][j] = matrix[0][j - 1] + this.beginLaterPenalty(aslice[j - 1]);
       ops[0][j] = Op.Begin;
     }
-    for (let i = 1; i <= this.b.length; i++) {
-      matrix[i][0] = matrix[i - 1][0] + this.deletionPenalty(this.b[i - 1]);
+    for (let i = 1; i <= b.length; i++) {
+      matrix[i][0] = matrix[i - 1][0] + this.deletionPenalty(b[i - 1]);
       ops[i][0] = Op.Delete;
     }
 
@@ -68,7 +67,7 @@ export class Alignment<T> {
           // skipping words at the end costs less.
           insertion = matrix[i][j - 1] + this.beginLaterPenalty(aslice[j - 1]);
         }
-        var deletion = matrix[i - 1][j] + this.deletionPenalty(this.b[i - 1]);
+        var deletion = matrix[i - 1][j] + this.deletionPenalty(b[i - 1]);
         if (substitution < insertion && substitution < deletion) {
           matrix[i][j] = substitution;
           if (wordDistance === 0) {
@@ -87,10 +86,10 @@ export class Alignment<T> {
         }
       }
     }
-    let i = this.b.length;
+    let i = b.length;
     let j = aslice.length;
     let op = ops[i][j];
-    const matchIndices = new Array(this.b.length).fill(0);
+    const matchIndices = new Array(b.length).fill(0);
     let opSequence = [];
     for (var c = 0; true; c++) {
         if (op === Op.Begin) {
@@ -123,7 +122,7 @@ export class Alignment<T> {
     }
 
     return {
-      distance: matrix[this.b.length][aslice.length],
+      distance: matrix[b.length][aslice.length],
       matchIndices,
     };
   }

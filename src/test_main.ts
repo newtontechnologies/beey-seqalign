@@ -54,6 +54,7 @@ const prefixes = [
 'vad/TELN1103',
 'vad/TYRM0903',
 'vad/UDAL0103',
+'sejm/108_2018-06-14_netIn',
 ];
 
 let stringAligner: StringAligner;
@@ -69,7 +70,7 @@ function viewLinks() {
     for (let i = 0; i < prefixes.length; i++) {
         const prefix = prefixes[i];
         const link = document.createElement('a');
-        link.href = window.location.href.split('?')[0] + '?name=' + prefix;
+        link.href = '';//window.location.href.split('?')[0] + '?name=' + prefix;
         link.innerHTML = prefix;
         container.appendChild(link);
         container.appendChild(document.createElement('br'));
@@ -96,7 +97,7 @@ async function main() {
     let btn = document.getElementById('align-button');
     btn.addEventListener('click', (e: Event) => align());
 
-    var url_string = window.location.href;
+    var url_string = '';// window.location.href;
     var url = new URL(url_string);
     viewLinks();
     var name = url.searchParams.get('name');
