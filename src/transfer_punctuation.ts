@@ -9,8 +9,8 @@ if (process.argv.length !== 4) {
   process.exit();
 }
 
-const source_file = process.argv[2];
-const target_file = process.argv[3];
+const source_file = process.argv[2]; // '/mnt/c/Users/Martin.Spanel/ed_pra/seqalign/target.trsx';
+const target_file = process.argv[3]; // '/mnt/c/Users/Martin.Spanel/ed_pra/seqalign/source.txt';
 
 function readFile(filename: string): string {
     console.log(filename);
@@ -38,5 +38,4 @@ const stringAligner = new StringAligner(targetSequence, targetTranscription.time
 let sourceSequence: string[];
 sourceSequence = StringAligner.string2words(source);
 const matchIndices = stringAligner.compareSequence(sourceSequence, 0, 1000000000);
-const alignedTranscription = stringAligner.applyTimestamps(sourceSequence, matchIndices);
-console.log(alignedTranscription.exportTrsx());
+console.log(matchIndices);

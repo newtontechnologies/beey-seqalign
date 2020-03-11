@@ -70,7 +70,7 @@ function viewLinks() {
     for (let i = 0; i < prefixes.length; i++) {
         const prefix = prefixes[i];
         const link = document.createElement('a');
-        link.href = '';//window.location.href.split('?')[0] + '?name=' + prefix;
+        link.href = window.location.href.split('?')[0] + '?name=' + prefix;
         link.innerHTML = prefix;
         container.appendChild(link);
         container.appendChild(document.createElement('br'));
@@ -97,7 +97,7 @@ async function main() {
     let btn = document.getElementById('align-button');
     btn.addEventListener('click', (e: Event) => align());
 
-    var url_string = '';// window.location.href;
+    var url_string = window.location.href;
     var url = new URL(url_string);
     viewLinks();
     var name = url.searchParams.get('name');
@@ -114,7 +114,7 @@ async function main() {
     if (source === null) {
         const sourceTrsx = await fetchText('res/test/' + name + '.edited.trsx');
         const sourceTranscription = new Transcription(sourceTrsx);
-        source = sourceTranscription.text;
+        source = sourceTranscription.getText();
     }
     const textarea = <HTMLTextAreaElement>document.getElementById('text');
     textarea.value = source;

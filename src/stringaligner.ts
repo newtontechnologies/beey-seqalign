@@ -1,5 +1,6 @@
 import { Alignment } from './alignment';
 import { Visualization } from './visualization';
+import { Transcription } from './transcription';
 
 export class StringAligner {
     targetSequence: string[];
@@ -92,6 +93,18 @@ export class StringAligner {
     compareSequence(sourceSequence: string[], timeFrom: number, timeTo: number) {
         const { distance, matchIndices } = this.aligner.match(sourceSequence, this.timeToIndex(timeFrom), this.timeToIndex(timeTo));
         return matchIndices;
+    }
+
+    applyTimestamps(words: string[], matchIndices: any[]) {
+        const transcription = new Transcription();
+        for (let i = 0; i < words.length; i += 1) {
+            const word = words[i];
+            const timestampIndex = matchIndices[i];
+            const begin = this.targetTimestamps[timestampIndex][0];
+            const end = this.targetTimestamps[timestampIndex][1];
+            transcription.loadPhraseRaw(word, begin, end);
+        }
+        return transcription;
     }
 }
 
