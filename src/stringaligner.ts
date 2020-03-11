@@ -30,6 +30,7 @@ export class StringAligner {
     }
 
     static string2words(str: string) {
+        str = str.replace('\n', '\n ');
         return str.split(/[ ]/u);
     }
 
@@ -98,7 +99,7 @@ export class StringAligner {
     applyTimestamps(words: string[], matchIndices: any[]) {
         const transcription = new Transcription();
         for (let i = 0; i < words.length; i += 1) {
-            const word = words[i];
+            const word = words[i] + ' ';
             const timestampIndex = matchIndices[i];
             const begin = this.targetTimestamps[timestampIndex][0];
             const end = this.targetTimestamps[timestampIndex][1];

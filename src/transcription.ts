@@ -17,10 +17,13 @@ export class Transcription {
     words: string[];
     timestamps: number[][];
     length: number;
+    text: string;
+
     constructor(trsx?: string) {
         this.words = [];
         this.timestamps = [];
         this.length = 0;
+        this.text = '';
         if (trsx) {
             this.fromTrsx(trsx);
         }
@@ -31,6 +34,7 @@ export class Transcription {
             this.words.push(text);
             this.length += 1;
             this.timestamps.push([begin, end]);
+            this.text += text;
         }
     }
 
@@ -64,13 +68,13 @@ export class Transcription {
                 text += this.words[j] + ' ';
                 i = j;
             }
-            const phrase = `        <p b="${begin}" e="${end}">${text} </p>\n`;
+            const phrase = `        <p b="${begin}" e="${end}">${text}</p>\n`;
             phrases.push(phrase);
         }
         return [TRSX_HEADER, ...phrases, TRSX_FOOTER].join('');
     }
 
     getText() {
-        return this.words.join(' ');
+        return this.text;
     }
 }
