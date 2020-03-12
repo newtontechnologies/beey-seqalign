@@ -10,12 +10,12 @@ export class Alignment<T> {
   a: T[];
   b: T[];
   beginLaterPenalty: (x: T) => number;
-  insertionPenalty: (x: T) => number;
+  insertionPenalty: (x: T, y: T) => number;
   deletionPenalty: (x: T) => number;
   distance: (x: T, y: T) => number;
   constructor(baseSequence: T[],
               distance: (x: T, y: T) => number,
-              insertionPenalty: (x: T) => number,
+              insertionPenalty: (x: T, y: T) => number,
               deletionPenalty: (x: T) => number,
               beginLaterPenalty: (x: T) => number) {
     this.a = baseSequence;
@@ -62,11 +62,7 @@ export class Alignment<T> {
       for (let j = 1; j <= aslice.length; j++) {
         const wordDistance = this.distance(b[i - 1], aslice[j - 1]);
         var substitution = matrix[i - 1][j - 1] + wordDistance;
-        var insertion = matrix[i][j - 1] + this.insertionPenalty(aslice[j - 1]);
-        if (i === b.length) {
-          // skipping words at the end costs less.
-          insertion = matrix[i][j - 1] + this.beginLaterPenalty(aslice[j - 1]);
-        }
+        var insertion = matrix[i][j - 1] + this.insertionPenalty(aslice[j - 1], b[i]);
         var deletion = matrix[i - 1][j] + this.deletionPenalty(b[i - 1]);
         if (substitution < insertion && substitution < deletion) {
           matrix[i][j] = substitution;
@@ -96,7 +92,6 @@ export class Alignment<T> {
             break;
         }
         if (i < 0 || j < 0) {
-          console.log('this was not supposed to happen...');
           break;
         }
         else if (op === Op.Substitute) {

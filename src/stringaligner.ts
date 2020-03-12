@@ -53,9 +53,13 @@ export class StringAligner {
         return distorted;
     }
 
-    wordInsertionPenalty = (a: string) => {
-        // return 1;
-        return this.insertionPenalty * a.length;
+    wordInsertionPenalty = (insertedWord: string, matchingWord: string) => {
+        let lfDiscountCoefficient = 1;
+        if (matchingWord && matchingWord.length > 0 && matchingWord.slice(-1) === '\n') {
+            // it is cheaper to insert between paragraphs
+            lfDiscountCoefficient = 0.5;
+        }
+        return lfDiscountCoefficient * this.insertionPenalty * insertedWord.length;
     }
 
     wordDeletionPenalty = (a: string) => {
