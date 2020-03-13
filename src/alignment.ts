@@ -8,7 +8,7 @@ enum Op {
 
 export class Alignment<T> {
   a: T[];
-  b: T[];
+
   insertionPenalty: (x: T, y: T) => number;
   deletionPenalty: (x: T) => number;
   distance: (x: T, y: T) => number;
@@ -22,12 +22,8 @@ export class Alignment<T> {
     this.deletionPenalty = deletionPenalty;
   }
 
-  countOperations(operations: Op[]) {
-    const counts = [0, 0, 0, 0, 0];
-    for (let i = 0; i < operations.length; i++) {
-      counts[operations[i]]++;
-    }
-    return counts;
+  push(newEntry: T) {
+      this.a.push(newEntry);
   }
 
   match(b: T[], from: number, to: number) {

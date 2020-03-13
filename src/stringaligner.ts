@@ -103,6 +103,11 @@ export class StringAligner {
         }
         return transcription;
     }
+
+    addNewWord(word: string, begin: number, end: number) {
+        this.aligner.push(word);
+        this.targetTimestamps.push([begin, end]);
+    }
 }
 
 module.exports = {
