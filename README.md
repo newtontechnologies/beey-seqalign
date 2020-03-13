@@ -15,9 +15,11 @@ npm run build
 
 ### Release:
 (replace the tag number as appropriate)
+```
 git checkout master
 npm run build.prod
 git add dist
 git commit
 git tag 0.0.0
 git push --tags
+```
