@@ -34,7 +34,7 @@ export class Transcription {
             this.words.push(text);
             this.length += 1;
             this.timestamps.push([begin, end]);
-            this.text += text;
+            this.text += text + ' ';
         }
     }
 

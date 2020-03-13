@@ -9,20 +9,19 @@ export class StringAligner {
     deletionPenalty: number;
     insertionPenalty: number;
     substitutionPenalty: number;
-    beginLaterPenalty: number;
+    insertBetweenParagraphsPenalty: number;
     constructor(targetSequence: string[], targetTimestamps: number[][], insertionPenalty: number,
-                deletionPenalty: number, substitutionPenalty: number, beginLaterPenalty: number) {
+                deletionPenalty: number, substitutionPenalty: number, insertBetweenParagraphsPenalty: number) {
         this.targetSequence = targetSequence;
         this.aligner = new Alignment(this.targetSequence,
                                      this.prefixDistance,
                                      this.wordInsertionPenalty,
-                                     this.wordDeletionPenalty,
-                                     this.wordBeginLaterPenalty);
+                                     this.wordDeletionPenalty);
         this.targetTimestamps = targetTimestamps;
         this.deletionPenalty = deletionPenalty;
         this.substitutionPenalty = substitutionPenalty;
         this.insertionPenalty = insertionPenalty;
-        this.beginLaterPenalty = beginLaterPenalty;
+        this.insertBetweenParagraphsPenalty = insertBetweenParagraphsPenalty;
     }
 
     static string2array(str: string) {
@@ -57,21 +56,14 @@ export class StringAligner {
         let lfDiscountCoefficient = 1;
         if (matchingWord && matchingWord.length > 0 && matchingWord.slice(-1) === '\n') {
             // it is cheaper to insert between paragraphs
-            lfDiscountCoefficient = 0.5;
+            lfDiscountCoefficient = this.insertBetweenParagraphsPenalty;
         }
         return lfDiscountCoefficient * this.insertionPenalty * insertedWord.length;
     }
 
     wordDeletionPenalty = (a: string) => {
-        // return 1;
         return this.deletionPenalty * a.length;
     }
-
-    wordBeginLaterPenalty = (a: string) => {
-        // return 1;
-        return this.beginLaterPenalty * a.length;
-    }
-
 
     prefixDistance = (a: string, b: string) => {
         a = a.toLowerCase();
@@ -82,7 +74,7 @@ export class StringAligner {
                 break;
             }
         }
-        return this.substitutionPenalty * (Math.max(a.length, b.length) - i);
+        return this.substitutionPenalty * (b.length - i);
     }
 
     static exactMatchDistance = (a: string, b: string) => {
@@ -96,8 +88,8 @@ export class StringAligner {
     }
 
     compareSequence(sourceSequence: string[], timeFrom: number, timeTo: number) {
-        const { distance, matchIndices } = this.aligner.match(sourceSequence, this.timeToIndex(timeFrom), this.timeToIndex(timeTo));
-        return matchIndices;
+        const { distance, matchIndices } = this.aligner.match(['\n', ...sourceSequence, '\n'], this.timeToIndex(timeFrom), this.timeToIndex(timeTo));
+        return matchIndices.slice(1, matchIndices.length - 1);
     }
 
     applyTimestamps(words: string[], matchIndices: any[]) {

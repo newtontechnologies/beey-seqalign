@@ -34,7 +34,7 @@ if (source_file.endsWith('.txt')) {
     console.error('provide txt or trsx source');
 }
 
-const stringAligner = new StringAligner(targetSequence, targetTranscription.timestamps, 1, 1, 1, 0.9);
+const stringAligner = new StringAligner(targetSequence, targetTranscription.timestamps, 1, 1, 1, 0.5);
 let sourceSequence: string[];
 sourceSequence = StringAligner.string2words(source);
 const matchIndices = stringAligner.compareSequence(sourceSequence, 0, 1000000000);
