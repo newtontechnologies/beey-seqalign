@@ -112,12 +112,14 @@ export class Alignment<T> {
         op = ops[i][j];
         // console.log(i + ' ' + j + ' ' + this.a[j] + ', ' + b[i] + ' ' + op);
     }
+    /*
     console.log(aslice.join(' '));
     for (let i = 0; i < matrix.length; i += 1) {
         console.log(b.slice(0, i).join(' '));
         console.log(matrix[i].join(' '));
         console.log(ops[i].join(' '));
     }
+    */
     return {
       distance: matrix[b.length][aslice.length],
       matchIndices,
