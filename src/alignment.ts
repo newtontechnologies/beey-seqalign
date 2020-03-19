@@ -26,6 +26,7 @@ export class Alignment<T> {
       this.a.push(newEntry);
   }
 
+  // b is the source. Find the optimal operations to match it with target a.
   match(b: T[], from: number, to: number) {
     // matrix[i][j] is the weighted levenshtein distance of b[:i] and a[from:from+j]
     const matrix: number[][] = [];
@@ -42,12 +43,15 @@ export class Alignment<T> {
     matrix[0][0] = 0;
     ops[0][0] = Op.Begin;
     for (let j = 1; j <= aslice.length; j++) {
-      matrix[0][j] = matrix[0][j - 1] + this.insertionPenalty(aslice[j - 1], b[0]);
+      matrix[0][j] = matrix[0][j - 1] + this.insertionPenalty(aslice[j - 1], null);
       ops[0][j] = Op.Begin;
+      console.log(matrix[0][j]);
     }
+    console.log('----');
     for (let i = 1; i <= b.length; i++) {
       matrix[i][0] = matrix[i - 1][0] + this.deletionPenalty(b[i - 1]);
       ops[i][0] = Op.Delete;
+      console.log(matrix[i][0]);
     }
 
     // Fill in the rest of the matrix
@@ -107,6 +111,12 @@ export class Alignment<T> {
         }
         op = ops[i][j];
         // console.log(i + ' ' + j + ' ' + this.a[j] + ', ' + b[i] + ' ' + op);
+    }
+    console.log(aslice.join(' '));
+    for (let i = 0; i < matrix.length; i += 1) {
+        console.log(b.slice(0, i).join(' '));
+        console.log(matrix[i].join(' '));
+        console.log(ops[i].join(' '));
     }
     return {
       distance: matrix[b.length][aslice.length],

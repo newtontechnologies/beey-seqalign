@@ -53,8 +53,11 @@ export class StringAligner {
     }
 
     wordInsertionPenalty = (insertedWord: string, matchingWord: string) => {
+        if (!matchingWord) {
+            console.log(insertedWord);
+        }
         let lfDiscountCoefficient = 1;
-        if (matchingWord && matchingWord.length > 0 && matchingWord.slice(-1) === '\n') {
+        if (!matchingWord || (matchingWord.length > 0 && matchingWord.slice(-1) === '\n')) {
             // it is cheaper to insert between paragraphs
             lfDiscountCoefficient = this.insertBetweenParagraphsPenalty;
         }
