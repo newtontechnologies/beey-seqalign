@@ -32,6 +32,7 @@ if (source_file.endsWith('.txt')) {
     source = sourceTranscription.getText();
 } else {
     console.error('provide txt or trsx source');
+    process.exit();
 }
 
 const stringAligner = new StringAligner(targetSequence, targetTranscription.timestamps, 1, 1, 1, 0.9);

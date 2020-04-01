@@ -5,7 +5,7 @@ import { Transcription } from './transcription';
 export class StringAligner {
     targetSequence: string[];
     targetTimestamps: number[][];
-    aligner: Alignment<string>;
+    aligner: Alignment;
     deletionPenalty: number;
     insertionPenalty: number;
     substitutionPenalty: number;
@@ -82,9 +82,14 @@ export class StringAligner {
     }
 
     timeToIndex(time: number) {
-        return this.targetTimestamps.findIndex((t) => {
+        const index =  this.targetTimestamps.findIndex((t) => {
             return t[0] >= time;
         });
+        if (index === -1) {
+            return this.targetTimestamps.length;
+        } else {
+            return index;
+        }
     }
 
     compareSequence(sourceSequence: string[], timeFrom: number, timeTo: number) {

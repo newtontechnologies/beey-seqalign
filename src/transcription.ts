@@ -9,10 +9,10 @@ const TRSX_HEADER = '\n\
     <se name="0">\n\
       <pa b="PT0S" e="PT20H0M0S" s="0">\n';
 const TRSX_FOOTER = '\n\
-      <pa b="PT0S" e="PT20H0M0S" s="0">\n\
-    <se name="0">\n\
-  <ch name="">\n\
-</transcription version="3.0">\n';
+      </pa>\n\
+    </se>\n\
+  </ch>\n\
+</transcription>\n';
 export class Transcription {
     words: string[];
     timestamps: number[][];
@@ -30,23 +30,28 @@ export class Transcription {
     }
 
     loadPhraseRaw(text: string, begin: number, end: number) {
-        if (text.length !== 0) {
-            this.words.push(text);
-            this.length += 1;
-            this.timestamps.push([begin, end]);
-            this.text += text + ' ';
+        this.text += text;
+        const words = text.split(' ');
+        if (words.length === 0) {
+          this.words.push('');
+          this.timestamps.push([begin, end]);
+        }
+        else {
+            for (let i = 0; i < words.length; i += 1) {
+                if (words[i].length === 0) continue;
+                this.words.push(words[i]);
+                this.length += 1;
+                this.timestamps.push([begin, end]);
+                console.log(words[i]);
+            }
         }
     }
 
     loadPhraseXml(phrase: Element) {
         const text = phrase.textContent;
-        let words = text.split(' ');
         const begin = moment.duration(phrase.getAttribute('b')).asSeconds();
-            const end = moment.duration(phrase.getAttribute('e')).asSeconds();
-        for (let i = 0; i < words.length; i++) {
-            const word = words[i];
-            this.loadPhraseRaw(word, begin, end);
-        }
+        const end = moment.duration(phrase.getAttribute('e')).asSeconds();
+        this.loadPhraseRaw(text, begin, end);
     }
 
     fromTrsx(trsx: string) {
@@ -61,7 +66,7 @@ export class Transcription {
     exportTrsx() {
         const phrases: string[] = [];
         for (let i = 0; i < this.words.length; i += 1) {
-            let text = this.words[i];
+            let text = this.words[i] + ' ';
             const [ begin, end ] = this.timestamps[i];
             // merge words with the same timestamps
             for (let j = i + 1; j < this.timestamps.length && this.timestamps[j][0] === begin; j += 1) {
