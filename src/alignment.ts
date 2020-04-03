@@ -47,14 +47,30 @@ export class Alignment {
         windowBag.increment(this.a[j], -1);
         windowBag.increment(this.a[j + pattern.length], +1);
       }
+      if (bestMatchScore < PATTERN_LENGTH / 2) return null; // match not good enough
       return bestMatchIndex;
+  }
+
+  getCountInArray(element: any, array: any[]) {
+      let count = 0;
+      for (let i = 0; i < array.length; i += 1) {
+          if (array[i] === element) count += 1;
+      }
+      return count;
   }
 
   getMatchingWords(source: string[], target: string[]) {
     for (let i = 0; i < source.length; i += 1) {
-        for (let j = 0; j < target.length; j += 1) {
+        // matching words must have similar index
+        for (let j = Math.max(0, i - 2); j < Math.min(target.length, i + 3); j += 1) {
             if (source[i] === target[j]) {
-                return [i, j];
+                // matching words must be unique in both sequences
+                if (
+                    this.getCountInArray(source[i], source) === 1
+                    && this.getCountInArray(target[j], target) === 1
+                ) {
+                    return [i, j];
+                }
             }
         }
     }
@@ -62,7 +78,19 @@ export class Alignment {
   }
 
   getPivots(source: string[], targetFrom: number, targetTo: number) {
-    const patternStart = Math.floor(source.length / 2);
+    const pivotRangeStart = Math.floor(source.length * 0.5);
+    const pivotRangeEnd = Math.floor(source.length * 0.8);
+    const increment = Math.floor(source.length * 0.05);
+    for (let patternStart = pivotRangeStart; patternStart < pivotRangeEnd; patternStart += increment) {
+        const [pivot1, pivot2] = this.getPivotsAt(source, targetFrom, targetTo, patternStart);
+        if (pivot1 !== null) {
+            return [pivot1, pivot2];
+        }
+    }
+    throw new Error('no match found');
+  }
+
+  getPivotsAt(source: string[], targetFrom: number, targetTo: number, patternStart: number) {
     const patternEnd = patternStart + PATTERN_LENGTH;
     const pattern = source.slice(patternStart, patternEnd);
     const matchedPatternIndex = this.findBestMatchForPattern(pattern, targetFrom, targetTo);
@@ -72,22 +100,18 @@ export class Alignment {
     );
     const matchSource = patternStart + wordMatchSource;
     const matchTarget = matchedPatternIndex + wordMatchTarget;
-    if (wordMatchSource === null || source[matchSource] !== this.a[matchTarget] || matchSource === 0) {
+    if (matchedPatternIndex === null || wordMatchSource === null || source[matchSource] !== this.a[matchTarget] || matchSource === 0) {
         console.log('failed');
         console.log(wordMatchSource);
         console.log(matchSource);
         console.log('pattern');
         console.log(pattern);
-        console.log('source');
-        console.log(source);
         console.log('target match');
         console.log(this.a.slice(matchedPatternIndex, matchedPatternIndex + PATTERN_LENGTH));
-        console.log('whole target');
-        console.log(this.a.slice(targetFrom, targetTo));
         console.log('matching words:');
         console.log(source[matchSource]);
         console.log(this.a[matchTarget]);
-        throw new Error('no match found');
+        return [null, null];
     }
     console.log('matches words:');
     console.log(source.slice(matchSource, matchSource + PATTERN_LENGTH));
@@ -97,8 +121,11 @@ export class Alignment {
 
   // b is the source. Find the optimal operations to match it with target a.
   match(b: string[], from: number, to: number): {distance: number, matchIndices: number[]} {
+    console.log('aligning snippet:');
+    console.log([b.slice(0, 3), b.slice(b.length - 4, b.length - 1)]);
     console.log('aligning from to');
     console.log([from, to]);
+    console.log([this.a.slice(from, from + 3), this.a.slice(to - 4, to - 1)]);
     if (to - from > 400 && b.length > 400) {
         // divide and conquer.
         const [ sourcePivot, targetPivot ] = this.getPivots(b, from, to);

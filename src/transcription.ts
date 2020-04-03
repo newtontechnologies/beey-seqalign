@@ -32,7 +32,7 @@ export class Transcription {
     loadPhraseRaw(text: string, begin: number, end: number) {
         this.text += text;
         const words = text.split(' ');
-        if (words.length === 0) {
+        if (text.length === 0) {
           this.words.push('');
           this.timestamps.push([begin, end]);
         }
@@ -42,7 +42,6 @@ export class Transcription {
                 this.words.push(words[i]);
                 this.length += 1;
                 this.timestamps.push([begin, end]);
-                console.log(words[i]);
             }
         }
     }
@@ -73,6 +72,7 @@ export class Transcription {
                 text += this.words[j] + ' ';
                 i = j;
             }
+            if (text.length < 60) continue; // INTERIM
             const phrase = `        <p b="${begin}" e="${end}">${text}</p>\n`;
             phrases.push(phrase);
         }
