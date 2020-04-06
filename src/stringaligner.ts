@@ -11,12 +11,15 @@ export class StringAligner {
     substitutionPenalty: number;
     insertBetweenParagraphsPenalty: number;
     constructor(targetSequence: string[], targetTimestamps: number[][], insertionPenalty: number,
-                deletionPenalty: number, substitutionPenalty: number, insertBetweenParagraphsPenalty: number) {
+                deletionPenalty: number, substitutionPenalty: number, insertBetweenParagraphsPenalty: number,
+                chunkSize: number) {
         this.targetSequence = targetSequence;
+        if (chunkSize === undefined) chunkSize = 10000;
         this.aligner = new Alignment(this.targetSequence,
                                      this.prefixDistance,
                                      this.wordInsertionPenalty,
-                                     this.wordDeletionPenalty);
+                                     this.wordDeletionPenalty,
+                                     chunkSize);
         this.targetTimestamps = targetTimestamps;
         this.deletionPenalty = deletionPenalty;
         this.substitutionPenalty = substitutionPenalty;

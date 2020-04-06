@@ -11,6 +11,7 @@ const PATTERN_LENGTH = 15;
 
 export class Alignment {
   a: string[];
+  chunkSize: number;
 
   insertionPenalty: (x: string, y: string) => number;
   deletionPenalty: (x: string) => number;
@@ -18,11 +19,13 @@ export class Alignment {
   constructor(baseSequence: string[],
               distance: (x: string, y: string) => number,
               insertionPenalty: (x: string, y: string) => number,
-              deletionPenalty: (x: string) => number) {
+              deletionPenalty: (x: string) => number,
+              chunkSize: number) {
     this.a = baseSequence;
     this.distance = distance;
     this.insertionPenalty = insertionPenalty;
     this.deletionPenalty = deletionPenalty;
+    this.chunkSize = chunkSize;
   }
 
   push(newEntry: string) {
@@ -126,7 +129,7 @@ export class Alignment {
     console.log('aligning from to');
     console.log([from, to]);
     console.log([this.a.slice(from, from + 3), this.a.slice(to - 4, to - 1)]);
-    if (to - from > 400 && b.length > 400) {
+    if (to - from > 400 && b.length > this.chunkSize) {
         // divide and conquer.
         const [ sourcePivot, targetPivot ] = this.getPivots(b, from, to);
         const { distance: distance1, matchIndices: matchIndices1 } =
