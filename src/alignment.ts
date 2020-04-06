@@ -129,7 +129,7 @@ export class Alignment {
     console.log('aligning from to');
     console.log([from, to]);
     console.log([this.a.slice(from, from + 3), this.a.slice(to - 4, to - 1)]);
-    if (to - from > 400 && b.length > this.chunkSize) {
+    if (to - from > this.chunkSize && b.length > this.chunkSize) {
         // divide and conquer.
         const [ sourcePivot, targetPivot ] = this.getPivots(b, from, to);
         const { distance: distance1, matchIndices: matchIndices1 } =

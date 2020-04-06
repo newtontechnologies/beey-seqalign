@@ -13,8 +13,9 @@ export class StringAligner {
     constructor(targetSequence: string[], targetTimestamps: number[][], insertionPenalty: number,
                 deletionPenalty: number, substitutionPenalty: number, insertBetweenParagraphsPenalty: number,
                 chunkSize: number) {
-        this.targetSequence = targetSequence;
-        if (chunkSize === undefined) chunkSize = 10000;
+        const lowerCase = targetSequence.map(x => x.toLowerCase());
+        this.targetSequence = lowerCase;
+        if (chunkSize === undefined) chunkSize = 1000;
         this.aligner = new Alignment(this.targetSequence,
                                      this.prefixDistance,
                                      this.wordInsertionPenalty,
@@ -56,12 +57,19 @@ export class StringAligner {
     }
 
     wordInsertionPenalty = (insertedWord: string, matchingWord: string) => {
-        let lfDiscountCoefficient = 1;
-        if (!matchingWord || (matchingWord.length > 0 && matchingWord.slice(-1) === '\n')) {
-            // it is cheaper to insert between paragraphs
-            lfDiscountCoefficient = this.insertBetweenParagraphsPenalty;
+        const penalty = this.insertionPenalty * insertedWord.length;
+        if (!matchingWord) {
+            // This is penalty for inserting words in the beginning (with no matching word)
+            return this.insertBetweenParagraphsPenalty * penalty;
         }
-        return lfDiscountCoefficient * this.insertionPenalty * insertedWord.length;
+        if (matchingWord.length > 0) {
+            const lastLetter = matchingWord[matchingWord.length - 1];
+            if (lastLetter === '\n') {
+                // it is cheaper to insert between paragraphs
+                return this.insertBetweenParagraphsPenalty * penalty;
+            }
+        }
+        return penalty;
     }
 
     wordDeletionPenalty = (a: string) => {
@@ -69,10 +77,9 @@ export class StringAligner {
     }
 
     prefixDistance = (a: string, b: string) => {
-        a = a.toLowerCase();
-        b = b.toLowerCase();
         let i;
-        for (i = 0; i < Math.min(a.length, b.length); i++) {
+        const limit = Math.min(a.length, b.length);
+        for (i = 0; i < limit; i++) {
             if (a[i] !== b[i]) {
                 break;
             }
@@ -96,7 +103,8 @@ export class StringAligner {
     }
 
     compareSequence(sourceSequence: string[], timeFrom: number, timeTo: number) {
-        const { distance, matchIndices } = this.aligner.match(['\n', ...sourceSequence, '\n'], this.timeToIndex(timeFrom), this.timeToIndex(timeTo));
+        const lowerCase = sourceSequence.map(x => x.toLowerCase());
+        const { distance, matchIndices } = this.aligner.match(['\n', ...lowerCase, '\n'], this.timeToIndex(timeFrom), this.timeToIndex(timeTo));
         return matchIndices.slice(1, matchIndices.length - 1);
     }
 
@@ -113,7 +121,7 @@ export class StringAligner {
     }
 
     addNewWord(word: string, begin: number, end: number) {
-        this.aligner.push(word);
+        this.aligner.push(word.toLowerCase());
         this.targetTimestamps.push([begin, end]);
     }
 }

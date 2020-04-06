@@ -9,6 +9,9 @@ export class Counter {
             this.dictionary[key] = 0;
         }
         this.dictionary[key] += value;
+        if (this.dictionary[key] === 0) {
+            delete this.dictionary[key];
+        }
     }
 
     get(key: string) {

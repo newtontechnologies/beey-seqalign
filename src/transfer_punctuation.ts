@@ -35,7 +35,7 @@ if (source_file.endsWith('.txt')) {
     process.exit();
 }
 
-const stringAligner = new StringAligner(targetSequence, targetTranscription.timestamps, 1, 1, 1, 0.9);
+const stringAligner = new StringAligner(targetSequence, targetTranscription.timestamps, 1, 1, 1, 0.9, 500);
 let sourceSequence: string[];
 sourceSequence = StringAligner.string2words(source);
 const matchIndices = stringAligner.compareSequence(sourceSequence, 0, 1000000000);
