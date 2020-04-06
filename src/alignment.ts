@@ -104,31 +104,13 @@ export class Alignment {
     const matchSource = patternStart + wordMatchSource;
     const matchTarget = matchedPatternIndex + wordMatchTarget;
     if (matchedPatternIndex === null || wordMatchSource === null || source[matchSource] !== this.a[matchTarget] || matchSource === 0) {
-        console.log('failed');
-        console.log(wordMatchSource);
-        console.log(matchSource);
-        console.log('pattern');
-        console.log(pattern);
-        console.log('target match');
-        console.log(this.a.slice(matchedPatternIndex, matchedPatternIndex + PATTERN_LENGTH));
-        console.log('matching words:');
-        console.log(source[matchSource]);
-        console.log(this.a[matchTarget]);
         return [null, null];
     }
-    console.log('matches words:');
-    console.log(source.slice(matchSource, matchSource + PATTERN_LENGTH));
-    console.log(this.a.slice(matchTarget, matchTarget + PATTERN_LENGTH));
     return [ matchSource, matchTarget ];
   }
 
   // b is the source. Find the optimal operations to match it with target a.
   match(b: string[], from: number, to: number): {distance: number, matchIndices: number[]} {
-    console.log('aligning snippet:');
-    console.log([b.slice(0, 3), b.slice(b.length - 4, b.length - 1)]);
-    console.log('aligning from to');
-    console.log([from, to]);
-    console.log([this.a.slice(from, from + 3), this.a.slice(to - 4, to - 1)]);
     if (to - from > this.chunkSize && b.length > this.chunkSize) {
         // divide and conquer.
         const [ sourcePivot, targetPivot ] = this.getPivots(b, from, to);
@@ -139,9 +121,6 @@ export class Alignment {
 
         const distance = distance1 + distance2;
         const matchIndices = matchIndices1.concat(matchIndices2);
-        console.log('merged');
-        console.log([from, to]);
-
         return { distance, matchIndices };
     }
     // matrix[i][j] is the weighted levenshtein distance of b[:i] and a[from:from+j]
@@ -223,16 +202,7 @@ export class Alignment {
             matchIndices[i] = from + Math.min(j, aslice.length - 1);
         }
         op = ops[i][j];
-        // console.log(i + ' ' + j + ' ' + this.a[j] + ', ' + b[i] + ' ' + op);
     }
-    /*
-    console.log(aslice.join(' '));
-    for (let i = 0; i < matrix.length; i += 1) {
-        console.log(b.slice(0, i).join(' '));
-        console.log(matrix[i].join(' '));
-        console.log(ops[i].join(' '));
-    }
-    */
     return {
       distance: matrix[b.length][aslice.length],
       matchIndices,
