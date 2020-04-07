@@ -50,8 +50,13 @@ export class Alignment {
         windowBag.increment(this.a[j], -1);
         windowBag.increment(this.a[j + pattern.length], +1);
       }
-      if (bestMatchScore < PATTERN_LENGTH / 2) return null; // match not good enough
-      return bestMatchIndex;
+      if (bestMatchScore < PATTERN_LENGTH * 0.5) return [ null, null ]; // match not good enough
+      const [ wordMatchSource, wordMatchTarget ] = this.getMatchingWords(
+        pattern,
+        this.a.slice(bestMatchIndex, bestMatchIndex + PATTERN_LENGTH)
+      );
+      if (wordMatchSource === null) return [ null, null ];
+      return [ wordMatchSource, bestMatchIndex + wordMatchTarget ];
   }
 
   getCountInArray(element: any, array: any[]) {
@@ -97,14 +102,9 @@ export class Alignment {
     const patternEnd = patternStart + PATTERN_LENGTH;
     const rawPattern = source.slice(patternStart, patternEnd);
     const pattern = rawPattern.map(x => x.trim());
-    const matchedPatternIndex = this.findBestMatchForPattern(pattern, targetFrom, targetTo);
-    const [ wordMatchSource, wordMatchTarget ] = this.getMatchingWords(
-        pattern,
-        this.a.slice(matchedPatternIndex, matchedPatternIndex + PATTERN_LENGTH)
-    );
-    const matchSource = patternStart + wordMatchSource;
-    const matchTarget = matchedPatternIndex + wordMatchTarget;
-    if (matchedPatternIndex === null || wordMatchSource === null || source[matchSource] !== this.a[matchTarget] || matchSource === 0) {
+    const [ patternMatchSource, matchTarget ] = this.findBestMatchForPattern(pattern, targetFrom, targetTo);
+    const matchSource = patternStart + patternMatchSource;
+    if (patternMatchSource === null) {
         return [null, null];
     }
     return [ matchSource, matchTarget ];

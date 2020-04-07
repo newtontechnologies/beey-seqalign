@@ -34,7 +34,9 @@ export class StringAligner {
 
     static string2words(str: string) {
         str = str.replace('\n', '\n ');
-        return str.split(/[ ]/u);
+        const words = str.split(/[ ]/u);
+        // return words.map(x => x + ' ');
+        return words;
     }
 
     distortWords(sequence: string[], errorRate: number) {
