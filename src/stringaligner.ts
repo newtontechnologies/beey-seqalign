@@ -13,7 +13,7 @@ export class StringAligner {
     constructor(targetSequence: string[], targetTimestamps: number[][], insertionPenalty: number,
                 deletionPenalty: number, substitutionPenalty: number, insertBetweenParagraphsPenalty: number,
                 chunkSize: number) {
-        const lowerCase = targetSequence.map(x => x.toLowerCase());
+        const lowerCase = targetSequence.map(x => x.toLowerCase().trim());
         this.targetSequence = lowerCase;
         if (chunkSize === undefined) chunkSize = 1000;
         this.aligner = new Alignment(this.targetSequence,
@@ -103,6 +103,7 @@ export class StringAligner {
     }
 
     compareSequence(sourceSequence: string[], timeFrom: number, timeTo: number) {
+        // do not trim whitespace, because newlines are needed to align correctly around paragraphs.
         const lowerCase = sourceSequence.map(x => x.toLowerCase());
         const { distance, matchIndices } = this.aligner.match(['\n', ...lowerCase, '\n'], this.timeToIndex(timeFrom), this.timeToIndex(timeTo));
         return matchIndices.slice(1, matchIndices.length - 1);
@@ -121,7 +122,7 @@ export class StringAligner {
     }
 
     addNewWord(word: string, begin: number, end: number) {
-        this.aligner.push(word.toLowerCase());
+        this.aligner.push(word.toLowerCase().trim());
         this.targetTimestamps.push([begin, end]);
     }
 }

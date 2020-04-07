@@ -95,7 +95,8 @@ export class Alignment {
 
   getPivotsAt(source: string[], targetFrom: number, targetTo: number, patternStart: number) {
     const patternEnd = patternStart + PATTERN_LENGTH;
-    const pattern = source.slice(patternStart, patternEnd);
+    const rawPattern = source.slice(patternStart, patternEnd);
+    const pattern = rawPattern.map(x => x.trim());
     const matchedPatternIndex = this.findBestMatchForPattern(pattern, targetFrom, targetTo);
     const [ wordMatchSource, wordMatchTarget ] = this.getMatchingWords(
         pattern,
