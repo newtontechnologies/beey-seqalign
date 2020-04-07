@@ -86,7 +86,7 @@ export class StringAligner {
                 break;
             }
         }
-        return this.substitutionPenalty * (b.length - i);
+        return this.substitutionPenalty * (a.length + b.length - limit - i);
     }
 
     static exactMatchDistance = (a: string, b: string) => {
