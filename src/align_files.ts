@@ -3,30 +3,31 @@ import { StringAligner } from './stringaligner';
 import { Transcription } from './transcription';
 import * as fs from 'fs';
 
-if (process.argv.length !== 4) {
-  console.log('usage: node ' + process.argv[1] + ' source target');
-  console.log('target is a trsx file, source is a trsx or txt file');
+if (process.argv.length !== 5) {
+  console.log('usage: node ' + process.argv[1] + ' source target output');
+  console.log('target is a trsx file, source is a trsx or txt file. Output is a trsx file that will be created');
   process.exit();
 }
 
-const source_file = process.argv[2];
-const target_file = process.argv[3];
+const sourceFile = process.argv[2];
+const targetFile = process.argv[3];
+const outputFile = process.argv[4];
 
 function readFile(filename: string): string {
     const data = fs.readFileSync(filename, 'utf8');
     return data;
 }
 
-const target = readFile(target_file);
+const target = readFile(targetFile);
 const targetTranscription = new Transcription(target);
 const targetSequence = targetTranscription.words; // .slice(0, 50);
 // let sourceSequence = stringAligner.string2words(source).slice(0, 50);
 
 let source = null;
-if (source_file.endsWith('.txt')) {
-    source = readFile(source_file);
-} else if (source_file.endsWith('.trsx')) {
-    const sourceTrsx = readFile(source_file);
+if (sourceFile.endsWith('.txt')) {
+    source = readFile(sourceFile);
+} else if (sourceFile.endsWith('.trsx')) {
+    const sourceTrsx = readFile(sourceFile);
     const sourceTranscription = new Transcription(sourceTrsx);
     source = sourceTranscription.getText();
 } else {
@@ -39,4 +40,10 @@ let sourceSequence: string[];
 sourceSequence = StringAligner.string2words(source);
 const matchIndices = stringAligner.compareSequence(sourceSequence, 0, 1000000000);
 const alignedTranscription = stringAligner.applyTimestamps(sourceSequence, matchIndices);
-console.log(alignedTranscription.exportTrsx());
+const alignedTrsx = alignedTranscription.exportTrsx();
+
+fs.writeFile(outputFile, alignedTrsx, function (err) {
+    if (err) {
+        console.log(err);
+    }
+});
