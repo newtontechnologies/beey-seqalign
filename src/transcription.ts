@@ -56,9 +56,15 @@ export class Transcription {
     fromTrsx(trsx: string) {
         const xmlParser = new DOMParser();
         const xml = xmlParser.parseFromString(trsx, 'text/xml');
-        const phrases = xml.getElementsByTagName('p');
-        for (let i = 0; i < phrases.length; i += 1) {
-            this.loadPhraseXml(phrases[i]);
+        const paragraphs = xml.getElementsByTagName('pa');
+        for (let i = 0; i < paragraphs.length; i += 1) {
+            const paragraph = paragraphs[i];
+            const phrases = paragraph.getElementsByTagName('p');
+            for (let j = 0; j < phrases.length; j += 1) {
+                this.loadPhraseXml(phrases[j]);
+            }
+            this.words[this.words.length - 1] += '\n';
+            this.text += '\n';
         }
     }
 
@@ -72,7 +78,6 @@ export class Transcription {
                 text += this.words[j] + ' ';
                 i = j;
             }
-            if (text.length < 60) continue; // INTERIM
             const phrase = `        <p b="${begin}" e="${end}">${text}</p>\n`;
             phrases.push(phrase);
         }

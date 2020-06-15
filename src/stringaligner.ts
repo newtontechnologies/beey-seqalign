@@ -33,9 +33,8 @@ export class StringAligner {
     }
 
     static string2words(str: string) {
-        str = str.replace('\n', '\n ');
-        const words = str.split(/[ ]/u);
-        // return words.map(x => x + ' ');
+        const changedStr = str.replace(/\n/g, '\n ');
+        const words = changedStr.split(/[ ]/u);
         return words;
     }
 

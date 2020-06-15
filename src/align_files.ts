@@ -13,7 +13,6 @@ const source_file = process.argv[2];
 const target_file = process.argv[3];
 
 function readFile(filename: string): string {
-    console.log(filename);
     const data = fs.readFileSync(filename, 'utf8');
     return data;
 }
@@ -35,7 +34,7 @@ if (source_file.endsWith('.txt')) {
     process.exit();
 }
 
-const stringAligner = new StringAligner(targetSequence, targetTranscription.timestamps, 1, 1, 1, 0.9, 10000);
+const stringAligner = new StringAligner(targetSequence, targetTranscription.timestamps, 1, 1, 1, 0.9, 5000);
 let sourceSequence: string[];
 sourceSequence = StringAligner.string2words(source);
 const matchIndices = stringAligner.compareSequence(sourceSequence, 0, 1000000000);
