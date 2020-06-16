@@ -1,10 +1,13 @@
 import * as moment from 'moment';
+import { escapeXMLString } from './xml-escape';
 
 const DOMParser = require('xmldom').DOMParser;
 
-const TRSX_HEADER = '\n\
+const TRSX_HEADER = '\
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>\n\
 <transcription version="3.0">\n\
+  <meta>\n\
+  </meta>\n\
   <ch name="">\n\
     <se name="0">\n\
       <pa b="PT0S" e="PT20H0M0S" s="0">\n';
@@ -12,6 +15,8 @@ const TRSX_FOOTER = '\n\
       </pa>\n\
     </se>\n\
   </ch>\n\
+  <sp>\n\
+  </sp>\n\
 </transcription>\n';
 export class Transcription {
     words: string[];
@@ -78,7 +83,9 @@ export class Transcription {
                 text += this.words[j] + ' ';
                 i = j;
             }
-            const phrase = `        <p b="${begin}" e="${end}">${text}</p>\n`;
+            const isoBegin = moment.duration(begin, 'seconds').toISOString();
+            const isoEnd = moment.duration(end, 'seconds').toISOString();
+            const phrase = `        <p b="${isoBegin}" e="${isoEnd}">${escapeXMLString(text)}</p>\n`;
             phrases.push(phrase);
         }
         return [TRSX_HEADER, ...phrases, TRSX_FOOTER].join('');
