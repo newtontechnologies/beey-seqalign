@@ -24,13 +24,13 @@ export class Transcription {
     length: number;
     text: string;
 
-    constructor(trsx?: string) {
+    constructor(trsx?: string, ignoreNoise?: boolean) {
         this.words = [];
         this.timestamps = [];
         this.length = 0;
         this.text = '';
         if (trsx) {
-            this.fromTrsx(trsx);
+            this.fromTrsx(trsx, ignoreNoise);
         }
     }
 
@@ -51,14 +51,19 @@ export class Transcription {
         }
     }
 
-    loadPhraseXml(phrase: Element) {
+    loadPhraseXml(phrase: Element, ignoreNoise?: boolean) {
         const text = phrase.textContent;
         const begin = moment.duration(phrase.getAttribute('b')).asSeconds();
         const end = moment.duration(phrase.getAttribute('e')).asSeconds();
+        if (ignoreNoise) {
+            if (text.substring(0, 4) === '[n::' || text.substring(0, 4) === '[h::') {
+                return;
+            }
+        }
         this.loadPhraseRaw(text, begin, end);
     }
 
-    fromTrsx(trsx: string) {
+    fromTrsx(trsx: string, ignoreNoise?: boolean) {
         const xmlParser = new DOMParser();
         const xml = xmlParser.parseFromString(trsx, 'text/xml');
         const paragraphs = xml.getElementsByTagName('pa');
@@ -66,7 +71,7 @@ export class Transcription {
             const paragraph = paragraphs[i];
             const phrases = paragraph.getElementsByTagName('p');
             for (let j = 0; j < phrases.length; j += 1) {
-                this.loadPhraseXml(phrases[j]);
+                this.loadPhraseXml(phrases[j], ignoreNoise);
             }
             this.words[this.words.length - 1] += '\n';
             this.text += '\n';

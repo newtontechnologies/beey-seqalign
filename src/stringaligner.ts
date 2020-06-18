@@ -38,6 +38,10 @@ export class StringAligner {
         return words;
     }
 
+    static cleanWords(words: string[]) {
+        return words.map(x => StringAligner.cleanWord(x));
+    }
+
     distortWords(sequence: string[], errorRate: number) {
         let distorted: string[];
         distorted = [];
@@ -122,8 +126,14 @@ export class StringAligner {
         return transcription;
     }
 
+    static cleanWord(word: string) {
+        let cleaned = word.toLowerCase().trim();
+        cleaned = cleaned.replace(/[.,?]/g, '');
+        return cleaned;
+    }
+
     addNewWord(word: string, begin: number, end: number) {
-        this.aligner.push(word.toLowerCase().trim());
+        this.aligner.push(StringAligner.cleanWord(word));
         this.targetTimestamps.push([begin, end]);
     }
 }

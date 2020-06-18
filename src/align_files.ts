@@ -19,8 +19,8 @@ function readFile(filename: string): string {
 }
 
 const target = readFile(targetFile);
-const targetTranscription = new Transcription(target);
-const targetSequence = targetTranscription.words; // .slice(0, 50);
+const targetTranscription = new Transcription(target, true);
+const targetSequence = targetTranscription.words.map(x => StringAligner.cleanWord(x)); // .slice(0, 50);
 // let sourceSequence = stringAligner.string2words(source).slice(0, 50);
 
 let source = null;
@@ -35,10 +35,11 @@ if (sourceFile.endsWith('.txt')) {
     process.exit();
 }
 
-const stringAligner = new StringAligner(targetSequence, targetTranscription.timestamps, 1, 1, 1, 0.9, 5000);
+const stringAligner = new StringAligner(targetSequence, targetTranscription.timestamps, 1, 1, 1, 0.9, 4000);
 let sourceSequence: string[];
 sourceSequence = StringAligner.string2words(source);
-const matchIndices = stringAligner.compareSequence(sourceSequence, 0, 1000000000);
+const cleanedSequence = StringAligner.cleanWords(sourceSequence);
+const matchIndices = stringAligner.compareSequence(cleanedSequence, 0, 1000000000);
 const alignedTranscription = stringAligner.applyTimestamps(sourceSequence, matchIndices);
 const alignedTrsx = alignedTranscription.exportTrsx();
 
