@@ -1,5 +1,8 @@
 import * as dayjs from 'dayjs';
+import duration from 'dayjs/plugin/duration';
 import { escapeXMLString } from './xml-escape';
+
+dayjs.extend(duration);
 
 const DOMParser = require('xmldom').DOMParser;
 
