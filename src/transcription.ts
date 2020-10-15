@@ -1,5 +1,6 @@
 import * as dayjs from 'dayjs';
-import duration from 'dayjs/plugin/duration';
+import * as duration from 'dayjs/plugin/duration';
+
 import { escapeXMLString } from './xml-escape';
 
 dayjs.extend(duration);
