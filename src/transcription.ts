@@ -1,4 +1,4 @@
-import * as moment from 'moment';
+import * as dayjs from 'dayjs';
 import { escapeXMLString } from './xml-escape';
 
 const DOMParser = require('xmldom').DOMParser;
@@ -53,8 +53,8 @@ export class Transcription {
 
     loadPhraseXml(phrase: Element, ignoreNoise?: boolean) {
         const text = phrase.textContent;
-        const begin = moment.duration(phrase.getAttribute('b')).asSeconds();
-        const end = moment.duration(phrase.getAttribute('e')).asSeconds();
+        const begin = dayjs.duration(phrase.getAttribute('b')).asSeconds();
+        const end = dayjs.duration(phrase.getAttribute('e')).asSeconds();
         if (ignoreNoise) {
             if (text.substring(0, 4) === '[n::' || text.substring(0, 4) === '[h::') {
                 return;
@@ -88,8 +88,8 @@ export class Transcription {
                 text += this.words[j] + ' ';
                 i = j;
             }
-            const isoBegin = moment.duration(begin, 'seconds').toISOString();
-            const isoEnd = moment.duration(end, 'seconds').toISOString();
+            const isoBegin = dayjs.duration(begin, 'seconds').toISOString();
+            const isoEnd = dayjs.duration(end, 'seconds').toISOString();
             const phrase = `        <p b="${isoBegin}" e="${isoEnd}">${escapeXMLString(text)}</p>\n`;
             phrases.push(phrase);
         }

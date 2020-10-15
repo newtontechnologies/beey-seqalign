@@ -75,7 +75,7 @@ export class Alignment {
         pattern,
         this.a.slice(bestMatchIndex, bestMatchIndex + PATTERN_LENGTH)
       );
-      console.log(`matched: ${pattern.slice(wordMatchSource)}\n${this.a.slice(bestMatchIndex + wordMatchTarget, bestMatchIndex + wordMatchTarget + PATTERN_LENGTH )}`);
+      // console.log(`matched: ${pattern.slice(wordMatchSource)}\n${this.a.slice(bestMatchIndex + wordMatchTarget, bestMatchIndex + wordMatchTarget + PATTERN_LENGTH )}`);
       if (wordMatchSource === null) return [ null, null ];
       return [ wordMatchSource, bestMatchIndex + wordMatchTarget ];
   }
