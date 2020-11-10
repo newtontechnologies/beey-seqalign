@@ -81,7 +81,7 @@ async function align() {
     const text = (<HTMLTextAreaElement>document.getElementById('text')).value;
     let sourceSequence: string[];
     sourceSequence = StringAligner.string2words(text); // .slice(0, 50);
-    const matchIndices = stringAligner.compareSequence(sourceSequence,
+    const matchIndices = stringAligner.compareSequence(StringAligner.cleanWords(sourceSequence),
         Number((<HTMLInputElement>document.getElementById('from')).value),
         Number((<HTMLInputElement>document.getElementById('to')).value));
     visualization.visualize(sourceSequence, stringAligner.targetSequence, stringAligner.targetTimestamps, matchIndices);
@@ -89,10 +89,6 @@ async function align() {
 }
 
 async function main() {
-    // TODO temporary.
-    const teststringAligner = new StringAligner(['adaba', 'bahada', 'cadaga', 'dabada'], [[1, 2], [2, 3], [3, 4], [4, 5]], 1, 1, 1, 0.9, 1000);
-    const testmatchIndices = teststringAligner.compareSequence(['adaba', 'bahada', 'cadaga', 'dabada'], 0, 1000);
-    console.log(testmatchIndices);
     let btn = document.getElementById('align-button');
     btn.addEventListener('click', (e: Event) => align());
 
@@ -104,10 +100,10 @@ async function main() {
     document.getElementById('filename').innerHTML = name;
     const target = await fetchText('res/test/' + name + '.trsx');
     const targetTranscription = new Transcription(target);
-    const targetSequence = targetTranscription.words; // .slice(0, 50);
+    const targetSequence = StringAligner.cleanWords(targetTranscription.words); // .slice(0, 50);
     // let sourceSequence = stringAligner.string2words(source).slice(0, 50);
 
-    stringAligner = new StringAligner(targetSequence, targetTranscription.timestamps, 1, 1, 1, 0.5, 1000);
+    stringAligner = new StringAligner(targetSequence, targetTranscription.timestamps, 1, 1, 1, 0.5, 4000);
 
     let source = await fetchText('res/test/' + name + '.edited.txt');
     if (source === null) {
