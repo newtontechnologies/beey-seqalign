@@ -27,11 +27,13 @@ export class Alignment {
     this.deletionPenalty = deletionPenalty;
     this.chunkSize = chunkSize;
   }
-  static pickBestMatchFromScores(scores: number[]) {
+
+  // the lower tolerance, the more likely it is to reject a match
+  static pickBestMatchFromScores(scores: number[], tolerance: number) {
     const bestMatchScore = Math.max(...scores);
     const bestMatchIndex = scores.indexOf(bestMatchScore);
     var goodMatchIndices = scores.reduce((accumulator, value, index) => {
-      if (value >= bestMatchScore * 0.5) accumulator.push(index);
+      if (value >= bestMatchScore * (tolerance + 0.2)) accumulator.push(index);
       return accumulator;
     }, []);
     const firstGoodMatch = goodMatchIndices[0];
@@ -40,10 +42,14 @@ export class Alignment {
     // console.log(bestMatchScore);
     if (lastGoodMatch - firstGoodMatch > PATTERN_LENGTH) {
       // console.log('failed to match. Pattern is not unique');
+      // console.log(lastGoodMatch);
+      // console.log(firstGoodMatch);
       return null; // match not unique enough
     }
-    if (bestMatchScore < PATTERN_LENGTH * 0.7) {
+    if (bestMatchScore < PATTERN_LENGTH * (1 - tolerance)) {
       // console.log('failed to match. Match not good enough');
+      // console.log(bestMatchIndex);
+      // console.log(bestMatchScore);
       return null; // match not good enough
     }
     return bestMatchIndex;
@@ -53,7 +59,8 @@ export class Alignment {
       this.a.push(newEntry);
   }
 
-  findBestMatchForPattern(pattern: string[], targetFrom: number, targetTo: number) {
+  findBestMatchForPattern(pattern: string[], targetFrom: number, targetTo: number, tolerance: number) {
+      // console.log(`finding match for ${pattern}`);
       const patternBag = new Counter();
       const windowBag = new  Counter();
       for (let i = 0; i < pattern.length; i += 1) {
@@ -67,7 +74,8 @@ export class Alignment {
         windowBag.increment(this.a[j], -1);
         windowBag.increment(this.a[j + pattern.length], +1);
       }
-      const bestMatchInRange = Alignment.pickBestMatchFromScores(matchScores);
+      const bestMatchInRange = Alignment.pickBestMatchFromScores(matchScores, tolerance);
+      // console.log(pattern.join(' '));
       if (bestMatchInRange === null) return [ null, null ]; // no match good enough found
       const bestMatchIndex = targetFrom + bestMatchInRange;
 
@@ -109,21 +117,24 @@ export class Alignment {
   getPivots(source: string[], targetFrom: number, targetTo: number) {
     const pivotRangeStart = Math.floor(source.length * 0.5);
     const pivotRangeEnd = Math.floor(source.length * 0.8);
-    const increment = Math.floor(PATTERN_LENGTH * 3);
-    for (let patternStart = pivotRangeStart; patternStart < pivotRangeEnd; patternStart += increment) {
-        const [pivot1, pivot2] = this.getPivotsAt(source, targetFrom, targetTo, patternStart);
-        if (pivot1 !== null) {
-            return [pivot1, pivot2];
+    const increment = PATTERN_LENGTH;
+    for (let tolerance = 0.3; tolerance <= 1; tolerance += 0.1) {
+        for (let patternStart = pivotRangeStart; patternStart < pivotRangeEnd; patternStart += increment) {
+            const [pivot1, pivot2] = this.getPivotsAt(source, targetFrom, targetTo, patternStart, tolerance);
+            if (pivot1 !== null) {
+                return [pivot1, pivot2];
+            }
         }
+        console.log('no match found with tolerance ' + tolerance);
     }
     throw new Error('no match found');
   }
 
-  getPivotsAt(source: string[], targetFrom: number, targetTo: number, patternStart: number) {
+  getPivotsAt(source: string[], targetFrom: number, targetTo: number, patternStart: number, tolerance: number) {
     const patternEnd = patternStart + PATTERN_LENGTH;
     const rawPattern = source.slice(patternStart, patternEnd);
     const pattern = rawPattern.map(x => x.trim());
-    const [ patternMatchSource, matchTarget ] = this.findBestMatchForPattern(pattern, targetFrom, targetTo);
+    const [ patternMatchSource, matchTarget ] = this.findBestMatchForPattern(pattern, targetFrom, targetTo, tolerance);
     const matchSource = patternStart + patternMatchSource;
     if (patternMatchSource === null) {
         return [null, null];
