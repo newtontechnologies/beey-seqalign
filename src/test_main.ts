@@ -55,6 +55,8 @@ const prefixes = [
 'vad/TYRM0903',
 'vad/UDAL0103',
 'sejm/108_2018-06-14_netIn',
+'automatic-tests/first_word_substitution',
+'automatic-tests/last_word_deletion',
 ];
 
 let stringAligner: StringAligner;
@@ -80,8 +82,9 @@ function viewLinks() {
 async function align() {
     const text = (<HTMLTextAreaElement>document.getElementById('text')).value;
     let sourceSequence: string[];
-    sourceSequence = StringAligner.string2words(text); // .slice(0, 50);
-    const matchIndices = stringAligner.compareSequence(StringAligner.cleanWords(sourceSequence),
+    sourceSequence = StringAligner.string2words(text);
+    const cleanedSequence = StringAligner.cleanWords(sourceSequence);
+    const matchIndices = stringAligner.compareSequence(cleanedSequence,
         Number((<HTMLInputElement>document.getElementById('from')).value),
         Number((<HTMLInputElement>document.getElementById('to')).value));
     visualization.visualize(sourceSequence, stringAligner.targetSequence, stringAligner.targetTimestamps, matchIndices);
@@ -103,7 +106,7 @@ async function main() {
     const targetSequence = StringAligner.cleanWords(targetTranscription.words); // .slice(0, 50);
     // let sourceSequence = stringAligner.string2words(source).slice(0, 50);
 
-    stringAligner = new StringAligner(targetSequence, targetTranscription.timestamps, 1, 1, 1, 0.5, 4000);
+    stringAligner = new StringAligner(targetSequence, targetTranscription.timestamps, 1, 1, 1.5, 0.9, 4000);
 
     let source = await fetchText('res/test/' + name + '.edited.txt');
     if (source === null) {
@@ -112,7 +115,7 @@ async function main() {
         source = sourceTranscription.getText();
     }
     const textarea = <HTMLTextAreaElement>document.getElementById('text');
-    textarea.value = source;
+    textarea.value = '\n' + source;
 
     return Promise.resolve();
 }
