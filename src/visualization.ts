@@ -18,18 +18,18 @@ export class Visualization {
 
             const seqIndex = permutation[i];
             const el = document.createElement('td');
-            if (lastIndex !== seqIndex) {
+            //if (lastIndex !== seqIndex) {
                 let text = timestamps[seqIndex][0] + ' ';
                 for (let j = seqIndex; j < permutation[i + 1]; j++) {
                     text += ' ' + target[j];
                 }
                 // let text = timestamps[i][0] + ' ' + sequence[seqIndex];
-                el.innerHTML = text;
-            } else {
-                el.innerHTML = '...';
+                el.innerHTML = text || '...';
+            //} else {
+                //el.innerHTML = '...' + target[seqIndex];
                 // const lastChild = this.targetContainer.children[this.targetContainer.childElementCount - 1];
                 // this.targetContainer.insertBefore(el, lastChild);
-            }
+            //}
             lastIndex = seqIndex;
 
             row.appendChild(el);
