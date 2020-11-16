@@ -12,7 +12,6 @@ module.exports = merge(common, {
   mode: 'development',
   devtool: 'eval-source-map',
   entry: {
-    'synthetic_main': './synthetic_main.ts',
     'test_main': './test_main.ts',
   },
   plugins: [
