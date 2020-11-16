@@ -2,6 +2,21 @@ import { Alignment } from './alignment';
 import { Visualization } from './visualization';
 import { Transcription } from './transcription';
 
+const VERBOSITY = 0;
+
+function error(message: string) {
+    if (VERBOSITY < 1) return;
+    console.log(message);
+}
+function warning(message: string) {
+    if (VERBOSITY < 1) return;
+    console.log(message);
+}
+function info(message: string) {
+    if (VERBOSITY < 2) return;
+    console.log(message);
+}
+
 export class StringAligner {
     targetSequence: string[];
     targetTimestamps: number[][];
@@ -62,15 +77,16 @@ export class StringAligner {
     }
 
     wordInsertionPenalty = (insertedWord: string, matchingWord: string) => {
-        const penalty = this.insertionPenalty * insertedWord.length;
-        if (!matchingWord) {
-            // This is penalty for inserting words in the beginning (with no matching word)
-            return this.insertBetweenParagraphsPenalty * penalty;
+        const penalty = this.insertionPenalty;
+        if (matchingWord === null) {
+            // This is penalty for inserting words in the beginning
+            return penalty;
         }
         if (matchingWord.length > 0) {
             const lastLetter = matchingWord[matchingWord.length - 1];
             if (lastLetter === '\n') {
                 // it is cheaper to insert between paragraphs
+                // console.log(`${insertedWord}-${matchingWord}`);
                 return this.insertBetweenParagraphsPenalty * penalty;
             }
         }
@@ -78,18 +94,25 @@ export class StringAligner {
     }
 
     wordDeletionPenalty = (a: string) => {
-        return this.deletionPenalty * a.length;
+        return this.deletionPenalty;
     }
 
     prefixDistance = (a: string, b: string) => {
-        let i;
-        const limit = Math.min(a.length, b.length);
-        for (i = 0; i < limit; i++) {
-            if (a[i] !== b[i]) {
+        let prefixLength;
+        const shorterLength = Math.min(a.length, b.length);
+        const longerLength = Math.max(a.length, b.length);
+        if (longerLength === 0) return 0;
+        for (prefixLength = 0; prefixLength < shorterLength; prefixLength++) {
+            if (a[prefixLength] !== b[prefixLength]) {
                 break;
             }
         }
-        return this.substitutionPenalty * (a.length + b.length - limit - i);
+        // different words with similar length are closer than words with different lengths
+        // prefers aligning words to words rather than nonspeech
+        const difference = longerLength - prefixLength * 0.99 - shorterLength * 0.01;
+        const normalizedDistance =  difference / longerLength;
+        //console.log(`${a} ${b} ${normalizedDistance}`);
+        return this.substitutionPenalty * normalizedDistance;
     }
 
     static exactMatchDistance = (a: string, b: string) => {
@@ -108,10 +131,12 @@ export class StringAligner {
     }
 
     compareSequence(sourceSequence: string[], timeFrom: number, timeTo: number) {
-        // do not trim whitespace, because newlines are needed to align correctly around paragraphs.
-        const lowerCase = sourceSequence.map(x => x.toLowerCase());
-        const { distance, matchIndices } = this.aligner.match(['\n', ...lowerCase, '\n'], this.timeToIndex(timeFrom), this.timeToIndex(timeTo));
-        return matchIndices.slice(1, matchIndices.length - 1);
+        const { distance, matchIndices } = this.aligner.match(sourceSequence, this.timeToIndex(timeFrom), this.timeToIndex(timeTo));
+        info(sourceSequence.join('.'));
+        info(matchIndices.join('.'));
+        info(this.targetSequence.join('.'));
+        info(`${distance}`);
+        return matchIndices;
     }
 
     applyTimestamps(words: string[], matchIndices: any[]) {
@@ -129,6 +154,7 @@ export class StringAligner {
     static cleanWord(word: string) {
         let cleaned = word.toLowerCase().trim();
         cleaned = cleaned.replace(/[.,?]/g, '');
+        if (word.endsWith('\n')) cleaned += '\n'; // preserve newlines to handle correctly paragraph ends
         return cleaned;
     }
 
