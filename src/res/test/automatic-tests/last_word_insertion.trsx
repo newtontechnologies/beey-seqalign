@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<transcription version="3.0" TODO="mediauri" created="2019-04-12T17:22:34.114Z" documentid="TODOid">
+    <meta>
+        <LastEditorUserName>ewa.balejova@newtontech.cz</LastEditorUserName>
+    </meta>
+    <ch name="">
+        <se name="">
+            <pa s="1" b="PT0.5S" e="PT2M30.69S" scribeForceLabel="false">
+                <p b="PT4.13S" e="PT4.56S"> Daniela</p>
+                <p b="PT4.56S" e="PT5.28S"> Fránová</p>
+                <p b="PT5.28S" e="PT5.84S"> lékařka</p>
+                <p b="PT5.84S" e="PT6.33S"> oddělení</p>
+                <p b="PT6.33S" e="PT7.01S"> očkování</p>
+                <p b="PT7.01S" e="PT7.19S"> a</p>
+                <p b="PT7.19S" e="PT7.66S"> cestovní</p>
+                <p b="PT7.66S" e="PT8.18S"> medicíny</p>
+            </pa>
+        </se>
+    </ch>
+    <sp>
+        <s firstname="" surname="" id="1" role="" sex="x" lang="" nullspeaker="true"/>
+    </sp>
+</transcription>
