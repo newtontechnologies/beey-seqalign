@@ -9,3 +9,5 @@ npm-debug.log
 debug.log
 package-lock.json
 devdist
+logs*
+*.swp
