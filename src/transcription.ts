@@ -9,7 +9,7 @@ const DOMParser = require('xmldom').DOMParser;
 
 const TRSX_HEADER = '\
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>\n\
-<transcription version="3.0">\n\
+<transcription version="3.0" mediauri="">\n\
   <meta>\n\
   </meta>\n\
   <ch name="">\n\
@@ -56,12 +56,15 @@ export class Transcription {
     }
 
     loadPhraseXml(phrase: Element, ignoreNoise?: boolean) {
-        const text = phrase.textContent;
+        let text = phrase.textContent;
         const begin = dayjs.duration(phrase.getAttribute('b')).asSeconds();
         const end = dayjs.duration(phrase.getAttribute('e')).asSeconds();
-        if (ignoreNoise) {
-            if (text.substring(0, 4) === '[n::' || text.substring(0, 4) === '[h::') {
+
+        if (text.substring(0, 4) === '[n::' || text.substring(0, 4) === '[h::') {
+            if (ignoreNoise) {
                 return;
+            } else {
+                text = '';
             }
         }
         this.loadPhraseRaw(text, begin, end);
