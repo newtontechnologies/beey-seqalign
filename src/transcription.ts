@@ -40,19 +40,9 @@ export class Transcription {
 
     loadPhraseRaw(text: string, begin: number, end: number) {
         this.text += text;
-        const words = text.split(' ');
-        if (text.length === 0) {
-          this.words.push('');
-          this.timestamps.push([begin, end]);
-        }
-        else {
-            for (let i = 0; i < words.length; i += 1) {
-                if (words[i].length === 0) continue;
-                this.words.push(words[i]);
-                this.length += 1;
-                this.timestamps.push([begin, end]);
-            }
-        }
+        this.words.push(text);
+        this.length += 1;
+        this.timestamps.push([begin, end]);
     }
 
     loadPhraseXml(phrase: Element, ignoreNoise?: boolean) {
@@ -88,11 +78,11 @@ export class Transcription {
     exportTrsx() {
         const phrases: string[] = [];
         for (let i = 0; i < this.words.length; i += 1) {
-            let text = this.words[i] + ' ';
+            let text = this.words[i];
             const [ begin, end ] = this.timestamps[i];
             // merge words with the same timestamps
             for (let j = i + 1; j < this.timestamps.length && this.timestamps[j][0] === begin; j += 1) {
-                text += this.words[j] + ' ';
+                text += this.words[j];
                 i = j;
             }
             const isoBegin = dayjs.duration(begin, 'seconds').toISOString();

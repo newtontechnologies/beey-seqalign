@@ -4,6 +4,7 @@ import { Transcription } from './transcription';
 
 const VERBOSITY = 0;
 
+const VALID_PHRASE_ENDS = /[\u0020\u00a0\n]/;
 function error(message: string) {
     if (VERBOSITY < 1) return;
     console.log(message);
@@ -25,6 +26,9 @@ export class StringAligner {
     insertionPenalty: number;
     substitutionPenalty: number;
     insertBetweenParagraphsPenalty: number;
+    currentWord: string;
+    currentWordBegin: number;
+
     constructor(targetSequence: string[], targetTimestamps: number[][], insertionPenalty: number,
                 deletionPenalty: number, substitutionPenalty: number, insertBetweenParagraphsPenalty: number,
                 chunkSize: number) {
@@ -41,6 +45,8 @@ export class StringAligner {
         this.substitutionPenalty = substitutionPenalty;
         this.insertionPenalty = insertionPenalty;
         this.insertBetweenParagraphsPenalty = insertBetweenParagraphsPenalty;
+        this.currentWord = '';
+        this.currentWordBegin = null;
     }
 
     static string2array(str: string) {
@@ -111,7 +117,6 @@ export class StringAligner {
         // prefers aligning words to words rather than nonspeech
         const difference = longerLength - prefixLength * 0.99 - shorterLength * 0.01;
         const normalizedDistance =  difference / longerLength;
-        //console.log(`${a} ${b} ${normalizedDistance}`);
         return this.substitutionPenalty * normalizedDistance;
     }
 
@@ -158,9 +163,42 @@ export class StringAligner {
         return cleaned;
     }
 
+    extendCurrentWord(word: string, begin: number) {
+        this.currentWord = this.currentWord + word;
+        this.currentWordBegin = this.currentWordBegin !== null ? this.currentWordBegin : begin;
+    }
+
+    cleanCurrentWord() {
+        this.currentWord = '';
+        this.currentWordBegin = null;
+    }
+
+    isWordEnd(word: string) {
+        if (word.length === 0) return true;
+        if (word.startsWith('[n::')) return true;
+        if (word.startsWith('[h::')) return true;
+        const isLastLetterPhraseEnd = VALID_PHRASE_ENDS.test(word.slice(-1));
+        return isLastLetterPhraseEnd;
+    }
+
+    splitWords(text: string) {
+        const words = text.split(VALID_PHRASE_ENDS).filter(word => word.length > 0);
+        return words;
+    }
+
     addNewWord(word: string, begin: number, end: number) {
-        this.aligner.push(StringAligner.cleanWord(word));
-        this.targetTimestamps.push([begin, end]);
+        this.extendCurrentWord(word, begin); // join phrases that form a single word (e. g. "43")
+        if (this.isWordEnd(word)) {
+            const words = this.splitWords(this.currentWord); // split a phrase consisting of multiple words
+            for (let i = 0; i < words.length; i += 1) {
+              // the individual words are added each separately, but they have the same timestamps
+              // maybe it would be better to split it to individual timestamps?
+              const word = words[i];
+              this.aligner.push(StringAligner.cleanWord(word));
+              this.targetTimestamps.push([this.currentWordBegin, end]);
+            }
+            this.cleanCurrentWord();
+        }
     }
 }
 

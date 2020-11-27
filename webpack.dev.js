@@ -13,6 +13,7 @@ module.exports = merge(common, {
   devtool: 'eval-source-map',
   entry: {
     'test_main': './test_main.ts',
+    'automatic_tests': './automatic_tests.ts',
   },
   plugins: [
     new CopyPlugin([
