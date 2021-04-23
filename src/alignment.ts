@@ -182,7 +182,7 @@ export class Alignment {
     // Fill in the rest of the matrix
     for (let i = 1; i <= b.length; i++) {
       for (let j = 1; j <= aslice.length; j++) {
-        const wordDistance = this.distance(b[i - 1], aslice[j - 1]);
+        const wordDistance = this.distance(aslice[j - 1], b[i - 1]);
         var substitution = matrix[i - 1][j - 1] + wordDistance;
         var insertion = matrix[i][j - 1] + this.insertionPenalty(aslice[j - 1], b[i - 1]);
         var deletion = matrix[i - 1][j] + this.deletionPenalty(b[i - 1]);

@@ -82,6 +82,10 @@ export class StringAligner {
         return distorted;
     }
 
+    /*
+    insertedWord is the word from automatic transcription that is being inserted
+    into the user text rigth after the matchingWord.
+    */
     wordInsertionPenalty = (insertedWord: string, matchingWord: string) => {
         const penalty = this.insertionPenalty;
         if (matchingWord === null) {
@@ -104,6 +108,10 @@ export class StringAligner {
     }
 
     prefixDistance = (a: string, b: string) => {
+        // words starting with '#' are filler words. They should not be matched
+        if (b.startsWith('#')) {
+            return 1000;
+        }
         let prefixLength;
         const shorterLength = Math.min(a.length, b.length);
         const longerLength = Math.max(a.length, b.length);
