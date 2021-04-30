@@ -154,9 +154,6 @@ export class StringAligner {
     }
 
     compareSequence(sourceSequence: string[], timeFrom: number, timeTo: number) {
-        for (let i = 0.04; i < 10; i += 0.1) {
-            console.log(i, this.indexBeforeTime(i), this.indexAfterTime(i))
-        }
         const indexFrom = this.indexAfterTime(timeFrom);
         const indexTo = this.indexBeforeTime(timeTo);
         const { distance, matchIndices } = this.aligner.match(sourceSequence, indexFrom, indexTo + 1);
