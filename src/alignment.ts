@@ -144,6 +144,7 @@ export class Alignment {
 
   // b is the source. Find the optimal operations to match it with target a.
   match(b: string[], from: number, to: number): {distance: number, matchIndices: number[]} {
+    if (to < from) to = from;
     if (to - from > this.chunkSize && b.length > this.chunkSize) {
         // divide and conquer.
         const [ sourcePivot, targetPivot ] = this.getPivots(b, from, to);

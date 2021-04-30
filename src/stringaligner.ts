@@ -132,7 +132,7 @@ export class StringAligner {
         return a === b ? 1 : 0;
     }
 
-    timeToIndex(time: number) {
+    indexAfterTime(time: number) {
         const index =  this.targetTimestamps.findIndex((t) => {
             return t[0] >= time;
         });
@@ -142,9 +142,24 @@ export class StringAligner {
             return index;
         }
     }
+    indexBeforeTime(time: number) {
+        const index =  this.targetTimestamps.findIndex((t) => {
+            return t[1] > time;
+        });
+        if (index === -1) {
+            return this.targetTimestamps.length;
+        } else {
+            return index - 1;
+        }
+    }
 
     compareSequence(sourceSequence: string[], timeFrom: number, timeTo: number) {
-        const { distance, matchIndices } = this.aligner.match(sourceSequence, this.timeToIndex(timeFrom), this.timeToIndex(timeTo));
+        for (let i = 0.04; i < 10; i += 0.1) {
+            console.log(i, this.indexBeforeTime(i), this.indexAfterTime(i))
+        }
+        const indexFrom = this.indexAfterTime(timeFrom);
+        const indexTo = this.indexBeforeTime(timeTo);
+        const { distance, matchIndices } = this.aligner.match(sourceSequence, indexFrom, indexTo + 1);
         info(sourceSequence.join('.'));
         info(matchIndices.join('.'));
         info(this.targetSequence.join('.'));
