@@ -18,7 +18,7 @@ export declare class StringAligner {
     wordInsertionPenalty: (insertedWord: string, matchingWord: string) => number;
     wordDeletionPenalty: (a: string) => number;
     prefixDistance: (a: string, b: string) => number;
-    static exactMatchDistance: (a: string, b: string) => 0 | 1;
+    static exactMatchDistance: (a: string, b: string) => 1 | 0;
     indexAfterTime(time: number): number;
     indexBeforeTime(time: number): number;
     compareSequence(sourceSequence: string[], timeFrom: number, timeTo: number): number[];
